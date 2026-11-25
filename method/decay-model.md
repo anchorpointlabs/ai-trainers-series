@@ -118,7 +118,7 @@ Sixty durable entries is a library. Two hundred living entries is a subscription
 
 Event entries carry their date in the header line, because the date is part of the fact. Everything else is a stable number that never gets reused.
 
-The old Volume 1 IDs (TOK-01, COT-01, PRM-01 and the rest) are all durable-tier entries and keep their numbers. The index now shows the tier in a column rather than implying it.
+The old Volume 1 IDs ([Tokens and tokenisation](../concepts/durable/tokens-and-tokenisation.md), [Chain-of-Thought (and when it makes things worse)](../concepts/durable/chain-of-thought.md), [Anatomy of a prompt](../concepts/durable/anatomy-of-a-prompt.md) and the rest) are all durable-tier entries and keep their numbers. The index now shows the tier in a column rather than implying it.
 
 ---
 

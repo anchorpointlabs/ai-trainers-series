@@ -1,5 +1,7 @@
 # APL: AI Trainer's Series
 
+**[Browse the full index →](INDEX.md)**
+
 A reference library for AI trainers — one entry per skill from the IMDA / SkillsFuture
 *Skills Framework for ICT: Skills in Generative AI* (the nine GenAI TSCs).
 

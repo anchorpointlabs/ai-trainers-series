@@ -1,0 +1,53 @@
+# Prompt construction techniques and settings
+
+> **TSC #2 Prompt Design · Basic · Knowledge K5**
+
+**Bullet (verbatim):** Techniques in prompt construction (e.g., zero shot prompting, one shot prompting, domain-based prompting techniques, instruction prompting, hyper-parameters such as temperature and sampling parameter).
+
+**What it means:** A prompt is the text you give an artificial intelligence (AI) tool to request a task. Zero-shot prompting supplies no worked example of the task; one-shot prompting supplies exactly one example of an input and its desired output. Instruction prompting gives a direct task, while domain-based prompting adds information or rules from a particular field, such as a library's availability rules. Sampling settings affect how the AI chooses pieces of its reply; temperature affects randomness and top-p limits which likely pieces are considered, where these settings are supported.
+
+**The learner must be able to:**
+- Distinguish zero-shot from one-shot prompting by counting worked examples.
+- Identify a direct instruction and a field-specific rule in a prompt.
+- Explain temperature and top-p as settings outside the prompt, and state that their availability varies.
+- Check an AI response against the supplied rules and requested format.
+
+**How to teach it in 20 minutes:**
+1. Ask: “How might an AI label library books differently if we show it one worked example rather than none?” Take predictions without assuming either approach will be better. (3 min)
+2. Use the exercise to show one-shot prompting (one input and output), instruction prompting (the direct request to label books) and domain-based prompting (the fictional library rule). Explain that removing the worked example would make the same request zero-shot; use this when no example is needed, or one-shot when a pattern is worth showing. A generation setting, sometimes called a hyper-parameter, is set outside the prompt through tool controls or an application's API, the way software sends requests. Where supported, a lower temperature generally makes selection less random and a higher one more random; top-p limits the eligible next text pieces using their combined likelihood. Not every model or interface exposes or honours these settings, and neither guarantees a correct answer. (7 min)
+3. In pairs, identify the instruction, library rule and single example below. Predict the three labels, paste the prompt into a new chat, then compare the response with the rule and format. (8 min)
+4. Debrief any mismatch: which label or line broke the supplied rule or format? Ask which part of the prompt is the example and why typing a temperature into it would not change a tool setting. (2 min)
+
+**Exercise (with the exact prompt):**
+Setup: Pairs use a chat AI in a new chat; no files or sampling-setting changes are needed; all library data are invented.
+
+```text
+You are helping a fictional library label book availability.
+
+Use this library rule: if there are no copies available, label the book WAIT; if there is at least one copy available, label it READY.
+
+Example:
+Input: Atlas — 0 copies available
+Output: Atlas: WAIT
+
+Now label each book below. Reply in the same order, with one line per book in the format "Book: LABEL". Give no explanation.
+
+Birch — 3 copies available
+Cedar — 0 copies available
+Dune — 1 copy available
+```
+
+*Expected result:* Three lines in order: `Birch: READY`, `Cedar: WAIT`, and `Dune: READY`.  
+*What to check:* Compare every label with its copy count; check the order and that there are no extra lines. Outputs can vary.
+
+**Common mistakes:**
+- Treating one-shot as one attempt — it means one worked example in the prompt.
+- Assuming the AI knows the field's local rules — supply the relevant rules and check the response against them.
+- Typing “temperature” or “top-p” in the prompt to change a setting — use the tool's separate setting when available, or proceed without it.
+
+**Sources:**
+- https://docs.cloud.google.com/gemini-enterprise-agent-platform/resources/glossary — accessed 2026-11-15; defines one-shot and zero-shot prompts.
+- https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/prompts/few-shot-examples — accessed 2026-11-15; explains worked examples and their use in showing a response pattern.
+- https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/prompts/prompt-design-strategies — accessed 2026-11-15; describes direct instructions, context and requested output formats.
+- https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/prompts/contextual-information — accessed 2026-11-15; explains supplying task-specific background and rules.
+- https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/capabilities/content-generation-parameters — accessed 2026-11-15; explains sampling, temperature and top-p as request settings, and notes that support differs between models.
