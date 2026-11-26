@@ -10,9 +10,9 @@ Codex is aimed at work on an actual codebase: understanding files, modifying cod
 
 ## Current line-up (November 2026)
 
-**I cannot verify a November 2026 Codex model or interface line-up from this conversation.** “Codex” can refer to the product and its development workflows; it should not be used as if it identified one permanent underlying model. OpenAI’s **May 2025** launch described a coding agent that could work on tasks in an isolated environment. That is a dated baseline, **not** a claim that its launch model, limits, or interface remain current.
+**This page does not carry a verified November 2026 Codex model or interface line-up.** “Codex” can refer to the product and its development workflows; it should not be used as if it identified one permanent underlying model. OpenAI’s **May 2025** launch described a coding agent that could work on tasks in an isolated environment. That is a dated baseline, **not** a claim that its launch model, limits, or interface remain current.
 
-The names **GPT-6 Astra, Sol, Luna, 6.1 Sol, 6.1 Terra, and Cyber** cannot responsibly be assigned to Codex roles, tiers, or release dates without current OpenAI documentation. My runtime being described as based on GPT-6 Sol does not tell a trainer what model a learner’s Codex session uses. Record the actual product version, interface, model information *where exposed*, and account entitlements during class preparation.
+The names **GPT-6 Astra, Sol, Luna, 6.1 Sol, 6.1 Terra, and Cyber** cannot responsibly be assigned to Codex roles, tiers, or release dates without current OpenAI documentation. A model label such as GPT-6 Sol, even if accurate, does not tell a trainer what model a learner’s Codex session uses. Record the actual product version, interface, model information *where exposed*, and account entitlements during class preparation.
 
 ## What it's best at / not best at
 

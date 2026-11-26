@@ -10,7 +10,7 @@ ChatGPT is the application people use to converse with OpenAI models and, depend
 
 ## Current line-up (November 2026)
 
-**A verified November 2026 public line-up is not available to me here.** This conversation identifies my runtime as based on **GPT-6 Sol**; that does not establish which models appear in ChatGPT’s model picker or which plans include them. In particular, I cannot substantiate the public availability, capabilities, or release dates of **GPT-6 Astra, Luna, 6.1 Sol, 6.1 Terra, or Cyber**. Do not put them on a learner handout as a confirmed line-up.
+**This page does not carry a verified November 2026 public line-up.** The names **GPT-6 Sol, Astra, Luna, 6.1 Sol, 6.1 Terra and Cyber** have not been checked against OpenAI's own documentation, so their public availability, capabilities, release dates, and which plans include them are unconfirmed. Do not put them on a learner handout as a confirmed line-up.
 
 The durable distinction is between the **ChatGPT product**, its **subscription plans**, and the **models and tools available inside a particular account**. Historically documented plans include Free, Plus, and Pro; organisational offerings have also existed. Their November 2026 names, entitlements, model limits, and regional availability require a live account-and-pricing check. A trainer should capture a dated screenshot of the actual model picker before teaching a model-selection exercise.
 
