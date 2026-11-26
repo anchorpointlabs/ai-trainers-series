@@ -19,41 +19,45 @@ Examples:
 
 - `TSC-01-B-GenAI-Principles/`
 - `TSC-02-B-Prompt-Design/`
+- `TSC-03-B-Prompt-Engineering/` (Basic)
+- `TSC-03-I-Prompt-Engineering/` (Intermediate)
+- `TSC-03-A-Prompt-Engineering/` (Advanced)
 
 ## Multi-level TSCs
 
-When a TSC spans more than one proficiency level, group them under the TSC number in the
-index:
+One folder per proficiency level. A TSC that spans Basic/Intermediate/Advanced gets three
+folders, all sharing the same topic slug:
 
 ```
-[03] New GenAI TSC #3 - Prompt Engineering      (the group — shown in the index, not a folder)
-TSC-03-B-Crafting/                              (Basic)
-TSC-03-I-Engineering/                           (Intermediate)
-TSC-03-A-Optimising/                            (Advanced)
+TSC-03-B-Prompt-Engineering/
+TSC-03-I-Prompt-Engineering/
+TSC-03-A-Prompt-Engineering/
 ```
 
-The `[NN.MM]` ordinal is an index/YAML display only — never a folder-name prefix.
+The `[NN.MM]` ordinal (e.g. `[03.02]` = Intermediate) is an index/YAML display only — never
+a folder-name prefix.
 
-## Products (living)
+## Tools (living)
 
-Below the TSCs, one folder per product, named `Company-Product`:
+Product deep-dives live under `Tools/`, organised by company then tool:
 
-- `Anthropic-Claude/`
-- `Google-DeepMind-Gemini/`
-- `OpenAI-ChatGPT/`
-- `Microsoft-Copilot/`
-- `Microsoft-Muse/`
-- `xAI-Grok/`
-- `Google-NotebookLM/`
-- `Meta-AI/`
+```
+Tools/<Company>/<Tool>.md
+```
+
+Examples:
+
+- `Tools/OpenAI/ChatGPT.md`
+- `Tools/OpenAI/Codex.md`
+- `Tools/Anthropic/Claude.md`
+- `Tools/Microsoft/Copilot.md`
 
 These are **living** docs — versions, features and pricing rot within weeks to a quarter,
-so each folder is refreshed, never treated as durable knowledge. When the company and the
-product share a name, use the single name (`DeepSeek/`, `Perplexity/`).
+so each file is refreshed, never treated as durable knowledge.
 
 ## Entry IDs
 
-Every entry carries a stable ID in its YAML frontmatter and in the index:
+Every TSC entry carries a stable ID in its YAML frontmatter and in the index:
 
 ```
 NN.MM.L.code

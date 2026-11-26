@@ -33,22 +33,48 @@ Each entry carries a stable ID (`NN.MM.L.code`) in its YAML frontmatter and here
 | A7 | `02.01.B.A7` | [Identify prompt misuses and risks](TSC-02-B-Prompt-Design/identify-prompt-misuses-and-risks.md) |
 | A8 | `02.01.B.A8` | [Compare designs and outputs](TSC-02-B-Prompt-Design/compare-designs-and-outputs.md) |
 
-## Products · living
+## TSC #3 Prompt Engineering (Basic · Intermediate · Advanced)
 
-Deep dives per product, organised by company. Fast-rotting: versions, features, pricing.
+*Planned.* `TSC-03-B-Prompt-Engineering/` · `TSC-03-I-Prompt-Engineering/` · `TSC-03-A-Prompt-Engineering/`
 
-| Folder | Product |
+## TSC #4 Generative AI Model Selection (Intermediate)
+
+*Planned.* `TSC-04-I-Model-Selection/`
+
+## TSC #5 Generative AI Model Evaluation (Intermediate)
+
+*Planned.* `TSC-05-I-Model-Evaluation/`
+
+## TSC #6 Generative AI Application Development and Deployment (Intermediate)
+
+*Planned.* `TSC-06-I-Application-Development/`
+
+## TSC #7 Generative AI Model Development and Fine Tuning (Advanced)
+
+*Planned.* `TSC-07-A-Model-Development/`
+
+## TSC #8 Responsible AI and Generative AI Practices (Basic)
+
+*Planned.* `TSC-08-B-Responsible-AI/`
+
+## TSC #9 Generative AI Models — Technical Aspects of Security and Ethics (Advanced)
+
+*Planned.* `TSC-09-A-Security-Ethics/`
+
+## Tools · living
+
+Product deep-dives, organised as `Tools/<Company>/<Tool>.md`. Fast-rotting: versions, features, pricing.
+
+| Company | Tools |
 |---|---|
-| [Anthropic-Claude](Anthropic-Claude/README.md) | Claude |
-| [Google-DeepMind-Gemini](Google-DeepMind-Gemini/README.md) | Gemini |
-| [OpenAI-ChatGPT](OpenAI-ChatGPT/README.md) | ChatGPT |
-| [Microsoft-Copilot](Microsoft-Copilot/README.md) | Copilot |
-| [Microsoft-Muse](Microsoft-Muse/README.md) | Muse |
-| [xAI-Grok](xAI-Grok/README.md) | Grok |
-| [Google-NotebookLM](Google-NotebookLM/README.md) | NotebookLM |
-| [Meta-AI](Meta-AI/README.md) | Meta AI |
-| [DeepSeek](DeepSeek/README.md) | DeepSeek |
-| [Perplexity](Perplexity/README.md) | Perplexity |
+| OpenAI | [ChatGPT](Tools/OpenAI/ChatGPT.md) · [Codex](Tools/OpenAI/Codex.md) |
+| Anthropic | [Claude](Tools/Anthropic/Claude.md) |
+| Google | [Gemini](Tools/Google/Gemini.md) · [NotebookLM](Tools/Google/NotebookLM.md) |
+| Microsoft | [Copilot](Tools/Microsoft/Copilot.md) · [Muse](Tools/Microsoft/Muse.md) |
+| xAI | [Grok](Tools/xAI/Grok.md) |
+| Meta | [Meta AI](Tools/Meta/Meta-AI.md) |
+| DeepSeek | [DeepSeek](Tools/DeepSeek/DeepSeek.md) |
+| Perplexity | [Perplexity](Tools/Perplexity/Perplexity.md) |
 
 ## Concepts · durable
 
