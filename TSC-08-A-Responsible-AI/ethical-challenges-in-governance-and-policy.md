@@ -4,6 +4,8 @@ tsc: 8
 level: Advanced
 code: K3
 title: Ethical challenges in governance and policy
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Ethical challenges in governance and policy

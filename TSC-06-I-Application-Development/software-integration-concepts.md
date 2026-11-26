@@ -4,6 +4,8 @@ tsc: 6
 level: Intermediate
 code: K1
 title: Software integration: making two systems behave like one
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Software integration: making two systems behave like one

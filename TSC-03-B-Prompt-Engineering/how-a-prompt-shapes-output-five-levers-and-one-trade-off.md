@@ -4,6 +4,8 @@ tsc: 3
 level: Basic
 code: K2
 title: How a prompt shapes output: five levers and one trade-off
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # How a prompt shapes output: five levers and one trade-off

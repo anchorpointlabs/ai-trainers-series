@@ -4,6 +4,8 @@ tsc: 6
 level: Basic
 code: K3
 title: "How an AI application fails: the error messages and what sits behind them"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # How an AI application fails: the error messages and what sits behind them

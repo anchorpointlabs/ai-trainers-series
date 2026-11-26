@@ -4,6 +4,8 @@ tsc: 6
 level: Basic
 code: K5
 title: "Troubleshooting by procedure: read the error, find the doc, change one thing"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Troubleshooting by procedure: read the error, find the doc, change one thing

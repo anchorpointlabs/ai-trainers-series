@@ -4,6 +4,8 @@ tsc: 9
 level: Intermediate
 code: A6
 title: Monitor AI systems through the lifecycle
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Monitor AI systems through the lifecycle

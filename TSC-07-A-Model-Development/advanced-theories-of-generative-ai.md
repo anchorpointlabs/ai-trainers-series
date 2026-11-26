@@ -4,6 +4,8 @@ tsc: 7
 level: Advanced
 code: K1
 title: Advanced theory of generative AI: four ideas that do the real work
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Advanced theory of generative AI: four ideas that do the real work

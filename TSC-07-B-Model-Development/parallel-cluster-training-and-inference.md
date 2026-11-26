@@ -4,6 +4,8 @@ tsc: 7
 level: Basic
 code: K10
 title: "Parallel training and inference: why one GPU is never enough"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Parallel training and inference: why one GPU is never enough

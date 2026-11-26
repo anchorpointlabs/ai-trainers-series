@@ -4,6 +4,8 @@ tsc: 9
 level: Advanced
 code: K2
 title: SOPs in operational content moderation
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # SOPs in operational content moderation

@@ -4,6 +4,8 @@ tsc: 9
 level: Advanced
 code: A2
 title: Refine and enhance AI guardrails
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Refine and enhance AI guardrails

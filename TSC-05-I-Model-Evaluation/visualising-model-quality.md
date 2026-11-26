@@ -4,6 +4,8 @@ tsc: 5
 level: Intermediate
 code: K3
 title: "Visualising model quality: the charts that show what an average hides"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Visualising model quality: the charts that show what an average hides

@@ -4,6 +4,8 @@ tsc: 7
 level: Intermediate
 code: K7
 title: Bias and fairness: where it enters a generative model and what reduces it
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Bias and fairness: where it enters a generative model and what reduces it

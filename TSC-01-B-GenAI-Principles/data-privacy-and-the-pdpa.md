@@ -4,6 +4,8 @@ tsc: 1
 level: Basic
 code: K8
 title: Data privacy and the PDPA
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Data privacy and the PDPA

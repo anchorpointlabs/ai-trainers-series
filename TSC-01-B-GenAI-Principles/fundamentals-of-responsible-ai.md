@@ -4,6 +4,8 @@ tsc: 1
 level: Basic
 code: K7
 title: Fundamentals of responsible AI
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Fundamentals of responsible AI

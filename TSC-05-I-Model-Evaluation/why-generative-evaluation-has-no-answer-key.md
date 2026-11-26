@@ -4,6 +4,8 @@ tsc: 5
 level: Intermediate
 code: K1
 title: Why generative evaluation has no answer key, and what replaces it
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Why generative evaluation has no answer key, and what replaces it

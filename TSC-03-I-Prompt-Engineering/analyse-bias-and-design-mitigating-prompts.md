@@ -4,6 +4,8 @@ tsc: 3
 level: Intermediate
 code: A7
 title: Analyse bias and design mitigating prompts
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Analyse bias and design mitigating prompts

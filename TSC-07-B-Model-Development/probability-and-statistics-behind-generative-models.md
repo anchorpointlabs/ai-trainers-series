@@ -4,6 +4,8 @@ tsc: 7
 level: Basic
 code: K3
 title: "Probability and statistics: why a generative model is a sampling machine"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Probability and statistics: why a generative model is a sampling machine

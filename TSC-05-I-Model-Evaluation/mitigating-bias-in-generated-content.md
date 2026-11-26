@@ -4,6 +4,8 @@ tsc: 5
 level: Intermediate
 code: A4
 title: "Mitigating bias in generated content: what evaluation catches and what it cannot"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Mitigating bias in generated content: what evaluation catches and what it cannot

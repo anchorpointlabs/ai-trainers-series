@@ -4,6 +4,8 @@ tsc: 5
 level: Advanced
 code: A7
 title: "Advocacy that holds up: making responsible evaluation the default"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Advocacy that holds up: making responsible evaluation the default

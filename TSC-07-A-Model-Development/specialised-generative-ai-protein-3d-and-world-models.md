@@ -4,6 +4,8 @@ tsc: 7
 level: Advanced
 code: K5
 title: Generative models beyond text: proteins, 3D scenes and world models
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Generative models beyond text: proteins, 3D scenes and world models

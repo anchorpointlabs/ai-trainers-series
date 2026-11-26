@@ -4,6 +4,8 @@ tsc: 5
 level: Advanced
 code: A1
 title: "Running it at scale: studies that survive a review board"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Running it at scale: studies that survive a review board

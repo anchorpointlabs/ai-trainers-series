@@ -4,6 +4,8 @@ tsc: 1
 level: Basic
 code: K3
 title: What exists in November 2026, and what machine learning has to do with it
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # What exists in November 2026, and what machine learning has to do with it

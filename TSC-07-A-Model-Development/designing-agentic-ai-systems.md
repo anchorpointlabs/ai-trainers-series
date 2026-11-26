@@ -4,6 +4,8 @@ tsc: 7
 level: Advanced
 code: A5
 title: Designing agentic systems: loop, tools, memory and the leash
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Designing agentic systems: loop, tools, memory and the leash

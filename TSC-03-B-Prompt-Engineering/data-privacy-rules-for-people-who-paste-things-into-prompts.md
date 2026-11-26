@@ -4,6 +4,8 @@ tsc: 3
 level: Basic
 code: K6
 title: Data privacy rules for people who paste things into prompts
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Data privacy rules for people who paste things into prompts

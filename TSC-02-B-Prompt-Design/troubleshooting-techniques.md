@@ -4,6 +4,8 @@ tsc: 2
 level: Basic
 code: K1
 title: Troubleshooting techniques
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Troubleshooting techniques

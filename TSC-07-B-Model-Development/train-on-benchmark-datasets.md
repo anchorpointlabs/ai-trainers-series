@@ -4,6 +4,8 @@ tsc: 7
 level: Basic
 code: A4
 title: "Training on a benchmark dataset: the first honest run"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Training on a benchmark dataset: the first honest run

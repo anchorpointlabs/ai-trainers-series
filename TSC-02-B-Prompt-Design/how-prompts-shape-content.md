@@ -4,6 +4,8 @@ tsc: 2
 level: Basic
 code: K2
 title: How prompts shape content
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # How prompts shape content

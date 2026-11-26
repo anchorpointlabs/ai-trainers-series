@@ -4,6 +4,8 @@ tsc: 5
 level: Advanced
 code: K2
 title: "Explainable AI: reading a model's reasons without believing them"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Explainable AI: reading a model's reasons without believing them

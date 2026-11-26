@@ -4,6 +4,8 @@ tsc: 5
 level: Basic
 code: K5
 title: Human perception and judgment: the evaluator is the weakest instrument
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Human perception and judgment: the evaluator is the weakest instrument

@@ -4,6 +4,8 @@ tsc: 6
 level: Intermediate
 code: K3
 title: Five ways to serve a model from the cloud, and how to choose
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Five ways to serve a model from the cloud, and how to choose

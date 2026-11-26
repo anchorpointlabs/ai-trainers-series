@@ -4,6 +4,8 @@ tsc: 5
 level: Basic
 code: K2
 title: The four fundamental evaluation criteria: accuracy, diversity, coherence, novelty
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # The four fundamental evaluation criteria: accuracy, diversity, coherence, novelty

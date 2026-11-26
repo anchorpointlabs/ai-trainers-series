@@ -4,6 +4,8 @@ tsc: 8
 level: Basic
 code: A3
 title: Compare AI systems on compliance, IP, privacy, environment
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Compare AI systems on compliance, IP, privacy, environment

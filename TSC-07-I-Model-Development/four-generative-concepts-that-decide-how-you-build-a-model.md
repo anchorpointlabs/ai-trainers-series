@@ -4,6 +4,8 @@ tsc: 7
 level: Intermediate
 code: K1
 title: Four generative concepts that decide how you build a model
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Four generative concepts that decide how you build a model

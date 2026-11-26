@@ -4,6 +4,8 @@ tsc: 9
 level: Basic
 code: A1
 title: Identify basic security vulnerabilities
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Identify basic security vulnerabilities

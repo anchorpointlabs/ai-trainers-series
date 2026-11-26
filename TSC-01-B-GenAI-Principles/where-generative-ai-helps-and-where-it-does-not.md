@@ -4,6 +4,8 @@ tsc: 1
 level: Basic
 code: K4
 title: Where generative AI helps and where it does not
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Where generative AI helps and where it does not

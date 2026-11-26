@@ -4,6 +4,8 @@ tsc: 9
 level: Basic
 code: K4
 title: Trust and safety after go-live
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Trust and safety after go-live

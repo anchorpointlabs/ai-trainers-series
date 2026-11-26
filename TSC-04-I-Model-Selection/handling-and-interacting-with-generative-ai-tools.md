@@ -4,6 +4,8 @@ tsc: 4
 level: Intermediate
 code: K4
 title: Handling and interacting with generative AI tools
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Handling and interacting with generative AI tools

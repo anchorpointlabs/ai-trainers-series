@@ -4,6 +4,8 @@ tsc: 2
 level: Basic
 code: A6
 title: Identify effective prompt practices
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Identify effective prompt practices

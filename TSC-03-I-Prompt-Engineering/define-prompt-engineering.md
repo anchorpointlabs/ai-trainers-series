@@ -4,6 +4,8 @@ tsc: 3
 level: Intermediate
 code: A1
 title: Define prompt engineering
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Define prompt engineering

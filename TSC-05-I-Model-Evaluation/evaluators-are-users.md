@@ -4,6 +4,8 @@ tsc: 5
 level: Intermediate
 code: K7
 title: "Evaluators are users: interface design for fair human judgement"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Evaluators are users: interface design for fair human judgement

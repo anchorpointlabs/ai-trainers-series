@@ -4,6 +4,8 @@ tsc: 3
 level: Advanced
 code: K3
 title: Prompt optimisation and sequencing of instructions
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Prompt optimisation and sequencing of instructions

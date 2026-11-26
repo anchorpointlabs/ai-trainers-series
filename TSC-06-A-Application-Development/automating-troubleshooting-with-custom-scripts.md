@@ -4,6 +4,8 @@ tsc: 6
 level: Advanced
 code: A6
 title: "Automating troubleshooting with your own scripts and tools"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Automating troubleshooting with your own scripts and tools

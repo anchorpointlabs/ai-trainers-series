@@ -4,6 +4,8 @@ tsc: 1
 level: Basic
 code: A4
 title: Masking, perturbation, pseudonymisation: three tools, three limits
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Masking, perturbation, pseudonymisation: three tools, three limits

@@ -4,6 +4,8 @@ tsc: 8
 level: Intermediate
 code: A5
 title: Analyse ethical implications of AI algorithms
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Analyse ethical implications of AI algorithms

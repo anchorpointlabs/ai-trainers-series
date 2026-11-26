@@ -4,6 +4,8 @@ tsc: 6
 level: Basic
 code: K4
 title: "The developer stack: which tool earns its place at each layer"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # The developer stack: which tool earns its place at each layer

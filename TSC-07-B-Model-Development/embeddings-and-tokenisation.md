@@ -4,6 +4,8 @@ tsc: 7
 level: Basic
 code: K5
 title: "Embeddings and tokenisation: how text becomes numbers a model can learn from"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Embeddings and tokenisation: how text becomes numbers a model can learn from

@@ -4,6 +4,8 @@ tsc: 7
 level: Intermediate
 code: K6
 title: Explainability for generative models: what you can actually show
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Explainability for generative models: what you can actually show

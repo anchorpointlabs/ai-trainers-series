@@ -4,6 +4,8 @@ tsc: 5
 level: Basic
 code: K3
 title: Qualitative evaluation and user feedback: judging what numbers can't
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Qualitative evaluation and user feedback: judging what numbers can't

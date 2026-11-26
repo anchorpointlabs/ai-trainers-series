@@ -4,6 +4,8 @@ tsc: 3
 level: Basic
 code: A6
 title: The troubleshooting procedure that produces evidence, not guesses
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # The troubleshooting procedure that produces evidence, not guesses

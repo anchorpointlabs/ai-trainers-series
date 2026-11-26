@@ -4,6 +4,8 @@ tsc: 7
 level: Advanced
 code: K3
 title: Hardware libraries: what CUDA and Neuron actually buy you
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Hardware libraries: what CUDA and Neuron actually buy you

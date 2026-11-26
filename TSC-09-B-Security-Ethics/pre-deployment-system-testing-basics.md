@@ -4,6 +4,8 @@ tsc: 9
 level: Basic
 code: K2
 title: Pre-deployment system testing basics
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Pre-deployment system testing basics

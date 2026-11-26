@@ -4,6 +4,8 @@ tsc: 7
 level: Intermediate
 code: A3
 title: Benchmarking honestly: comparing your model with the state of the art
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Benchmarking honestly: comparing your model with the state of the art

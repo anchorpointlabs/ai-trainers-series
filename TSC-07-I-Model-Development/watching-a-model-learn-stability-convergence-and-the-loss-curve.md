@@ -4,6 +4,8 @@ tsc: 7
 level: Intermediate
 code: A2
 title: Watching a model learn: stability, convergence and the loss curve
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Watching a model learn: stability, convergence and the loss curve

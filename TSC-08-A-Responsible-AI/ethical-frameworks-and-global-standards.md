@@ -4,6 +4,8 @@ tsc: 8
 level: Advanced
 code: K1
 title: Ethical frameworks and global standards
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Ethical frameworks and global standards

@@ -4,6 +4,8 @@ tsc: 3
 level: Basic
 code: A5
 title: Recognising an AI problem: name what you see, not what you think
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Recognising an AI problem: name what you see, not what you think

@@ -4,6 +4,8 @@ tsc: 4
 level: Intermediate
 code: K2
 title: Generating content with models and prompt engineering
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Generating content with models and prompt engineering

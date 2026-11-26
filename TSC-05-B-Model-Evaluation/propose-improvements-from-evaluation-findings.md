@@ -4,6 +4,8 @@ tsc: 5
 level: Basic
 code: A3
 title: Propose improvements from evaluation findings
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Propose improvements from evaluation findings

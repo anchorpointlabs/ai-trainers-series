@@ -4,6 +4,8 @@ tsc: 6
 level: Basic
 code: K6
 title: "System requirements: the unglamorous checklist that decides whether it runs"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # System requirements: the unglamorous checklist that decides whether it runs

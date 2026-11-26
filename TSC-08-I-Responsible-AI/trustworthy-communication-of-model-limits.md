@@ -4,6 +4,8 @@ tsc: 8
 level: Intermediate
 code: K4
 title: Trustworthy communication of model limits
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Trustworthy communication of model limits

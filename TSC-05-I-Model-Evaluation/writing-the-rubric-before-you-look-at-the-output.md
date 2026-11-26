@@ -4,6 +4,8 @@ tsc: 5
 level: Intermediate
 code: K4
 title: "Writing the rubric before you look at the output: task-specific criteria"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Writing the rubric before you look at the output: task-specific criteria

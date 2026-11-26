@@ -4,6 +4,8 @@ tsc: 7
 level: Intermediate
 code: A6
 title: Data transformation: shaping examples so the model learns the right thing
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Data transformation: shaping examples so the model learns the right thing

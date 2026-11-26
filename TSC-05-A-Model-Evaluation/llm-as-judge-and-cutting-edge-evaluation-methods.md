@@ -4,6 +4,8 @@ tsc: 5
 level: Advanced
 code: K4
 title: "Judge models, juries and process scores: the evaluation methods at the edge"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Judge models, juries and process scores: the evaluation methods at the edge

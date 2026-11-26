@@ -4,6 +4,8 @@ tsc: 4
 level: Intermediate
 code: A6
 title: Analyse the impact of model variations on output quality
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Analyse the impact of model variations on output quality

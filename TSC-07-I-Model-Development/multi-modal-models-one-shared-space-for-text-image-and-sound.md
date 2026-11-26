@@ -4,6 +4,8 @@ tsc: 7
 level: Intermediate
 code: K3
 title: Multi-modal models: one shared space for text, image and sound
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Multi-modal models: one shared space for text, image and sound

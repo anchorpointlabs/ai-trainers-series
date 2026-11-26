@@ -4,6 +4,8 @@ tsc: 3
 level: Basic
 code: A1
 title: The seven parts of a prompt, and which ones you can drop
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # The seven parts of a prompt, and which ones you can drop

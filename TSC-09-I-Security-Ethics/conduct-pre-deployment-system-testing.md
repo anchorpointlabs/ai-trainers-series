@@ -4,6 +4,8 @@ tsc: 9
 level: Intermediate
 code: A5
 title: Conduct pre-deployment system testing
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Conduct pre-deployment system testing

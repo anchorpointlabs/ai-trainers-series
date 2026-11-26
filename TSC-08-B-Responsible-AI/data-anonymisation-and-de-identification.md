@@ -4,6 +4,8 @@ tsc: 8
 level: Basic
 code: K3
 title: Data anonymisation and de-identification
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Data anonymisation and de-identification

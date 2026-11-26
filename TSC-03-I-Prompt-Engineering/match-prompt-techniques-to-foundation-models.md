@@ -4,6 +4,8 @@ tsc: 3
 level: Intermediate
 code: A5
 title: Match prompt techniques to foundation models
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Match prompt techniques to foundation models

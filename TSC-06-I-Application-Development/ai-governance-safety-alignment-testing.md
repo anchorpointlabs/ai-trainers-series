@@ -4,6 +4,8 @@ tsc: 6
 level: Intermediate
 code: K6
 title: AI governance you can run: testing applications for safety and alignment
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # AI governance you can run: testing applications for safety and alignment

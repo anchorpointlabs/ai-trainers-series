@@ -4,6 +4,8 @@ tsc: 3
 level: Intermediate
 code: K4
 title: Context window limits and how to work within them
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Context window limits and how to work within them

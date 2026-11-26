@@ -4,6 +4,8 @@ tsc: 8
 level: Intermediate
 code: A9
 title: Champion responsible and ethical AI use
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Champion responsible and ethical AI use

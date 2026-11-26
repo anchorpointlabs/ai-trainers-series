@@ -4,6 +4,8 @@ tsc: 8
 level: Intermediate
 code: K2
 title: Environmental impact of generative AI
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Environmental impact of generative AI

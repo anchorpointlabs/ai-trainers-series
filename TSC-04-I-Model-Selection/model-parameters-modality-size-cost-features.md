@@ -4,6 +4,8 @@ tsc: 4
 level: Intermediate
 code: K3
 title: Model parameters — modality, size, cost, features
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Model parameters — modality, size, cost, features

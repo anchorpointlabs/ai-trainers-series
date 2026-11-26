@@ -4,6 +4,8 @@ tsc: 5
 level: Intermediate
 code: K8
 title: "Ethics is part of the test: the frameworks that constrain evaluation"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Ethics is part of the test: the frameworks that constrain evaluation

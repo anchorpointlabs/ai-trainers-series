@@ -4,6 +4,8 @@ tsc: 3
 level: Basic
 code: K3
 title: Prompt construction techniques, and when each one earns its keep
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Prompt construction techniques, and when each one earns its keep

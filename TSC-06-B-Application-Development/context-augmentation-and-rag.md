@@ -4,6 +4,8 @@ tsc: 6
 level: Basic
 code: K1
 title: "Context augmentation: giving the model the right page before it answers"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Context augmentation: giving the model the right page before it answers

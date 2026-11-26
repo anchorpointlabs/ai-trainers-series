@@ -4,6 +4,8 @@ tsc: 4
 level: Advanced
 code: K1
 title: Where models run — large-scale and distributed clusters
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Where models run — large-scale and distributed clusters

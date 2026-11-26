@@ -4,6 +4,8 @@ tsc: 8
 level: Intermediate
 code: K5
 title: Ethical frameworks and legal data protection
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Ethical frameworks and legal data protection

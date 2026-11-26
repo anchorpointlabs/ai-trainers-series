@@ -4,6 +4,8 @@ tsc: 3
 level: Advanced
 code: A5
 title: Refine outputs and extend capabilities
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Refine outputs and extend capabilities

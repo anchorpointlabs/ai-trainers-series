@@ -4,6 +4,8 @@ tsc: 5
 level: Advanced
 code: K3
 title: "Counterfactuals and explainable evaluation: where the research frontier sits"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Counterfactuals and explainable evaluation: where the research frontier sits

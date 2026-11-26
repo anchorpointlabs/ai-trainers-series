@@ -4,6 +4,8 @@ tsc: 7
 level: Advanced
 code: K8
 title: Scalable data processing: what changes when the corpus is ten terabytes
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Scalable data processing: what changes when the corpus is ten terabytes

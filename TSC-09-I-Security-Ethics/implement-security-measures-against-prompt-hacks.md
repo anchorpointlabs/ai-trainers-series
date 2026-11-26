@@ -4,6 +4,8 @@ tsc: 9
 level: Intermediate
 code: A2
 title: Implement security measures against prompt hacks
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Implement security measures against prompt hacks

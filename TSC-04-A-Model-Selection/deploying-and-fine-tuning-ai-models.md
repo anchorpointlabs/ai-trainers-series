@@ -4,6 +4,8 @@ tsc: 4
 level: Advanced
 code: K3
 title: Deploying and fine-tuning AI models
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Deploying and fine-tuning AI models

@@ -4,6 +4,8 @@ tsc: 4
 level: Advanced
 code: A3
 title: Evaluate reliability and adaptability
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Evaluate reliability and adaptability

@@ -4,6 +4,8 @@ tsc: 7
 level: Advanced
 code: K10
 title: Continuous pre-training and the fine-tuning ladder, rung by rung
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Continuous pre-training and the fine-tuning ladder, rung by rung

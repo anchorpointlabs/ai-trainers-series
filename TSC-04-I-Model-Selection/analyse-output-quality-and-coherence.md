@@ -4,6 +4,8 @@ tsc: 4
 level: Intermediate
 code: A4
 title: Analyse output quality and coherence
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Analyse output quality and coherence

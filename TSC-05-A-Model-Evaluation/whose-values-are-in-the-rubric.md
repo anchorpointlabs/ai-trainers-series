@@ -4,6 +4,8 @@ tsc: 5
 level: Advanced
 code: K6
 title: "Whose values are in the rubric: legal, cultural and socio-political lenses"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Whose values are in the rubric: legal, cultural and socio-political lenses

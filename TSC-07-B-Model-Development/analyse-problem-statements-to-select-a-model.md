@@ -4,6 +4,8 @@ tsc: 7
 level: Basic
 code: A1
 title: "Reading a problem statement before choosing a model"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Reading a problem statement before choosing a model

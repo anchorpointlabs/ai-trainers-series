@@ -4,6 +4,8 @@ tsc: 7
 level: Basic
 code: K7
 title: "Optimisation: the learning rate, the batch and the knobs that decide a run"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Optimisation: the learning rate, the batch and the knobs that decide a run

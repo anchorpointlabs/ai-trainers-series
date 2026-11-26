@@ -4,6 +4,8 @@ tsc: 8
 level: Advanced
 code: A7
 title: Assess AI ethics across disciplines
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Assess AI ethics across disciplines

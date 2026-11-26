@@ -4,6 +4,8 @@ tsc: 8
 level: Advanced
 code: A5
 title: Analyse ethical dilemmas in governance and regulation
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Analyse ethical dilemmas in governance and regulation

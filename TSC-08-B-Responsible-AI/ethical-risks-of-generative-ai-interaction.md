@@ -4,6 +4,8 @@ tsc: 8
 level: Basic
 code: K4
 title: Ethical risks of generative AI interaction
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Ethical risks of generative AI interaction

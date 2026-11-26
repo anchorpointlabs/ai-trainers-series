@@ -4,6 +4,8 @@ tsc: 5
 level: Intermediate
 code: K6
 title: "Is the difference real? Hypothesis testing for model evaluation"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Is the difference real? Hypothesis testing for model evaluation

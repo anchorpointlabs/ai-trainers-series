@@ -4,6 +4,8 @@ tsc: 1
 level: Basic
 code: A5
 title: The five questions to ask before you deploy anything
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # The five questions to ask before you deploy anything

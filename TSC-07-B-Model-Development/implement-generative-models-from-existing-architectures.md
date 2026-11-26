@@ -4,6 +4,8 @@ tsc: 7
 level: Basic
 code: A2
 title: "Implementing a model from an existing architecture, without inventing anything"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Implementing a model from an existing architecture, without inventing anything

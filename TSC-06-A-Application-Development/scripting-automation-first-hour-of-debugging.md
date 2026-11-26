@@ -4,6 +4,8 @@ tsc: 6
 level: Advanced
 code: K4
 title: "Scripting and automation: making the machine do the first hour of debugging"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Scripting and automation: making the machine do the first hour of debugging

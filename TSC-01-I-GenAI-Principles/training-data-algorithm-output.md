@@ -4,6 +4,8 @@ tsc: 1
 level: Intermediate
 code: K2
 title: "Training data, algorithm, output: the three that shape every answer"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Training data, algorithm, output: the three that shape every answer

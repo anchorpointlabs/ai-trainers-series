@@ -4,6 +4,8 @@ tsc: 1
 level: Basic
 code: K2
 title: Fundamental concepts and theories of generative AI
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Fundamental concepts and theories of generative AI

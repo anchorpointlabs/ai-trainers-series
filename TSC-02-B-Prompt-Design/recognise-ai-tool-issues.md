@@ -4,6 +4,8 @@ tsc: 2
 level: Basic
 code: A2
 title: Recognise AI tool issues
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Recognise AI tool issues

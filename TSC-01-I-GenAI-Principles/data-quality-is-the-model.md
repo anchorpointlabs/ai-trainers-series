@@ -4,6 +4,8 @@ tsc: 1
 level: Intermediate
 code: K5
 title: "Data quality is the model: preprocessing, pipeline and inherited bias"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Data quality is the model: preprocessing, pipeline and inherited bias

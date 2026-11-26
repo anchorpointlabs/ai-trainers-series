@@ -4,6 +4,8 @@ tsc: 6
 level: Basic
 code: K2
 title: "Low-code and no-code: building an AI app without building the pipes"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Low-code and no-code: building an AI app without building the pipes

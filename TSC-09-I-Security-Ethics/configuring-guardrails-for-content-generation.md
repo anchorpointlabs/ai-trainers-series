@@ -4,6 +4,8 @@ tsc: 9
 level: Intermediate
 code: K2
 title: Configuring guardrails for content generation
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Configuring guardrails for content generation

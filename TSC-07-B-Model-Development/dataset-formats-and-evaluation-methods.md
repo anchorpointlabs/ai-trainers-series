@@ -4,6 +4,8 @@ tsc: 7
 level: Basic
 code: K9
 title: "Dataset formats and evaluation methods for generative tasks"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Dataset formats and evaluation methods for generative tasks

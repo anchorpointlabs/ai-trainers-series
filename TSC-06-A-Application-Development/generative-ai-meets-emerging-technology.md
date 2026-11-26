@@ -4,6 +4,8 @@ tsc: 6
 level: Advanced
 code: K5
 title: "Generative AI meets emerging technology: four integration patterns"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Generative AI meets emerging technology: four integration patterns

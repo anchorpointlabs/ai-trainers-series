@@ -4,6 +4,8 @@ tsc: 2
 level: Basic
 code: K5
 title: Prompt construction techniques and settings
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Prompt construction techniques and settings

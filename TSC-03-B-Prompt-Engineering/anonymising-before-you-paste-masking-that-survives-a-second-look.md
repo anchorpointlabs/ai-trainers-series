@@ -4,6 +4,8 @@ tsc: 3
 level: Basic
 code: A7
 title: Anonymising before you paste: masking that survives a second look
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Anonymising before you paste: masking that survives a second look

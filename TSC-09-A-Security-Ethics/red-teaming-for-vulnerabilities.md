@@ -4,6 +4,8 @@ tsc: 9
 level: Advanced
 code: K4
 title: Red teaming for vulnerabilities
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Red teaming for vulnerabilities

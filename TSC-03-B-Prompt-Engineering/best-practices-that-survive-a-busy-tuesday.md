@@ -4,6 +4,8 @@ tsc: 3
 level: Basic
 code: A4
 title: Best practices that survive a busy Tuesday
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Best practices that survive a busy Tuesday

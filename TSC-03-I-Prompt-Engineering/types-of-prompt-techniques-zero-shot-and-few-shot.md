@@ -4,6 +4,8 @@ tsc: 3
 level: Intermediate
 code: A3
 title: Types of prompt techniques — zero-shot and few-shot
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Types of prompt techniques — zero-shot and few-shot

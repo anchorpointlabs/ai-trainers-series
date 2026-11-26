@@ -4,6 +4,8 @@ tsc: 5
 level: Advanced
 code: K1
 title: "A/B tests and user studies: how to prove a generative model actually got better"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # A/B tests and user studies: how to prove a generative model actually got better

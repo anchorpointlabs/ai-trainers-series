@@ -4,6 +4,8 @@ tsc: 9
 level: Intermediate
 code: K4
 title: Risk management frameworks and trust-and-safety best practice
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Risk management frameworks and trust-and-safety best practice

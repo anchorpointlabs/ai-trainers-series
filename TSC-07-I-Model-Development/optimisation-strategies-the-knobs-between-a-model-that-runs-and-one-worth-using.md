@@ -4,6 +4,8 @@ tsc: 7
 level: Intermediate
 code: K5
 title: Optimisation strategies: the knobs between a model that runs and one worth using
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Optimisation strategies: the knobs between a model that runs and one worth using

@@ -4,6 +4,8 @@ tsc: 6
 level: Intermediate
 code: K7
 title: Guardrails for LLMs: three layers, and what each one cannot do
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Guardrails for LLMs: three layers, and what each one cannot do

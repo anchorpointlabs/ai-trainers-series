@@ -4,6 +4,8 @@ tsc: 1
 level: Basic
 code: A1
 title: Write prompts for different output types
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Write prompts for different output types

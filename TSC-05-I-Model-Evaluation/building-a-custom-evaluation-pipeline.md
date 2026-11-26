@@ -4,6 +4,8 @@ tsc: 5
 level: Intermediate
 code: A1
 title: "Building a custom evaluation pipeline: from test set to decision"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Building a custom evaluation pipeline: from test set to decision

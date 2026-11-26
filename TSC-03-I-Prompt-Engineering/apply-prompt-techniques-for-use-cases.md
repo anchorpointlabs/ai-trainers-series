@@ -4,6 +4,8 @@ tsc: 3
 level: Intermediate
 code: A4
 title: Apply prompt techniques for use cases
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Apply prompt techniques for use cases

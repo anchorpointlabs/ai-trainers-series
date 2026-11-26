@@ -4,6 +4,8 @@ tsc: 7
 level: Basic
 code: K2
 title: "The library layer: what TensorFlow, PyTorch and Keras actually do"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # The library layer: what TensorFlow, PyTorch and Keras actually do

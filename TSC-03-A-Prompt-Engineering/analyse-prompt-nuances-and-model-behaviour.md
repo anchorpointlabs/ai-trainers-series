@@ -4,6 +4,8 @@ tsc: 3
 level: Advanced
 code: A2
 title: Analyse prompt nuances and model behaviour
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Analyse prompt nuances and model behaviour

@@ -4,6 +4,8 @@ tsc: 9
 level: Advanced
 code: K1
 title: AI security and testing methodologies
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # AI security and testing methodologies

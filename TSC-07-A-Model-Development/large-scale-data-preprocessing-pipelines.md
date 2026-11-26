@@ -4,6 +4,8 @@ tsc: 7
 level: Advanced
 code: A4
 title: Pre-processing at scale: pipelines, custom algorithms, distributed compute
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Pre-processing at scale: pipelines, custom algorithms, distributed compute

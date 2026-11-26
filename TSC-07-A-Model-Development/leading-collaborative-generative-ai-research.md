@@ -4,6 +4,8 @@ tsc: 7
 level: Advanced
 code: A8
 title: Leading collaborative R&D: the operating system for multi-party research
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Leading collaborative R&D: the operating system for multi-party research

@@ -4,6 +4,8 @@ tsc: 5
 level: Basic
 code: A4
 title: Identify limitations and potential biases in generative models
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Identify limitations and potential biases in generative models

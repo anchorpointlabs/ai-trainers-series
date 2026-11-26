@@ -4,6 +4,8 @@ tsc: 5
 level: Intermediate
 code: K5
 title: "Fairness and explainability: who the model serves, and who can see why"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Fairness and explainability: who the model serves, and who can see why

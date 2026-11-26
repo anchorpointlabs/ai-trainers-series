@@ -4,6 +4,8 @@ tsc: 1
 level: Intermediate
 code: A1
 title: "From task to use case: applying the principles before you prompt"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # From task to use case: applying the principles before you prompt

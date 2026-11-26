@@ -4,6 +4,8 @@ tsc: 2
 level: Basic
 code: A7
 title: Identify prompt misuses and risks
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Identify prompt misuses and risks

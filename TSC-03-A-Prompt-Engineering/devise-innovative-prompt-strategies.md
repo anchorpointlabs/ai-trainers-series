@@ -4,6 +4,8 @@ tsc: 3
 level: Advanced
 code: A6
 title: Devise innovative prompt strategies
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Devise innovative prompt strategies

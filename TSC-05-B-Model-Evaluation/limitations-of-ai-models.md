@@ -4,6 +4,8 @@ tsc: 5
 level: Basic
 code: K4
 title: Limitations of AI models in generating relevant outputs
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Limitations of AI models in generating relevant outputs

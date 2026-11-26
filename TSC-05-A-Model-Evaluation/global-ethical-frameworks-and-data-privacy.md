@@ -4,6 +4,8 @@ tsc: 5
 level: Advanced
 code: K5
 title: "The rulebook an evaluation must survive: ethical frameworks and data privacy"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # The rulebook an evaluation must survive: ethical frameworks and data privacy

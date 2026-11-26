@@ -4,6 +4,8 @@ tsc: 7
 level: Advanced
 code: A2
 title: Leading a model project: the seven gates from idea to production
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Leading a model project: the seven gates from idea to production

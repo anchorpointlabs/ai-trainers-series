@@ -4,6 +4,8 @@ tsc: 1
 level: Intermediate
 code: K3
 title: "What a prompt actually changes: steering the distribution, not giving orders"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # What a prompt actually changes: steering the distribution, not giving orders

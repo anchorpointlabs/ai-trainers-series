@@ -4,6 +4,8 @@ tsc: 6
 level: Basic
 code: A1
 title: "Wiring a model into an application: the prompt, the parameters and the contract"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Wiring a model into an application: the prompt, the parameters and the contract

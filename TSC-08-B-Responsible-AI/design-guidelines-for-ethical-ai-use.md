@@ -4,6 +4,8 @@ tsc: 8
 level: Basic
 code: A4
 title: Design guidelines for ethical AI use
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Design guidelines for ethical AI use

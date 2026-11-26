@@ -4,6 +4,8 @@ tsc: 1
 level: Basic
 code: K1
 title: The purpose of generative AI: five things it is actually for
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # The purpose of generative AI: five things it is actually for

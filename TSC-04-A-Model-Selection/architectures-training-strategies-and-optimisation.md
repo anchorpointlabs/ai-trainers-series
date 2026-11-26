@@ -4,6 +4,8 @@ tsc: 4
 level: Advanced
 code: K2
 title: Architectures, training strategies, and optimisation
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Architectures, training strategies, and optimisation

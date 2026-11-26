@@ -4,6 +4,8 @@ tsc: 4
 level: Advanced
 code: A2
 title: Assess models against diverse datasets and scenarios
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Assess models against diverse datasets and scenarios

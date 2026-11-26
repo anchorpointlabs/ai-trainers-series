@@ -4,6 +4,8 @@ tsc: 7
 level: Advanced
 code: K2
 title: Generative AI as the connective tissue of emerging technology
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Generative AI as the connective tissue of emerging technology

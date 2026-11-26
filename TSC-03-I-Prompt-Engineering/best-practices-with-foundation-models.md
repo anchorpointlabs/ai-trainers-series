@@ -4,6 +4,8 @@ tsc: 3
 level: Intermediate
 code: A2
 title: Best practices with Foundation Models
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Best practices with Foundation Models

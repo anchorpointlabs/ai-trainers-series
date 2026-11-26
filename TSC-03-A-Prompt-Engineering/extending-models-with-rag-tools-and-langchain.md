@@ -4,6 +4,8 @@ tsc: 3
 level: Advanced
 code: K5
 title: Extending models with RAG, tools, and LangChain
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Extending models with RAG, tools, and LangChain

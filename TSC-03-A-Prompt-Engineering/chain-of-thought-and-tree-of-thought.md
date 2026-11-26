@@ -4,6 +4,8 @@ tsc: 3
 level: Advanced
 code: K4
 title: Chain-of-Thought and Tree of Thought
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Chain-of-Thought and Tree of Thought

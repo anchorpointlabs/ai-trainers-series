@@ -4,6 +4,8 @@ tsc: 7
 level: Basic
 code: K6
 title: "Loss functions and metrics: what the training number does and does not tell you"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Loss functions and metrics: what the training number does and does not tell you

@@ -4,6 +4,8 @@ tsc: 8
 level: Intermediate
 code: K3
 title: Implications of biased algorithms and societal impact
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Implications of biased algorithms and societal impact

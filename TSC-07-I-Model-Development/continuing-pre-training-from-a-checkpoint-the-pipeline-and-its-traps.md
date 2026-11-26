@@ -4,6 +4,8 @@ tsc: 7
 level: Intermediate
 code: A7
 title: Continuing pre-training from a checkpoint: the pipeline and its traps
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Continuing pre-training from a checkpoint: the pipeline and its traps

@@ -4,6 +4,8 @@ tsc: 7
 level: Intermediate
 code: K9
 title: Synthetic data: the training set you do not have, and its price
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Synthetic data: the training set you do not have, and its price

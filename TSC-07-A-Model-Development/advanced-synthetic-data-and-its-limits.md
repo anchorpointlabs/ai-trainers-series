@@ -4,6 +4,8 @@ tsc: 7
 level: Advanced
 code: K7
 title: Synthetic data: the substitute teacher with a blind spot
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Synthetic data: the substitute teacher with a blind spot

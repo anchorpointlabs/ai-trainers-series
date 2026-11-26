@@ -4,6 +4,8 @@ tsc: 7
 level: Advanced
 code: A9
 title: From paper to product: crossing the translation gap
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # From paper to product: crossing the translation gap

@@ -4,6 +4,8 @@ tsc: 5
 level: Intermediate
 code: K2
 title: "BLEU, Inception Score and FID: what they measure and what they miss"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # BLEU, Inception Score and FID: what they measure and what they miss

@@ -4,6 +4,8 @@ tsc: 3
 level: Intermediate
 code: A6
 title: Identify potential prompt misuses
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Identify potential prompt misuses

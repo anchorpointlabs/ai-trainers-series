@@ -4,6 +4,8 @@ tsc: 6
 level: Basic
 code: A4
 title: "Performance troubleshooting: slow, wrong and expensive are three different bugs"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Performance troubleshooting: slow, wrong and expensive are three different bugs

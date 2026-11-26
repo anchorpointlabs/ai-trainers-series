@@ -4,6 +4,8 @@ tsc: 6
 level: Advanced
 code: A1
 title: "Building an application that uses more than one model, and knows why"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Building an application that uses more than one model, and knows why

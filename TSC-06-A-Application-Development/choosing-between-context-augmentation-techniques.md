@@ -4,6 +4,8 @@ tsc: 6
 level: Advanced
 code: A4
 title: "Choosing between context augmentation techniques: the trade-off table"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Choosing between context augmentation techniques: the trade-off table

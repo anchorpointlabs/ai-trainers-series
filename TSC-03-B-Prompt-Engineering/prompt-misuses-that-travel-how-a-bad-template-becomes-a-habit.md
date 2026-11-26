@@ -4,6 +4,8 @@ tsc: 3
 level: Basic
 code: A8
 title: Prompt misuses that travel: how a bad template becomes a bad habit
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Prompt misuses that travel: how a bad template becomes a bad habit

@@ -4,6 +4,8 @@ tsc: 7
 level: Intermediate
 code: K10
 title: Fine-tuning versus continued pre-training: two different jobs
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Fine-tuning versus continued pre-training: two different jobs

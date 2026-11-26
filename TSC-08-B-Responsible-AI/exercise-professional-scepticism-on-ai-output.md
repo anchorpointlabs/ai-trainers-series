@@ -4,6 +4,8 @@ tsc: 8
 level: Basic
 code: A6
 title: Exercise professional scepticism on AI output
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Exercise professional scepticism on AI output

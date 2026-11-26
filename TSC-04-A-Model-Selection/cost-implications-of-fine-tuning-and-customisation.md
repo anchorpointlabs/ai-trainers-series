@@ -4,6 +4,8 @@ tsc: 4
 level: Advanced
 code: K4
 title: Cost implications of fine-tuning and customisation
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Cost implications of fine-tuning and customisation

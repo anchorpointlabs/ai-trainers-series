@@ -4,6 +4,8 @@ tsc: 7
 level: Advanced
 code: A7
 title: Independent research: how to run an experiment that means something
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Independent research: how to run an experiment that means something

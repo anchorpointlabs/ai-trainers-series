@@ -4,6 +4,8 @@ tsc: 6
 level: Advanced
 code: A2
 title: "Serving a model yourself: what TGI and vLLM actually buy you"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Serving a model yourself: what TGI and vLLM actually buy you

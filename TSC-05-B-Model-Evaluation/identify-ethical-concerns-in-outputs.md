@@ -4,6 +4,8 @@ tsc: 5
 level: Basic
 code: A5
 title: Identify ethical concerns in generated outputs
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Identify ethical concerns in generated outputs

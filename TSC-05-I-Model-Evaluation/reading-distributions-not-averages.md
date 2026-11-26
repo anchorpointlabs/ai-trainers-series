@@ -4,6 +4,8 @@ tsc: 5
 level: Intermediate
 code: A2
 title: "Reading distributions, not averages: analysing model outputs"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Reading distributions, not averages: analysing model outputs

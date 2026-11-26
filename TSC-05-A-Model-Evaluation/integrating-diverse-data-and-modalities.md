@@ -4,6 +4,8 @@ tsc: 5
 level: Advanced
 code: A2
 title: "One framework, many inputs: integrating text, image, audio and structured evidence"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # One framework, many inputs: integrating text, image, audio and structured evidence

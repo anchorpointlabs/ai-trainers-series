@@ -4,6 +4,8 @@ tsc: 4
 level: Intermediate
 code: K1
 title: How models work — transformers, attention, encoders and decoders
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # How models work — transformers, attention, encoders and decoders

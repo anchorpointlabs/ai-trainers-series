@@ -4,6 +4,8 @@ tsc: 8
 level: Intermediate
 code: A8
 title: Integrate ethics into development and evaluation
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Integrate ethics into development and evaluation

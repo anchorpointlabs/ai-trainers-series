@@ -4,6 +4,8 @@ tsc: 3
 level: Basic
 code: A2
 title: Describing a prompt technique so a colleague can actually use it
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Describing a prompt technique so a colleague can actually use it

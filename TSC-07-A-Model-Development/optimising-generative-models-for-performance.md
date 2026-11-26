@@ -4,6 +4,8 @@ tsc: 7
 level: Advanced
 code: A3
 title: Optimising a generative model: latency, throughput and cost are not one problem
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Optimising a generative model: latency, throughput and cost are not one problem

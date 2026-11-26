@@ -4,6 +4,8 @@ tsc: 6
 level: Intermediate
 code: K5
 title: Designing a model pipeline: where each stage earns its place
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Designing a model pipeline: where each stage earns its place

@@ -4,6 +4,8 @@ tsc: 9
 level: Advanced
 code: K3
 title: Strategic refinement of AI guardrails
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Strategic refinement of AI guardrails

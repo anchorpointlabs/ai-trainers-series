@@ -4,6 +4,8 @@ tsc: 6
 level: Basic
 code: A5
 title: "Configuration hygiene: the settings that quietly decide whether your app works"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Configuration hygiene: the settings that quietly decide whether your app works

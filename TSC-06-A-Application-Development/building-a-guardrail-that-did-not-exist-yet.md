@@ -4,6 +4,8 @@ tsc: 6
 level: Advanced
 code: A3
 title: "Building a guardrail that did not exist yet"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Building a guardrail that did not exist yet

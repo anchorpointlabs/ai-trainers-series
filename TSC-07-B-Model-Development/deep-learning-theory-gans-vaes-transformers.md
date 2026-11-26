@@ -4,6 +4,8 @@ tsc: 7
 level: Basic
 code: K1
 title: "Deep learning theory: GANs, VAEs and transformers in plain terms"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Deep learning theory: GANs, VAEs and transformers in plain terms

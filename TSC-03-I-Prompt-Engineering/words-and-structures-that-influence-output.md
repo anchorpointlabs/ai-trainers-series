@@ -4,6 +4,8 @@ tsc: 3
 level: Intermediate
 code: K3
 title: Words and structures that influence output
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Words and structures that influence output

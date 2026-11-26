@@ -4,6 +4,8 @@ tsc: 6
 level: Intermediate
 code: K2
 title: One application, several models: why teams mix them and where it breaks
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # One application, several models: why teams mix them and where it breaks

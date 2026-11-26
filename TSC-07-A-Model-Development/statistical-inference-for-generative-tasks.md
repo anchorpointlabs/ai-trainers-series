@@ -4,6 +4,8 @@ tsc: 7
 level: Advanced
 code: K9
 title: Statistical inference for generative models: sampling, uncertainty, calibration
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Statistical inference for generative models: sampling, uncertainty, calibration

@@ -4,6 +4,8 @@ tsc: 3
 level: Basic
 code: K1
 title: Prompt design when someone else has to run your prompt
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Prompt design when someone else has to run your prompt

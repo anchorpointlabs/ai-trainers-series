@@ -4,6 +4,8 @@ tsc: 3
 level: Basic
 code: K5
 title: Troubleshooting AI tools: separate the fault domains first
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Troubleshooting AI tools: separate the fault domains first

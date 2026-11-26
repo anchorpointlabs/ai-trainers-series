@@ -4,6 +4,8 @@ tsc: 8
 level: Intermediate
 code: A7
 title: Evaluate ethical frameworks and guidelines
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Evaluate ethical frameworks and guidelines

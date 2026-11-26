@@ -4,6 +4,8 @@ tsc: 3
 level: Advanced
 code: K1
 title: Scenarios where prompt engineering shifts outputs
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Scenarios where prompt engineering shifts outputs

@@ -4,6 +4,8 @@ tsc: 7
 level: Basic
 code: A5
 title: "Naming a model's limits and proposing the first fix"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Naming a model's limits and proposing the first fix

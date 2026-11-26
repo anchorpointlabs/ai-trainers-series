@@ -4,6 +4,8 @@ tsc: 3
 level: Advanced
 code: A1
 title: Create prompts for precise and diverse responses
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Create prompts for precise and diverse responses
