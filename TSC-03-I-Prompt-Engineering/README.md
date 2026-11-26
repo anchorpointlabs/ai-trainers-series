@@ -3,24 +3,28 @@
 > **Levels:** B · I · A
 > **Deep dive:** [`prompting.md`](../core-knowledge/prompting.md)
 
-**What this skill is:** Create nuanced, strategic prompts that optimise model performance — combining methods to get innovative, reliable outputs.
+**What this skill is:** Create nuanced, strategic prompts that optimise model performance.
 
-**Descriptor (Intermediate):** Shape and engineer prompts to generate specific outputs.
+**Descriptor (Intermediate):** Shape and engineer prompts to effectively generate specific outputs.
 
-**Knowledge:**
-- Theoretical frameworks of prompt engineering.
-- Foundation Models — definition, characteristics, limitations.
-- Words/structures that shape output (multi-lingual, multi-turn).
-- Context-window limits and strategies to work within them.
-- Use cases; the link between prompt design, model behaviour, output diversity.
+## Knowledge
 
-**Abilities:**
-- Define prompt engineering; apply best practices.
-- Identify techniques (zero-shot, few-shot); match technique to model.
-- Spot misuses; analyse bias and design prompts that mitigate it.
+- [**K1** · Theoretical frameworks of prompt engineering](theoretical-frameworks-of-prompt-engineering.md)
+- [**K2** · Foundation Models — definition, characteristics, limitations](foundation-models-definition-characteristics-limitations.md)
+- [**K3** · Words and structures that influence output](words-and-structures-that-influence-output.md)
+- [**K4** · Context window limits and how to work within them](context-window-limits-and-how-to-work-within-them.md)
+- [**K5** · Use cases of effective prompts](use-cases-of-effective-prompts.md)
+- [**K6** · Prompt design, model behaviour, and output diversity](prompt-design-model-behaviour-and-output-diversity.md)
 
-**Teach it with:**
-**Prompting is briefing a very fast, very literal new hire.** A vague brief ('do the report') gets a generic result; a good brief states the task, audience, facts, constraints, and what to do when something is missing. Named patterns (Chain-of-Thought, few-shot) are just ways to structure that brief — they are not magic truth serum.
+## Abilities
+
+- [**A1** · Define prompt engineering](define-prompt-engineering.md)
+- [**A2** · Best practices with Foundation Models](best-practices-with-foundation-models.md)
+- [**A3** · Types of prompt techniques — zero-shot and few-shot](types-of-prompt-techniques-zero-shot-and-few-shot.md)
+- [**A4** · Apply prompt techniques for use cases](apply-prompt-techniques-for-use-cases.md)
+- [**A5** · Match prompt techniques to foundation models](match-prompt-techniques-to-foundation-models.md)
+- [**A6** · Identify potential prompt misuses](identify-potential-prompt-misuses.md)
+- [**A7** · Analyse bias and design mitigating prompts](analyse-bias-and-design-mitigating-prompts.md)
 
 ---
-*Condensed K/A — full verbatim bullets in the IMDA framework PDF. Entry files (one per K/A item) come next.*
+*Each bullet links to a full entry.*

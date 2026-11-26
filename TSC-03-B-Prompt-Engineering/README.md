@@ -3,22 +3,12 @@
 > **Levels:** B · I · A
 > **Deep dive:** [`prompting.md`](../core-knowledge/prompting.md)
 
-**What this skill is:** Create nuanced, strategic prompts that optimise model performance — combining methods to get innovative, reliable outputs.
+**What this skill is:** Create nuanced, strategic prompts that optimise model performance.
 
 **Descriptor (Basic):** Craft prompts to generate specific outputs.
 
-**Knowledge:**
-- Concept of prompt design; how prompts shape content.
-- Prompt construction — zero/one-shot, domain-based, instruction, temperature & sampling.
-- Impact on different output modes; troubleshooting; data privacy; guardrails.
+**Note on overlap:** the framework lists TSC #3 (Basic) with the *same* Knowledge/Ability items as TSC #2 Prompt Design (Basic) — identical bullets, different TSC number. Those 15 entries already exist here:
 
-**Abilities:**
-- Define prompt elements; describe techniques.
-- Compare prompt designs and outputs; identify best practices.
-- Recognise AI-tool issues; follow troubleshooting; anonymise data; spot misuse and risk.
+→ **[TSC #2 Prompt Design (Basic)](../TSC-02-B-Prompt-Design/README.md)**
 
-**Teach it with:**
-**Prompting is briefing a very fast, very literal new hire.** A vague brief ('do the report') gets a generic result; a good brief states the task, audience, facts, constraints, and what to do when something is missing. Named patterns (Chain-of-Thought, few-shot) are just ways to structure that brief — they are not magic truth serum.
-
----
-*Condensed K/A — full verbatim bullets in the IMDA framework PDF. Entry files (one per K/A item) come next.*
+To avoid duplicate content, this level links across to them rather than repeating them. The *new* practitioner content starts at Intermediate.
