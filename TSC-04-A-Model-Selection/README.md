@@ -5,20 +5,21 @@
 
 **What this skill is:** Choose the right model for a use case from published metrics and your own experiments.
 
-**Descriptor (Advanced):** Select and implement models for diverse tasks and evaluate their effectiveness.
+**Descriptor (Advanced):** Select and implement generative AI models for diverse tasks, and evaluate their effectiveness.
 
-**Knowledge:**
-- Domains where models are used (large-scale clusters).
-- Architectures, training strategies, optimisation (pre-training vs fine-tuning).
-- Deployment and fine-tuning workflow; cost implications of size/features.
+## Knowledge
 
-**Abilities:**
-- Deploy models for specialised tasks.
-- Assess effectiveness; evaluate reliability and adaptability.
-- Evaluate LLMOps scalability; analyse model variations on output quality.
+- [**K1** · Where models run — large-scale and distributed clusters](where-models-run-large-scale-and-distributed-clusters.md)
+- [**K2** · Architectures, training strategies, and optimisation](architectures-training-strategies-and-optimisation.md)
+- [**K3** · Deploying and fine-tuning AI models](deploying-and-fine-tuning-ai-models.md)
+- [**K4** · Cost implications of fine-tuning and customisation](cost-implications-of-fine-tuning-and-customisation.md)
 
-**Teach it with:**
-**Hiring a fresh NUS/NTU grad:** *pre-training* is their 16 years of schooling; *fine-tuning* is a 3-month corporate bootcamp so they speak your tone; *RAG* is an open-book SOP manual on their desk. Nobody re-sends staff to bootcamp every time the leave policy changes — you update the open-book manual.
+## Abilities
+
+- [**A1** · Deploy models for specialised tasks](deploy-models-for-specialised-tasks.md)
+- [**A2** · Assess models against diverse datasets and scenarios](assess-models-against-diverse-datasets-and-scenarios.md)
+- [**A3** · Evaluate reliability and adaptability](evaluate-reliability-and-adaptability.md)
+- [**A4** · Evaluate LLMOps for scalability](evaluate-llmops-for-scalability.md)
 
 ---
-*Condensed K/A — full verbatim bullets in the IMDA framework PDF. Entry files (one per K/A item) come next.*
+*Each bullet links to a full entry.*

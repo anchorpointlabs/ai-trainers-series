@@ -5,21 +5,24 @@
 
 **What this skill is:** Choose the right model for a use case from published metrics and your own experiments.
 
-**Descriptor (Intermediate):** Discern and select appropriate models for tasks and improve output quality.
+**Descriptor (Intermediate):** Discern and select appropriate generative AI models for specific tasks and improve output quality.
 
-**Knowledge:**
-- Principles of model operation (transformers, attention, encoders/decoders, modality gap).
-- Content generation incl. prompt engineering.
-- Model parameters for a use case — modality, size, cost, features.
-- Dataset quality and training (ETL).
+## Knowledge
 
-**Abilities:**
-- Apply different models; assess cost across models.
-- Implement models for domains/styles; compare data compliance.
-- Analyse output quality/coherence; assess performance under settings.
+- [**K1** · How models work — transformers, attention, encoders and decoders](how-models-work-transformers-attention-encoders-and-decoders.md)
+- [**K2** · Generating content with models and prompt engineering](generating-content-with-models-and-prompt-engineering.md)
+- [**K3** · Model parameters — modality, size, cost, features](model-parameters-modality-size-cost-features.md)
+- [**K4** · Handling and interacting with generative AI tools](handling-and-interacting-with-generative-ai-tools.md)
+- [**K5** · Dataset quality and the training pipeline](dataset-quality-and-the-training-pipeline.md)
 
-**Teach it with:**
-**Hiring a fresh NUS/NTU grad:** *pre-training* is their 16 years of schooling; *fine-tuning* is a 3-month corporate bootcamp so they speak your tone; *RAG* is an open-book SOP manual on their desk. Nobody re-sends staff to bootcamp every time the leave policy changes — you update the open-book manual.
+## Abilities
+
+- [**A1** · Apply models and assess cost](apply-models-and-assess-cost.md)
+- [**A2** · Implement models for specific domains or styles](implement-models-for-specific-domains-or-styles.md)
+- [**A3** · Compare data compliance on content storage](compare-data-compliance-on-content-storage.md)
+- [**A4** · Analyse output quality and coherence](analyse-output-quality-and-coherence.md)
+- [**A5** · Assess model performance under different settings](assess-model-performance-under-different-settings.md)
+- [**A6** · Analyse the impact of model variations on output quality](analyse-the-impact-of-model-variations-on-output-quality.md)
 
 ---
-*Condensed K/A — full verbatim bullets in the IMDA framework PDF. Entry files (one per K/A item) come next.*
+*Each bullet links to a full entry.*
