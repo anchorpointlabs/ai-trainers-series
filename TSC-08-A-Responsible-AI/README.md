@@ -3,21 +3,29 @@
 > **Levels:** B · I · A
 > **Deep dive:** [`governance-and-ethics.md`](../core-knowledge/governance-and-ethics.md)
 
-**What this skill is:** Integrate ethical principles and ensure compliance — IP, privacy, bias, transparency, accountability, environmental impact.
+**What this skill is:** Integrate and ensure compliance of ethical principles in AI projects — IP, privacy, bias, transparency, accountability, environment.
 
-**Descriptor (Advanced):** Develop frameworks for ethical AI use; evaluate and critique guidelines.
+**Descriptor (Advanced):** Develop frameworks for ethical use of AI, evaluate and critique guidelines for usage of AI.
 
-**Knowledge:**
-- Ethical frameworks and global standards; historical context of AI ethics.
-- Governance and policy challenges; interdisciplinary perspectives (legal, cultural, socio-political).
+## Knowledge
 
-**Abilities:**
-- Apply comprehensive frameworks; evaluate bias and limits.
-- Create adversarial datasets; develop privacy-preserving algorithms.
-- Critique policies; devise interdisciplinary approaches; advocate.
+- [**K1** · Ethical frameworks and global standards](ethical-frameworks-and-global-standards.md)
+- [**K2** · Historical context and evolution of AI ethics](historical-context-and-evolution-of-ai-ethics.md)
+- [**K3** · Ethical challenges in governance and policy](ethical-challenges-in-governance-and-policy.md)
+- [**K4** · Interdisciplinary ethical dimensions](interdisciplinary-ethical-dimensions.md)
 
-**Teach it with:**
-**The office safety checklist:** responsibility isn't a closing slide, it's a performance condition. Before any activity, state what data may be used, whether it may be uploaded, how claims get checked, and when a human must review. PDPA is the Singapore floor: sensitive data gets anonymised or never leaves the room.
+## Abilities
+
+- [**A1** · Apply comprehensive ethical frameworks](apply-comprehensive-ethical-frameworks.md)
+- [**A10** · Advocate for responsible AI development](advocate-for-responsible-ai-development.md)
+- [**A2** · Evaluate bias and limitations of models](evaluate-bias-and-limitations-of-models.md)
+- [**A3** · Create adversarial datasets for the business use case](create-adversarial-datasets-for-the-business-use-case.md)
+- [**A4** · Develop privacy-preserving algorithms](develop-privacy-preserving-algorithms.md)
+- [**A5** · Analyse ethical dilemmas in governance and regulation](analyse-ethical-dilemmas-in-governance-and-regulation.md)
+- [**A6** · Critique AI policies and regulations](critique-ai-policies-and-regulations.md)
+- [**A7** · Assess AI ethics across disciplines](assess-ai-ethics-across-disciplines.md)
+- [**A8** · Devise interdisciplinary approaches](devise-interdisciplinary-approaches.md)
+- [**A9** · Create innovative ethical frameworks](create-innovative-ethical-frameworks.md)
 
 ---
-*Condensed K/A — full verbatim bullets in the IMDA framework PDF. Entry files (one per K/A item) come next.*
+*Each bullet links to a full entry.*

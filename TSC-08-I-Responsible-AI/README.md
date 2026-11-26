@@ -3,22 +3,29 @@
 > **Levels:** B · I · A
 > **Deep dive:** [`governance-and-ethics.md`](../core-knowledge/governance-and-ethics.md)
 
-**What this skill is:** Integrate ethical principles and ensure compliance — IP, privacy, bias, transparency, accountability, environmental impact.
+**What this skill is:** Integrate and ensure compliance of ethical principles in AI projects — IP, privacy, bias, transparency, accountability, environment.
 
 **Descriptor (Intermediate):** Integrate ethical implications into AI development.
 
-**Knowledge:**
-- Ethical considerations (bias, privacy, transparency, accountability).
-- Environmental impact; implications of biased algorithms.
-- Trustworthy communication of capabilities/limits; ethical frameworks (legal data protection).
+## Knowledge
 
-**Abilities:**
-- Apply guidelines considering fairness and sustainability.
-- Assess environmental impact; mitigate bias; evaluate privacy/performance trade-offs.
-- Champion responsible and ethical use.
+- [**K1** · Ethical considerations — bias, privacy, transparency, accountability](ethical-considerations-bias-privacy-transparency-accountability.md)
+- [**K2** · Environmental impact of generative AI](environmental-impact-of-generative-ai.md)
+- [**K3** · Implications of biased algorithms and societal impact](implications-of-biased-algorithms-and-societal-impact.md)
+- [**K4** · Trustworthy communication of model limits](trustworthy-communication-of-model-limits.md)
+- [**K5** · Ethical frameworks and legal data protection](ethical-frameworks-and-legal-data-protection.md)
 
-**Teach it with:**
-**The office safety checklist:** responsibility isn't a closing slide, it's a performance condition. Before any activity, state what data may be used, whether it may be uploaded, how claims get checked, and when a human must review. PDPA is the Singapore floor: sensitive data gets anonymised or never leaves the room.
+## Abilities
+
+- [**A1** · Apply ethical guidelines to development and use](apply-ethical-guidelines-to-development-and-use.md)
+- [**A2** · Assess environmental impact](assess-environmental-impact.md)
+- [**A3** · Mitigate bias and ethical risks](mitigate-bias-and-ethical-risks.md)
+- [**A4** · Evaluate privacy vs performance trade-offs](evaluate-privacy-vs-performance-trade-offs.md)
+- [**A5** · Analyse ethical implications of AI algorithms](analyse-ethical-implications-of-ai-algorithms.md)
+- [**A6** · Analyse impact on societal groups and cultures](analyse-impact-on-societal-groups-and-cultures.md)
+- [**A7** · Evaluate ethical frameworks and guidelines](evaluate-ethical-frameworks-and-guidelines.md)
+- [**A8** · Integrate ethics into development and evaluation](integrate-ethics-into-development-and-evaluation.md)
+- [**A9** · Champion responsible and ethical AI use](champion-responsible-and-ethical-ai-use.md)
 
 ---
-*Condensed K/A — full verbatim bullets in the IMDA framework PDF. Entry files (one per K/A item) come next.*
+*Each bullet links to a full entry.*
