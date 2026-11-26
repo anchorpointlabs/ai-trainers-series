@@ -10,24 +10,77 @@ title: Apply basic anonymisation techniques
 
 > **TSC #2 Prompt Design · Basic · Ability A3**
 
-**IMDA requirement:** Apply basic anonymisation techniques (e.g., data masking, perturbation, pseudonymisation).
+> **Framework text (verbatim):** "Apply basic anonymisation techniques (e.g., data masking, perturbation, pseudonymisation)."
+>
+> **TSC #2** Prompt Design · Basic · Ability · Bullet 14 of 15
 
-**What it means:** Anonymisation means changing information about people so they cannot reasonably be identified. Data masking hides parts of a value; perturbation makes changes to values; pseudonymisation replaces identifying details with made-up labels. [2] These changes can keep useful context, but re-identification—working out who a record belongs to, including by combining it with other information—may still be possible. Pseudonymisation is not necessarily anonymisation, especially if a separate list links labels to people. [2] [3]
+**One-line version:** Three cheap changes make a record less identifying — hide part of a value, shift a value, swap a name for a label — and none of them makes it anonymous.
 
-**The learner must be able to:**
-- Explain masking, perturbation and pseudonymisation using an example of each.
-- Apply all three techniques to fictional records while keeping useful information for the task.
-- Check the changed records against the stated rules and identify what they can still be used for.
-- Explain how someone might re-identify a person and why pseudonymisation alone does not necessarily make data anonymous.
+## What it is
 
-**Lesson Plan Ideas:**
-1. Ask: “If a list of support visits has no names, is it necessarily anonymous?” Invite a reason for each answer.
-2. Use invented records to demonstrate each change: mask `ZX1234` as `ZX****`, perturb a wait of 12 minutes to 14, and replace a customer's name with a made-up label, using the same label for repeat visits. Explain that topics and approximate waits remain useful for discussing service waits, but the changed times are not exact. A separate name-to-label list or an unusual combination of details could link a record to a person. For real work, keep any name-to-label list separate and secure, assess identification risk in the intended sharing context, and do not put real personal data into a chatbot (a computer service that responds to typed messages). [2] [3]
-3. In pairs, learners apply all three rules by hand to every fictional row in the exercise, before running the prompt. They then compare their own table with the AI answer and the check below.
-4. Debrief one discrepancy and why it occurred. Explain that a named public post about an unusual topic and approximate wait might be matched to a row; a leaked name-to-label list could also reveal the person. The fixed adjustments here make marking easy but can be reversed if known; they do not guarantee privacy. [2] [3]
+Anonymisation is changing information about people so that they cannot reasonably be identified. Three basic techniques reduce the risk. **Data masking** hides part of a value (`ZP4829` becomes `ZP****`). **Perturbation** changes a value slightly (a 12-minute wait becomes 14). **Pseudonymisation** replaces identifying details with made-up labels, consistently — the same label every time a person recurs. Each keeps something useful for the task, and each leaves a route back to the individual if someone has the other pieces.
 
-**Exercise (with the exact prompt):**
-*Setup: pairs need paper and access to a chat AI; first make all three changes by hand to the invented rows in the prompt, then paste it for a comparison.*
+## Deep expansion
+
+### The concept
+
+The three techniques are taught together because they trade off the same two things: usefulness and identifiability. Masking keeps the format but destroys the link. Perturbation keeps the pattern but corrupts the exact figure. Pseudonymisation keeps the relationships — repeat visits, sequences, counts — while removing the name. Choosing among them is choosing which feature your task needs.
+
+Two warnings sit on top of all three.
+
+**Reversibility.** A fixed rule ("always mask the last four digits", "always add two minutes") is easy to apply and easy to undo if someone knows the rule. For a classroom demonstration that is an advantage, because the answer is checkable. For real data it is a weakness: the change is a transformation, not a guarantee.
+
+**Linkage.** Anonymity is a property of a dataset in a context, not of a row in isolation. A person who has the name-to-label list can undo pseudonymisation in one step. A person who knows the workplace can recognise "the only Year 6 teacher in that block with a rare complaint". Basic learners do not need the mathematics of re-identification; they need the habit of asking "who else could join this up?"
+
+### The sub-concepts
+
+**Masking: keep the shape, lose the identifier.** Good for reference numbers, account codes, NRIC fragments in a demonstration. Poor for anything where the visible part is itself distinctive.
+
+**Perturbation: keep the distribution, lose the exact value.** Useful for "roughly how long do people wait", useless for "what was this person's exact wait". Say which you need before you perturb.
+
+**Pseudonymisation: keep the relationships, lose the name.** The most useful of the three for analysis, and the most commonly mistaken for anonymisation. It is a change of label, not a removal of risk — especially if the mapping table exists anywhere.
+
+**Consistency is the whole point of a label.** If Brel becomes P07 on one row and P12 on the next, the dataset lies about repeat visits. The rule must be "same label, every time".
+
+**The mapping list is the crown jewel.** If you keep one, keep it separate, keep it secure, and keep it out of the prompt. A pseudonymised dataset plus a careless mapping file is a named dataset with extra steps.
+
+**Do not paste real data into a chatbot.** Even anonymised-in-principle data. The safest rule for Basic learners is the one the framework implies: work on invented or properly approved data, and let the organisation decide what counts as safe.
+
+### How it connects to the rest of the framework
+
+`TSC2-Basic-K6` is the legal baseline these techniques serve; `TSC2-Basic-A7` covers the prompt misuses — including pasting identifiable data — that make the techniques necessary; `TSC2-Basic-K4` is the output-side control. The same three techniques, at greater depth and with the reversibility argument spelled out, are `TSC1-Basic-A4`.
+
+### What is current as of November 2026
+
+Two shifts. First, guidance has settled on risk-based thinking: the question is not "is this anonymous?" but "how likely is identification in this context, and what else could be joined to it?" That framing is teachable at Basic level and much more useful than a binary. Second, models are better at pattern completion, which raises the stakes on weak masking: give a 2026 frontier model a masked reference plus a job title plus a postal code and it will happily propose a plausible identity. The models are not looking anything up; they are completing a pattern. That is exactly why the human has to be the one deciding whether the pattern is safe.
+
+### Common misconceptions
+
+- *"No names means anonymous."* Names are one identifier among many.
+- *"Pseudonymised is anonymised."* Only if the mapping cannot be recovered and nothing else identifies the person.
+- *"Perturbation protects the person."* It protects against exact matching, not against a distinctive combination.
+- *"Masking is enough for a chatbot."* Chatbot use is an organisational decision, not a technique decision.
+
+## How a student should understand it
+
+**Mental model:** blurring a face in a video but leaving the uniform, the car plate and the house number. The most obvious identifier is gone; the person is still recognisable to anyone who knows them.
+
+**Things they can do after this bullet:**
+1. Explain each technique with an example, and say what it preserves.
+2. Apply all three to invented records without losing the analysis.
+3. Describe one route back to an individual, and name the next step before real use.
+
+**Misconceptions to kill:** names-as-the-test; pseudonym-equals-anonymous; fixed rules as protection.
+
+## How a trainer explains it
+
+### Analogies that work in a Singapore classroom
+
+**The exam script number.** During marking, scripts carry index numbers, not names, so markers judge the work. That is pseudonymisation, and it works because the number list is held by one person and never circulated. Where it breaks: exam scripts are read by people with no other data about the candidate; a support record carries a topic, a date and a location that narrow the field.
+
+### Worked example with a real tool
+
+Do the transformations by hand first, then paste this to compare.
 
 ```text
 These records are entirely invented for a classroom activity. Use only the data and rules below. Produce a worked answer for the learner to check, not a claim that the result is anonymous.
@@ -47,19 +100,33 @@ For each row:
 Return only a table with columns Pseudonym | Masked reference | Topic | Adjusted wait (minutes), followed by one sentence explaining why the result would not necessarily be anonymous if these were real people's records.
 ```
 
-Expected result: in order, the rows are `P07 | ZP**** | delivery | 14`, `P23 | QM**** | returns | 6`, and `P07 | ZP**** | returns | 21`.
-What to check: compare both tables with those rows; confirm the repeated label, masked digits, changed waits and retained topics, and explain a possible link back to a person.
+What to point at afterwards: three techniques, three preserved features. The label keeps repeat visits visible (P07 appears twice). The mask keeps the reference format. The perturbation keeps the shape of the waits while making exact matching wrong. Then ask the class to do the attacker's job: what would you need to identify P07? The mapping list, or the topic plus the date plus a small team. That exercise does more than any definition.
 
-**Common mistakes:**
-- Masking the reference but leaving the customer's name — replace the name with the agreed made-up label too.
-- Treating the changed waits as exact — keep them for approximate discussion, not for a task requiring exact waits.
-- Calling the result anonymous because names were replaced — check whether a separate list or other available details could identify someone; never paste real personal data into a chatbot.
+### Lesson plan (Gagné's nine events)
 
-**Sources:**
-- [1] https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf — accessed 2026-11-15; page 5 confirms the TSC, level and verbatim bullet.
-- [2] https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/advisory-guidelines/guide-to-basic-anonymisation-%28updated-24-july-2024%29.pdf — accessed 2026-11-15; defines character masking, perturbation and pseudonymisation, explains the usefulness trade-off, reversible changes and keeping the identity list secure.
-- [3] https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/data-sharing/anonymisation/introduction-to-anonymisation/ — accessed 2026-11-15; explains identification using other information and why pseudonymisation is not the same as anonymisation.
-- [4] https://developers.openai.com/api/docs/guides/advanced-usage — accessed 2026-11-15; explains that Chat Completions outputs can differ between requests.
+1. **Gain attention** — "If a list of support visits has no names, is it necessarily anonymous?" Invite a reason for each answer.
+2. **State the objective** — by the end you can apply all three techniques and explain one re-identification route.
+3. **Recall prior learning** — the identifiability definition from `TSC2-Basic-K6`.
+4. **Present the content** — the three techniques, what each preserves, reversibility and linkage.
+5. **Guide** — transform row 1 together on the board, arguing about what to keep.
+6. **Elicit performance** — pairs complete all three rows by hand before running the prompt.
+7. **Give feedback** — compare tables; mark any inconsistent label, unmasked digit or unchanged wait.
+8. **Transfer** — each learner names one dataset in their work that would need this before any AI use.
 
-**Related:** [Masking, perturbation, pseudonymisation](../TSC-01-B-GenAI-Principles/masking-perturbation-pseudonymisation.md) — the same skill at a different level.
+## What the framework doesn't mention but trainers need to know
 
+- **Pseudonymisation is the technique learners will over-trust.** It produces the tidiest output and the weakest guarantee.
+- **Usefulness is a real constraint.** If masking destroys the analysis, the answer is "do not use this data here", not "mask harder".
+- **The mapping list is the exam-script number list.** One holder, secured, never pasted.
+- **Consent does not transfer with the label.** Pseudonymising data does not create permission to use it for a new purpose.
+
+## Watch out
+
+- **Do not describe any output as anonymous.** Say "less identifying, and still not anonymous" — because that is true, and it is the sentence they will remember.
+- **Do not use real records in the demo, even anonymised ones.** Invented rows teach the technique with none of the risk.
+- **Do not skip the attacker's question.** Without it, the class learns three procedures and no judgement.
+- **The stale claim to retire:** "we removed the names, so it's fine to paste." In November 2026 that is the most expensive sentence in a Singapore office.
+
+---
+
+**Related:** [Masking, perturbation, pseudonymisation](../TSC-01-B-GenAI-Principles/masking-perturbation-pseudonymisation.md) — the same three techniques at the principles level.

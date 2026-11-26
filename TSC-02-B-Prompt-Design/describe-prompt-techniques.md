@@ -10,26 +10,78 @@ title: Describe prompt techniques
 
 > **TSC #2 Prompt Design · Basic · Ability A1**
 
-**IMDA requirement:** Describe fundamental prompt design techniques.
+> **Framework text (verbatim):** "Describe fundamental prompt design techniques."
+>
+> **TSC #2** Prompt Design · **Basic** · Ability · Bullet 9 of 15
 
-**What it means:** A prompt is what you ask a chat AI to do. Zero-shot prompting gives the task and any needed information but no worked example of the task; one-shot prompting includes one worked example, such as a sample note and its finished notice, before the new task. A second try means running a prompt again; it is not the same as giving an example in a prompt. An example can show the format you want, but it does not guarantee a correct reply.
+**One-line version:** Zero-shot and one-shot are one question and one demonstration — and describing them well means a colleague could pick the right one without you in the room.
 
-**The learner must be able to:**
-- Describe zero-shot and one-shot prompting by counting the worked examples provided.
-- Identify a worked example and the new task in a prompt, and distinguish an example from a second try.
-- Choose a technique for a simple task and give a reason for the choice.
-- Check a generated notice against its source note and the requested format.
+## What it is
 
-**Lesson Plan Ideas:**
-1. Ask: “We need a two-line room closure notice. How could we show a chat AI the layout we want? Does sending a request twice count as giving an example?” Take two or three guesses.
-2. Show the two prompts below. In the first, point out that the Cedar note is the task input, not a worked example. In the second, point out the Birch note and finished notice: together they are one worked example. Explain zero-shot and one-shot, then distinguish giving that example from running a prompt a second time. Suggest starting with zero-shot when instructions are clear and no example is needed, or one-shot when a suitable example can show a preferred pattern; neither guarantees a correct result.
-3. In pairs, run the zero-shot prompt twice in separate fresh chats, then the one-shot prompt in another fresh chat. Check each notice using the criteria below. For each prompt, write down the number of worked examples and explain why the second zero-shot run is still zero-shot. Choose which technique to start with for a clear request with no sample, and which for a team with an agreed sample layout; give one reason for each.
-4. Debrief: the zero-shot prompt has no worked examples on either run; the one-shot prompt has one, about Birch. Cedar is the new task in both. Ask pairs to report a missing detail or format error if they found one, and explain how the check revealed it.
+Describing a technique means saying what it is, when to reach for it, and what it looks like in practice, in language a colleague can act on. Zero-shot: give the task and the needed information, no worked example. One-shot: the same, plus exactly one completed example — an input and its finished output — before the real input. A second attempt at the same prompt is not an example.
 
-**Exercise (with the exact prompt):**
-*Setup: Use a chat AI (an account if required), starting a fresh chat for each run; no files are needed.*
+## Deep expansion
 
-Zero-shot prompt — run twice, each time in a fresh chat:
+### The concept
+
+The framework asks for description, not demonstration. That is deliberate. A learner who can run a one-shot prompt has a trick; a learner who can explain *why* the example helped, and what it cost, can brief a colleague, review someone else's prompt, and decide when to drop the example. That is the competency.
+
+A usable description has four parts, and trainers should insist on all four:
+
+1. **What it is** — one worked example of the task, done correctly, placed before the input you want done.
+2. **What it is for** — showing a format or a boundary that is hard to describe in words.
+3. **What it costs** — a longer prompt, and the risk that the model copies details from the example.
+4. **When not to use it** — when the instruction is already unambiguous, or when a single example would bias a judgement that needs balance.
+
+The fourth part is what classroom descriptions usually omit, and it is what stops a team from turning one-shot into a religion.
+
+### The sub-concepts
+
+**Counting examples, not attempts.** The count is of worked examples inside the prompt. Running a zero-shot prompt twice is still zero-shot. The confusion arises because both actions feel like "giving it another go".
+
+**A worked example has both halves.** An input alone is a task; a finished output alone is a template. Only the pair demonstrates the transformation — which is why a "sample" pasted without its result teaches nothing reliable.
+
+**The new input is not the example.** In the prompt below, the Cedar note is the thing to be processed. Birch plus its finished notice is the example. Learners label both as examples and then cannot count.
+
+**Examples lock pattern, not truth.** One example is excellent at showing label order and brevity, and poor at teaching judgement: a single positive case biases toward positive. Two or three contrasting cases start to teach a boundary.
+
+**Choosing is a judgement with a reason.** Start zero-shot when the instruction is clear and the task common. Go one-shot when the output has a shape words cannot convey, or when a team has an agreed house style to copy exactly. Say the reason aloud; that is what makes it a technique rather than a preference.
+
+### How it connects to the rest of the framework
+
+`TSC2-Basic-K5` is the knowledge behind this ability; `TSC2-Basic-K2` explains why an example shifts the output; `TSC2-Basic-A5` names the elements an example sits among; `TSC2-Basic-A8` is how you would compare a zero-shot and a one-shot design properly. Both techniques reappear at Intermediate level (`TSC3-Intermediate-A3`) with few-shot and contrastive variants.
+
+### What is current as of November 2026
+
+Zero-shot has got much better. The late-2026 frontier models — OpenAI's GPT-6 generation, Anthropic's Claude 5.5 line, Google's Gemini 3.1 Pro and Gemini 4 Argon — follow a precise written instruction far more reliably than their predecessors, so the old advice "always include an example" is now often wasted effort. What stays genuinely hard to describe is house style: the exact label order your team uses, how your organisation writes a date, the brevity of a particular notice. That is where one-shot still earns its place — as a targeted fix for style that resists description, not as a general upgrade.
+
+### Common misconceptions
+
+- *"One-shot means one attempt."* It means one worked example.
+- *"Asking twice with a different tone is one-shot."* That is two zero-shot prompts.
+- *"An example guarantees the format."* It improves the odds and adds copy risk.
+- *"Zero-shot is the beginner version."* It is the right choice for most clear, common tasks, including for experts.
+
+## How a student should understand it
+
+**Mental model:** giving directions by landmark versus by marked map. "Turn left after the market" is an instruction; the map is an example. Both work; the map costs more to draw and gets copied exactly, wrong turns included.
+
+**Things they can do after this bullet:**
+1. Describe each technique in four sentences, including when not to use it.
+2. Count worked examples in a prompt, and explain why a rerun does not count.
+3. Choose a technique for a stated task and give a reason.
+
+**Misconceptions to kill:** attempt-as-example; input-as-example; example-as-guarantee.
+
+## How a trainer explains it
+
+### Analogies that work in a Singapore classroom
+
+**The wedding invitation.** You can describe the wording you want — formal, both families' names, date, venue, RSVP by the 30th. That is zero-shot. Or you can hand over last year's invitation and say "like this, with our names". That is one-shot: faster, closer in style, and it carries over last year's font and the cousin's name if you are careless. Where it breaks: an invitation is a fixed genre with few variations; most workplace writing drifts more.
+
+### Worked example with a real tool
+
+Run the zero-shot prompt twice, each in a fresh chat, then the one-shot once.
 
 ```text
 Turn the following fictional facilities note into exactly two lines for a staff notice. The first line must begin 'Affected:' and include the room, closure day and reason. The second line must begin 'Reopens:' and give the reopening day and time. Do not add anything else.
@@ -37,8 +89,6 @@ Turn the following fictional facilities note into exactly two lines for a staff 
 Now write the notice for this note:
 Note: The Cedar meeting room will be closed for floor cleaning on Tuesday and will reopen on Wednesday at 9 am.
 ```
-
-One-shot prompt — run once in a fresh chat:
 
 ```text
 Turn the following fictional facilities note into exactly two lines for a staff notice. The first line must begin 'Affected:' and include the room, closure day and reason. The second line must begin 'Reopens:' and give the reopening day and time. Do not add anything else.
@@ -52,17 +102,29 @@ Now write the notice for this note:
 Note: The Cedar meeting room will be closed for floor cleaning on Tuesday and will reopen on Wednesday at 9 am.
 ```
 
-*Expected result:* Each run produces a two-line notice about Cedar meeting room, Tuesday, floor cleaning and reopening on Wednesday at 9 am.
-*What to check:* The lines start with `Affected:` and `Reopens:` in that order, include all those facts on the requested lines and nothing extra; count worked examples in the prompt, not the runs.
+What to point at afterwards: the two zero-shot runs are identical — same instruction, same note, no example. The one-shot prompt adds one pair: Birch. Then ask the room to count: zero, zero, one. And ask the harder question — given the instruction already fixes the label order and the two-line shape, did the example buy anything? Often the honest answer is "barely", which is the most useful finding of the exercise.
 
-**Common mistakes:**
-- Counting the new Cedar note as an example — it is the input to process; a worked example also shows the desired answer.
-- Calling a second zero-shot run one-shot — count examples provided in the prompt, not attempts.
-- Assuming an example makes the reply correct — check the room, day, reason, reopening time and two-line format against the note.
+### Lesson plan (Gagné's nine events)
 
-**Sources:**
-- https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf — accessed 2026-11-15. Page 5 gives the TSC, level and verbatim ability bullet.
-- https://proceedings.neurips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf — accessed 2026-11-15. Brown and colleagues define zero-shot as a task description without examples and one-shot as one task demonstration; they describe examples as input and desired completion pairs.
-- https://developers.openai.com/api/docs/guides/prompt-engineering — accessed 2026-11-15. OpenAI describes using input/output examples to guide a response and notes that generated outputs can vary.
-- https://dl.acm.org/doi/abs/10.1145/3411763.3451760 — accessed 2026-11-15. Reynolds and McDonell report cases where zero-shot outperformed prompts with several examples, supporting the caution that examples do not guarantee better results.
+1. **Gain attention** — "We need a two-line closure notice. How could we show the tool the layout? Does sending it twice count as showing it?" Take two or three guesses.
+2. **State the objective** — by the end you can describe both techniques, count examples, and justify a choice.
+3. **Recall prior learning** — the one-word comparison from `TSC2-Basic-K2`; the elements list from `TSC2-Basic-A5`.
+4. **Present the content** — the four-part description, then the attempt/example distinction.
+5. **Guide** — run the zero-shot prompt twice on screen and let the room count.
+6. **Elicit performance** — pairs run the one-shot prompt, then write a two-sentence description of one-shot for a colleague.
+7. **Give feedback** — read descriptions aloud; check all four parts are present, especially the cost.
+8. **Transfer** — each learner names a task where a house-style example would save time, and one where it would not.
 
+## What the framework doesn't mention but trainers need to know
+
+- **Description is testable.** Ask for it in writing; a description missing the "when not to use" part is not finished.
+- **Naming conventions differ across vendors.** Some say "few-shot" for anything with examples. Teach the counting rule, not the vocabulary.
+- **One-shot is a maintenance cost.** A prompt carrying an example must be updated when house style changes, and nobody remembers.
+- **Learners who have mastered zero-shot often need nothing more.** Resist escalating to few-shot for its own sake.
+
+## Watch out
+
+- **Do not let "zero-shot" sound inferior.** It is the default for clear tasks and the cheaper option at scale.
+- **Do not demo the example before the instruction.** Order matters in the prompt; it matters in the lesson too.
+- **Do not forget the copy risk.** Watch for "Birch" appearing in a Cedar notice — the best teaching moment in the exercise.
+- **The stale claim to retire:** "always give the model an example." In November 2026 a precise instruction often beats a single example, and one lopsided example can bias the answer.
