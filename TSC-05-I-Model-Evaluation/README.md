@@ -1,23 +1,30 @@
 # TSC #5 Generative AI Model Evaluation — Intermediate
 
-> **Levels:** B · I · A
+> **Levels:** see sibling folders for other levels
+
 > **Deep dive:** [`model-selection-and-evaluation.md`](../core-knowledge/model-selection-and-evaluation.md)
 
-**What this skill is:** Assess the quality, performance, and potential impact of generative AI models across domains and applications.
+**What this skill is:** Assess the quality, performance, and potential impact of generative AI models across various domains and applications.
 
-**Descriptor (Intermediate):** Design and implement custom evaluations for models.
+**Descriptor (Intermediate):** Design and implement custom evaluations for generative AI models.
 
-**Knowledge:**
-- Theoretical foundations of evaluation.
-- Metrics and techniques (BLEU, Inception Score, FID); data visualisation.
-- Task-specific criteria; fairness and explainability; statistics and hypothesis testing; HCI; ethical frameworks.
+## Knowledge
 
-**Abilities:**
-- Implement custom evaluation pipelines; analyse data distributions.
-- Analyse performance issues; address bias and ethical concerns.
+- [**K1** · Why generative evaluation has no answer key, and what replaces it](why-generative-evaluation-has-no-answer-key.md)
+- [**K2** · "BLEU, Inception Score and FID: what they measure and what they miss"](bleu-inception-score-and-fid.md)
+- [**K3** · "Visualising model quality: the charts that show what an average hides"](visualising-model-quality.md)
+- [**K4** · "Writing the rubric before you look at the output: task-specific criteria"](writing-the-rubric-before-you-look-at-the-output.md)
+- [**K5** · "Fairness and explainability: who the model serves, and who can see why"](fairness-and-explainability-in-evaluation.md)
+- [**K6** · "Is the difference real? Hypothesis testing for model evaluation"](is-the-difference-real.md)
+- [**K7** · "Evaluators are users: interface design for fair human judgement"](evaluators-are-users.md)
+- [**K8** · "Ethics is part of the test: the frameworks that constrain evaluation"](ethics-is-part-of-the-test.md)
 
-**Teach it with:**
-**Marking a PSLE composition:** you need a rubric (accuracy, coherence, relevance) — not a vibe. Run the same test set across candidate models, score each with the same rubric, and plot pass-rate vs cost vs latency. One strong analogy: a 'blind taste test' — the evaluator judges outputs without knowing which model made them.
+## Abilities
+
+- [**A1** · "Building a custom evaluation pipeline: from test set to decision"](building-a-custom-evaluation-pipeline.md)
+- [**A2** · "Reading distributions, not averages: analysing model outputs"](reading-distributions-not-averages.md)
+- [**A3** · "From score to cause: diagnosing performance issues in evaluation data"](from-score-to-cause.md)
+- [**A4** · "Mitigating bias in generated content: what evaluation catches and what it cannot"](mitigating-bias-in-generated-content.md)
 
 ---
-*Condensed K/A — full verbatim bullets in the IMDA framework PDF. Entry files (one per K/A item) come next.*
+*Each bullet links to a full entry.*

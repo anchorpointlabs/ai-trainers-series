@@ -1,24 +1,29 @@
 # TSC #6 Generative AI Application Development and Deployment — Basic
 
-> **Levels:** B · I · A
-> **Deep dive:** [`vibe-coding.md`](../core-knowledge/vibe-coding.md)
+> **Levels:** see sibling folders for other levels
 
-**What this skill is:** Design and build applications around generative AI models — integration, RAG, troubleshooting, safeguards, deployment.
+> **Deep dive:** [`application-development-and-deployment.md`](../core-knowledge/application-development-and-deployment.md)
+
+**What this skill is:** Design and build applications around generative AI models, integrating the language processing capabilities towards specific use cases and domains, and troubleshoot AI tools
 
 **Descriptor (Basic):** Build applications around generative AI models.
 
-**Knowledge:**
-- Context augmentation for prompts (RAG).
-- Low-code / no-code development; model limitations and common errors.
-- Dev tools and frameworks; software troubleshooting; system requirements.
+## Knowledge
 
-**Abilities:**
-- Apply prompt engineering and model config to integrate models.
-- Apply RAG (vector databases, retrieval).
-- Escalate issues; troubleshoot; maintain configurations.
+- [**K1** · "Context augmentation: giving the model the right page before it answers"](context-augmentation-and-rag.md)
+- [**K2** · "Low-code and no-code: building an AI app without building the pipes"](low-code-no-code-application-development.md)
+- [**K3** · "How an AI application fails: the error messages and what sits behind them"](how-ai-applications-fail.md)
+- [**K4** · "The developer stack: which tool earns its place at each layer"](developer-tools-and-frameworks.md)
+- [**K5** · "Troubleshooting by procedure: read the error, find the doc, change one thing"](basic-software-troubleshooting.md)
+- [**K6** · "System requirements: the unglamorous checklist that decides whether it runs"](system-requirements-and-compatibility.md)
 
-**Teach it with:**
-**The 'showflat vs TOP' rule:** a prompt-built UI is a condo showflat — the tap looks real but no water flows. Production (TOP) needs the invisible pipes: a database, backend validation, real auth, row-level security. Also: the AI is a **'goldfish with a PhD'** — brilliant for 30 seconds, then it forgets; keep instructions small and re-paste the clean blueprint.
+## Abilities
+
+- [**A1** · "Wiring a model into an application: the prompt, the parameters and the contract"](integrating-foundation-models.md)
+- [**A2** · "Building retrieval: chunk, embed, retrieve, answer, and know which step failed"](building-rag-retrieval.md)
+- [**A3** · "Escalating an AI problem so that someone can actually fix it"](escalating-ai-tool-issues.md)
+- [**A4** · "Performance troubleshooting: slow, wrong and expensive are three different bugs"](troubleshooting-performance-issues.md)
+- [**A5** · "Configuration hygiene: the settings that quietly decide whether your app works"](configuration-hygiene.md)
 
 ---
-*Condensed K/A — full verbatim bullets in the IMDA framework PDF. Entry files (one per K/A item) come next.*
+*Each bullet links to a full entry.*

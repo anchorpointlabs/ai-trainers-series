@@ -1,22 +1,30 @@
 # TSC #6 Generative AI Application Development and Deployment — Advanced
 
-> **Levels:** B · I · A
-> **Deep dive:** [`vibe-coding.md`](../core-knowledge/vibe-coding.md)
+> **Levels:** see sibling folders for other levels
 
-**What this skill is:** Design and build applications around generative AI models — integration, RAG, troubleshooting, safeguards, deployment.
+> **Deep dive:** [`application-development-and-deployment.md`](../core-knowledge/application-development-and-deployment.md)
 
-**Descriptor (Advanced):** Architect complex applications with novel techniques, guardrails and deployment.
+**What this skill is:** Design and build applications around generative AI models, integrating the language processing capabilities towards specific use cases and domains, and troubleshoot AI tools
 
-**Knowledge:**
-- Compute efficiency (quantisation); guardrail and moderation techniques.
-- Cutting-edge context augmentation; scripting/automation; emerging-tech integration.
+**Descriptor (Advanced):** Architect and build complex applications that apply novel techniques in context augmentation and guardrail deployments.
 
-**Abilities:**
-- Build multi-model apps with context augmentation.
-- Deploy with serving infra (TGI, vLLM); build guardrails; automate troubleshooting; document.
+## Knowledge
 
-**Teach it with:**
-**The 'showflat vs TOP' rule:** a prompt-built UI is a condo showflat — the tap looks real but no water flows. Production (TOP) needs the invisible pipes: a database, backend validation, real auth, row-level security. Also: the AI is a **'goldfish with a PhD'** — brilliant for 30 seconds, then it forgets; keep instructions small and re-paste the clean blueprint.
+- [**K1** · "Compute efficiency: the same model at three different bills"](compute-efficiency-the-same-model-at-three-bills.md)
+- [**K2** · "Guardrails and moderation: what actually stops a bad output"](guardrails-and-moderation-what-stops-a-bad-output.md)
+- [**K3** · "Cutting-edge context augmentation: beyond pasting documents into the prompt"](context-augmentation-beyond-pasting-documents.md)
+- [**K4** · "Scripting and automation: making the machine do the first hour of debugging"](scripting-automation-first-hour-of-debugging.md)
+- [**K5** · "Generative AI meets emerging technology: four integration patterns"](generative-ai-meets-emerging-technology.md)
+
+## Abilities
+
+- [**A1** · "Building an application that uses more than one model, and knows why"](applications-with-more-than-one-model.md)
+- [**A2** · "Serving a model yourself: what TGI and vLLM actually buy you"](serving-a-model-yourself-tgi-and-vllm.md)
+- [**A3** · "Building a guardrail that did not exist yet"](building-a-guardrail-that-did-not-exist-yet.md)
+- [**A4** · "Choosing between context augmentation techniques: the trade-off table"](choosing-between-context-augmentation-techniques.md)
+- [**A5** · "Advancing the field: how application work becomes research"](advancing-the-field-application-work-as-research.md)
+- [**A6** · "Automating troubleshooting with your own scripts and tools"](automating-troubleshooting-with-custom-scripts.md)
+- [**A7** · "Documentation as infrastructure: the knowledge base that keeps an AI app alive"](documentation-as-infrastructure-for-ai-apps.md)
 
 ---
-*Condensed K/A — full verbatim bullets in the IMDA framework PDF. Entry files (one per K/A item) come next.*
+*Each bullet links to a full entry.*

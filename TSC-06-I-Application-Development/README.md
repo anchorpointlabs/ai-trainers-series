@@ -1,23 +1,30 @@
 # TSC #6 Generative AI Application Development and Deployment — Intermediate
 
-> **Levels:** B · I · A
-> **Deep dive:** [`vibe-coding.md`](../core-knowledge/vibe-coding.md)
+> **Levels:** see sibling folders for other levels
 
-**What this skill is:** Design and build applications around generative AI models — integration, RAG, troubleshooting, safeguards, deployment.
+> **Deep dive:** [`application-development-and-deployment.md`](../core-knowledge/application-development-and-deployment.md)
 
-**Descriptor (Intermediate):** Build complex applications integrating multiple models with safeguards.
+**What this skill is:** Design and build applications around generative AI models, integrating the language processing capabilities towards specific use cases and domains, and troubleshoot AI tools
 
-**Knowledge:**
-- Software integration; multi-model integration.
-- Cloud deployment for inference; context augmentation (knowledge graphs).
-- Model pipelines; AI governance and testing; LLM guardrails.
+**Descriptor (Intermediate):** Build complex applications integrating multiple models and build in appropriate controls and safeguards against model risks.
 
-**Abilities:**
-- Diagnose from error logs; design integration workflows.
-- Develop via dev tools; deploy guardrails; resolve compatibility issues.
+## Knowledge
 
-**Teach it with:**
-**The 'showflat vs TOP' rule:** a prompt-built UI is a condo showflat — the tap looks real but no water flows. Production (TOP) needs the invisible pipes: a database, backend validation, real auth, row-level security. Also: the AI is a **'goldfish with a PhD'** — brilliant for 30 seconds, then it forgets; keep instructions small and re-paste the clean blueprint.
+- [**K1** · Software integration: making two systems behave like one](software-integration-concepts.md)
+- [**K2** · One application, several models: why teams mix them and where it breaks](integrating-multiple-generative-ai-models.md)
+- [**K3** · Five ways to serve a model from the cloud, and how to choose](cloud-inference-deployment-approaches.md)
+- [**K4** · Knowledge graphs: context augmentation that remembers relationships](context-augmentation-knowledge-graphs.md)
+- [**K5** · Designing a model pipeline: where each stage earns its place](designing-model-pipelines.md)
+- [**K6** · AI governance you can run: testing applications for safety and alignment](ai-governance-safety-alignment-testing.md)
+- [**K7** · Guardrails for LLMs: three layers, and what each one cannot do](safeguarding-llms-with-guardrails.md)
+
+## Abilities
+
+- [**A1** · Reading a GenAI error log: the four families of failure](reading-genai-error-logs.md)
+- [**A2** · Three integration workflows: batch, API, and multi-model orchestration](designing-integration-workflows.md)
+- [**A3** · From notebook to interface: shipping a model behind Gradio or Streamlit](gradio-streamlit-application-interfaces.md)
+- [**A4** · Deploying guardrails and moderation on the way in and the way out](deploying-guardrails-moderation-controls.md)
+- [**A5** · When it breaks outside the model: resolving toolchain compatibility issues](resolving-toolchain-compatibility-issues.md)
 
 ---
-*Condensed K/A — full verbatim bullets in the IMDA framework PDF. Entry files (one per K/A item) come next.*
+*Each bullet links to a full entry.*

@@ -1,26 +1,28 @@
 # TSC #1 Generative AI Principles and Applications — Intermediate
 
-> **Levels:** B · I
-> **Deep dive:** [`agentic-ai.md`](../core-knowledge/agentic-ai.md)
+> **Levels:** see sibling folders for other levels
 
-**What this skill is:** Understand and apply the concepts, frameworks, applications, and implications of generative AI — and judge where it is (and is not) appropriate.
+> **Deep dive:** [`popular-llms-and-notebooklm.md`](../core-knowledge/popular-llms-and-notebooklm.md)
 
-**Descriptor (Intermediate):** Improve the quality of outputs by understanding the underlying concepts and theoretical frameworks.
+**What this skill is:** Understand and apply the concepts, frameworks, applications, and implications of generative AI models.
 
-**Knowledge:**
-- Underlying principles, core concepts and theories governing GenAI.
-- How models work — training data, algorithms, outputs.
-- Impact of prompt engineering on model outputs; generative vs discriminative models.
-- Data quality, preprocessing, pipeline and training (e.g. training-data bias).
+**Descriptor (Intermediate):** Improve the quality of generative AI outputs by understanding underlying concepts and theoretical frameworks for generative AI.
 
-**Abilities:**
-- Apply GenAI principles to real use cases.
-- Demonstrate GenAI across applications (summarisation, inference, reasoning, transformation, augmentation).
-- Analyse limitations and bias; evaluate performance metrics and prompt variations.
-- Identify ethical implications and societal impact.
+## Knowledge
 
-**Teach it with:**
-**The 'what GenAI actually is' line:** a model is a word-completion engine that got trained on half the internet — it predicts the next token, not the truth. Teach 'what it is for' (analysis, drafting, image/video/code) before 'how to prompt it'. The learner's first habit: check the output against the source, and know which data must never be entered (PDPA).
+- [**K1** · "The principles underneath the output: prediction, representation, objective, scale"](principles-underneath-the-output.md)
+- [**K2** · "Training data, algorithm, output: the three that shape every answer"](training-data-algorithm-output.md)
+- [**K3** · "What a prompt actually changes: steering the distribution, not giving orders"](what-a-prompt-actually-changes.md)
+- [**K4** · "Generative and discriminative models: two ways to model the same data"](generative-and-discriminative-models.md)
+- [**K5** · "Data quality is the model: preprocessing, pipeline and inherited bias"](data-quality-is-the-model.md)
+
+## Abilities
+
+- [**A1** · "From task to use case: applying the principles before you prompt"](from-task-to-use-case.md)
+- [**A2** · "Five ways to use it: summarise, infer, reason, transform, augment"](five-ways-to-use-it.md)
+- [**A3** · "Reading an output for what is wrong: limits, bias and the shape of the gap"](reading-an-output-for-whats-wrong.md)
+- [**A4** · "Measuring the model and the prompt: what a change actually bought you"](measuring-the-model-and-the-prompt.md)
+- [**A5** · "Who carries the cost: ethical implications and the societal impact of generated content"](who-carries-the-cost.md)
 
 ---
-*Condensed K/A — full verbatim bullets in the IMDA framework PDF. Entry files (one per K/A item) come next.*
+*Each bullet links to a full entry.*
