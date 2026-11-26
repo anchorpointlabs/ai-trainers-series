@@ -2,31 +2,54 @@
 
 How folders and entries are named, so anyone can find a thing and cite it unambiguously.
 
-## Folder names
+## TSC folders
 
 ```
-[NN] TSC-NN-{B|I|A}-{Topic}/
+TSC-NN-{B|I|A}-{Topic}/
 ```
 
 - `NN` — the TSC number (01–09), zero-padded.
 - `{B|I|A}` — proficiency: `B` = Basic, `I` = Intermediate, `A` = Advanced.
 - `{Topic}` — a short kebab-case topic.
 
+The TSC number and level are also in each entry's YAML — the folder name never carries a
+`[NN]` prefix.
+
 Examples:
 
-- `[01] TSC-01-B-GenAI-Principles/`
-- `[02] TSC-02-B-Prompt-Design/`
+- `TSC-01-B-GenAI-Principles/`
+- `TSC-02-B-Prompt-Design/`
 
 ## Multi-level TSCs
 
-When a TSC spans more than one proficiency level, group them under the TSC number:
+When a TSC spans more than one proficiency level, group them under the TSC number in the
+index:
 
 ```
-[03] New GenAI TSC #3 - Prompt Engineering      (the group — not a folder)
-[03.01] TSC-03-B-Crafting/                      (Basic)
-[03.02] TSC-03-I-Engineering/                   (Intermediate)
-[03.03] TSC-03-A-Optimising/                    (Advanced)
+[03] New GenAI TSC #3 - Prompt Engineering      (the group — shown in the index, not a folder)
+TSC-03-B-Crafting/                              (Basic)
+TSC-03-I-Engineering/                           (Intermediate)
+TSC-03-A-Optimising/                            (Advanced)
 ```
+
+The `[NN.MM]` ordinal is an index/YAML display only — never a folder-name prefix.
+
+## Products (living)
+
+Below the TSCs, one folder per product, named `Company-Product`:
+
+- `Anthropic-Claude/`
+- `Google-DeepMind-Gemini/`
+- `OpenAI-ChatGPT/`
+- `Microsoft-Copilot/`
+- `Microsoft-Muse/`
+- `xAI-Grok/`
+- `Google-NotebookLM/`
+- `Meta-AI/`
+
+These are **living** docs — versions, features and pricing rot within weeks to a quarter,
+so each folder is refreshed, never treated as durable knowledge. When the company and the
+product share a name, use the single name (`DeepSeek/`, `Perplexity/`).
 
 ## Entry IDs
 

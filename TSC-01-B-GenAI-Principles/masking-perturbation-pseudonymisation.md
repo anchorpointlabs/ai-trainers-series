@@ -132,4 +132,4 @@ What to point at: pass 3 is where most real leaks live, and it is the only pass 
 - **Do not imply a tool does this for you.** Data-loss tools pattern-match; they do not read a complaint paragraph and notice that "Mr Lim" plus a school plus a suburb is a person.
 - **The stale claim to retire:** "we use the enterprise version, so it's fine." The tier changes retention and access. It does not change what you decided to paste.
 
-**Related:** [Apply basic anonymisation techniques](../%5B02%5D%20TSC-02-B-Prompt-Design/apply-basic-anonymisation-techniques.md) — the same skill at a different level.
+**Related:** [Apply basic anonymisation techniques](../TSC-02-B-Prompt-Design/apply-basic-anonymisation-techniques.md) — the same skill at a different level.

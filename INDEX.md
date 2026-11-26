@@ -8,30 +8,47 @@ Each entry carries a stable ID (`NN.MM.L.code`) in its YAML frontmatter and here
 
 | K/A | ID | Entry |
 |---|---|---|
-| K1 | `01.01.B.K1` | [The purpose of generative AI: five things it is actually for](%5B01%5D%20TSC-01-B-GenAI-Principles/purpose-of-generative-ai.md) |
-| K3 | `01.01.B.K3` | [What exists in November 2026, and what machine learning has to do with it](%5B01%5D%20TSC-01-B-GenAI-Principles/genai-models-and-machine-learning.md) |
-| A4 | `01.01.B.A4` | [Masking, perturbation, pseudonymisation: three tools, three limits](%5B01%5D%20TSC-01-B-GenAI-Principles/masking-perturbation-pseudonymisation.md) |
-| A5 | `01.01.B.A5` | [The five questions to ask before you deploy anything](%5B01%5D%20TSC-01-B-GenAI-Principles/five-questions-before-deploying-ai.md) |
+| K1 | `01.01.B.K1` | [The purpose of generative AI: five things it is actually for](TSC-01-B-GenAI-Principles/purpose-of-generative-ai.md) |
+| K3 | `01.01.B.K3` | [What exists in November 2026, and what machine learning has to do with it](TSC-01-B-GenAI-Principles/genai-models-and-machine-learning.md) |
+| A4 | `01.01.B.A4` | [Masking, perturbation, pseudonymisation: three tools, three limits](TSC-01-B-GenAI-Principles/masking-perturbation-pseudonymisation.md) |
+| A5 | `01.01.B.A5` | [The five questions to ask before you deploy anything](TSC-01-B-GenAI-Principles/five-questions-before-deploying-ai.md) |
 
 ## TSC #2 Prompt Design (Basic)
 
 | K/A | ID | Entry |
 |---|---|---|
-| K1 | `02.01.B.K1` | [Troubleshooting techniques](%5B02%5D%20TSC-02-B-Prompt-Design/troubleshooting-techniques.md) |
-| K2 | `02.01.B.K2` | [How prompts shape content](%5B02%5D%20TSC-02-B-Prompt-Design/how-prompts-shape-content.md) |
-| K3 | `02.01.B.K3` | [Different output modes](%5B02%5D%20TSC-02-B-Prompt-Design/different-output-modes.md) |
-| K4 | `02.01.B.K4` | [Guardrails for unexpected outputs](%5B02%5D%20TSC-02-B-Prompt-Design/guardrails-for-unexpected-outputs.md) |
-| K5 | `02.01.B.K5` | [Prompt construction techniques and settings](%5B02%5D%20TSC-02-B-Prompt-Design/prompt-construction-techniques-and-settings.md) |
-| K6 | `02.01.B.K6` | [Data privacy regulations](%5B02%5D%20TSC-02-B-Prompt-Design/data-privacy-regulations.md) |
-| K7 | `02.01.B.K7` | [Concept of prompt design](%5B02%5D%20TSC-02-B-Prompt-Design/concept-of-prompt-design.md) |
-| A1 | `02.01.B.A1` | [Describe prompt techniques](%5B02%5D%20TSC-02-B-Prompt-Design/describe-prompt-techniques.md) |
-| A2 | `02.01.B.A2` | [Recognise AI tool issues](%5B02%5D%20TSC-02-B-Prompt-Design/recognise-ai-tool-issues.md) |
-| A3 | `02.01.B.A3` | [Apply basic anonymisation techniques](%5B02%5D%20TSC-02-B-Prompt-Design/apply-basic-anonymisation-techniques.md) |
-| A4 | `02.01.B.A4` | [Follow troubleshooting procedures](%5B02%5D%20TSC-02-B-Prompt-Design/follow-troubleshooting-procedures.md) |
-| A5 | `02.01.B.A5` | [Fundamental prompt elements](%5B02%5D%20TSC-02-B-Prompt-Design/fundamental-prompt-elements.md) |
-| A6 | `02.01.B.A6` | [Identify effective prompt practices](%5B02%5D%20TSC-02-B-Prompt-Design/identify-effective-prompt-practices.md) |
-| A7 | `02.01.B.A7` | [Identify prompt misuses and risks](%5B02%5D%20TSC-02-B-Prompt-Design/identify-prompt-misuses-and-risks.md) |
-| A8 | `02.01.B.A8` | [Compare designs and outputs](%5B02%5D%20TSC-02-B-Prompt-Design/compare-designs-and-outputs.md) |
+| K1 | `02.01.B.K1` | [Troubleshooting techniques](TSC-02-B-Prompt-Design/troubleshooting-techniques.md) |
+| K2 | `02.01.B.K2` | [How prompts shape content](TSC-02-B-Prompt-Design/how-prompts-shape-content.md) |
+| K3 | `02.01.B.K3` | [Different output modes](TSC-02-B-Prompt-Design/different-output-modes.md) |
+| K4 | `02.01.B.K4` | [Guardrails for unexpected outputs](TSC-02-B-Prompt-Design/guardrails-for-unexpected-outputs.md) |
+| K5 | `02.01.B.K5` | [Prompt construction techniques and settings](TSC-02-B-Prompt-Design/prompt-construction-techniques-and-settings.md) |
+| K6 | `02.01.B.K6` | [Data privacy regulations](TSC-02-B-Prompt-Design/data-privacy-regulations.md) |
+| K7 | `02.01.B.K7` | [Concept of prompt design](TSC-02-B-Prompt-Design/concept-of-prompt-design.md) |
+| A1 | `02.01.B.A1` | [Describe prompt techniques](TSC-02-B-Prompt-Design/describe-prompt-techniques.md) |
+| A2 | `02.01.B.A2` | [Recognise AI tool issues](TSC-02-B-Prompt-Design/recognise-ai-tool-issues.md) |
+| A3 | `02.01.B.A3` | [Apply basic anonymisation techniques](TSC-02-B-Prompt-Design/apply-basic-anonymisation-techniques.md) |
+| A4 | `02.01.B.A4` | [Follow troubleshooting procedures](TSC-02-B-Prompt-Design/follow-troubleshooting-procedures.md) |
+| A5 | `02.01.B.A5` | [Fundamental prompt elements](TSC-02-B-Prompt-Design/fundamental-prompt-elements.md) |
+| A6 | `02.01.B.A6` | [Identify effective prompt practices](TSC-02-B-Prompt-Design/identify-effective-prompt-practices.md) |
+| A7 | `02.01.B.A7` | [Identify prompt misuses and risks](TSC-02-B-Prompt-Design/identify-prompt-misuses-and-risks.md) |
+| A8 | `02.01.B.A8` | [Compare designs and outputs](TSC-02-B-Prompt-Design/compare-designs-and-outputs.md) |
+
+## Products · living
+
+Deep dives per product, organised by company. Fast-rotting: versions, features, pricing.
+
+| Folder | Product |
+|---|---|
+| [Anthropic-Claude](Anthropic-Claude/README.md) | Claude |
+| [Google-DeepMind-Gemini](Google-DeepMind-Gemini/README.md) | Gemini |
+| [OpenAI-ChatGPT](OpenAI-ChatGPT/README.md) | ChatGPT |
+| [Microsoft-Copilot](Microsoft-Copilot/README.md) | Copilot |
+| [Microsoft-Muse](Microsoft-Muse/README.md) | Muse |
+| [xAI-Grok](xAI-Grok/README.md) | Grok |
+| [Google-NotebookLM](Google-NotebookLM/README.md) | NotebookLM |
+| [Meta-AI](Meta-AI/README.md) | Meta AI |
+| [DeepSeek](DeepSeek/README.md) | DeepSeek |
+| [Perplexity](Perplexity/README.md) | Perplexity |
 
 ## Concepts · durable
 
