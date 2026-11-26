@@ -50,9 +50,11 @@ This bullet is the mechanism. `TSC1-Basic-K03` names the models that implement i
 
 ### What is current as of November 2026
 
-- **The frontier is three families at very different prices** — OpenAI's GPT-6 generation, Anthropic's Claude 5.5 line, Google's Gemini 3.1 Pro and Gemini 4 Argon. Same idea, different temperament, context size and bill.
+- **The frontier is several families at very different prices.** Current frontier models share the idea but differ in temperament, context size and bill.
 - **Post-training does much of the visible work.** The difference a learner feels between two assistants is often how eagerly it refuses, how much it flatters, whether it shows its working — trained behaviour, not architecture.
 - **Reasoning traces went mainstream.** Several models expose a thinking pass before answering. Useful in class, but the trace is generated text, not a readout of the model's internals. Do not present it as the model's true reasoning.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

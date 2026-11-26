@@ -66,10 +66,12 @@ Two adjacent patterns are worth naming because they hide inside the first seven:
 
 Two misuses have become materially more dangerous in the past two years, and two have become easier to manage.
 
-- **Indirect injection is live.** With browser-using and tool-using assistants in ordinary workflows, text the model reads on your behalf — an email, a web page, a shared document — can carry instructions. The GPT-6 generation, Claude 5.5, Gemini 3.1 Pro and Gemini 4 Argon are all more resistant than their predecessors and none is immune. Delimiters, data-only declarations and least-privilege tools are the controls a non-engineer can apply.
+- **Indirect injection is live.** With browser-using and tool-using assistants in ordinary workflows, text the model reads on your behalf — an email, a web page, a shared document — can carry instructions. Current frontier models are all more resistant than their predecessors and none is immune. Delimiters, data-only declarations and least-privilege tools are the controls a non-engineer can apply.
 - **Shadow AI is the common leak.** The realistic privacy incident is not an attack; it is a staff member pasting a client file into a personal account because the corporate tool was slow. The control is a usable approved tool, not a warning slide.
 - **Easier:** structured outputs make unverified formatting errors rarer, and most enterprise tools now log prompts, which makes retrospective review possible.
 - **Unchanged:** decision offloading. The tools got better at sounding authoritative, which makes the temptation worse.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

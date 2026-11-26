@@ -65,6 +65,8 @@ Two things have sharpened. Tooling has improved: several mainstream productivity
 
 The second shift is contractual. More client and vendor agreements now name AI processing explicitly, so the question is no longer only "is this personal data" but "does this agreement permit a third-party model provider at all". The stricter rule wins, and it is usually the contract, not the statute.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"I removed the name, so it is anonymous."* Names are one field. Combination and free text are the rest of the problem.

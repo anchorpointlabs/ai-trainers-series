@@ -56,10 +56,12 @@ At Basic, `TSC9-Basic-K3` introduces guardrails as containment and `TSC9-Basic-K
 
 ### What is current as of November 2026
 
-The control set is stable; the balance has shifted. Vendors now train instruction hierarchies that make crude overrides less effective, and the late-2026 frontier — OpenAI's GPT-6 generation (Astra, Sol, Luna, 6.1 Sol, 6.1 Terra and the security-tuned Cyber), Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and Gemini 4 Argon — is markedly better at treating retrieved text as data rather than orders. Meanwhile agents with tools have made the deterministic layers load-bearing.
+The control set is stable; the balance has shifted. Vendors now train instruction hierarchies that make crude overrides less effective, and current frontier models are markedly better at treating retrieved text as data rather than orders. Meanwhile agents with tools have made the deterministic layers load-bearing.
 
 - **Containment matters more than refusal.** The interesting question is what the system cannot do, not what it declines to say.
 - **Test suites are commoditised.** Open attack harnesses make coverage cheap; deciding pass criteria is the remaining skill.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

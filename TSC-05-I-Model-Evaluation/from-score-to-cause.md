@@ -64,6 +64,8 @@ If only one probe moves the failures, you have found the stage. If none do, your
 
 Error analysis as a named practice has become standard rather than artisan: teams keep a failure taxonomy per product and label every evaluation run against it, so the categories accumulate evidence over time. Agent pipelines now emit traces with a span per step, which makes localisation much easier — you can see whether the failure happened in the retrieval call, the tool call or the final synthesis. Judge models are increasingly used to *triage* failures into candidate categories, with a human confirming; the rule that has settled is that machine clustering proposes and humans name.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"Low score, so swap the model."* Most failures in a generative application are not model failures.

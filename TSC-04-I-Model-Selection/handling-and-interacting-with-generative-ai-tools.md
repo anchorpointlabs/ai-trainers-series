@@ -50,11 +50,13 @@ That is also why "handling" is a selection skill. Much of what looks like model 
 
 ### What is current as of November 2026
 
-The 2026 tools — OpenAI's GPT-6 generation, Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and Gemini 4 Argon — have changed the handling experience in three ways:
+Current frontier tools have changed the handling experience in three ways:
 
 - **Reasoning modes changed the timing.** A thinking mode can pause for many seconds before the first visible token. If you assume the request has hung and resend it, you pay twice and get two answers.
 - **Structured output and tool calling are configuration, not prose.** The reliable pattern is a schema, not a paragraph asking nicely for JSON.
 - **Caching rewards prompt structure.** Static content at the front of the payload unlocks input discounts; content that changes per request at the front destroys them. That is a handling habit with a price tag.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

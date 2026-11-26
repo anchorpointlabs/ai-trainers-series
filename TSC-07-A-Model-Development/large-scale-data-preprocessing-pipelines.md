@@ -55,6 +55,8 @@ Three design decisions determine almost everything downstream.
 
 Two shifts. First, GPU-accelerated dataframe and tokenisation libraries have moved the expensive stages — tokenising, embedding for dedupe, classifier scoring — onto accelerators, changing the economics of a re-run. Second, documentation of pre-training data mixtures has become a differentiator for the labs, and the practical lesson for everyone else is that dataset versioning and per-stage rejection logs are now expected engineering practice rather than good intentions.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"Cleaning is a one-off job before training."* It is a pipeline that runs every time the corpus or the model changes.

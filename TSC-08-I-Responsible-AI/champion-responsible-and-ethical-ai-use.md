@@ -54,9 +54,11 @@ The second half is building rather than objecting. A ban on consumer AI tools wi
 
 ### What is current as of November 2026
 
-The stakes have risen in a way that helps the champion's argument. Agentic systems act — the current generation (GPT-6 Astra, Sol, Luna, 6.1 Sol, 6.1 Terra, Cyber; Claude 5.5; Gemini 3.1 Pro; Gemini 4 Argon) can call tools, browse, and change records — so "what can it do without asking" is now a question a risk committee understands immediately. Shadow AI remains the main leak, and procurement has become the highest-leverage control point: one clause in a vendor contract covers every future use of that tool.
+The stakes have risen in a way that helps the champion's argument. Agentic systems act — current frontier models can call tools, browse, and change records — so "what can it do without asking" is now a question a risk committee understands immediately. Shadow AI remains the main leak, and procurement has become the highest-leverage control point: one clause in a vendor contract covers every future use of that tool.
 
 Singapore's environment is unusually favourable for this role. The IMDA frameworks give a shared vocabulary, AI Verify and Project Moonshot give cheap evidence, and sector regulators give the argument teeth without requiring the champion to win a philosophical debate.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

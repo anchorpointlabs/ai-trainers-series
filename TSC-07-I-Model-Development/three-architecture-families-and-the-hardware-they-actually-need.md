@@ -49,6 +49,8 @@ Every generative model learns a distribution and samples from it. The families d
 - **Quality is now won at inference, not architecture.** Distillation into few-step samplers moved the engineering problem from training a model to serving one cheaply.
 - **Capacity planning beats price comparison.** Accelerator generations turn over faster than procurement cycles, so teams reserve for a class of GPU and treat spot instances with resumable checkpoints as normal practice.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"GANs are obsolete."* They remain the fast option for super-resolution, avatars and synthetic data, training in a fraction of the time.

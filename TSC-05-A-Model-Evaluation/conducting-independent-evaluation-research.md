@@ -57,6 +57,8 @@ Four properties make a claim research-grade. **Specified**: population, task, ve
 
 Independent evaluation research is more feasible than ever: API access to frontier models is cheap relative to a decade ago, open harnesses exist, and vendors publish rubrics and judge disclosures that give an outsider something to test. The countervailing pressure is contamination — once a finding is published it can enter a training set, so research increasingly publishes *procedures* and held-out sets rather than fixed items. The most-cited work of the period is less about a new metric than about showing an existing metric measured the wrong thing.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"Research needs a lab and a grant."* It needs a question, a protocol, and the discipline to report what happened.

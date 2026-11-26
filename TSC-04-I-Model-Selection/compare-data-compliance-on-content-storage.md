@@ -52,11 +52,13 @@ The comparison is not "which vendor is compliant" — no vendor is compliant in 
 
 ### What is current as of November 2026
 
-For the 2026 frontier — OpenAI's GPT-6 generation, Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and Gemini 4 Argon — the practical landscape:
+With current frontier models, the practical landscape:
 
 - **Regional endpoints are now standard for enterprise tiers, not premium add-ons.** Singapore-region processing is available across the major vendors; the consumer tiers remain less predictable.
 - **Zero-retention and no-training terms are negotiated, not assumed.** They exist at enterprise tier under a data processing agreement, and the default consumer behaviour is different.
 - **Agentic features widened the data flow.** Tool calls, browsing and file analysis send content further than a chat completion did, so the scope of a residency review now includes every tool a model can reach.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

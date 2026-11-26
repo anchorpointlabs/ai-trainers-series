@@ -66,6 +66,8 @@ The Advanced skill is writing that as a decision memo a non-specialist can follo
 - **Graph retrieval is justified by question shape**, typically compliance, supplier and case-history work, not by ambition.
 - **Managed retrieval services hide the machinery**, which makes the trade-off conversation easier to have and easier to get wrong: the defaults are invisible.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"Hybrid plus reranker is best practice for everyone."* It is the best default for lookup over changing documents. For a stable manual and low volume, whole-document paste is simpler and better.

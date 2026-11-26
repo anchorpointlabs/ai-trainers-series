@@ -56,10 +56,12 @@ Three consequences follow, and each is a business consequence rather than a tech
 
 ### What is current as of November 2026
 
-- **The generative side consolidated into chat products; the discriminative side did not.** A learner's whole experience of "AI" is now a chat window on a frontier model from OpenAI's GPT-6 generation, Anthropic's Claude 5.5 line, or Google's Gemini 3.1 Pro / Gemini 4 Argon. The fraud model in the back office has not changed shape, and it is still doing most of the measurable work.
+- **The generative side consolidated into chat products; the discriminative side did not.** A learner's whole experience of "AI" is now a chat window on a current frontier model. The fraud model in the back office has not changed shape, and it is still doing most of the measurable work.
 - **Language models are being used as classifiers, with mixed results.** For messy unlabelled text — complaint triage, contract type detection — a prompted model with a schema is often the fastest route to a first working system. For high-volume, stable, labelled tasks, a trained classifier is cheaper per call and far easier to defend in an audit.
 - **Multimodality widened the generative side.** Image, video and voice are separate model families with separate interfaces — the same category as text generation, not modes of the chatbot. Their failure patterns are visual rather than factual.
 - **Agentic products made "act" a third category.** Decide, create, act. Learners meet all three in one interface, which is exactly why the distinction has to be taught rather than assumed.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

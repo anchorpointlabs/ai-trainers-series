@@ -55,8 +55,10 @@ Bullet 3 (`TSC3-Advanced-K3`) is the optimisation loop this bullet makes honest;
 ### What is current as of November 2026
 
 - **Model-as-judge is now the practical grader** for qualities that resist rules — faithfulness, tone, completeness — when it is given a rubric and a scale. It is also a known source of bias toward its own family's style, which is why paired human checks on a sample still matter.
-- **Evaluation moved into the delivery pipeline.** Running the test set on every prompt change, and on a sample of live traffic, is ordinary practice rather than a quarterly exercise. With the late-2026 frontier models (GPT-6 generation, Claude 5.5, Gemini 3.1 Pro, Gemini 4 Argon) changing behaviour across versions, an untested prompt is an unpinned dependency.
+- **Evaluation moved into the delivery pipeline.** Running the test set on every prompt change, and on a sample of live traffic, is ordinary practice rather than a quarterly exercise. With current frontier models changing behaviour across versions, an untested prompt is an unpinned dependency.
 - **Public benchmarks stopped being a proxy.** Leaderboard position does not predict performance on your twenty inputs. Local evaluation is the only evidence that transfers.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

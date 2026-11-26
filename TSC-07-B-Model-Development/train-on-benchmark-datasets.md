@@ -64,6 +64,8 @@ Benchmarks have become contested ground. Saturation is the norm — many classic
 
 For a Basic class this changes the framing but not the exercise. The benchmark is a *teaching track*, not a leaderboard entry. Use a small, well-documented dataset, run the full loop, and be explicit that a good number here proves the pipeline works — not that the model is good.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"A benchmark score tells me if my model is good."* It tells you how it did on that benchmark. Whether that transfers is a separate question you have to test.

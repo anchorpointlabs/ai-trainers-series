@@ -58,6 +58,8 @@ The loop is short and should be habitual: **probe → find → intervene → re-
 
 Two developments matter for practice. First, **guardrail disparity is now a recognised problem in its own right** — as deployments widened across dialects and languages in Southeast Asia, teams found that moderation and refusal behaviour varied substantially by how a person writes, which turned "test the guardrail against the base model" into standard practice. Second, **bias evidence has become a procurement question**: buyers increasingly ask for disaggregated results and a documented limitations section rather than a vendor assurance. The technical mitigation menu has not changed much; what changed is that unevidenced claims no longer survive the conversation.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"Remove the demographic attribute and the bias goes away."* The model infers group membership from names, dialect, postal codes and writing style.

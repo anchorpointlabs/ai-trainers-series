@@ -50,10 +50,12 @@ Testing answers one question for the person signing off: what evidence is there 
 
 ### What is current as of November 2026
 
-Testing tooling has matured faster than testing practice. Open-source attack harnesses and prompt-evaluation frameworks now let a team run a few hundred known attacks as a pipeline step, and the frontier models of late 2026 — OpenAI's GPT-6 generation (Astra, Sol, Luna, 6.1 Sol, 6.1 Terra and the security-tuned Cyber), Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and Gemini 4 Argon — are the usual targets for those suites.
+Testing tooling has matured faster than testing practice. Open-source attack harnesses and prompt-evaluation frameworks now let a team run a few hundred known attacks as a pipeline step, and current frontier models are the usual targets for those suites.
 
 - **Automated suites catch regressions, not novel attacks.** They are a spell-checker: useful every time, never proof of correctness.
 - **Evaluation is now the bottleneck, not generation.** Anyone can produce a hundred test inputs in a minute; deciding which outputs are acceptable still needs a human holding the policy.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

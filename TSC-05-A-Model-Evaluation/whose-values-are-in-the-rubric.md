@@ -53,7 +53,9 @@ A Singapore bank evaluating a service assistant rewards "concise, direct, profes
 
 ### What is current as of November 2026
 
-Multilingual quality remains uneven in ways vendors rarely advertise: the flagship lines (GPT-6.1 Sol and Terra, Claude 5.5, Gemini 3.1 Pro and 4 Argon) are strongest in high-resource languages and on English benchmarks, and regional variety — Singlish, Manglish, Tamil-English code-switching — is a known soft spot a Singapore evaluation must test directly. The second shift is that model policy is now regional: the same product can refuse different requests in different markets, so an evaluation run in one jurisdiction does not describe the system your users meet.
+Multilingual quality remains uneven in ways vendors rarely advertise: current frontier models are strongest in high-resource languages and on English benchmarks, and regional variety — Singlish, Manglish, Tamil-English code-switching — is a known soft spot a Singapore evaluation must test directly. The second shift is that model policy is now regional: the same product can refuse different requests in different markets, so an evaluation run in one jurisdiction does not describe the system your users meet.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

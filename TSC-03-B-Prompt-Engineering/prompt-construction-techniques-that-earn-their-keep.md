@@ -61,6 +61,8 @@ Three shifts have changed the selection calculus. Reasoning-capable models now e
 
 What has not changed: models still follow literal instructions more faithfully than rhetorical ones, which is why injecting rules beats assigning a persona on every current frontier family.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"Few-shot always beats zero-shot."* It beats it on format and house conventions, and loses to a clear instruction plus a schema on wide-variety inputs.

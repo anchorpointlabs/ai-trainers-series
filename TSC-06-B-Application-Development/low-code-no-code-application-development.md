@@ -56,6 +56,8 @@ The category has split in two, and trainers should say so.
 - **Classic low-code** — Power Platform, AppSheet, Airtable, Retool, Zapier, Make, n8n — added model calls as a standard step. The workflow builder is now the most common place a Singapore SME actually deploys generative AI.
 - **Prompt-to-app builders** — Lovable, Bolt, v0, Replit and the app-generation features inside the major assistants — moved from producing snippets to producing a working front end from a paragraph. That is the "vibe coding" wave: the demo became trivial and the production question got harder.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"No-code means no engineering."* It means the platform vendor did the engineering, invisibly. The limits are real and not yours to fix.

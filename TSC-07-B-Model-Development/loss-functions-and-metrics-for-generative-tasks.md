@@ -57,9 +57,11 @@ Metrics are a different species. BLEU compares your output to a reference transl
 
 ### What is current as of November 2026
 
-The industry has largely stopped treating benchmark overlap as evidence of quality. BLEU and ROUGE survive in academic comparison and regression tests, but practitioners working with the GPT-6 generation, Claude 5.5 or Gemini 4 Argon rely on task-specific evaluations and human or model-assisted review — partly because a strong model can produce a fluent paraphrase that scores badly on n-gram overlap while being obviously better.
+The industry has largely stopped treating benchmark overlap as evidence of quality. BLEU and ROUGE survive in academic comparison and regression tests, but practitioners working with current frontier models rely on task-specific evaluations and human or model-assisted review — partly because a strong model can produce a fluent paraphrase that scores badly on n-gram overlap while being obviously better.
 
 Two shifts worth teaching. First, **preference-based evaluation is now standard**: rather than scoring one output, you show two and ask which is better, which is far more reliable than an absolute score. Second, **loss is no longer visible** for closed models — you get outputs and a bill, not a training curve. Basic learners must therefore be able to evaluate without a loss, which is exactly what TSC #5 trains.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

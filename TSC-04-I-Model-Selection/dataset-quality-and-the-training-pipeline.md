@@ -50,11 +50,13 @@ So the pipeline is not plumbing; it is the specification of the model's behaviou
 
 ### What is current as of November 2026
 
-For the 2026 frontier — OpenAI's GPT-6 generation, Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and Gemini 4 Argon — data quality has become the differentiator for organisations, precisely because model quality has converged:
+With current frontier models, data quality has become the differentiator for organisations, precisely because model quality has converged:
 
 - **Fine-tuning tools are commoditised; datasets are not.** Anyone can run an adapter job in an afternoon. Very few teams have a curated, deduplicated, reviewed set of a few thousand domain examples.
 - **Synthetic data generation is a standard first step.** Use it to bootstrap, then have a domain expert rewrite the outputs. Unreviewed synthetic sets are the most common cause of a fine-tune that looks good in the notebook and fails in production.
 - **Data protection expectations tightened.** Personal data in a training set is a PDPA issue with a retention clock; redaction at the transform stage is now normal practice, not optional hygiene.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

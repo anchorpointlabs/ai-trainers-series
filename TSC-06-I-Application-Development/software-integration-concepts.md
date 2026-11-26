@@ -51,6 +51,8 @@ This bullet is the substrate for the level. `TSC6-Intermediate-K5` is integratio
 
 Two shifts. Nearly every provider now exposes an OpenAI-compatible chat endpoint, so switching models is often a change of base URL and model name — loose coupling is cheap in a way it was not in 2024. And the seam itself has standardised: the Model Context Protocol is now the common way to attach tools and data to an assistant. The skill has therefore moved up a level, from "how do I call an API" to "how do I govern the contracts between six services and three models".
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"Integration is an IT problem, not an AI problem."* Every AI failure a user sees is either a model failure or an integration failure, and the second is more common and easier to fix.

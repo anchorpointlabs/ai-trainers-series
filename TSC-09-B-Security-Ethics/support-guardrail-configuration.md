@@ -59,10 +59,12 @@ A trainer should be blunt about the division of labour: the business owns the po
 
 ### What is current as of November 2026
 
-Most guardrail configuration is now form-filling rather than engineering. Enterprise platforms ship policy templates, classifiers and approval workflows, and the model vendors behind the late-2026 frontier — OpenAI's GPT-6 generation (Astra, Sol, Luna, 6.1 Sol, 6.1 Terra and the security-tuned Cyber), Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and Gemini 4 Argon — expose moderation endpoints that can sit beside the model.
+Most guardrail configuration is now form-filling rather than engineering. Enterprise platforms ship policy templates, classifiers and approval workflows, and the vendors behind current frontier models expose moderation endpoints that can sit beside the model.
 
 - **Templates reduce effort and hide assumptions.** A default policy written for a US consumer product is rarely right for a Singapore SME.
 - **Configuration is now versioned.** Rules change; the change should be recorded, with the test that justified it.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

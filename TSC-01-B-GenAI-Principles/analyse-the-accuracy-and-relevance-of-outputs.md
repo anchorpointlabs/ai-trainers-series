@@ -59,6 +59,8 @@ The order matters. Learners check prose quality first because it is the easiest 
 - **Reasoning modes make the check easier and the error more convincing.** A visible chain can be audited step by step, and a chain built on one fabricated premise still reaches a confident wrong answer.
 - **Agentic outputs need a fourth check.** With tool access the output may include actions taken, not just text produced, so accuracy includes "did it do what it said it did" — checked in the system, not the reply. The agentic governance framework (January 2026) assumes this check exists.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"It's well written, so it's probably right."* Prose quality and factual accuracy come from different mechanisms and correlate weakly.

@@ -50,11 +50,13 @@ The method is deliberately modest. Ten to thirty representative cases, a criteri
 
 ### What is current as of November 2026
 
-For the 2026 frontier — OpenAI's GPT-6 generation, Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and Gemini 4 Argon — variation testing has become routine rather than occasional:
+With current frontier models, variation testing has become routine rather than occasional:
 
 - **Within-family differences on narrow tasks are now small.** The gap between tiers on schema extraction or classification is often unresolvable at small sample sizes, which makes price and latency the deciding factors.
 - **Mode variation can exceed version variation.** Fast versus reasoning mode within one model can matter more to your task than the step between two generations.
 - **Vendors refresh snapshots on their own schedule.** With roughly annual retirement cycles, re-testing after an alias update is now a recurring operational task, not a one-off project.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

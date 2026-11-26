@@ -54,9 +54,11 @@ K3 is the automated layer above this one — guardrails decide what reaches a hu
 
 Three changes shape the SOP in practice:
 
-- **Classifiers do the first pass, humans do the tail.** Current frontier models — OpenAI's GPT-6 generation, Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and Gemini 4 Argon — are cheap enough to use as triage engines, so the SOP must now describe how much a reviewer should trust the flag, and what evidence to look at independently.
+- **Classifiers do the first pass, humans do the tail.** Current frontier models are cheap enough to use as triage engines, so the SOP must now describe how much a reviewer should trust the flag, and what evidence to look at independently.
 - **Synthetic content is the flood.** Generated text, images and cloned voices make impersonation and scam the growth categories, which pushes a provenance step (where did this come from, is there a content credential) into the review loop.
 - **Disclosure duties are explicit.** Users must generally be told when they are interacting with an AI system and when content is synthetic, so the SOP covers notification wording, not only removal.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

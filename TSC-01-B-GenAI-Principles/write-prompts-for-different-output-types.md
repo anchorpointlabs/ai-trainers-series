@@ -48,10 +48,12 @@ Two more ideas for this bullet specifically. First, **output type is a decision,
 
 ### What is current as of November 2026
 
-- **One interface, several model families.** A chat product on OpenAI's GPT-6 generation, Anthropic's Claude 5.5 line or Google's Gemini 3.1 Pro / Gemini 4 Argon will route a request to a text model, an image model or a code sandbox on its own. The learner still has to say which artefact they want; the routing is invisible.
+- **One interface, several model families.** A chat product on a current frontier model will route a request to a text model, an image model or a code sandbox on its own. The learner still has to say which artefact they want; the routing is invisible.
 - **Image models moved to natural language.** The tag-soup style belonged to an older generation. Current models respond better to a plain descriptive sentence with a stated medium, and the old quality tags can actively degrade realism.
 - **Video prompts went cinematic.** Current models read camera language — shot size, lens, movement — and understand "slow dolly push-in" better than "make it dynamic". Clip lengths remain short; the prompt has to fit the duration.
 - **Structured output is a first-class feature.** Most APIs accept a schema and chat products will produce a table on request, which makes "ask for the shape you need" practical rather than advanced.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

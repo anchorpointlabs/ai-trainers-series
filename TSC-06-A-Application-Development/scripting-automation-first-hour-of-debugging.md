@@ -63,6 +63,8 @@ Each loop has a different tool. Detection needs probes and thresholds. Isolation
 - **Cost anomaly alerts are as common as latency alerts**, because token spend is now a variable cost that can multiply within an hour.
 - **Prompt and model versioning are prerequisites**, not nice-to-haves: without a version identifier in the log, no trace can be reproduced.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"If it works in the playground, it works in production."* Playground traffic is one user, one phrasing, no concurrency. Production is a distribution.

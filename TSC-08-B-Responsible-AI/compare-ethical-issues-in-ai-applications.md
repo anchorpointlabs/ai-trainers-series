@@ -56,7 +56,9 @@ The reframe that makes this click: you are not comparing *technologies*, you are
 
 Tiering has become semi-formal, which helps and misleads. The EU AI Act's high-risk annex names the categories — biometrics, critical infrastructure, education, employment, essential services including credit and insurance, law enforcement, migration, justice — and Singapore's sector regulators (MAS for financial decisions, HSA for clinical software) impose their own gates. A learner who can map a use onto those categories can talk to a compliance team immediately.
 
-The misleading part: frontier models from OpenAI's GPT-6 generation, Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and Gemini 4 Argon all handle the same low-risk drafting task about equally well, so pilot comparisons between them say nothing about ethical weight. The weight comes from the deployment, not the model card.
+The misleading part: current frontier models all handle the same low-risk drafting task about equally well, so pilot comparisons between them say nothing about ethical weight. The weight comes from the deployment, not the model card.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

@@ -56,7 +56,9 @@ Build the case in four moves.
 
 ### What is current as of November 2026
 
-The advocacy climate has hardened in a useful way. "Responsible AI" claims are now checked: buyers ask for model cards and evaluation results, and the EU AI Act's transparency and high-risk obligations give an advocate a citation rather than a preference. Agentic features have created the sharpest privacy case in years — an assistant with tool access can move data to places no privacy review covered — and the vendors behind those capabilities, OpenAI's GPT-6 generation, Anthropic's Claude 5.5 and Google's Gemini 3.1 Pro and 4 Argon, publish retention and training-use terms that an advocate can quote precisely. In Singapore, PDPC guidance on AI recommendation and decision systems gives the privacy argument a local statutory anchor instead of a foreign one.
+The advocacy climate has hardened in a useful way. "Responsible AI" claims are now checked: buyers ask for model cards and evaluation results, and the EU AI Act's transparency and high-risk obligations give an advocate a citation rather than a preference. Agentic features have created the sharpest privacy case in years — an assistant with tool access can move data to places no privacy review covered — and the vendors behind those capabilities publish retention and training-use terms that an advocate can quote precisely. In Singapore, PDPC guidance on AI recommendation and decision systems gives the privacy argument a local statutory anchor instead of a foreign one.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

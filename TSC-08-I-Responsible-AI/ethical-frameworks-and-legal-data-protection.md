@@ -50,7 +50,9 @@ In Singapore the division is unusually clear. The IMDA framework is voluntary. T
 
 Three things have changed the practical picture. ISO/IEC 42001 certification has become a procurement line item, so "we follow a framework" now needs an audit trail rather than a policy PDF. The EU AI Act is being applied in phases — prohibitions first, general-purpose model duties and high-risk obligations following — which means a Singapore firm selling into Europe needs a dated compliance plan, not a position paper. And Singapore's own tooling has matured: AI Verify and Project Moonshot let a team produce test evidence for the framework's testing dimension instead of asserting it.
 
-Against that, the models themselves move faster than any of these instruments. The GPT-6 generation (Astra, Sol, Luna, 6.1 Sol, 6.1 Terra, Cyber), Claude 5.5, Gemini 3.1 Pro and Gemini 4 Argon each introduce capabilities — long-horizon agency, native tool use — that the frameworks address in general terms only. Where the guidance is silent, the principle still applies; that is exactly when judgement is required.
+Against that, the models themselves move faster than any of these instruments. Current frontier models each introduce capabilities — long-horizon agency, native tool use — that the frameworks address in general terms only. Where the guidance is silent, the principle still applies; that is exactly when judgement is required.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

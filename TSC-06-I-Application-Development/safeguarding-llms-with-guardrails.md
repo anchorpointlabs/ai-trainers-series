@@ -57,6 +57,8 @@ The design principle is **defence in depth with different mechanisms**, not the 
 
 Guardrails have shifted from prompt tricks to infrastructure. They are services now, not sentences: moderation endpoints, content-safety APIs and declarative guardrail frameworks are standard components, and prompt-only safeguards are a convenience layer rather than a control. Prompt injection is treated as an architecture problem — filtering is necessary but insufficient, and least-privilege tools with confirmation gates are where the defence sits. Effectiveness is measured rather than asserted: attack suites and bypass rates are part of procurement.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"We have a system prompt, so we're protected."* A system prompt is a request, not an enforcement. Every serious jailbreak collection defeats prompt-only defences.

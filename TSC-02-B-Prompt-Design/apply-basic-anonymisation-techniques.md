@@ -56,6 +56,8 @@ Two warnings sit on top of all three.
 
 Two shifts. First, guidance has settled on risk-based thinking: the question is not "is this anonymous?" but "how likely is identification in this context, and what else could be joined to it?" That framing is teachable at Basic level and much more useful than a binary. Second, models are better at pattern completion, which raises the stakes on weak masking: give a 2026 frontier model a masked reference plus a job title plus a postal code and it will happily propose a plausible identity. The models are not looking anything up; they are completing a pattern. That is exactly why the human has to be the one deciding whether the pattern is safe.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"No names means anonymous."* Names are one identifier among many.

@@ -52,7 +52,9 @@ Then apply a decision rule and say which one you used: precautionary (act only w
 
 ### What is current as of November 2026
 
-Three live dilemmas define the period. Convenience against control: agents that transact on your behalf — the tool-use layer now standard in OpenAI's GPT-6 generation, Anthropic's Claude 5.5 and Google's Gemini 3.1 Pro and 4 Argon — remove a human from the loop precisely where oversight matters most. Openness against misuse: capable weights released openly distribute both innovation and misuse, and no regulator has resolved which cost is acceptable. Detection against privacy: systems built to spot synthetic media must scan everyone's media, which is a surveillance architecture built for a good reason. A trainer teaching only the 2020 dilemmas (bias in hiring, privacy in training data) is teaching history as though it were current events.
+Three live dilemmas define the period. Convenience against control: agents that transact on your behalf — the tool-use layer now standard in current frontier models — remove a human from the loop precisely where oversight matters most. Openness against misuse: capable weights released openly distribute both innovation and misuse, and no regulator has resolved which cost is acceptable. Detection against privacy: systems built to spot synthetic media must scan everyone's media, which is a surveillance architecture built for a good reason. A trainer teaching only the 2020 dilemmas (bias in hiring, privacy in training data) is teaching history as though it were current events.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

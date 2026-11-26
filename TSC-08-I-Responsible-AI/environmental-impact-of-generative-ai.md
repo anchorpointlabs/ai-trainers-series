@@ -52,9 +52,11 @@ The second thing to teach is that the footprint is not one number. It is energy 
 
 ### What is current as of November 2026
 
-Model tiers are now explicitly priced and positioned for this decision. The GPT-6 generation spans small, mid and frontier variants (Astra, Sol, Luna, 6.1 Sol, 6.1 Terra and the security-tuned Cyber); Anthropic's Claude 5.5 line ships a fast tier alongside the flagship; Google's Gemini 3.1 Pro and Gemini 4 Argon sit at the top of its range. Choosing a tier is now simultaneously a quality, cost and energy decision, and the pricing page is the most reliable public proxy for relative compute per token.
+Model tiers are now explicitly priced and positioned for this decision. The current frontier generation spans small, mid and frontier variants, with a fast tier alongside the flagship and the strongest models at the top of each range. Choosing a tier is now simultaneously a quality, cost and energy decision, and the pricing page is the most reliable public proxy for relative compute per token.
 
 Two shifts matter. First, agentic workflows have made inference volume the dominant term for many teams — a "single task" that used to be one call is now a loop, and loops do not stop when the answer is good enough unless you tell them to. Second, providers now publish sustainability summaries and, in some cases, per-request carbon estimates; they are not yet comparable across vendors, so treat them as directional rather than auditable.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

@@ -55,6 +55,8 @@ The other discipline is statistical honesty. A single slow request is an anecdot
 - **Prompt caching changed the cost model.** For apps with a long, stable system prompt, caching removed most of the repeat cost — provided the prompt never changes.
 - **Latency varies by region**, and a deployment serving Singapore users from a distant region pays a per-request penalty no prompt engineering fixes.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"The model is slow."* Often the model is fine and retrieval is doing a full-table scan, or three calls that could run in parallel are serialised.

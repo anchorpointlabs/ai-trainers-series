@@ -51,8 +51,10 @@ So there are three levers and one ledger. Fewer bits per weight; less work per t
 
 - **4-bit is the default for self-hosted open weights**, not an experiment. Instruction-tuned models in the 8B–70B range are routinely served at 4-bit on one device; the quality loss on ordinary tasks is often small, task-dependent, and never quoted without your own evaluation.
 - **Serving stacks already do the easy wins.** vLLM, TGI and peers ship continuous batching, paged attention and prefix caching by default, so hand-rolled batching is rarely worth building now.
-- **Frontier capability keeps getting cheaper per token.** The GPT-6 generation, Claude 5.5 and Gemini 3.1 Pro compete on price and latency as much as capability, so a local deployment justified on cost alone needs re-checking annually.
+- **Frontier capability keeps getting cheaper per token.** Current frontier models compete on price and latency as much as capability, so a local deployment justified on cost alone needs re-checking annually.
 - **Small on-device models are credible for narrow tasks**, which moves some features from server to phone — and moves the privacy question with them.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

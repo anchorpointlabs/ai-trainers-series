@@ -64,6 +64,8 @@ The Advanced judgement is refusing to force a use case into the wrong shape. A v
 - **Embodied pilots concentrate in logistics, inspection and facilities**, where the task is bounded and the safety case can be written.
 - **Provenance metadata is appearing in publishing and camera workflows**, unevenly, and regulators are watching rather than mandating.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"It will just plug into our ERP."* Only if someone writes and maintains the contract, including the failure path.

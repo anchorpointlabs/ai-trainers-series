@@ -51,9 +51,11 @@ The third part separates a demo from an integration. A model is an unreliable fu
 
 ### What is current as of November 2026
 
-- **Structured output is first-class.** Current APIs — the GPT-6 family, Claude 5.5, Gemini 3.1 Pro — accept a schema and constrain generation to it. Teach that, not the old routine of begging for JSON and regexing it out.
+- **Structured output is first-class.** Current frontier APIs accept a schema and constrain generation to it. Teach that, not the old routine of begging for JSON and regexing it out.
 - **Reasoning modes changed the advice.** The flagships now think before answering, so "think step by step" is redundant or counterproductive; specify outcome, constraints and audience instead. Some reasoning modes no longer expose temperature at all, which breaks older tutorial code.
 - **Prompt caching made long system prompts affordable**, provided the instruction block never changes — which shifts the trade-off in favour of a fuller constitution.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

@@ -64,6 +64,8 @@ The reason to build rather than buy is not that vendors are bad — several are 
 
 Evaluation has consolidated into observability products — tracing, datasets, judges and dashboards in one place — and open harnesses remain popular for teams that need control. The judge is now treated as a component with its own tests rather than a magic scorer. Agentic systems have stretched the shape of the pipeline: the unit is a trajectory with intermediate steps, so the store has to hold spans, not just messages, and the scorers have to ask whether the task completed rather than whether one reply was good. Cost per evaluation run has become a line item, which is why layered scorers (cheap first, expensive last) is now standard advice rather than an optimisation.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"A spreadsheet of prompts is a pipeline."* It has no versioning, no logging and no gate. It is a rehearsal.

@@ -51,8 +51,10 @@ Bullet 3 (`TSC3-Advanced-K3`) is the sequencing that makes diverge-then-converge
 ### What is current as of November 2026
 
 - **Precision became a platform feature.** Where a structured output schema can be supplied, the format is enforced at generation rather than requested in prose. The prompt's job shrank to saying which schema and what belongs in each field.
-- **Reasoning-shaped models collapse diversity by default.** The late-2026 frontier models (GPT-6 generation, Claude 5.5, Gemini 3.1 Pro, Gemini 4 Argon) are tuned to converge on the best answer, which makes them excellent for precision and reluctant for range. Diversity work moved to explicit axes, multiple parallel calls, and sometimes an older or cheaper model.
+- **Reasoning-shaped models collapse diversity by default.** Current frontier models are tuned to converge on the best answer, which makes them excellent for precision and reluctant for range. Diversity work moved to explicit axes, multiple parallel calls, and sometimes an older or cheaper model.
 - **Batch generation made the quantity-then-select pattern cheap.** Generating ten candidates in one request and choosing among them is now normal practice rather than a luxury.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

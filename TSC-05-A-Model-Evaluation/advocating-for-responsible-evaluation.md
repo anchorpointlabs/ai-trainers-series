@@ -57,6 +57,8 @@ Ethics is the reason *you* care. It is rarely the reason the room moves. That is
 
 Procurement has become the most effective lever. Buyers now ask vendors for evaluation evidence — judge identity, rubric, disaggregated results — and a vendor that cannot produce them loses deals, which has done more for evaluation practice in two years than a decade of principles documents. Inside organisations the same shift is visible: evaluation is moving from research courtesy to release gate, and the advocates who succeed made that gate cheap to pass. The failure mode of the period is ethics theatre — a principles statement, a responsible-AI committee, and no change to any checklist.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"Advocacy is compliance."* Compliance answers "may we". Advocacy asks "should we, and can we show it". The second is a design activity.

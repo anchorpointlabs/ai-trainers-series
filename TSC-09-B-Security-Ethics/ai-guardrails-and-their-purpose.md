@@ -50,10 +50,12 @@ A guardrail has three jobs, and it helps to name them separately in class. It **
 
 ### What is current as of November 2026
 
-Guardrails have moved from bespoke engineering to a product feature. Most enterprise AI platforms now bundle input classifiers, output redaction and approval workflows, and the model vendors behind the late-2026 frontier — OpenAI's GPT-6 generation (Astra, Sol, Luna, 6.1 Sol, 6.1 Terra and the security-tuned Cyber), Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and Gemini 4 Argon — ship safety training and moderation endpoints alongside the model. The practical shift for trainers: the question is no longer "can we build a guardrail" but "which of the four kinds do we need, and how do we know it works".
+Guardrails have moved from bespoke engineering to a product feature. Most enterprise AI platforms now bundle input classifiers, output redaction and approval workflows, and the vendors behind current frontier models ship safety training and moderation endpoints alongside the model. The practical shift for trainers: the question is no longer "can we build a guardrail" but "which of the four kinds do we need, and how do we know it works".
 
 - **Configuration replaced construction.** Most teams switch on a classifier rather than train one. That makes testing, not building, the skill.
 - **Guardrails are now the visible part of the product.** Users meet them as refusals. A badly tuned guardrail is a customer-experience problem, not just a security one.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

@@ -57,6 +57,8 @@ A workable rubric has four parts: dimensions, weights, anchors, and a gate. Most
 
 Rubrics have become executable. Because a judge model can be given the rubric as a policy document, the quality of the rubric is now the main lever on evaluation quality — a vague criterion produces a vague judge and a number that looks precise. Teams increasingly split criteria into what a script can assert (format, required fields, citation present, no banned phrases) and what needs judgement (tone, completeness, helpfulness), and run both. Published domain rubrics for support, summarisation and medical writing are now common starting points, and the good ones ship with anchors rather than dimensions alone.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"The criteria are the same for every task."* That is what makes a rubric useless. Grounding matters enormously for a policy question and barely at all for a slogan brainstorm.

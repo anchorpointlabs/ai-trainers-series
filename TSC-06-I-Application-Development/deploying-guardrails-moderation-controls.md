@@ -59,6 +59,8 @@ A guardrail that only blocks will over-block, and an over-blocking guardrail get
 
 Deploying a guardrail is now an integration task rather than a research task. Moderation is a service call: provider endpoints and cloud content-safety APIs cover hate, harassment, self-harm, sexual content and violence out of the box, with per-category scores, cheap enough to run on every request. Guardrail frameworks are standard middleware — declarative policy in front of the model call, handling input rails, output rails and tool-call rails. And prompt-injection detection is treated as necessary and insufficient: classifiers catch the crude attempts, while least privilege and human confirmation catch the rest.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"One moderation endpoint covers everything."* Generic categories miss domain rules: your refund policy, your competitors, your unreleased product names, your PDPA obligations.

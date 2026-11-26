@@ -57,7 +57,9 @@ Recognising is deliberately unambitious. It produces a sentence like "the second
 
 ### What is current as of November 2026
 
-The frontier models of late 2026 — OpenAI's GPT-6 generation, Claude 5.5, Gemini 3.1 Pro and Gemini 4 Argon — hallucinate less on well-grounded tasks and more convincingly on ungrounded ones, because they are better at sounding certain. Two practical consequences. First, unsupported detail is now the dominant issue in workplace use; formatting failures are easy to see and easy to fix, while a confident invented figure passes a casual read. Second, refusals have become less frequent and more specific, so a refusal is now stronger evidence that you asked for something genuinely restricted rather than that the model was confused.
+Current frontier models hallucinate less on well-grounded tasks and more convincingly on ungrounded ones, because they are better at sounding certain. Two practical consequences. First, unsupported detail is now the dominant issue in workplace use; formatting failures are easy to see and easy to fix, while a confident invented figure passes a casual read. Second, refusals have become less frequent and more specific, so a refusal is now stronger evidence that you asked for something genuinely restricted rather than that the model was confused.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

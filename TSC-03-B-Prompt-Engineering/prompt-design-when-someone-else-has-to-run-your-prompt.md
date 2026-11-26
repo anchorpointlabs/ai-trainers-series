@@ -59,6 +59,8 @@ The main shift is that prompts now have somewhere to live. The major assistants 
 
 The second shift is that some of what prompts used to plead for is now enforced by the platform. Structured outputs, tool schemas and system-level instructions move format control out of prose and into configuration. That is good for reliability and dangerous for the learner who believes a well-worded sentence is a guarantee.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"Designing a prompt just means writing it more carefully."* Careful wording with no output spec produces a nicer version of the same variability.

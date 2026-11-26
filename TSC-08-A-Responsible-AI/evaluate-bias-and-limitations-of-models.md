@@ -48,7 +48,9 @@ So the unit of evaluation is the slice, not the model. For each slice you report
 
 ### What is current as of November 2026
 
-Subgroup reporting has moved from virtue to contract term: enterprise buyers now ask vendors for disaggregated evaluation results alongside the model card, and the major providers publish them — OpenAI's GPT-6 generation, Anthropic's Claude 5.5 and Google's Gemini 3.1 Pro and 4 Argon all ship system cards with safety and capability evaluations that a deployer can read before writing their own. In Singapore, Project Moonshot and AI Verify give teams a runnable harness rather than a spreadsheet. The gap that remains is localisation: generic benchmarks do not test Singlish code-switching, Malay or Tamil, so the evaluation set that matters is the one you build.
+Subgroup reporting has moved from virtue to contract term: enterprise buyers now ask vendors for disaggregated evaluation results alongside the model card, and the major providers now all ship system cards with safety and capability evaluations that a deployer can read before writing their own. In Singapore, Project Moonshot and AI Verify give teams a runnable harness rather than a spreadsheet. The gap that remains is localisation: generic benchmarks do not test Singlish code-switching, Malay or Tamil, so the evaluation set that matters is the one you build.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

@@ -56,9 +56,11 @@ The second fact: the interaction is two-way. You send data in (privacy, IP, conf
 
 ### What is current as of November 2026
 
-Two things have changed the risk profile. First, agency: the late-2026 assistants built on OpenAI's GPT-6 generation, Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and Gemini 4 Argon act on tools and browsers by default in many products, so prompt injection is no longer a curiosity about text — it is a route to action. Second, quality: hallucination on ordinary factual questions has fallen enough that learners now meet the failure less often in demos and more often in edge cases, which makes it *harder* to teach because the demo does not misbehave on demand.
+Two things have changed the risk profile. First, agency: the current assistants built on frontier models act on tools and browsers by default in many products, so prompt injection is no longer a curiosity about text — it is a route to action. Second, quality: hallucination on ordinary factual questions has fallen enough that learners now meet the failure less often in demos and more often in edge cases, which makes it *harder* to teach because the demo does not misbehave on demand.
 
 The compensating shifts: enterprise deployments increasingly ship guardrails, provenance metadata and audit logs by default, and vendor terms on retention are more negotiable than they were. The risk has moved from "the model is unreliable" to "the workflow around it has no owner".
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

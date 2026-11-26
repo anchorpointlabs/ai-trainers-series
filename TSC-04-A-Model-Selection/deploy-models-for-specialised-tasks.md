@@ -53,11 +53,13 @@ The rule that separates competent practitioners from enthusiasts: **climb only w
 
 ### What is current as of November 2026
 
-For the 2026 frontier — OpenAI's GPT-6 generation, Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and Gemini 4 Argon — the practical change is that the lower rungs got much stronger:
+With current frontier models, the practical change is that the lower rungs got much stronger:
 
 - **Long context weakened the case for retrieval in small corpora.** A few hundred pages can now be passed directly. The case for retrieval returns as soon as the corpus is large, changes often, or needs per-user access control.
 - **Native tool use and strict structured outputs removed a whole class of glue code.** "It must return valid JSON" is now a configuration flag, not a fine-tuning project.
 - **Adapter hosting is a platform feature.** You can fine-tune and serve without owning GPUs, so the barrier to rung three is now judgement rather than infrastructure.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

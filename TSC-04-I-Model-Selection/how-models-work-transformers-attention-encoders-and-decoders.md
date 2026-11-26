@@ -50,11 +50,13 @@ Generation is autoregressive: predict a probability distribution over the next t
 
 ### What is current as of November 2026
 
-The 2026 frontier — OpenAI's GPT-6 generation, Anthropic's Claude 5.5 line, Google's Gemini 3.1 Pro and Gemini 4 Argon — is decoder-only at the top of every product line, with mixture-of-experts routing as the standard way to get scale affordably. Three points for this bullet:
+Current frontier models are decoder-only at the top of every product line, with mixture-of-experts routing as the standard way to get scale affordably. Three points for this bullet:
 
 - **Everything converged on one interface.** Text, image, audio and code now arrive at the same endpoint, and the modality gap has narrowed for the frontier products — though not closed, and not evenly.
 - **Reasoning became a visible mode.** The same model can answer immediately or think first for thousands of tokens. The architecture did not change; the training and the serving policy did.
 - **Context windows grew faster than effective use of them.** Longer windows are real, but attention over a huge context is expensive and unreliable in the middle. Bigger is not automatically better.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

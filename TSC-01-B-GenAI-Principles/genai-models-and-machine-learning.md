@@ -53,6 +53,8 @@ The distinction that matters commercially is not the nesting but the output type
 
 Three facts to hold: the price range within a single vendor is now about 100x (Claude Fable 5.1 at $10/$50 per million input/output tokens against Haiku 5.5 from $0.10/$0.50, with a 50% batch discount and cache reads at 10% of input price); context windows at the top of the market are a million tokens; and model lifetimes are short. GPT-5.5 was retired from ChatGPT on 14 October 2026. DALL·E was shut down on 12 May 2026. Whisper has been superseded by GPT Transcribe. Any list of model names has a shelf life measured in months.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"AI, machine learning and generative AI are the same thing."* They nest. Most AI in a bank is not generative.

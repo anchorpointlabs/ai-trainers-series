@@ -51,6 +51,8 @@ The three named in the framework come from two different traditions and are ofte
 
 BLEU survives in translation and summarisation reporting but is rarely quoted alone; learned metrics (COMET-style for translation, BERTScore for general text) and pairwise judge preferences have taken over text quality. FID and FVD remain the default for image and video generation papers and remain criticised for exactly the reasons above — practitioners now fix sample size and implementation and report FID alongside a human or model-based preference measure. The bigger shift is that **the headline metric for text is now a judge**, which moves the blind spot from "does not understand meaning" to "inherits the judge's biases". The metric did not get objective; the bias moved.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"BLEU of 40 means the output is 40% correct."* BLEU is not a percentage of correctness. It is an overlap statistic with no absolute meaning.

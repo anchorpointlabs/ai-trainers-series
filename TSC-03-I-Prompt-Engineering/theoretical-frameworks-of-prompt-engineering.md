@@ -58,11 +58,13 @@ A learner who can name which frame they are using, and why, is already ahead of 
 
 ### What is current as of November 2026
 
-Structure-following has improved sharply. The GPT-6 generation, Claude 5.5, Gemini 3.1 Pro and Gemini 4 Argon all honour explicit output contracts far more literally than the models of two years ago, which raises the value of the format slot and lowers the value of the rhetoric slot. Three shifts matter for teaching:
+Structure-following has improved sharply. Current frontier models all honour explicit output contracts far more literally than the models of two years ago, which raises the value of the format slot and lowers the value of the rhetoric slot. Three shifts matter for teaching:
 
 - **Reasoning tiers make the reasoning frame optional.** Models that deliberate internally can be *hurt* by a forced "think step by step" plus heavy worked examples — the scaffolding competes with their own process and adds latency. Teach the frame as a tool for ordinary chat models, and teach when to drop it.
 - **Caching rewards the assembly order.** With prompt caching, static frames at the front and variable data at the back are cheaper and faster on repeat calls, which turns a stylistic preference into an economic one.
 - **Dialects persist.** Claude models respond well to XML tags; GPT-line models to Markdown headings and JSON schemas. The frame travels between families; the punctuation does not.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

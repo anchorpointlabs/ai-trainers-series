@@ -65,6 +65,8 @@ K4 supplies the finding; this bullet closes it. A1 stores the regression case. K
 - **Model upgrades reopen findings.** A finding closed against one model version may reopen against the next, which is why the regression suite is pinned to versions rather than to dates.
 - **Disclosure expectations are rising.** Regulators and customers increasingly expect structured incident and vulnerability handling, not a quietly patched endpoint.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"Fixed in the prompt."* You changed a preference, not a boundary; treat it as one layer among several.

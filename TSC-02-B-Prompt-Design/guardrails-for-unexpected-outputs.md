@@ -52,7 +52,9 @@ So guardrails split into two layers, and the split is the actual content of this
 
 ### What is current as of November 2026
 
-The balance has shifted toward the system layer. The late-2026 assistants — GPT-6-generation models, Claude 5.5, Gemini 3.1 Pro and Gemini 4 Argon — increasingly offer enforced structured output, tool permission controls and approval prompts, so a rule that used to be a polite sentence is now sometimes a setting. That is good for reliability and dangerous for understanding: a learner who sees a tidy schema may conclude that the prose no longer matters, when in fact the schema constrains shape and says nothing about whether the content is true. The other 2026 development is the spread of tool-using assistants, which makes the "prompt is not a permission" lesson urgent rather than theoretical.
+The balance has shifted toward the system layer. Current frontier assistants increasingly offer enforced structured output, tool permission controls and approval prompts, so a rule that used to be a polite sentence is now sometimes a setting. That is good for reliability and dangerous for understanding: a learner who sees a tidy schema may conclude that the prose no longer matters, when in fact the schema constrains shape and says nothing about whether the content is true. The other 2026 development is the spread of tool-using assistants, which makes the "prompt is not a permission" lesson urgent rather than theoretical.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

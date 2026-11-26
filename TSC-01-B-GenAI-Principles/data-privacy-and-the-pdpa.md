@@ -53,10 +53,12 @@ The second twist: **"we don't train on your data" is not "your data is safe".** 
 ### What is current as of November 2026
 
 - **Consumer tiers and enterprise terms are different products.** Free and low-cost consumer tiers commonly reserve the right to use inputs for improvement; business tiers and APIs commonly do not. The learner's question is "which tier am I on?", not "is this company trustworthy?".
-- **Enterprise data-processing terms are now standard at the top of the market.** Regional processing, zero retention and customer-managed keys exist across the frontier vendors — OpenAI's GPT-6 generation, the Claude 5.5 line, and Gemini 3.1 Pro / Gemini 4 Argon. They change the risk; they do not change the obligation.
+- **Enterprise data-processing terms are now standard at the top of the market.** Regional processing, zero retention and customer-managed keys exist across current frontier vendors. They change the risk; they do not change the obligation.
 - **Re-identification got cheaper.** Models are very good at joining fragments — a job title, a project name, a block number — and inferring who is meant. A dataset that resisted linkage in 2020 may not resist it now.
 - **Agentic tools widened the disclosure surface.** A tool that reads your mailbox and writes to a shared drive touches personal data at both ends, and the agentic governance framework (January 2026) assumes a privacy review has been done.
 - **Private deployment is a real option.** Open-weight models can run on your own infrastructure, which is often the cleanest answer for data that cannot leave. It is a data-residency answer, not a quality answer.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

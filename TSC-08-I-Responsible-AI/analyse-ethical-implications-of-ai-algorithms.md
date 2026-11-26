@@ -56,9 +56,11 @@ The last one is the test of whether an analysis is real. If no observation could
 
 ### What is current as of November 2026
 
-The analytical surface has widened. Provider evaluations for the current generation — GPT-6 (Astra, Sol, Luna, 6.1 Sol, 6.1 Terra, Cyber), Claude 5.5, Gemini 3.1 Pro and Gemini 4 Argon — are useful baselines but are not an analysis of your system, because they cannot see your corpus, your prompt or your workflow. Regulators increasingly expect a documented assessment rather than a stated conclusion, and ISO/IEC 42001 formalises it as an AI system impact assessment with a risk treatment plan.
+The analytical surface has widened. Provider evaluations for the current generation are useful baselines but are not an analysis of your system, because they cannot see your corpus, your prompt or your workflow. Regulators increasingly expect a documented assessment rather than a stated conclusion, and ISO/IEC 42001 formalises it as an AI system impact assessment with a risk treatment plan.
 
 Agentic systems add a component most templates lack: an action analysis. What can the system change in the world, under what permissions, with what approval, and what is the blast radius of a wrong action. A text-only analysis template will not surface that, and the omission is now the more dangerous one.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

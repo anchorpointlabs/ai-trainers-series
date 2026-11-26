@@ -51,6 +51,8 @@ Evaluation projects fail in three predictable ways, none of them statistical. **
 
 Evaluation moved from research activity to operational function, which changed the leadership job. Programmes now run on a weekly cadence with a standing judged evaluation over production traffic, plus quarterly deeper studies. Model choice has become continuous — a new release from a major vendor every few weeks — so the programme's real product is not a report but a *repeatable comparison* that can be re-run in days. The failure mode of the period is the programme built around one big study, obsolete before it is printed.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"Leading means project management."* Tracking tasks is the smallest part. Framing the question and protecting the team from scope drift is the job.

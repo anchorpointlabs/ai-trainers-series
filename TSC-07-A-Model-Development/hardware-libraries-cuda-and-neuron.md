@@ -47,7 +47,9 @@ This is why the same model, same batch size, same chip count can run at wildly d
 
 ### What is current as of November 2026
 
-Two shifts have consolidated. First, kernel-writing DSLs such as Triton and the newer tile-level languages have become the normal way to write fast custom kernels, which reduced the moat around hand-written CUDA without removing it. Second, accelerator diversity is real: Trainium and Inferentia via Neuron, TPUs via XLA, and a healthy AMD ROCm ecosystem mean most serious teams now test on at least two backends. The serving stacks behind the late-2026 frontier models — the GPT-6 generation, Claude 5.5, Gemini 3.1 Pro and 4 Argon — all depend on custom attention and KV-cache kernels rather than stock framework code.
+Two shifts have consolidated. First, kernel-writing DSLs such as Triton and the newer tile-level languages have become the normal way to write fast custom kernels, which reduced the moat around hand-written CUDA without removing it. Second, accelerator diversity is real: Trainium and Inferentia via Neuron, TPUs via XLA, and a healthy AMD ROCm ecosystem mean most serious teams now test on at least two backends. The serving stacks behind current frontier models all depend on custom attention and KV-cache kernels rather than stock framework code.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

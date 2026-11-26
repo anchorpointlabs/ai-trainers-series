@@ -61,6 +61,8 @@ The Advanced judgement is deciding whether to self-host at all. Self-hosting is 
 - **GPU capacity is rented by the hour and priced by the generation**, so capacity planning is now a monthly financial exercise, not a one-off procurement.
 - **Fine-tuned weights force self-hosting or a managed fine-tune service**, and that is the most common reason teams end up operating a server.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"Self-hosting is cheaper."* Only at sustained utilisation. Idle GPU hours are the most expensive form of caution.

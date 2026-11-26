@@ -56,7 +56,9 @@ K1 is the methodology that gives red teaming its catalogue and acceptance bar. A
 - **Tooling is mainstream.** Open-source attack suites and IMDA's Project Moonshot let a small team run structured campaigns, which raises the floor and lowers the excuse.
 - **Multi-turn and agentic attacks dominate.** Attacks that unfold across a conversation, or that ride a tool chain, are more effective than single clever prompts — and most test suites still under-sample them.
 - **Long context is a weapon.** Very large context windows make many-shot priming practical: dozens of fabricated examples that teach the model, in-context, to comply.
-- **Model refusal improved; the class did not.** GPT-6 generation, Claude 5.5, Gemini 3.1 Pro and Gemini 4 Argon are harder to jailbreak than their predecessors, yet indirect injection and insecure output handling remain engineering problems in the application, not model problems.
+- **Model refusal improved; the class did not.** Current frontier models are harder to jailbreak than their predecessors, yet indirect injection and insecure output handling remain engineering problems in the application, not model problems.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

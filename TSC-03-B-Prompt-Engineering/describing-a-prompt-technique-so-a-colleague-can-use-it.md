@@ -61,6 +61,8 @@ The technique vocabulary has thinned. Several named techniques from the 2023 era
 
 The practical refresh for any team library: delete the cards for techniques that no longer change output, and add one card for the thing that now matters most — how to specify what the model may use as a source.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"If they have the example, they have the technique."* An example without conditions is a trick copied into the wrong situation.

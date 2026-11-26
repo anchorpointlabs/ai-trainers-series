@@ -48,7 +48,9 @@ This bullet is the map. `TSC8-Advanced-K3` is where standards collide across bor
 
 ### What is current as of November 2026
 
-The EU AI Act has moved from text to enforcement: prohibited practices from February 2025, high-risk and general-purpose obligations phasing in, penalties up to EUR 35 million or 7% of global turnover for prohibited uses and 3% for the transparency tier. ISO/IEC 42001 has become the certificate procurement asks for, with the NIST framework as the shared vocabulary in US-facing contracts. And the generative frameworks were rewritten for agents — the IMDA 2024 framework and the 2025 ASEAN expansion now cover tool-using systems, provenance and incident reporting — because the systems shipping in late 2026, OpenAI's GPT-6 generation, Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and Gemini 4 Argon, act rather than merely answer. Their model and system cards are the practical starting point for a deployer's documentation.
+The EU AI Act has moved from text to enforcement: prohibited practices from February 2025, high-risk and general-purpose obligations phasing in, penalties up to EUR 35 million or 7% of global turnover for prohibited uses and 3% for the transparency tier. ISO/IEC 42001 has become the certificate procurement asks for, with the NIST framework as the shared vocabulary in US-facing contracts. And the generative frameworks were rewritten for agents — the IMDA 2024 framework and the 2025 ASEAN expansion now cover tool-using systems, provenance and incident reporting — because current frontier systems act rather than merely answer. Their model and system cards are the practical starting point for a deployer's documentation.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

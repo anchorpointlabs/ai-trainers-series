@@ -47,6 +47,8 @@ This is the ability that operationalises `TSC5-Basic-K4` (limitations) — K4 is
 
 The bias has shifted from *obvious* to *subtle*. Late-2026 models no longer produce the crude stereotypes that earlier generations did — instead, bias shows up as differential *quality*: the model is slightly more careful, more respectful, or more accurate for one group or dialect than another. That makes the counterfactual probe more important, not less, because the failure is now a difference in tone and reliability rather than an overt slur. The other shift: **Singapore's multilingual reality is the test bench** — a model that is excellent in English and weak in Tamil or Singlish is exhibiting a limitation that most global benchmarks never measure.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"I would notice bias if it were there."* Bias is invisible precisely because it is plausible. It is found by probing, not by noticing.

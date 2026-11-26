@@ -63,6 +63,8 @@ Current models need less ceremonial framing than their predecessors did. Role st
 
 What has grown instead is the input element. With long context, the material supplied is often the largest part of the prompt, and the practitioner's skill has moved from writing instructions to labelling inputs: this block is the source, that block is the example, this block is the question.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"A good prompt has all the elements."* A good prompt has the elements the task needs. Filling the form is how prompts become unmaintainable.

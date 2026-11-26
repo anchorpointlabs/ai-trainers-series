@@ -59,9 +59,11 @@ This is the practitioner-level view of `TSC2-Basic-A6` (Prompt Design); see that
 
 ### What is current as of November 2026
 
-Two practices have strengthened and two have weakened. Strengthened: supplying a labelled source and stating an output schema, because current models follow structure far more reliably than rhetoric, and because structured output modes reward specifying shape. Weakened: persona framing and length-as-thoroughness, both of which the current generation of models — the GPT-6 line, Claude 5.5, Gemini 3.1 Pro and Gemini 4 Argon among them — largely ignore in favour of explicit rules.
+Two practices have strengthened and two have weakened. Strengthened: supplying a labelled source and stating an output schema, because current models follow structure far more reliably than rhetoric, and because structured output modes reward specifying shape. Weakened: persona framing and length-as-thoroughness, both of which current frontier models largely ignore in favour of explicit rules.
 
 The newer practice that belongs on the list: **decide what the model may do, not just what it may say.** With tool-using assistants in ordinary workflows, a prompt without a permissions decision is half a design.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

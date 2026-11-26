@@ -47,7 +47,9 @@ This bullet is the plumbing. `TSC5-Basic-K2` (the evaluation criteria) is *what*
 
 ### What is current as of November 2026
 
-The most useful shift is this: **most commercial model evaluation no longer touches a library at all.** When you evaluate GPT-6 Terra or Claude 5.5, you send text to an API and receive text back — no PyTorch, no TensorFlow. The libraries matter for people who *host* open-weight models themselves (loading Llama, Qwen, or Singapore's SEA-LION weights locally). So the honest framing for a Basic class is: "you will meet these names in writing; you will only use them if you later move to self-hosting."
+The most useful shift is this: **most commercial model evaluation no longer touches a library at all.** When you evaluate a current frontier model, you send text to an API and receive text back — no PyTorch, no TensorFlow. The libraries matter for people who *host* open-weight models themselves (loading Llama, Qwen, or Singapore's SEA-LION weights locally). So the honest framing for a Basic class is: "you will meet these names in writing; you will only use them if you later move to self-hosting."
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

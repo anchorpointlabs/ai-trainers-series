@@ -58,7 +58,9 @@ Two failure modes are worth teaching as a pair. **Vagueness** produces a documen
 
 ### What is current as of November 2026
 
-The critique landscape has shifted from "should there be rules" to "these rules do not fit the systems". The EU AI Act's high-risk obligations are being applied through guidance and standards that are still maturing, so much of today's critique is about implementing acts rather than the statute. Singapore's model — voluntary horizontal framework plus statutory teeth in PDPA, MAS, HSA and online-safety law — is increasingly cited as the pragmatic alternative to omnibus legislation, and it deserves critique on its own terms: it depends on regulators reading frameworks as evidence, which is a softer chain than a statutory duty. The clearest gap everywhere is agentic systems: a rule written for a chatbot that answers does not govern an assistant that transacts, and the providers shipping those systems — OpenAI's GPT-6 generation, Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and 4 Argon — are setting de facto norms faster than any legislature.
+The critique landscape has shifted from "should there be rules" to "these rules do not fit the systems". The EU AI Act's high-risk obligations are being applied through guidance and standards that are still maturing, so much of today's critique is about implementing acts rather than the statute. Singapore's model — voluntary horizontal framework plus statutory teeth in PDPA, MAS, HSA and online-safety law — is increasingly cited as the pragmatic alternative to omnibus legislation, and it deserves critique on its own terms: it depends on regulators reading frameworks as evidence, which is a softer chain than a statutory duty. The clearest gap everywhere is agentic systems: a rule written for a chatbot that answers does not govern an assistant that transacts, and the providers shipping those systems are setting de facto norms faster than any legislature.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

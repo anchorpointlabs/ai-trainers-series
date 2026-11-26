@@ -53,6 +53,8 @@ A knowledge graph stores knowledge as triples — subject, predicate, object: *(
 
 Graph-based augmentation has moved from research pattern to product feature. Extraction with a strong model plus schema validation now yields a usable graph from a document set in days, so graph building is a pipeline rather than a consultancy engagement. The hybrid is the default: vendors ship vector-plus-graph retrieval together, making the question "how much graph" rather than "graph or vector". And agentic retrieval changed the loop — a tool-calling model can write and iterate its own traversal, which raises the value of a clean schema and lowers the value of a giant pre-built index.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"A knowledge graph replaces the vector database."* It complements it. Graphs are poor at fuzzy wording; vectors are poor at relations.

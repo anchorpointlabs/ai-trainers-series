@@ -61,7 +61,9 @@ K5 supplies the appetite and register the gates enforce. A5 writes the policies 
 - **The management-system standard is certifiable.** ISO/IEC 42001 gives auditors something to certify, and procurement teams now ask for it, which turns governance from a claim into a document set.
 - **Regulation differentiates by risk.** High-risk obligations, transparency duties for chatbots and synthetic media, and general-purpose model rules now sit alongside sector supervision in finance and healthcare; Singapore's voluntary Model AI Governance Framework sits on top of statutory data-protection enforcement.
 - **Testable artefacts exist.** AI Verify and Project Moonshot give teams something to run at the pre-deployment gate rather than something to assert.
-- **Frontier capability moves the gate.** GPT-6 generation, Claude 5.5, Gemini 3.1 Pro and Gemini 4 Argon make agentic action routine, so the oversight question shifts from "is the output good" to "was the action authorised".
+- **Frontier capability moves the gate.** Current frontier models make agentic action routine, so the oversight question shifts from "is the output good" to "was the action authorised".
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

@@ -55,6 +55,8 @@ Three shifts. **Synthetic data** is now ordinary in post-training and increasing
 
 And **the visible pipeline changed shape**: reasoning models insert a deliberation stage between prompt and answer, search is attached by default in consumer products, and structured outputs let a schema enforce format. A learner who assumes one undifferentiated "AI brain" misreads all three.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"It was trained on everything, including our systems."* Nothing private is in the weights unless you put it there through fine-tuning or retrieval.

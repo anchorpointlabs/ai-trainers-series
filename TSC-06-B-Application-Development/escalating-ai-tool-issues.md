@@ -55,6 +55,8 @@ And a third: the report is an audit trail. When a data incident is reviewed late
 - **Vendors ship support assistants that are confidently wrong.** They resolve many tier-one questions and invent features that do not exist. Verify before quoting one into a ticket.
 - **Deprecation notices arrive by email and need an owner.** A very common escalation in 2026 is an app that broke because a pinned model snapshot was retired on a schedule nobody read.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"Escalating means forwarding the screenshot."* A screenshot has no timestamp, environment or reproduction steps. It is evidence, not a report.

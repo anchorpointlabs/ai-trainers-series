@@ -65,6 +65,8 @@ The build order matters. Teams that start with the mechanism (usually a prompt i
 - **Gateways made policy-as-code practical.** Rules attached to a model endpoint, versioned with the deployment, are becoming the default place to enforce controls.
 - **Red-teaming is a service**, so the standard has risen: a guardrail is expected to survive an independent attempt, not just the team's own examples.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"A prompt instruction is a guardrail."* It is a tendency. It has no measurable rate, no version, and no evidence trail.

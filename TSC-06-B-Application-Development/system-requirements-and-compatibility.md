@@ -55,6 +55,8 @@ The professional habit is to write the target environment down before writing co
 - **Most teams still never run a model.** They call a hosted API, which moves the compatibility question from graphics memory to SDK version, region and quota. Teach both, and say which one your learners will meet.
 - **Containers became the default answer to "works on my machine".** Packaging the app with its runtime removes most of this bullet's pain and is now table stakes in any deployment conversation.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"If it runs on my laptop, it will run on the server."* Your laptop has your versions, proxy settings and admin rights. The server has none of them.

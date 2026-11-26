@@ -53,7 +53,9 @@ This is the systems view of `TSC6-Advanced-K5`, which covers the same ground fro
 
 ### What is current as of November 2026
 
-The integration story of 2025–26 was the normalisation of tool calling and the arrival of agent protocols that let one model call another system's tools without bespoke glue. Robotics moved from demos to supervised pilots in warehouses and labs. On the consumer side, assistant features moved into headsets, phones and cars, pushing inference to the device or a nearby edge node. The frontier models of late 2026 — the GPT-6 generation, Claude 5.5, Gemini 3.1 Pro and 4 Argon — differ less in raw capability than in how well they hold a structured contract over many turns, which is exactly the property an integration depends on.
+The integration story of 2025–26 was the normalisation of tool calling and the arrival of agent protocols that let one model call another system's tools without bespoke glue. Robotics moved from demos to supervised pilots in warehouses and labs. On the consumer side, assistant features moved into headsets, phones and cars, pushing inference to the device or a nearby edge node. Current frontier models differ less in raw capability than in how well they hold a structured contract over many turns, which is exactly the property an integration depends on.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

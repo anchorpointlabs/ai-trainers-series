@@ -63,6 +63,8 @@ K1 supplies the security methodology whose results feed the register. K6 makes t
 - **Sector rules lead.** Financial institutions work to MAS's fairness, ethics, accountability and transparency expectations; clinical AI falls under device regulation. Sector supervisors move faster than horizontal regulators.
 - **Agents changed the risk shape.** A system that can act has an availability and authorisation risk profile that a content-only register misses, so entries now need a tool inventory and a spend cap.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"AI risk is a technical problem."* The technical controls are one input; the decisions are business decisions with a named human owner.

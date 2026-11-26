@@ -51,9 +51,11 @@ This bullet is the mathematical floor under `TSC7-Basic-K1`: GANs, VAEs and tran
 
 ### What is current as of November 2026
 
-The sampling controls are now user-facing product features. "Temperature", "top-p" and "seed" appear in developer consoles for the GPT-6 generation, Claude 5.5 and Gemini 3.1 Pro; diffusion tools expose "steps" and "guidance" instead, which are the same idea wearing different clothes. Reasoning-tuned models have complicated the picture: they spend extra compute on a *search* over possible continuations before answering, which is a form of sampling multiple candidates and selecting among them.
+The sampling controls are now user-facing product features. "Temperature", "top-p" and "seed" appear in developer consoles for current frontier models; diffusion tools expose "steps" and "guidance" instead, which are the same idea wearing different clothes. Reasoning-tuned models have complicated the picture: they spend extra compute on a *search* over possible continuations before answering, which is a form of sampling multiple candidates and selecting among them.
 
 The practical consequence for a Basic class: output variance is now expected, and "it gave me a different answer yesterday" is a statement about sampling, not about the model being broken. Teams that need repeatability set temperature low, fix the seed where the API allows it, and log the settings alongside the output.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

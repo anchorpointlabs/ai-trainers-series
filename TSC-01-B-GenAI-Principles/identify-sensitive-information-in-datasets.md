@@ -65,6 +65,8 @@ Then the part that separates competence from compliance: **the dataset is not th
 - **Enterprise terms change the risk, not the obligation.** Regional processing and zero-retention options reduce exposure and do not convert personal data into anonymous data. The scan still has to happen.
 - **Agentic tools widened the surface.** A system that reads a shared drive and writes to a chat now scans, copies and transmits on its own. The scan must cover what the agent can reach, not only what the user attached.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"I removed the name, so it's anonymous."* Name removal addresses one direct identifier and leaves every quasi-identifier in place.

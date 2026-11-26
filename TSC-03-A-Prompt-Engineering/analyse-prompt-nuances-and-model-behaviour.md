@@ -58,10 +58,12 @@ Bullet 8 (`A1`) is the reverse operation — choosing levers to produce a shape.
 
 ### What is current as of November 2026
 
-Late-2026 frontier models — GPT-6 generation, Claude 5.5, Gemini 3.1 Pro, Gemini 4 Argon — are less sensitive to the theatrical side of prompting than their predecessors. Role-play flattery buys little; explicit rules, supplied sources and a checkable format buy a lot. Two nuances survive and matter more:
+Current frontier models are less sensitive to the theatrical side of prompting than their predecessors. Role-play flattery buys little; explicit rules, supplied sources and a checkable format buy a lot. Two nuances survive and matter more:
 
 - **Sensitivity moved from style to specification.** The model will now infer a reasonable tone from context; it will not infer which four fields you needed in the table.
 - **Model families have dialects.** Some respond best to XML-style tags, others to Markdown headings; reasoning-shaped models degrade when given verbose step scripts. An analysis performed on one family does not transfer as fact to another — it transfers as a hypothesis.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

@@ -57,6 +57,8 @@ Four questions do most of the work. What is the smallest version that still answ
 
 The lag between publication and practice has compressed to months, partly because vendors publish their own evaluation methodology alongside model releases, partly because open harnesses let a new technique be run against your data the week it appears. The scarce skill is no longer knowing the method; it is deciding which of twenty plausible methods earns a permanent slot. Teams that added every technique they read about now run six half-maintained evaluations and trust none.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"Translate means summarise."* A summary is a reading aid. A translation is a runbook, a cost and a failure-mode list.

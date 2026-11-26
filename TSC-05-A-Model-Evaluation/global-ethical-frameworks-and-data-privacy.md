@@ -51,6 +51,8 @@ The privacy questions that matter in practice are narrow and more useful than a 
 
 Two shifts. Assurance has become a procurement requirement: buyers ask vendors for evaluation evidence, and a vendor that cannot produce its judge, rubric and slice table loses the deal — pushing frameworks out of the policy team and into the sales cycle. And the practical centre of gravity has moved from principles to **records**: model cards, evaluation reports, provenance logs, audit trails. The frameworks themselves have not changed much; the expectation that you can show your working has.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"If the data is anonymised, PDPA does not apply."* Anonymisation is a high bar. Pseudonymised records with distinctive details are still personal data.

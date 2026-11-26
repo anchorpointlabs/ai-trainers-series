@@ -56,7 +56,9 @@ Four patterns recur, and trainers should teach them by name.
 
 ### What is current as of November 2026
 
-Two dimensions have become harder to keep separate. The environmental one is now a procurement and reporting question in Singapore, where data-centre efficiency standards and tropical cooling constraints make compute visible to facilities and finance. The socio-political one changed shape with agency: an assistant that acts — as the tool layers in OpenAI's GPT-6 generation, Anthropic's Claude 5.5 and Google's Gemini 3.1 Pro and 4 Argon now do — redistributes authority rather than attention, and consent obtained for "a chatbot that answers" does not cover "an agent that transacts". Culturally, the measurable items are dialect coverage and representation in outputs, which is why localised evaluation sets have become the practical instrument for a dimension that used to be discussed only in prose.
+Two dimensions have become harder to keep separate. The environmental one is now a procurement and reporting question in Singapore, where data-centre efficiency standards and tropical cooling constraints make compute visible to facilities and finance. The socio-political one changed shape with agency: an assistant that acts — as the tool layers in current frontier models now do — redistributes authority rather than attention, and consent obtained for "a chatbot that answers" does not cover "an agent that transacts". Culturally, the measurable items are dialect coverage and representation in outputs, which is why localised evaluation sets have become the practical instrument for a dimension that used to be discussed only in prose.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

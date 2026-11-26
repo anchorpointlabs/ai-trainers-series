@@ -45,9 +45,11 @@ The distinction is what the gradient is allowed to change. In SFT the model is g
 
 ### What is current as of November 2026
 
-- **Mid-training became a named stage.** Labs and serious in-house teams describe a three-stage recipe — pre-train, mid-train, post-train — and the GPT-6 generation, Claude 5.5 and Gemini 3.1 Pro / Gemini 4 Argon all show signs of heavy mid-training for context length and modality.
+- **Mid-training became a named stage.** Labs and serious in-house teams describe a three-stage recipe — pre-train, mid-train, post-train — and current frontier models all show signs of heavy mid-training for context length and modality.
 - **Preference tuning is standard after SFT.** The DPO family, and reinforcement learning against verifiable rewards for reasoning, are now the expected third step rather than an optional extra.
 - **Parameter-efficient tuning is the default for enterprise.** QLoRA-class setups mean a single workstation-class GPU can produce a usable adapter, which has moved the constraint from hardware to data quality.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

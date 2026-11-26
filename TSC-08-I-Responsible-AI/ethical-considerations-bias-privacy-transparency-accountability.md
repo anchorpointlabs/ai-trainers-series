@@ -52,9 +52,11 @@ This bullet is the map of the whole TSC. `TSC8-Intermediate-K3` takes bias to it
 
 The four considerations have moved from the ethics page to the procurement form. Enterprise buyers now ask vendors for a model card, a bias evaluation summary, data-retention terms and an incident-contact clause before signing — which means a developer who cannot produce these artefacts loses the deal, not just the argument.
 
-Frontier providers publish system cards for each release: the GPT-6 generation (Astra, Sol, Luna, 6.1 Sol, 6.1 Terra and the security-tuned Cyber), Anthropic's Claude 5.5 line, Google's Gemini 3.1 Pro and Gemini 4 Argon. Those cards cover the base model. They cannot cover your RAG corpus, your system prompt or your escalation workflow — which is where most deployed bias and privacy harm actually originates.
+Frontier providers publish system cards for each release. Those cards cover the base model. They cannot cover your RAG corpus, your system prompt or your escalation workflow — which is where most deployed bias and privacy harm actually originates.
 
 Two shifts matter for teaching this bullet. Agentic systems make accountability urgent, because the model now acts rather than suggests, so "who approved this action" becomes a real question with a real answer required. And testing has become routine: Singapore's AI Verify and Project Moonshot toolkits let a team run fairness and safety checks as part of a build rather than commissioning a study.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

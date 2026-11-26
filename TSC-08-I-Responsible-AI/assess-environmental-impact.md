@@ -52,9 +52,11 @@ The second idea is that assessment has a boundary. Training is paid once and mos
 
 ### What is current as of November 2026
 
-Tiering has become the practical lever. The GPT-6 generation (Astra, Sol, Luna, 6.1 Sol, 6.1 Terra, Cyber), Anthropic's Claude 5.5 line, Google's Gemini 3.1 Pro and Gemini 4 Argon are each offered at several capability and price points, and price per token remains the most reliable public proxy for relative compute. Publishing a sustainability summary is now normal for providers; publishing it in a comparable unit is not, so cross-vendor comparison is still a judgement call.
+Tiering has become the practical lever. Current frontier models come at several capability and price points, and price per token remains the most reliable public proxy for relative compute. Publishing a sustainability summary is now normal for providers; publishing it in a comparable unit is not, so cross-vendor comparison is still a judgement call.
 
 Two shifts matter. Agentic workflows have multiplied inference volume — a task that was one call is now a loop with retries — so volume estimates written last year are usually too low. And small models have improved sharply on narrow tasks, which means the cheap option is now a defensible engineering choice rather than a compromise.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

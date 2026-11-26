@@ -53,7 +53,9 @@ Four judge biases recur and should be named: **position** (the first option wins
 
 ### What is current as of November 2026
 
-Model-based judging is standard practice, and the discipline has moved to judge governance: pinning versions, disclosing the judge's identity, publishing agreement with human raters. Cross-vendor judging is common precisely to blunt self-preference — Claude 5.5 judging a GPT-6.1 system, Gemini 3.1 Pro as a third seat on contested items. Two live research threads: step-level scoring for agentic trajectories, where the metrics are unsettled, and judge robustness under adversarial pressure, where a system can learn to produce text that scores well without being better.
+Model-based judging is standard practice, and the discipline has moved to judge governance: pinning versions, disclosing the judge's identity, publishing agreement with human raters. Cross-vendor judging is common precisely to blunt self-preference — one vendor's model judging another's system, a rival taking a third seat on contested items. Two live research threads: step-level scoring for agentic trajectories, where the metrics are unsettled, and judge robustness under adversarial pressure, where a system can learn to produce text that scores well without being better.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

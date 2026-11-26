@@ -55,6 +55,8 @@ A second distinction does most of the teaching work: **representational** harm (
 
 Agentic systems widened the surface: an assistant that books, files and pays can produce allocative harm directly, not only through text. Evaluation is consequently moving from content audits to **action audits** — what the agent did, on whose behalf, with what authority, and who bore the cost of a wrong action. Assurance expectations have hardened too: buyers ask for disaggregated results and impact assessments, and a vendor reporting only an average is at a disadvantage in procurement. The methodological weak point is unchanged — measuring the effect on people who never touch the product.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"Societal impact equals a toxicity score."* Toxicity is one narrow, well-instrumented harm. Representation, service quality and labour effects are larger and less measured.

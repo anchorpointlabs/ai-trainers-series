@@ -50,11 +50,13 @@ Adaptability has a discovery problem. You cannot test for a scenario you have no
 
 ### What is current as of November 2026
 
-For the 2026 frontier — OpenAI's GPT-6 generation, Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and Gemini 4 Argon — reliability has become the differentiator precisely because raw capability has converged:
+With current frontier models, reliability has become the differentiator precisely because raw capability has converged:
 
 - **Floating aliases still move.** Vendors refresh the model behind a name with little notice. Reliability engineering now means pinning a dated snapshot and scheduling deliberate re-evaluation, not trusting the endpoint to stay still.
 - **Reasoning modes changed the variance profile.** A thinking mode trades repeatability and latency for accuracy on hard tasks; a fast mode is steadier and shallower. Reliability testing must specify which mode was tested.
 - **Refusal behaviour is a live procurement issue.** Safety tuning tightened across the major vendors, and false refusals on legitimate professional content (clinical, legal, security) are now a common reason a technically strong model is rejected.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

@@ -56,7 +56,9 @@ A team that optimises throughput and calls it performance will ship a faster sys
 
 ### What is current as of November 2026
 
-Serving has become the competitive battleground. Prefix caching, paged KV caches, speculative decoding and 8-bit or 4-bit weights are defaults in current serving stacks rather than clever tricks, and most providers price by cached versus uncached input tokens, which makes prompt structure a cost decision. The late-2026 frontier models — the GPT-6 generation, Claude 5.5, Gemini 3.1 Pro and 4 Argon — are marketed heavily on latency and price per token, so a team that has not instrumented its own p95 is negotiating blind.
+Serving has become the competitive battleground. Prefix caching, paged KV caches, speculative decoding and 8-bit or 4-bit weights are defaults in current serving stacks rather than clever tricks, and most providers price by cached versus uncached input tokens, which makes prompt structure a cost decision. Current frontier models are marketed heavily on latency and price per token, so a team that has not instrumented its own p95 is negotiating blind.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

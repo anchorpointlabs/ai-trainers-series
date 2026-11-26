@@ -51,7 +51,9 @@ The line to teach is **faithfulness versus plausibility**. A plausible explanati
 
 ### What is current as of November 2026
 
-Reasoning models made traces a product feature: GPT-6.1 Sol and Terra, Claude 5.5 and Gemini 3.1 Pro all expose some form of reasoning summary, and each describes it as a summary. Explanations are now abundant and cheap, so the scarce skill has moved from generating one to testing one. The second shift is regulatory: assurance conversations now ask how a system reached an output, not just how accurate it is, and "the model said so" no longer survives a procurement review.
+Reasoning models made traces a product feature: current frontier models all expose some form of reasoning summary, and each describes it as a summary. Explanations are now abundant and cheap, so the scarce skill has moved from generating one to testing one. The second shift is regulatory: assurance conversations now ask how a system reached an output, not just how accurate it is, and "the model said so" no longer survives a procurement review.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

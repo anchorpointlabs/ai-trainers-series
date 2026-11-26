@@ -62,6 +62,8 @@ The surfaces a GenAI developer actually meets:
 
 Toolchain compatibility has become a bigger share of the work, not a smaller one. Assistant tooling is embedded everywhere — editors, CI platforms, issue trackers and cloud consoles — each with its own auth model and its own way of failing quietly, so the number of integration points per developer has gone up. Protocols reduced one class of problem: MCP-standardised tool connections mean "this assistant cannot see that system" now has a common shape and a common fix. Version churn remains the top cause, because the major SDKs still ship breaking changes on a cadence shorter than most organisations' upgrade cycles.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"It's a bug in the AI tool."* Usually it is a credential scope, a network path, or a version. The tool is the visible symptom.

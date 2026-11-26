@@ -61,6 +61,8 @@ Four families cover nearly everything:
 
 Log reading is easier and more necessary at once. Structured errors are standard — nearly every provider returns a typed error object with a machine-readable code, and OpenAI-compatible endpoints made the shapes similar enough for one handler to cover several vendors. Tracing tools now show the whole chain: each stage, its input, its tokens and its latency, so the skill has shifted from parsing text to reading a waterfall. And context windows grew, which removed some 400s and replaced them with a quality failure — attention diluted across 200,000 tokens of retrieved text — that carries no error code at all.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"The error message tells you what's wrong."* It tells you the layer. The structured fields tell you the cause.

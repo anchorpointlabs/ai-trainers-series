@@ -54,9 +54,11 @@ The analysis has two halves, and teams only do the first. **Performance** — do
 
 ### What is current as of November 2026
 
-Multilingual coverage has improved substantially and remains uneven. The current frontier generation — GPT-6 (Astra, Sol, Luna, 6.1 Sol, 6.1 Terra, Cyber), Claude 5.5, Gemini 3.1 Pro and Gemini 4 Argon — handles major languages well, Malay and Tamil competently in formal registers, and Singlish inconsistently unless prompted or given examples. Voice models have improved on accented English and still degrade for elderly speakers and for dialect.
+Multilingual coverage has improved substantially and remains uneven. Current frontier models handle major languages well, Malay and Tamil competently in formal registers, and Singlish inconsistently unless prompted or given examples. Voice models have improved on accented English and still degrade for elderly speakers and for dialect.
 
 What has changed cheaply is localisation: fine-tuning a small model on a few hundred local examples is now an afternoon's work, which removes the old excuse that localisation was unaffordable. What has not changed is measurement: no provider ships a Singlish or dialect evaluation, so a team that does not build one is flying blind on exactly the population this bullet is about.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

@@ -47,6 +47,8 @@ This bullet explains *why* `TSC5-Basic-K3` (qualitative evaluation) has to be st
 
 Two developments sharpen this. First, **LLM-as-a-judge has scaled the problem** — organisations now grade thousands of outputs with a model instead of a person, and that judge has its own versions of every human bias (verbosity bias, self-preference, order bias). The principles of human judgement did not go away; they migrated into the judge. Second, **the fluency gap has closed** — late-2026 models are all fluent, so fluency bias can no longer separate good from bad at all, which makes *trained* human judgement more valuable, not less.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"I'm evaluating it, so my judgement is objective."* Your judgement is a biased instrument; the question is whether you have calibrated it, not whether you are fair-minded.

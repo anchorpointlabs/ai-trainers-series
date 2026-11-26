@@ -47,6 +47,8 @@ This is the ability that operationalises `TSC5-Basic-K6` (ethical considerations
 
 The headline shift is **deception has become the dominant concern.** Late-2026 models generate voice, image and text that are effectively indistinguishable from human work, so "is this real" is now the most common ethics question a Singapore office asks — synthetic endorsements, deepfake clips, AI-written reviews. Privacy is the second: as models get better at memorising and reproducing, the risk of a personal detail surfacing in an output grows, and PDPA turns "it leaked" from an embarrassment into a compliance incident. The scan has moved from a nice-to-have to a pre-send step.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"If it's accurate, it's ethical."* An accurate output can leak data, stereotype a group, or deceive its reader. Accuracy and ethics are different scans.

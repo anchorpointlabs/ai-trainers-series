@@ -59,6 +59,8 @@ HCI has spent decades learning that people are consistent, biased and load-limit
 
 Blind pairwise comparison became the default way to present text quality, largely because it is the only format that survived the arrival of judge models — the same interface works for a human and for a model, and the same biases show up in both. Annotation tooling now ships with rater calibration, gold items and inter-rater statistics as standard rather than bespoke. Multimodal evaluation has pushed interface design forward: side-by-side image and video comparison with synchronised playback, and diff views for edits. The open problem is agentic evaluation, where the rater has to judge a trajectory rather than a reply and the interface has to show steps without drowning the reader.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"Humans are the ground truth."* Humans are the most flexible instrument available and the least stable one. Ground truth is a protocol, not a person.

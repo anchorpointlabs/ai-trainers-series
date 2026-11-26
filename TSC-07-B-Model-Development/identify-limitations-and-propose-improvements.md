@@ -64,6 +64,8 @@ Two shifts make this skill more valuable, not less. First, **frontier models fai
 
 The practical implication for a Basic class: error analysis is no longer the slow part of the work, so there is no excuse for skipping it before proposing a fix.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"It hallucinates, so we need to fine-tune."* Hallucination is a category, not a diagnosis. Retrieval fixes some, data fixes others, and fine-tuning can make it worse.

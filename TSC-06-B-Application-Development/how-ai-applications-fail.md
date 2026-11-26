@@ -47,9 +47,11 @@ There are two failure surfaces and learners consistently conflate them. The **mo
 
 ### What is current as of November 2026
 
-- **Reasoning modes changed the cost profile.** The current flagships — the GPT-6 generation, Claude 5.5, Gemini 3.1 Pro and Gemini 4 Argon — spend hidden tokens thinking before answering. Apps that were affordable on a chat model became slower and dearer after a switch, and the visible symptom is a timeout, not a bill.
+- **Reasoning modes changed the cost profile.** Current frontier models spend hidden tokens thinking before answering. Apps that were affordable on a chat model became slower and dearer after a switch, and the visible symptom is a timeout, not a bill.
 - **Deprecation is now a routine failure.** Pinned model snapshots retire on a published schedule; an app that worked for a year returns `model_not_found` on a Tuesday with no code change. This is the most under-taught production failure at Basic level.
 - **Guardrails fail in both directions, and region matters.** Content filters refuse benign inputs and miss hostile ones; model availability, latency and data-residency commitments differ by region, so a tutorial written for a US tenant may not reproduce in Singapore.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

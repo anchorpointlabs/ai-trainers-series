@@ -50,10 +50,12 @@ The Basic-level skill is not the framework. It is the habit: a short, specific, 
 
 ### What is current as of November 2026
 
-Two pressures have made this bullet more visible. Regulators expect documented risk management for AI, and enterprise procurement now asks for it — a supplier without a risk register struggles to pass a security review. At the same time the systems being documented have become agentic: the late-2026 frontier, from OpenAI's GPT-6 generation (Astra, Sol, Luna, 6.1 Sol, 6.1 Terra and the security-tuned Cyber) through Anthropic's Claude 5.5 to Google's Gemini 3.1 Pro and Gemini 4 Argon, is routinely connected to tools, so the impact column now frequently involves an action rather than an answer.
+Two pressures have made this bullet more visible. Regulators expect documented risk management for AI, and enterprise procurement now asks for it — a supplier without a risk register struggles to pass a security review. At the same time the systems being documented have become agentic: current frontier models are routinely connected to tools, so the impact column now frequently involves an action rather than an answer.
 
 - **Risk language has been standardised by procurement.** Buyers ask for a register; a scruffy one costs deals.
 - **Agentic risks need an action column.** "What can it do" belongs in the same note as "what could go wrong".
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

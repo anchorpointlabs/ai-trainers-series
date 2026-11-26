@@ -61,6 +61,8 @@ The tooling has matured to the point where **most practitioners never write a di
 
 On the inference side, the shift is decisive. Serving a frontier-scale open model now means a dedicated inference engine with paged attention and continuous batching, not a naive loop over requests. Teams that skip this step discover that their model is fine and their throughput is not.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"More GPUs means proportionally faster."* Communication overhead means eight devices rarely deliver eight times the speed.

@@ -46,8 +46,10 @@ The pipeline is a contract. A given source snapshot, transformation code and con
 ### What is current as of November 2026
 
 - **Dataset versioning became ordinary.** Training-data revision pinning is standard in teams that ship, and lakehouse formats are common for the larger sets.
-- **Pipelines now contain generation stages.** Synthetic augmentation from a strong model — GPT-6 generation, Claude 5.5, Gemini 3.1 Pro — sits as a step with its own validation, which means the pipeline must record model and prompt versions too.
+- **Pipelines now contain generation stages.** Synthetic augmentation from a strong model sits as a step with its own validation, which means the pipeline must record model and prompt versions too.
 - **Data contracts are being asked for.** Upstream teams increasingly publish schema and quality guarantees, because downstream training breaks silently when an export column changes meaning.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

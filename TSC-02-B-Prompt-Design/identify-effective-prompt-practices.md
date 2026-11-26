@@ -58,7 +58,9 @@ That third move is where most of the value sits, and it is the one learners skip
 
 ### What is current as of November 2026
 
-Two shifts make the habits more valuable, not less. First, the late-2026 models — OpenAI's GPT-6 generation, Claude 5.5, Gemini 3.1 Pro and Gemini 4 Argon — are good enough that a vague prompt produces a *plausible* answer almost every time, so the failure is quieter than it used to be and the check matters more. Second, saved instructions and project memory mean habits now persist: a learner who writes a sloppy standing brief has institutionalised it. The practical advice for trainers is to spend the time on the specify-and-check loop rather than on phrasing tricks, because the phrasing gap between models has narrowed while the specification gap between people has not.
+Two shifts make the habits more valuable, not less. First, current frontier models are good enough that a vague prompt produces a *plausible* answer almost every time, so the failure is quieter than it used to be and the check matters more. Second, saved instructions and project memory mean habits now persist: a learner who writes a sloppy standing brief has institutionalised it. The practical advice for trainers is to spend the time on the specify-and-check loop rather than on phrasing tricks, because the phrasing gap between models has narrowed while the specification gap between people has not.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

@@ -56,7 +56,9 @@ The practical technique that closes most of the gap is **shadow mode**: run the 
 
 ### What is current as of November 2026
 
-The gap has narrowed in one direction and widened in another. Narrowed: current models — the GPT-6 generation, Claude 5.5, Gemini 3.1 Pro and 4 Argon — handle messy instructions and structured output well enough that many research methods now work in production with modest engineering. Widened: agentic and long-horizon methods are dramatically harder to make reliable than to demonstrate, because tail failures compound across steps. The teams doing this well share a pattern — a frozen evaluation set, shadow deployment and a rollback that takes minutes.
+The gap has narrowed in one direction and widened in another. Narrowed: current frontier models handle messy instructions and structured output well enough that many research methods now work in production with modest engineering. Widened: agentic and long-horizon methods are dramatically harder to make reliable than to demonstrate, because tail failures compound across steps. The teams doing this well share a pattern — a frozen evaluation set, shadow deployment and a rollback that takes minutes.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

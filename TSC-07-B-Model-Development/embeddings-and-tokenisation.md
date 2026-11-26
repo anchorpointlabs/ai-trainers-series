@@ -53,9 +53,11 @@ Tokenisation is where the compromises live. Too fine (characters) and sequences 
 
 ### What is current as of November 2026
 
-Two things have changed in practice. First, **tokenisation has become a cost and quality issue at the product level**: providers price per token, context windows are quoted in tokens, and multilingual gaps are largely tokenisation gaps — a sentence in Malay or Chinese often consumes noticeably more tokens than the same meaning in English, which is a fairness question as well as a billing one. Second, **embedding models are now a distinct product category**, with dedicated endpoints from the same vendors who sell the GPT-6 generation, Claude 5.5 and Gemini 3.1 Pro, plus strong open-weight options.
+Two things have changed in practice. First, **tokenisation has become a cost and quality issue at the product level**: providers price per token, context windows are quoted in tokens, and multilingual gaps are largely tokenisation gaps — a sentence in Malay or Chinese often consumes noticeably more tokens than the same meaning in English, which is a fairness question as well as a billing one. Second, **embedding models are now a distinct product category**, with dedicated endpoints from the same vendors who sell current frontier models, plus strong open-weight options.
 
 For a Basic class the useful framing is: you will almost never design a tokeniser. You will inherit one, and you need to know its consequences — context limits, cost, multilingual behaviour, and the fact that a model cannot see a character it never tokenised as a character.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

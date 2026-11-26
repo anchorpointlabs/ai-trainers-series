@@ -50,11 +50,13 @@ Customisation also changes the *shape* of inference cost. A fine-tuned small mod
 
 ### What is current as of November 2026
 
-Across the 2026 frontier — OpenAI's GPT-6 generation, Anthropic's Claude 5.5 line, Google's Gemini 3.1 Pro and Gemini 4 Argon — three pricing patterns now hold:
+Across current frontier models, three pricing patterns now hold:
 
 - **Tiering within a family is the norm.** Each vendor sells a fast cheap tier and an expensive reasoning tier of nominally the same generation. Most enterprise volume belongs on the cheap tier, with escalation only for hard cases.
 - **Caching and batch tiers are standard, not premium.** Input caching at a large discount and asynchronous batch at roughly half price are available on every major platform. Teams that ignore them pay double for no benefit.
 - **Reasoning tokens are billed.** A "thinking" mode can multiply the token count for a request while the visible answer stays the same length. Cost models written before reasoning tiers existed understate spend badly.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

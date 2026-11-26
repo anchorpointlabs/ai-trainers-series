@@ -56,9 +56,11 @@ The six questions that do the work:
 
 ### What is current as of November 2026
 
-The decision has shifted from "which model is most capable" to "which is capable enough at an acceptable price". The GPT-6 generation, Claude 5.5 and Gemini 3.1 Pro are all broadly competent at general work; the differentiators that matter in a requirements conversation are context size, latency, tool use, data residency and price per token. Open-weight families — Llama, Qwen, Mistral, SEA-LION — have closed enough of the gap that on-premise and fine-tuned options are routinely viable.
+The decision has shifted from "which model is most capable" to "which is capable enough at an acceptable price". Current frontier models are all broadly competent at general work; the differentiators that matter in a requirements conversation are context size, latency, tool use, data residency and price per token. Open-weight families — Llama, Qwen, Mistral, SEA-LION — have closed enough of the gap that on-premise and fine-tuned options are routinely viable.
 
 The practical consequence: a requirements document that ends in "use the best model" is now the least useful kind. The useful document names the threshold, the constraint and the fallback.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

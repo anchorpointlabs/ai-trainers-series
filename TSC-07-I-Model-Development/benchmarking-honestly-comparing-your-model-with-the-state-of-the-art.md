@@ -45,9 +45,11 @@ A benchmark score is a measurement, and measurements are only comparable within 
 
 ### What is current as of November 2026
 
-- **Public benchmarks saturate fast.** New models from the GPT-6 generation, Claude 5.5 and Gemini 3.1 Pro / Gemini 4 Argon converge at the top of the standard suites within weeks of release, which is why vendors increasingly lead with private evaluations and task-specific results.
+- **Public benchmarks saturate fast.** New frontier models converge at the top of the standard suites within weeks of release, which is why vendors increasingly lead with private evaluations and task-specific results.
 - **Harness standardisation helped and did not solve it.** Running the same open harness is now normal practice, but prompt templates still differ between reports, so cross-paper comparisons remain unreliable.
 - **Crowd preference arenas became a primary signal.** Pairwise human votes on anonymised outputs are widely cited, with the known caveats of style bias, length bias and self-selection.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

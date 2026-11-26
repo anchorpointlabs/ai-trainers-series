@@ -47,6 +47,8 @@ This is the ability that operationalises `TSC5-Basic-K2` (the four criteria) —
 
 The field has consolidated on a caution: **single-number leaderboard scores are treated as marketing, not evidence.** Practitioners now read metrics *in context* — accuracy against *your* task, latency and cost alongside quality, and the p95 worst case rather than the average. The other shift is that **LLM-as-a-judge has partly replaced human scoring**, which means interpreting a metric now often means interpreting a *judge's* score — and knowing the judge's biases (from `TSC5-Basic-K5`) is part of reading it correctly.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"A higher score is a better model."* Only if the metric measures what the task needs and the test set matches reality. A model can top a benchmark and fail your actual job.

@@ -52,10 +52,12 @@ The practical rule for trainers: word choice is a lever on **genre and stance** 
 
 ### What is current as of November 2026
 
-Current models are markedly more literal about structure and less responsive to rhetorical flourishes. The GPT-6 generation, Claude 5.5, Gemini 3.1 Pro and Gemini 4 Argon all follow explicit delimiters and output contracts closely, and all largely ignore "this is very important" as a control signal. Two practical consequences:
+Current models are markedly more literal about structure and less responsive to rhetorical flourishes. Frontier models all follow explicit delimiters and output contracts closely, and all largely ignore "this is very important" as a control signal. Two practical consequences:
 
 - **Dialect still matters.** Claude models are comfortable with XML tags and use them well; GPT-line models read Markdown headings and JSON schemas readily. The same content, retagged, behaves differently across families.
 - **Multilingual quality is uneven and improving.** Major Asian languages are now strong in the frontier models; dialect and code-switched input — Singlish, Manglish, mixed English-Chinese — remains the weak spot, and is exactly what a Singapore classroom will test. Teach the standalone rewrite: restate the request in plain English before sending, or ask for the answer in standard English and localise afterwards.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

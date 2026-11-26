@@ -59,6 +59,8 @@ The defaults have hardened. For supervised fine-tuning of open-weight models, th
 
 Two genuine shifts. First, **bf16 has largely displaced fp16** on modern accelerators because it does not need loss scaling, removing a whole class of beginner bug. Second, **the interesting optimisation problem moved to post-training**: preference-based methods that align a model to human judgements have their own optimisation behaviour, and the frontier labs' advantage increasingly sits there rather than in the pre-training loop.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"Adam is better than SGD."* Adam is more forgiving by default. Well-tuned SGD with momentum still matches or beats it on many vision tasks.

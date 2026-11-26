@@ -73,6 +73,8 @@ The misuse profile has shifted in two directions. Downward: fluent fabrication i
 
 The third shift is quieter: because tools now remember context across a project, a misuse can persist longer than the conversation that created it. A bad instruction saved in a project is a standing misuse.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"These are beginner mistakes."* Experienced users commit 3, 6 and 8 more often, because they are faster and more confident.

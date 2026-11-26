@@ -62,7 +62,9 @@ Then build the dataset in families, so a failure tells you something general rat
 
 ### What is current as of November 2026
 
-The attack surface moved with the products. The dominant risk is no longer a rude chatbot but a tool-using agent that reads untrusted content — indirect injection through a document, an email or a web page, where the model cannot distinguish the operator's instructions from the attacker's. Frontier vendors publish red-team summaries for their own systems (OpenAI's GPT-6 generation, Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and 4 Argon), and those are useful context, not a substitute: they tested their model, not your workflow. Singapore's Project Moonshot remains the accessible local harness, with attack recipes and localised datasets a team can run against its own endpoint.
+The attack surface moved with the products. The dominant risk is no longer a rude chatbot but a tool-using agent that reads untrusted content — indirect injection through a document, an email or a web page, where the model cannot distinguish the operator's instructions from the attacker's. Frontier vendors publish red-team summaries for their own systems, and those are useful context, not a substitute: they tested their model, not your workflow. Singapore's Project Moonshot remains the accessible local harness, with attack recipes and localised datasets a team can run against its own endpoint.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

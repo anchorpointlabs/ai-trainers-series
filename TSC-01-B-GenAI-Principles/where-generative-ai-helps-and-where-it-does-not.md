@@ -57,6 +57,8 @@ Five tests, in order. Run them and the answer is usually obvious in a minute:
 - **The biggest workplace use is transformation, not creation.** In most Singapore offices the value is summarising, restructuring and translating documents that already exist. A course that demonstrates only creative writing misrepresents where the hours are saved.
 - **Regulated sectors now assume a human owner.** MAS guidance on credit decisions and the Model AI Governance Framework for Agentic AI both treat "the AI decided" as no answer at all.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"It's clever, so it works for everything."* Cleverness in language is not competence in arithmetic, law or medicine. The failures are specific, which is good news: they can be taught.

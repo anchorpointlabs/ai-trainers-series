@@ -52,9 +52,11 @@ The second idea is the trust ledger. Trust accumulates slowly through accurate e
 
 ### What is current as of November 2026
 
-Every serious provider now ships a per-release system card — the GPT-6 generation (Astra, Sol, Luna, 6.1 Sol, 6.1 Terra, Cyber), Anthropic's Claude 5.5 line, Google's Gemini 3.1 Pro and Gemini 4 Argon all publish evaluated capabilities and known limitations. That has raised the baseline: enterprise procurement now asks for these documents, and a vendor who cannot produce one is treated as a risk.
+Every serious provider now ships a per-release system card, publishing evaluated capabilities and known limitations. That has raised the baseline: enterprise procurement now asks for these documents, and a vendor who cannot produce one is treated as a risk.
 
 Two shifts complicate the work. Agentic products require a second kind of statement — not only "what it can say" but "what it may do", including which tools it can call and what it can change without approval. And disclosure has become a legal obligation in several jurisdictions, including transparency duties for generative systems under the EU AI Act and Singapore's guidance that people be told in plain language when AI is used in a decision about them.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

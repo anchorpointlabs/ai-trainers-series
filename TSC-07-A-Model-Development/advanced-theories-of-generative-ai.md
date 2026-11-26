@@ -47,7 +47,9 @@ This is the theory behind `TSC7-Advanced-K6` (compute efficiency is the same tra
 
 ### What is current as of November 2026
 
-Attention has moved from "how big can a pre-trained model get" to "how much can be bought at inference time". Reasoning-style models spend extra compute per query, searching over candidates and checking them, so scaling is now decided per request, not only at training time. Frontier systems of late 2026 — the GPT-6 generation, Claude 5.5, Gemini 3.1 Pro and 4 Argon — are also heavily mixture-of-experts, so total and active parameters have quietly decoupled. Any account of scaling that ignores active parameters is now misleading.
+Attention has moved from "how big can a pre-trained model get" to "how much can be bought at inference time". Reasoning-style models spend extra compute per query, searching over candidates and checking them, so scaling is now decided per request, not only at training time. Frontier systems are also heavily mixture-of-experts, so total and active parameters have quietly decoupled. Any account of scaling that ignores active parameters is now misleading.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

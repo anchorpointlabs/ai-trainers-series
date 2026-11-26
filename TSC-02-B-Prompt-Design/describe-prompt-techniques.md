@@ -55,7 +55,9 @@ The fourth part is what classroom descriptions usually omit, and it is what stop
 
 ### What is current as of November 2026
 
-Zero-shot has got much better. The late-2026 frontier models — OpenAI's GPT-6 generation, Anthropic's Claude 5.5 line, Google's Gemini 3.1 Pro and Gemini 4 Argon — follow a precise written instruction far more reliably than their predecessors, so the old advice "always include an example" is now often wasted effort. What stays genuinely hard to describe is house style: the exact label order your team uses, how your organisation writes a date, the brevity of a particular notice. That is where one-shot still earns its place — as a targeted fix for style that resists description, not as a general upgrade.
+Zero-shot has got much better. Current frontier models follow a precise written instruction far more reliably than their predecessors, so the old advice "always include an example" is now often wasted effort. What stays genuinely hard to describe is house style: the exact label order your team uses, how your organisation writes a date, the brevity of a particular notice. That is where one-shot still earns its place — as a targeted fix for style that resists description, not as a general upgrade.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

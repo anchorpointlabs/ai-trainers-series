@@ -53,9 +53,11 @@ Bullet 5 (`TSC3-Advanced-K5`) is the retrieval half of this contrast; Bullet 1 (
 ### What is current as of November 2026
 
 - **Parameter-efficient tuning is the default.** Adapting a model without retraining all of it is routine, which lowered the cost of the narrow-task case considerably.
-- **Distillation became the common commercial motive.** A large frontier model — in late 2026 the GPT-6 generation, Claude 5.5 line, Gemini 3.1 Pro or Gemini 4 Argon — generates high-quality examples; a small tuned model learns to reproduce the behaviour on your task at a fraction of the cost per call.
+- **Distillation became the common commercial motive.** A large current frontier model generates high-quality examples; a small tuned model learns to reproduce the behaviour on your task at a fraction of the cost per call.
 - **Tuning is a product feature, not a research project.** Mainstream providers offer hosted tuning; the limiting factor moved from engineering to data curation and evaluation.
 - **What did not change: the facts rule.** Tuned weights still cannot be edited clause by clause, audited, or permissioned. Every year someone tunes a model on policy PDFs and is surprised in month three.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

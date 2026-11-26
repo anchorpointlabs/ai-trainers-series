@@ -57,9 +57,11 @@ This is the practitioner-level view of `TSC2-Basic-K2` (Prompt Design); see that
 
 ### What is current as of November 2026
 
-Two changes matter. First, the reasoning-heavy models of the current generation — the GPT-6 line, Claude 5.5, Gemini 3.1 Pro and Gemini 4 Argon among them — follow long, conflicting constraint lists noticeably better than their predecessors did, which shifts the practitioner's problem from "will it obey" to "did I ask for the right thing". Second, the folklore tricks have aged badly: capital letters, repetition, flattery and threats were crude ways of adding weight to an instruction, and on current models they are unreliable at best and noise at worst. Structure — headings, numbered rules, a labelled input block — now does the work that shouting used to be asked to do.
+Two changes matter. First, current frontier models follow long, conflicting constraint lists noticeably better than their predecessors did, which shifts the practitioner's problem from "will it obey" to "did I ask for the right thing". Second, the folklore tricks have aged badly: capital letters, repetition, flattery and threats were crude ways of adding weight to an instruction, and on current models they are unreliable at best and noise at worst. Structure — headings, numbered rules, a labelled input block — now does the work that shouting used to be asked to do.
 
 A third, quieter change: longer context windows encouraged people to paste everything. Attention is still not uniform across a very long input, so more material has not made position irrelevant.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

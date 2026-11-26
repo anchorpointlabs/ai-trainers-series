@@ -55,6 +55,8 @@ The chart is also a user interface, which is why this bullet sits next to `K7` i
 
 Evaluation reporting has moved from slide decks to live dashboards, and the good ones default to per-slice views with drift tracked over time rather than a single headline score. Blind side-by-side comparison interfaces — hide the model name, randomise which side is which — have become the standard way to present text quality, partly because they also suit judge models. Multimodal evaluation has pushed visual reporting forward: contact sheets and filmstrips for image and video output, overlaid diff views for edited images. The failure gallery, once an afterthought, is now a fixture of serious eval reports.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"A chart is objective."* Every chart is a set of choices: what to aggregate, what to exclude, which axis to start at.

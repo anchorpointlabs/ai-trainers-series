@@ -58,9 +58,11 @@ The second half of the concept is that mitigation always costs something, and so
 
 Mitigation tooling has consolidated around three practices: disaggregated evaluation suites run in CI, guardrail classifiers sitting in front of and behind the model, and red-team case libraries that grow with every incident. Singapore's Project Moonshot supplies both adversarial test recipes and localised evaluation material, which matters because a fix tuned to an American benchmark can leave the Singlish and Malay cases untouched.
 
-Agents change the risk shape. For an agent, the highest-value mitigations are often permissions rather than filters: least-privilege tool access, an explicit approval step before any state-changing action, and a spend or step limit that stops a loop. The GPT-6 generation (Astra, Sol, Luna, 6.1 Sol, 6.1 Terra, Cyber), Claude 5.5, Gemini 3.1 Pro and Gemini 4 Argon all support tool use, so a mitigation plan that only covers text output is incomplete.
+Agents change the risk shape. For an agent, the highest-value mitigations are often permissions rather than filters: least-privilege tool access, an explicit approval step before any state-changing action, and a spend or step limit that stops a loop. Current frontier models all support tool use, so a mitigation plan that only covers text output is incomplete.
 
 Model swaps also invalidate mitigation. A prompt that fixed a tone problem on one version may not hold on the next, which is why the change-control rule matters more than any individual fix.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

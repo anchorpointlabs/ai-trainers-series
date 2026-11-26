@@ -64,6 +64,8 @@ Procedures have had to absorb two things that did not exist in earlier versions 
 
 Second, agentic actions. When a tool can send, book, pay or delete, a failure is not only a wrong answer — it is a wrong effect. The procedure needs one extra question before any retry: *did anything already happen as a result of that output?* Retrying a draft costs nothing; retrying a completed action can double it.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"Troubleshooting means fixing it."* It means reaching a defensible decision — workaround, escalate, or fix the design. Most failures end in a workaround or a report, not a repair.

@@ -60,6 +60,8 @@ Adjacent techniques worth naming in class, without teaching them in depth: token
 - **Enterprise tiers change the risk, not the obligation.** Data-processing terms, regional processing and zero-retention options reduce exposure; they do not convert personal data into anonymous data.
 - **Free text is the leak.** Comments fields, case notes, email bodies and chat transcripts contain identifiers that no column-level masking touches. In practice this is where anonymisation fails, not in the NRIC column.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"I removed the name, so it's anonymous."* The classic failure. Postcode plus age plus sex re-identifies a large share of a small population.

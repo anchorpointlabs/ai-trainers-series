@@ -67,6 +67,8 @@ Vendors now publish system cards and bias evaluations, and practitioners should 
 
 Reasoning modes have reduced a class of arithmetic and multi-step errors without touching source fabrication — a model that thinks longer still invents a citation with total composure. Multimodal output has opened new bias surfaces that text-only reviewers miss: who is depicted by default, what "professional appearance" looks like, which skin tone the image model returns for "a Singaporean executive". And agentic output has made the stakes asymmetric: an error that is drafted can be caught, an error that was acted on has already happened.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"If it were biased, I would notice."* You notice tone. Bias hides in defaults and omissions, which is why the counterfactual test exists.

@@ -52,10 +52,12 @@ This bullet composes the rest. Bullet 5 (`TSC3-Advanced-K5`) supplies retrieval 
 
 ### What is current as of November 2026
 
-- **Staged pipelines became the default architecture.** With the late-2026 frontier models (GPT-6 generation, Claude 5.5, Gemini 3.1 Pro, Gemini 4 Argon), generating several candidates, checking them against a source and selecting is cheap enough to be routine — the multi-stage strategy that once required engineering is now a few API calls.
+- **Staged pipelines became the default architecture.** With current frontier models, generating several candidates, checking them against a source and selecting is cheap enough to be routine — the multi-stage strategy that once required engineering is now a few API calls.
 - **Structured output made handoffs reliable.** Enforced schemas removed the parsing failures that used to make stage boundaries brittle, which shifted the difficulty from plumbing to deciding what each stage should guarantee.
 - **The innovation frontier moved to verification.** Because anyone can chain three prompts, the designs that stand out are the ones with a real check: entailment against the cited passage, recomputation of a figure, a schema that cannot be satisfied by a guess.
 - **Agents collapsed some pipelines into loops.** Where the model can call tools itself, part of the staging moves inside one agentic loop — better on open-ended tasks, harder to audit, and a reason to keep the verification step outside the loop.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

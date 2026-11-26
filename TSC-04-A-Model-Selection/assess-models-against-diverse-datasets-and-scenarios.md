@@ -48,11 +48,13 @@ The discipline is therefore: **slice before you summarise.** Report per-segment 
 
 ### What is current as of November 2026
 
-The 2026 frontier — OpenAI's GPT-6 generation, Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and Gemini 4 Argon — has made public leaderboards less informative, not more:
+Current frontier models have made public leaderboards less informative, not more:
 
 - **Top models cluster tightly on the classic benchmarks.** The differences that decide a procurement are in latency, price, refusal behaviour and non-English performance, none of which the leaderboard headlines.
 - **Static benchmarks are contaminated by construction.** Test questions have been on the public web for years and are in the training corpora. A high score may measure recall of the answers.
 - **Regional benchmarks finally exist and should be used.** Southeast Asian language and culture evaluations are the honest way to check whether a global number survives contact with a Singapore user base.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

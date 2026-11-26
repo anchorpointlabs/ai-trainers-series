@@ -54,13 +54,15 @@ Instruction-following is a fourth, added property: after pre-training, models ar
 
 ### What is current as of November 2026
 
-The frontier has converged on capability and diverged on economics. The GPT-6 generation (Astra, Sol, Luna, then 6.1 Sol, 6.1 Terra and the security-tuned Cyber), Anthropic's Claude 5.5 line, Google's Gemini 3.1 Pro and Gemini 4 Argon all handle text, image, audio, files and code in one surface, all use tools, and all offer long context. Differentiation now sits in reliability on hard tasks, price per token, context size, latency and deployment posture rather than in "can it".
+The frontier has converged on capability and diverged on economics. Current frontier models all handle text, image, audio, files and code in one surface, all use tools, and all offer long context. Differentiation now sits in reliability on hard tasks, price per token, context size, latency and deployment posture rather than in "can it".
 
 Three teaching-relevant shifts:
 
 - **Reasoning tiers are a separate product decision.** A deliberating model is slower and dearer per answer; for classification and extraction the fast tier is usually the right call. Learners who always reach for the biggest model are paying for deliberation they do not need.
 - **Open-weight models are close enough to matter.** For narrow, high-volume jobs, a small fine-tuned model can match a frontier model at a fraction of the cost, which makes "which model" a genuine engineering question rather than a brand question.
 - **The limits have not moved.** Better models hallucinate less on well-covered topics and just as fluently on the obscure. Grounding, escape hatches and human checking remain the controls, not model choice.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

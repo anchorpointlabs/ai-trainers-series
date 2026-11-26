@@ -66,12 +66,14 @@ A mitigating prompt cannot remove sources one to three. It can stop them being a
 
 ### What is current as of November 2026
 
-The frontier models of late 2026 — the GPT-6 generation, Claude 5.5, Gemini 3.1 Pro and Gemini 4 Argon — are noticeably better than their predecessors at avoiding explicit stereotypes in English when asked directly. Four things remain true:
+Current frontier models are noticeably better than their predecessors at avoiding explicit stereotypes in English when asked directly. Four things remain true:
 
 - **Defaults persist in the long tail.** Common occupations and famous roles are handled; the locally specific — a Singapore SME's operations manager, a part-time mature worker, a dialect-speaking customer — still gets defaulted.
 - **Dialect is still treated as error.** Models will "correct" Singlish toward standard English unless told the register is intentional. For a trainer, that is a live example of bias as a quality judgement.
 - **Generation drifts back.** Image and video models still default to narrow representations of professions and ages, and text models drift back toward the mean when prompts are vague — which is why the neutral rule must be in the prompt, not in the hope.
 - **Over-correction is a failure mode too.** Aggressive balance instructions produce bland, hedged output that names every group and says nothing. Mitigation is not maximal caution.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

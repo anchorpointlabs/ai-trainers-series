@@ -51,7 +51,9 @@ Three ideas carry the shift. **Construct validity**: does the score measure the 
 
 ### What is current as of November 2026
 
-Public leaderboards have lost authority in procurement; private, rotated, human-anchored evaluation has replaced them at organisations that buy seriously. The three flagship lines — GPT-6.1 Sol and Terra, Claude 5.5, Gemini 3.1 Pro and 4 Argon — are now marketed on evaluation practice as much as score: published rubrics, disclosed judge models, per-slice results. Two research preoccupations dominate: agentic trajectory scoring, where nobody is confident the metrics are right, and evaluation of evaluations, where the judge's reliability is measured before its verdicts are used. "Eval-aware" behaviour — a model performing differently when it detects a test — has moved from speculation to documented nuisance.
+Public leaderboards have lost authority in procurement; private, rotated, human-anchored evaluation has replaced them at organisations that buy seriously. The three flagship lines are now marketed on evaluation practice as much as score: published rubrics, disclosed judge models, per-slice results. Two research preoccupations dominate: agentic trajectory scoring, where nobody is confident the metrics are right, and evaluation of evaluations, where the judge's reliability is measured before its verdicts are used. "Eval-aware" behaviour — a model performing differently when it detects a test — has moved from speculation to documented nuisance.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

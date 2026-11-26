@@ -56,6 +56,8 @@ A second skill sits inside this bullet: reading documentation. Vendor docs are s
 - **The assistant is now step one.** Pasting a traceback with context into Claude, ChatGPT or Gemini resolves much of the routine case faster than documentation browsing — and regularly invents parameter names, error codes and documentation pages. Treat the answer as a hypothesis, never a citation.
 - **Documentation search moved into the editor.** Copilot, Cursor and Claude Code read the installed library's own source and docstrings, which is often more accurate than the vendor site for the version you actually have.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"Restart it and hope."* Restarting clears state; it does not tell you what broke. A data point, not a strategy.

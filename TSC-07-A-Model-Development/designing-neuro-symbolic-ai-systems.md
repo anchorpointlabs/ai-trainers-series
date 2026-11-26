@@ -53,7 +53,9 @@ The reason to bother is that a solver gives something a model cannot: a certific
 
 ### What is current as of November 2026
 
-Two developments made this practical. First, current frontier models — the GPT-6 generation, Claude 5.5, Gemini 3.1 Pro and 4 Argon — are reliable enough at structured extraction and at emitting syntactically valid solver code that the translation step is no longer the fragile part; the fragile part is now the requirement itself. Second, solver tooling has become easy to embed (Python bindings, cloud solvers), so neuro-symbolic designs appear in rostering, compliance checking and configuration management rather than only in research labs.
+Two developments made this practical. First, current frontier models are reliable enough at structured extraction and at emitting syntactically valid solver code that the translation step is no longer the fragile part; the fragile part is now the requirement itself. Second, solver tooling has become easy to embed (Python bindings, cloud solvers), so neuro-symbolic designs appear in rostering, compliance checking and configuration management rather than only in research labs.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

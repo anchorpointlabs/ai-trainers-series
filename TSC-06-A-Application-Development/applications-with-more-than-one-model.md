@@ -65,6 +65,8 @@ Beyond these, planner-executor and specialist delegation patterns exist, and the
 - **Multi-agent designs are used more cautiously.** The enthusiasm of 2024–25 has given way to "one agent, several tools" for most tasks, with multi-agent reserved for genuinely separable work.
 - **The frontier models are close enough on ordinary tasks** that routing decisions increasingly turn on price, latency and context size rather than capability.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"More models means better quality."* More models means more failure points. Quality comes from each hop doing a job the others cannot.

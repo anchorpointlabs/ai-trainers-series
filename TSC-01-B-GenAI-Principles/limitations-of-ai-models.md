@@ -61,6 +61,8 @@ So the limitations are not bugs awaiting a patch. They are the shape of the inst
 - **Agents added a failure class that did not exist before.** A wrong sentence is embarrassing; a wrong write action — a sent email, an updated record, a merged pull request — is a state change. That is why the agentic governance framework exists.
 - **Reasoning modes improved multi-step logic, not freshness or truth.** A model that shows its working is easier to audit and still capable of building a flawless argument on a fabricated premise.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"It reads confidently, so it is probably right."* Confidence is a style, not a signal; it is identical across true and invented claims.

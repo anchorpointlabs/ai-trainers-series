@@ -57,11 +57,13 @@ Style drift is the characteristic failure: a long generation starts in the right
 
 ### What is current as of November 2026
 
-For the 2026 frontier — OpenAI's GPT-6 generation, Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and Gemini 4 Argon — style control has become more reliable and less mysterious:
+With current frontier models, style control has become more reliable and less mysterious:
 
 - **Instruction following on register improved markedly.** Models now hold a house voice across a long document far better than two generations ago, which retires the "it always drifts by paragraph four" complaint in most cases.
 - **Style anchoring via examples remains the strongest lever.** Longer context makes it cheap to include several full exemplars; three to five is now practical where one was once the limit.
 - **Adapter-based brand voices are a productised service.** Where a voice must be indistinguishable across a large content operation, fine-tuning on approved copy is offered as a platform feature rather than a research project.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

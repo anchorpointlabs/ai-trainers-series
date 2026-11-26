@@ -63,6 +63,8 @@ Provenance labelling is arriving in cameras and platforms but remains inconsiste
 
 Agentic systems have moved the ethical question from content to action: a model that books, pays or files on your behalf raises authorisation and liability questions that no content policy covers. And regulators have converged on the same expectation across sectors — disclosure, human accountability and documented testing — while differing on detail, which is why sector guidance matters more than general principle.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"Ethics is about not producing offensive content."* Most of the consequential harms are structural: a wrong decision at scale, a likeness used without consent, a junior role quietly removed.

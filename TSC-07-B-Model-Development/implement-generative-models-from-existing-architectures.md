@@ -60,6 +60,8 @@ The hub has become the work surface. Hugging Face's `transformers`, `diffusers` 
 
 The honest consequence: writing an architecture from scratch is now a research skill, not a practitioner skill. Reading one, adapting its head, and loading it correctly is the practitioner skill this bullet tests.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"Implementing a model means writing the layers myself."* It means standing one up correctly. Writing the layers is a different, more advanced job.

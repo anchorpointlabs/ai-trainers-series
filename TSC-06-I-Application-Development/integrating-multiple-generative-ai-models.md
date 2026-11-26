@@ -58,7 +58,9 @@ The question is never "which model is best" but "which model is best *for this s
 
 ### What is current as of November 2026
 
-The market has settled into tiers rather than a single leader: a frontier reasoning tier (OpenAI's GPT-6 generation — Astra, Sol, Luna, 6.1 Sol, 6.1 Terra, Cyber — Anthropic's Claude 5.5 line, Google's Gemini 3.1 Pro and Gemini 4 Argon), a cheap fast tier, and specialised models for embedding, speech and image. Interoperability improved at the surface but not underneath: the wire format is portable, the behaviour is not — tool-calling reliability and refusal style still differ per model. Routing itself became infrastructure, with gateways in front of several providers carrying spend caps and failover.
+The market has settled into tiers rather than a single leader: a frontier reasoning tier, a cheap fast tier, and specialised models for embedding, speech and image. Interoperability improved at the surface but not underneath: the wire format is portable, the behaviour is not — tool-calling reliability and refusal style still differ per model. Routing itself became infrastructure, with gateways in front of several providers carrying spend caps and failover.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

@@ -63,6 +63,8 @@ There is a third audience now. Agents read documentation: tool descriptions, API
 - **AI-assisted drafting is widely used and requires verification.** Generated documentation is fluent and can be confidently wrong about your system; the model supplies structure, the team supplies facts.
 - **Retention and access rules tightened.** Documentation about AI systems increasingly contains prompt text, evaluation data and model identifiers, which brings classification and access control with it.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"Documentation is for auditors."* Its first user is the engineer on call at 3am, and the second is the person who replaces you.

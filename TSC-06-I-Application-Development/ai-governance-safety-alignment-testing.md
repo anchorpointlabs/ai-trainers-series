@@ -58,6 +58,8 @@ The governance objects a learner should be able to name:
 
 Governance has become concrete and testable. Assurance frameworks moved from principles to evidence — Singapore's AI Verify testing framework and its generative AI evaluation work normalised the idea that a vendor hands over test results, and buyers now ask for them. Providers publish system cards and refusal behaviour, so a team can test against a documented baseline. And regulation is horizontal and sector-specific at once: PDPA applies everywhere, while finance, healthcare and education add their own layer.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"Governance slows us down."* A register and a twenty-case eval set take an afternoon. Rebuilding trust after an incident takes quarters.

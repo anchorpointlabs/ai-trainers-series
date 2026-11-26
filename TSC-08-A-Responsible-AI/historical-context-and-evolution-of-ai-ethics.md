@@ -50,6 +50,8 @@ The third era is scale and agency. From late 2022 systems stopped classifying an
 
 The history has a live edge. The EU AI Act's prohibitions took effect in February 2025 and its high-risk and general-purpose obligations are phasing in, so the second era's "voluntary principles" period is closing. The genuinely new item on the timeline is agentic deployment, which has no settled governance anywhere, and synthetic media at election scale, which Singapore addressed through the Elections (Integrity of Online Advertising) Amendment rather than through AI-specific statute.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"AI ethics started with ChatGPT."* It started with automation and judgement, and the fairness metrics used in audits today predate large language models by a decade.

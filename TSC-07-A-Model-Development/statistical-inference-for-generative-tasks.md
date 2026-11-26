@@ -51,6 +51,8 @@ The second half is calibration. Token probabilities are not probabilities that t
 
 Uncertainty has become a product feature rather than an evaluation nicety: assistants now surface confidence, ask clarifying questions or route to a human when a sample is unstable. Reasoning-style models complicate the statistics, because their output distribution is sharper — many samples agree — without necessarily being more correct, so agreement alone overstates confidence on hard items. Calibration against a held-out set remains the only honest check, and it is the part most teams still skip.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"Temperature 0 makes it deterministic."* It makes it nearly so on one stack; batching, kernels and hardware can still change the output.

@@ -50,7 +50,9 @@ So the design difference is not stylistic. It is about what the prompt must spec
 
 ### What is current as of November 2026
 
-The modes have merged in the interface and stayed separate underneath. A single chat with GPT-6-generation models, Claude 5.5 or Gemini 3.1 Pro / 4 Argon will happily produce prose, runnable code, a table, an image brief and a voice script in one conversation — which makes the merge look total. It is not. Structured output is now usually enforced at the platform level (a schema the model must conform to) rather than pleaded for in prose, which is a real improvement for anything feeding a spreadsheet or a system. Code generation has improved most in the middle of the difficulty range: short scripts that do arithmetic, parse a file or reshape a table are now reliable enough to run after a quick read, while anything touching an unfamiliar library or a large codebase still needs a developer.
+The modes have merged in the interface and stayed separate underneath. A single chat with current frontier models will happily produce prose, runnable code, a table, an image brief and a voice script in one conversation — which makes the merge look total. It is not. Structured output is now usually enforced at the platform level (a schema the model must conform to) rather than pleaded for in prose, which is a real improvement for anything feeding a spreadsheet or a system. Code generation has improved most in the middle of the difficulty range: short scripts that do arithmetic, parse a file or reshape a table are now reliable enough to run after a quick read, while anything touching an unfamiliar library or a large codebase still needs a developer.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

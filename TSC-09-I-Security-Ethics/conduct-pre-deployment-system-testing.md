@@ -56,10 +56,12 @@ The acceptance bar is a separate decision from the testing, and it belongs to th
 
 ### What is current as of November 2026
 
-Test tooling has become a pipeline component. Open attack suites and evaluation harnesses run against the late-2026 frontier — OpenAI's GPT-6 generation (Astra, Sol, Luna, 6.1 Sol, 6.1 Terra and the security-tuned Cyber), Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and Gemini 4 Argon — in minutes, and model providers expose evaluation endpoints that make A/B comparison routine.
+Test tooling has become a pipeline component. Open attack suites and evaluation harnesses run against current frontier models in minutes, and model providers expose evaluation endpoints that make A/B comparison routine.
 
 - **Automation has moved the bottleneck to judgement.** The scarce resource is a person who can say what "pass" means for a policy question.
 - **Version churn makes replay mandatory.** With models updating continuously, a launch without a replayed regression set is a launch on an untested build.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

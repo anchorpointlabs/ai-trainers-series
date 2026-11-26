@@ -50,7 +50,9 @@ Three properties make it comprehensive rather than theatrical. **Tiering** match
 
 ### What is current as of November 2026
 
-The application standard has hardened. ISO/IEC 42001 asks for a documented management system with an impact assessment and a risk treatment plan, and procurement in Singapore and Europe now asks for the certificate. The EU AI Act requires high-risk deployers to run a fundamental-rights impact assessment and to keep logs, which turns "we considered ethics" into a filing obligation. Agentic systems add a gate nobody had in 2023: review of what the system may do with tools, not only what it may say. Whether the underlying model is OpenAI's GPT-6 generation, Anthropic's Claude 5.5 or Google's Gemini 3.1 Pro, a version change forces re-entry — the vendors ship updates on their own schedule, not yours.
+The application standard has hardened. ISO/IEC 42001 asks for a documented management system with an impact assessment and a risk treatment plan, and procurement in Singapore and Europe now asks for the certificate. The EU AI Act requires high-risk deployers to run a fundamental-rights impact assessment and to keep logs, which turns "we considered ethics" into a filing obligation. Agentic systems add a gate nobody had in 2023: review of what the system may do with tools, not only what it may say. Whichever current frontier model underlies the system, a version change forces re-entry — the vendors ship updates on their own schedule, not yours.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

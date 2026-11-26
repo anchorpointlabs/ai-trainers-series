@@ -52,9 +52,11 @@ The second reframe: the comparison is not "which vendor is ethical". It is "whic
 
 ### What is current as of November 2026
 
-The gap between consumer and enterprise terms has widened, and it is now the single most useful thing a trainer can teach. Across the major product lines — those built on OpenAI's GPT-6 generation, Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and Gemini 4 Argon — organisational tiers consistently offer retention controls, admin logging and contractual protections that the free tiers do not. Same model, different risk.
+The gap between consumer and enterprise terms has widened, and it is now the single most useful thing a trainer can teach. Across the major product lines built on current frontier models, organisational tiers consistently offer retention controls, admin logging and contractual protections that the free tiers do not. Same model, different risk.
 
 Two other shifts: model deprecation is now a planning problem, since vendors retire checkpoints on their own schedule, so notice periods belong in the contract; and provenance metadata (the C2PA standard) is appearing in more generated media, which gives buyers a verification option that did not exist before.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

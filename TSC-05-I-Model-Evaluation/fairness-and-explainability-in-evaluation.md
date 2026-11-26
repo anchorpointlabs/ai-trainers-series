@@ -57,6 +57,8 @@ Explainability has a parallel structure. It sounds like a technical capability (
 
 Two threads. **In Singapore**, the Model AI Governance Framework and the Generative AI Governance Framework, together with the AI Verify testing toolkit and its ecosystem, have made "test it and document it" the expected posture rather than a differentiator — procurement increasingly asks for the disaggregated evidence, not the assurance. **In the research literature**, explainability has shifted from producing saliency pictures to *evaluating explanations*: sufficiency and comprehensiveness tests that ask whether removing the cited reason actually changes the output. Meanwhile multilingual deployments across Southeast Asia have made language and dialect the most consequential fairness axis in the region — English-only evaluation is now widely recognised as a design flaw rather than a simplification.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"The model is neutral because it has no feelings."* Neutrality is not the absence of intention; it is the presence of equal measured outcomes.

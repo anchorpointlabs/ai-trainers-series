@@ -55,11 +55,13 @@ Scalability is then not "more servers". It is whether those four controls exist 
 
 ### What is current as of November 2026
 
-For the 2026 frontier — OpenAI's GPT-6 generation, Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and Gemini 4 Argon — the operations burden grew in three specific ways:
+With current frontier models, the operations burden grew in three specific ways:
 
 - **Reasoning modes multiplied the variables.** Each request may now run in a fast mode or a thinking mode, with very different latency and cost. Routing policy is an ops decision with a quality consequence.
 - **Prompt caching is now a scheduling decision.** Placing static content first in the payload unlocks large input discounts; placing it badly wastes them. This is configuration, not code, and it belongs in the gateway.
 - **Multi-provider portfolios are normal.** Organisations routinely run two vendors for resilience and price leverage, which makes per-family prompt templates a registry requirement rather than a nicety.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

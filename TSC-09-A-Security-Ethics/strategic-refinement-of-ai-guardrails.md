@@ -52,8 +52,10 @@ The failure that matters most in practice is not a bypass. It is abandonment. A 
 
 - **Guardrails ship as platform features.** Vendor shields, structured-output enforcement and orchestration-layer policy checks are standard parts of an agent stack, so most teams now tune a portfolio they did not build — and must therefore insist on its measurement data.
 - **The tool layer carries more weight than the text layer.** As agents gained write tools, the controls that hold are identity binding, narrow tool design and approval gates; a classifier on the prompt cannot stop a correctly formatted but unauthorised tool call.
-- **Models improve, attackers adapt.** GPT-6 generation, Claude 5.5, Gemini 3.1 Pro and Gemini 4 Argon refuse more reliably than their predecessors, but refusal is trained behaviour with known bypass families, so the false-negative rate stays non-zero and worth measuring.
+- **Models improve, attackers adapt.** Current frontier models refuse more reliably than their predecessors, but refusal is trained behaviour with known bypass families, so the false-negative rate stays non-zero and worth measuring.
 - **Cost is a board number.** Token spend per user sits on a dashboard, which makes spend caps a guardrail with a budget owner.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

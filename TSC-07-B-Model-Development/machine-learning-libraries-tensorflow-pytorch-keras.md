@@ -53,6 +53,8 @@ Two shifts matter. First, **PyTorch is the de facto standard for anything you do
 
 For a Basic class the honest framing is: learn PyTorch enough to read a training script, learn the *idea* of TensorFlow serving, and treat Keras as the quick way to sketch an idea. You will not write a library. You will spend your life reading other people's.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"TensorFlow and PyTorch are different AI models."* They are workshops. The same architecture can be built in either.

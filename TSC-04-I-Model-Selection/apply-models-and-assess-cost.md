@@ -50,11 +50,13 @@ The discipline that makes this teachable is the **Pareto view**: plot candidates
 
 ### What is current as of November 2026
 
-Across the 2026 frontier — OpenAI's GPT-6 generation, Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and Gemini 4 Argon — the shape of the cost decision has changed:
+Across current frontier models, the shape of the cost decision has changed:
 
 - **Tiers within a family now differ more in price than in capability on routine work.** Routing easy requests to the fast tier and escalating only hard ones is the standard pattern, and it is a design decision, not a finance one.
 - **Caching and batch are on by default in mature stacks.** Their absence is now a sign of an immature build rather than a deliberate choice.
 - **Reasoning tokens are billed.** A thinking mode can multiply token consumption for the same visible answer, so cost models written for 2025 assumptions understate spend.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

@@ -55,6 +55,8 @@ The vector database is the least interesting choice. Most of the failure learner
 - **Agentic retrieval replaced the single query.** Assistants rewrite the question into several searches, read, and search again. Better quality, higher cost, and "how many searches did it run" is now a monitored number.
 - **Postgres won many small deployments.** Vectors next to relational data removed a whole service from the stack; for a team already running Postgres it is often the correct answer.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"RAG means uploading a PDF to a chat."* That demonstrates the concept. A build has chunking decisions, an index, metadata, retrieval parameters and an evaluation set.

@@ -65,10 +65,12 @@ That diagnostic order matters because the most common Intermediate error is reac
 
 The matching table has shifted because models absorbed some techniques.
 
-- **Reasoning tiers absorbed chain-of-thought.** On the GPT-6 generation, Claude 5.5, Gemini 3.1 Pro and Gemini 4 Argon, a reasoning tier often out-performs a hand-written "think step by step" instruction. The technique becomes: choose the tier, then ask for the answer, and require the working only where a human must audit it.
+- **Reasoning tiers absorbed chain-of-thought.** On current frontier models, a reasoning tier often out-performs a hand-written "think step by step" instruction. The technique becomes: choose the tier, then ask for the answer, and require the working only where a human must audit it.
 - **Schemas absorbed format few-shot.** Native structured output enforces shape, so examples are now spent on judgement rather than braces and quotes.
 - **Tools absorbed arithmetic.** For any figure that matters, the match is a tool call, not a better reasoning prompt. This is the single most useful correction at Intermediate level.
 - **Decomposition partly absorbed by agents.** Tool-using assistants can plan and chain internally, but explicit chains remain more debuggable for production work — a point worth teaching honestly in both directions.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

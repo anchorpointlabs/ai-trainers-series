@@ -54,7 +54,9 @@ The boundary is **scope**: a trainer can explain the baseline and the questions 
 
 ### What is current as of November 2026
 
-The PDPC's guidance on generative AI has settled the shape of the conversation: organisations are expected to have written policies on AI use, to assess purpose and consent, and to apply safeguards proportional to the risk — rather than to treat "it's a chatbot" as either automatically permitted or automatically forbidden. The practical effect for trainers is that most Singapore workplaces now have *some* rule, even if it is only an email from IT. Two things to check before each course run: whether the organisation permits any external AI tool at all, and whether the permitted tool has a setting that stops conversations being used for training. The frontier models of late 2026 — GPT-6 generation, Claude 5.5, Gemini 3.1 Pro and Gemini 4 Argon — differ in their enterprise data-handling terms, so "which tool" is a privacy question as well as a capability one.
+The PDPC's guidance on generative AI has settled the shape of the conversation: organisations are expected to have written policies on AI use, to assess purpose and consent, and to apply safeguards proportional to the risk — rather than to treat "it's a chatbot" as either automatically permitted or automatically forbidden. The practical effect for trainers is that most Singapore workplaces now have *some* rule, even if it is only an email from IT. Two things to check before each course run: whether the organisation permits any external AI tool at all, and whether the permitted tool has a setting that stops conversations being used for training. Current frontier models differ in their enterprise data-handling terms, so "which tool" is a privacy question as well as a capability one.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

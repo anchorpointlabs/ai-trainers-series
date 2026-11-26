@@ -63,10 +63,12 @@ Step five is the one teams skip, and it is the one that makes the number meaning
 
 ### What is current as of November 2026
 
-Guardrail configuration is mostly product configuration now, with vendors shipping classifiers, thresholds and policy templates, and the late-2026 frontier platforms — OpenAI's GPT-6 generation (Astra, Sol, Luna, 6.1 Sol, 6.1 Terra and the security-tuned Cyber), Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and Gemini 4 Argon — offering moderation endpoints beside the model. The skill has shifted from building detectors to calibrating them and proving the calibration.
+Guardrail configuration is mostly product configuration now, with vendors shipping classifiers, thresholds and policy templates, and current frontier platforms offering moderation endpoints beside the model. The skill has shifted from building detectors to calibrating them and proving the calibration.
 
 - **Defaults are someone else's trade-off.** A threshold tuned for a global consumer app will over- or under-block your traffic.
 - **Tuning is now continuous.** Model updates shift the score distribution, so a threshold set three months ago may no longer mean what it meant.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

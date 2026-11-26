@@ -55,6 +55,8 @@ For an Intermediate practitioner the useful discipline is knowing **which stage 
 
 **Licensing has become operational.** Content deals and opt-out mechanisms mean two vendors' models are no longer equivalent on provenance, and procurement now asks. And the **enterprise centre of gravity moved from the model to the data layer**: retrieval, document hygiene and evaluation sets are where the work now sits. Fine-tuning a small model on a few thousand well-curated examples is a routine first experiment for a narrow task, because curated data beats a bigger generic model on a house format.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"More data is always better."* Duplicated, mislabelled or irrelevant data lowers quality. Curation beats volume.

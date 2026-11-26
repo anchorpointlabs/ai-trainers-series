@@ -54,8 +54,10 @@ K5 needs these numbers to fill a register meaningfully; without them, appetite s
 
 - **Token economics made AI risk priceable.** Spend per request is knowable per model tier, so a denial-of-wallet exposure can now be estimated rather than described — and the same arithmetic justifies routing cheap tasks to cheaper models.
 - **Agent loops added a new loss shape.** Runaway tool use produces fast, bounded, dollar-denominated losses, which is exactly the case where a cap outperforms an estimate.
-- **Vendor pricing moves.** Comparing GPT-6 generation, Claude 5.5, Gemini 3.1 Pro and Gemini 4 Argon on cost per task is now part of the risk case for a design, not a procurement afterthought.
+- **Vendor pricing moves.** Comparing current frontier models on cost per task is now part of the risk case for a design, not a procurement afterthought.
 - **Regulatory penalties are writable into the model.** Where statute sets a maximum penalty as a share of turnover, the impact term has an upper bound you can look up rather than invent.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

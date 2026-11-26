@@ -57,6 +57,8 @@ The habit is to treat configuration as an artefact with an owner, a record and a
 - **Model snapshots retire on a published schedule.** Pinning a model is a configuration decision with a calendar attached: someone must own the deprecation notice and the migration.
 - **Admin consoles centralised settings** and added audit logs, making "who changed this" answerable for the first time.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"It's just a settings page."* It is the behaviour of the product. Someone changed a threshold and the product changed with it.

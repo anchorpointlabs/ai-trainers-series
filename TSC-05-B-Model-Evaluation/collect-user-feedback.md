@@ -47,6 +47,8 @@ This is the ability that feeds the entire evaluation loop. `TSC5-Basic-K3` is th
 
 The modern reality is that **most feedback is now captured automatically, not collected by hand.** Chat products log copy, edit, regenerate and rating events natively, so the ability has shifted from "run a survey" to "read the telemetry and design the missing questions". A Basic practitioner should be able to do both: interpret the built-in behaviour logs, and design the one or two targeted questions the logs cannot answer (why did you abandon it, what did you actually use it for).
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"More feedback is better feedback."* More *unattributed, vague* feedback is just noise at scale. One specific finding beats a hundred "good job" responses.

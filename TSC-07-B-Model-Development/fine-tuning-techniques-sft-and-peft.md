@@ -59,6 +59,8 @@ PEFT is now the default, not the budget option. Almost every serious open-weight
 
 The honest shift for a Basic class: **fine-tuning is no longer the hard part; dataset construction is.** Tooling has absorbed the engineering. What remains scarce is a few hundred genuinely well-written examples that consistently demonstrate the behaviour you want, with the failures documented.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"Fine-tuning teaches the model my documents."* It nudges behaviour. For facts, retrieve them at query time.

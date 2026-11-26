@@ -47,6 +47,8 @@ This is the closing link in the Basic loop: `TSC5-Basic-A1` (collect feedback) �
 
 The discipline has shifted from "try things until it works" to **"propose the cheapest fix that could work, then measure."** Because late-2026 models are all fluent and broadly capable, the most common failures are context and workflow failures rather than raw model-capability failures — which means the highest-value proposal is usually "give it the right context" or "put a human check on the risky step", not "buy a bigger model". A good Basic practitioner proposes from the cheapest layer up.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"The fix is always a better prompt."* Often, but not always. A fact the model does not have cannot be prompted into existence — that needs retrieval, not better wording.

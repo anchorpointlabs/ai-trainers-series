@@ -63,6 +63,8 @@ Two symptoms have changed shape. Truncation is now more often a thinking-budget 
 
 The other shift is that corrupting failures are easier to catch than they used to be, because structured outputs and citations give you something mechanical to check — a schema, a quote, a source link. A team that specifies an output shape has, in effect, built its own detection.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"If the answer looks right, there is no issue."* That is the definition of a corrupting failure.

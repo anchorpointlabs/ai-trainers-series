@@ -54,10 +54,12 @@ The third is that content guardrails interact with the product's purpose. Every 
 
 ### What is current as of November 2026
 
-Content configuration has become mostly a product surface: policy templates, moderation endpoints, tone controls and image filters ship with the major platforms, and the late-2026 frontier — OpenAI's GPT-6 generation (Astra, Sol, Luna, 6.1 Sol, 6.1 Terra and the security-tuned Cyber), Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and Gemini 4 Argon — is trained against policy categories that vendors publish.
+Content configuration has become mostly a product surface: policy templates, moderation endpoints, tone controls and image filters ship with the major platforms, and current frontier models are trained against policy categories that vendors publish.
 
 - **Templates encode someone else's risk appetite.** A default suited to a global consumer app is usually too loose or too tight for a Singapore SME.
 - **Content guardrails are now judged by users, publicly.** A badly judged refusal is a screenshot; the tuning matters commercially, not just ethically.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

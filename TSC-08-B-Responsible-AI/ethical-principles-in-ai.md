@@ -58,7 +58,9 @@ This bullet is the vocabulary. `TSC8-Basic-K2` extends it to the three practical
 
 The principles now have statutory teeth even though the flagship framework is voluntary. IMDA's Model AI Governance Framework for Generative AI (May 2024) set nine dimensions — accountability, data, trusted development and deployment, incident reporting, testing and assurance, security, content provenance, safety and alignment R&D, AI for public good. The PDPA carries enforcement: penalties up to 10% of annual turnover in Singapore or SGD 1 million, whichever is higher, with PDPC advisory guidelines defining what "reasonable" looks like. Voluntary guidance plus hard statute is the operating model; calling Singapore "self-regulation" misleads the room.
 
-The frontier models of late 2026 — OpenAI's GPT-6 generation, Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and Gemini 4 Argon — are close enough on capability that the question is rarely "can it". It is "may it, on whose authority, with what record". That is why this bullet sits at the front of the TSC.
+Current frontier models are close enough on capability that the question is rarely "can it". It is "may it, on whose authority, with what record". That is why this bullet sits at the front of the TSC.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

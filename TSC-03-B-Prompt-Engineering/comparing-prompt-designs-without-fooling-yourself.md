@@ -63,6 +63,8 @@ Comparison has become cheaper and more necessary. Structured outputs let you sco
 
 The necessity comes from model churn. Behaviour shifts between versions behind stable product names, so a decision recorded last quarter is a hypothesis this quarter. Comparisons now carry a date and a model version, or they are folklore.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"The output I liked best is the better design."* Preference is not a criterion, and it is heavily influenced by which prompt the reviewer wrote.

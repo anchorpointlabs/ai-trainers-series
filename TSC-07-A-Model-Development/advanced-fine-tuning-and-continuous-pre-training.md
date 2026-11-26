@@ -58,6 +58,8 @@ The decision rule that survives contact with reality: *fine-tuning changes how a
 
 Two things have settled. First, LoRA-style adaptation is the default for domain behaviour; full fine-tuning is reserved for cases where it demonstrably wins. Second, continuous pre-training has become common in regulated and language-specific settings — including work on Southeast Asian languages — because a general model's coverage of local terminology, statutes and registers is thin. Serving-side support for many adapters on one base has made multi-tenant customisation practical, which changes the calculus: you can now have twenty variants without twenty deployments.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"Fine-tuning will teach the model our product catalogue."* It teaches behaviour; facts belong in retrieval.

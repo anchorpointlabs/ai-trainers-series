@@ -52,11 +52,13 @@ Assessing performance then becomes a controlled experiment. Same task, same inpu
 
 ### What is current as of November 2026
 
-For the 2026 frontier — OpenAI's GPT-6 generation, Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and Gemini 4 Argon — settings work has changed shape:
+With current frontier models, settings work has changed shape:
 
 - **Reasoning effort became a selectable setting, not a hidden property.** You now choose between a fast answer and a deliberated one, with materially different latency and token cost. It belongs in the same test harness as temperature.
 - **Some platforms hide sampling parameters behind defaults.** Where temperature is not exposed, prompt structure and reasoning mode become the controllable variables — which makes recording the prompt version even more important.
 - **Determinism remains aspirational.** Even at the floor of the temperature range, batching and floating-point arithmetic can flip near-tied tokens, so a pinned setting is "highly consistent", not "identical".
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

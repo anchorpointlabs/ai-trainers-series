@@ -62,6 +62,8 @@ The terms have become the battleground. Enterprise tiers of the major assistants
 
 Singapore's guidance has kept pace in shape rather than in detail: the expectation is a documented purpose, a lawful basis, transparency and accountability, with the organisation — not the model provider — answerable for the use.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"If I delete the chat, the data is gone."* Deletion removes it from your view. Retention, backups and provider logs follow the provider's terms, not the delete button.

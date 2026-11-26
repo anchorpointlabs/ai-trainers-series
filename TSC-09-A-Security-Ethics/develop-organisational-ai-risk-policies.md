@@ -67,6 +67,8 @@ K5 sets the appetite the policy encodes; a policy with no appetite behind it is 
 - **Disclosure duties are explicit.** Policies increasingly require telling users when they are dealing with an AI and when content is synthetic.
 - **Sector regulators read your policy.** Where a supervisor or data-protection authority asks what the organisation's position was, the written policy and its approval records are the answer.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"A policy is a ban."* A policy is a decision structure. Bans without a permitted path produce shadow use.

@@ -57,6 +57,8 @@ The typical sequence runs ingest → normalise → chunk → retrieve → build 
 
 Pipelines have become cheaper to build and harder to reason about. Graph-based orchestration — state machines that declare stages, transitions and retry policy — replaced ad-hoc chaining for anything with a branch, because a plain chain cannot express "validate, and if it fails go back to retrieval". Structured outputs made validation gates practical, so more stages are safe to automate. And observability became a product category: you now read a trace of every stage, token and latency rather than grepping application logs.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"More stages means better quality."* Each stage adds latency, cost and a failure mode. A stage must earn its place with a specific error it prevents.

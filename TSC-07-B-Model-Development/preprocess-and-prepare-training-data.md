@@ -61,6 +61,8 @@ The tooling has consolidated around two layers: pandas or Polars for tabular man
 
 Two practical shifts. First, **near-duplicate detection is now a standard pipeline stage** rather than a research nicety, because contaminated splits are a known cause of inflated results. Second, **Polars has become a credible default for large files** where pandas is slow or memory-hungry, though the operations are the same in spirit. For a Basic class, pandas remains the right teaching tool — the concepts transfer directly.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"Cleaning means deleting bad rows."* Cleaning means making a decision about each category of badness and recording it. Deleting is one of several options, and sometimes the wrong one.

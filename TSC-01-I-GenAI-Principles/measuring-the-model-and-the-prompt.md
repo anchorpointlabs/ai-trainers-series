@@ -59,6 +59,8 @@ Structured outputs have made format compliance measurable and largely solved: a 
 
 Judge models are embedded in vendor tooling and in internal pipelines, and the honest practice is to disclose which model judged which outputs. Public benchmarks have become less informative as models are trained against them, which strengthens the case for the small private set. None of this changes the method; it changes what you have to record.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"A higher benchmark score means a better model for us."* Benchmarks measure exam questions written by someone else, on documents that are not yours.

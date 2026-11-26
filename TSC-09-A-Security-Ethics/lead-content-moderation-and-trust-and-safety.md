@@ -56,10 +56,12 @@ K2 is the SOP this role operates and improves. K3 governs the classifiers that f
 
 ### What is current as of November 2026
 
-- **AI-assisted triage is the default.** Current models — OpenAI's GPT-6 generation, Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and Gemini 4 Argon — are good enough to route and summarise at scale, which moves the human role toward adjudication and edge cases.
+- **AI-assisted triage is the default.** Current frontier models are good enough to route and summarise at scale, which moves the human role toward adjudication and edge cases.
 - **Synthetic content is the growth category.** Impersonation, cloned voices and generated scam material mean the queue is increasingly about provenance rather than offensiveness.
 - **Disclosure is expected.** Users are generally told when they are interacting with an AI system and when media is synthetic, so notification wording is part of the programme.
 - **Regulatory attention is on process.** Regulators ask for the policy, the logs, the appeal path and the response times — not for a claim that harm is impossible.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

@@ -57,7 +57,9 @@ Most evaluation arguments in industry are not about models at all. They are one 
 
 ### What is current as of November 2026
 
-Bootstrap intervals have become the default in serious evaluation tooling, and leaderboards increasingly print them — which immediately revealed that many adjacent rankings were inside the noise. Judge models introduced a second variance source, so teams now re-run the judge several times per item and average, and report judge stability as a property of the instrument. With frontier models of late 2026 (the GPT-6 generation, Claude 5.5, Gemini 3.1 Pro and Gemini 4 Argon) often within a couple of points of each other on a given task, the honest conclusion in many evaluations is "these are indistinguishable on my test set" — and that is a finding, not a failure.
+Bootstrap intervals have become the default in serious evaluation tooling, and leaderboards increasingly print them — which immediately revealed that many adjacent rankings were inside the noise. Judge models introduced a second variance source, so teams now re-run the judge several times per item and average, and report judge stability as a property of the instrument. With current frontier models often within a couple of points of each other on a given task, the honest conclusion in many evaluations is "these are indistinguishable on my test set" — and that is a finding, not a failure.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

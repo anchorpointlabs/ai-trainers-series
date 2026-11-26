@@ -46,8 +46,10 @@ A generator is a compressed summary of its own training distribution, steered by
 ### What is current as of November 2026
 
 - **Verifiable synthetic tasks won.** Generated examples with checkable answers — code that runs, arithmetic, structured extraction — are trusted because a verifier, not a judge, scores them. Open-ended generation is still screened by models and sampled by humans.
-- **Frontier post-training openly relies on it.** The GPT-6 generation, Claude 5.5 and Gemini 3.1 Pro / Gemini 4 Argon are all post-trained on substantial synthetic mixtures, which has made "what ratio of real to synthetic" a normal interview question.
+- **Frontier post-training openly relies on it.** Current frontier models are all post-trained on substantial synthetic mixtures, which has made "what ratio of real to synthetic" a normal interview question.
 - **Collapse anxiety moderated into mixture engineering.** The conversation moved from "synthetic data destroys models" to "keep an anchor of real data and measure the tails".
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

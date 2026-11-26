@@ -60,6 +60,8 @@ Everything else in responsible AI — fairness, transparency, safety, oversight,
 - **The National AI Impact Programme** (announced 2 March 2026, 10,000 enterprises and 100,000 workers, starting with accountancy and law) has pushed responsible-use questions into SMEs that had no AI policy at all eight months ago. Trainers are frequently the first person to raise them.
 - **Agentic deployments make the "what happens when it is wrong" question urgent**, because the wrongness can now be an action rather than a sentence.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"Responsible AI is the compliance team's job."* It is the deployer's job; the deployer is usually the business unit, not legal.

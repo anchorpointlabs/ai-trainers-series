@@ -65,6 +65,8 @@ Guardrailing has moved up a layer. Structured output modes now enforce a schema 
 
 The counter-shift is agentic use. Once a model can call tools, the interesting guardrail is not what it says but what it may do, and every serious deployment in the current generation pairs a prompt with permissions, an approval step for irreversible actions, and a log.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"A strong enough instruction cannot be bypassed."* Instructions are text. Anyone who can type can test them.

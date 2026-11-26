@@ -47,6 +47,8 @@ This bullet is the human half of `TSC5-Basic-K2` (the four criteria) — the cri
 
 The shift is that **implicit signals have become the cheap, dominant feedback channel.** Because most people use models through a chat surface that logs copy, edit and regenerate events, organisations now read behaviour directly instead of running surveys. The other shift is a caution: **LLM-as-a-judge has started replacing some expert review** — a strong model grades outputs at scale. At Basic level the teaching point is unchanged: a human still has to calibrate and spot-check the judge, because an automated judge inherits all the biases in `TSC5-Basic-K5`.
 
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
+
 ### Common misconceptions
 
 - *"Qualitative means informal."* It means *human* — and done properly it is more rigorous than a metric, because it asks the question a metric cannot phrase.
