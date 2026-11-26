@@ -13,16 +13,16 @@ thing, not just read the slide.
 
 | Folder | What it holds |
 |---|---|
-| [TSC #1 · GenAI Principles](TSC-01-B-GenAI-Principles/) | B (4 entries) · I (planned) |
-| [TSC #2 · Prompt Design](TSC-02-B-Prompt-Design/) | B — complete (15 entries) |
-| [TSC #3 · Prompt Engineering](TSC-03-B-Prompt-Engineering/README.md) | B · I · A — planned |
-| [TSC #4 · Model Selection](TSC-04-I-Model-Selection/README.md) | I · A — planned |
-| [TSC #5 · Model Evaluation](TSC-05-B-Model-Evaluation/README.md) | B · I · A — planned |
-| [TSC #6 · Application Development](TSC-06-B-Application-Development/README.md) | B · I · A — planned |
-| [TSC #7 · Model Development](TSC-07-B-Model-Development/README.md) | B · I · A — planned |
-| [TSC #8 · Responsible AI](TSC-08-B-Responsible-AI/README.md) | B · I · A — planned |
-| [TSC #9 · Security & Ethics](TSC-09-B-Security-Ethics/README.md) | B · I · A — planned |
-| [Tools](Tools/) | [ChatGPT](Tools/OpenAI/ChatGPT.md) · [Claude](Tools/Anthropic/Claude.md) · [Gemini](Tools/Google/Gemini.md) · [Copilot](Tools/Microsoft/Copilot.md) · [more…](Tools/) |
+| [TSC #1 · GenAI Principles](TSC-01-B-GenAI-Principles/) | B (13) · I (10) — complete |
+| [TSC #2 · Prompt Design](TSC-02-B-Prompt-Design/) | B (15) — complete |
+| [TSC #3 · Prompt Engineering](TSC-03-B-Prompt-Engineering/README.md) | B (15) · I (13) · A (13) — complete |
+| [TSC #4 · Model Selection](TSC-04-I-Model-Selection/README.md) | I (11) · A (8) — complete |
+| [TSC #5 · Model Evaluation](TSC-05-B-Model-Evaluation/README.md) | B (11) · I (12) · A (13) — complete |
+| [TSC #6 · Application Development](TSC-06-B-Application-Development/README.md) | B (11) · I (12) · A (12) — complete |
+| [TSC #7 · Model Development](TSC-07-B-Model-Development/README.md) | B (15) · I (17) · A (20) — complete |
+| [TSC #8 · Responsible AI](TSC-08-B-Responsible-AI/README.md) | B (10) · I (14) · A (14) — complete |
+| [TSC #9 · Security & Ethics](TSC-09-B-Security-Ethics/README.md) | B (8) · I (10) · A (12) — complete |
+| [Tools](Tools/) | [ChatGPT](Tools/OpenAI/ChatGPT.md) · [Claude](Tools/Anthropic/Claude.md) · [Gemini](Tools/Google/Gemini.md) · [Copilot](Tools/Microsoft/Copilot.md) · [Grok](Tools/xAI/Grok.md) · [more…](Tools/) — 11 living deep-dives |
 | [concepts](concepts/) | Cross-cutting mechanisms, by decay tier |
 | [method](method/) | Decay model · entry template · naming convention |
 
@@ -71,10 +71,8 @@ use. The full bullet list is not reproduced here — link to the source document
 
 ## Status
 
-- **TSC #2 Prompt Design (Basic)** — complete: 15 entries (K1–K7, A1–A8).
-- **TSC #1 Generative AI Principles (Basic)** — 4 entries so far.
-- **TSC #1 (I) and #3–#9** — scaffolded at their correct proficiency levels, content planned.
-- **Tools (living)** — 8 companies scaffolded under `Tools/`.
+- **All nine TSCs complete** — 289 entries across 23 level-folders (Basic / Intermediate / Advanced). No level is still "planned."
+- **Tools (living)** — 11 product deep-dives under `Tools/` (versions, features, pricing; refreshed per quarter).
 - **Concepts** — 13 cross-cutting mechanisms (10 durable, 1 technique, 1 living, 1 event).
 
 ## Contact
