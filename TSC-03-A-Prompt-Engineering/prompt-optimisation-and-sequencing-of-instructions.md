@@ -20,10 +20,10 @@ title: Prompt optimisation and sequencing of instructions
 - Describe a one-variable-at-a-time optimisation loop.
 
 **Lesson Plan Ideas:**
-1. Show the same three constraints in two orders producing different outputs. 
-2. Introduce 'change one thing at a time' as the optimisation rule. 
-3. Pairs take a weak prompt, change one variable, and log the difference. 
-4. Debrief which single change helped most. 
+1. Show the same three constraints in two orders producing different outputs.
+2. Introduce 'change one thing at a time' as the optimisation rule.
+3. Pairs take a weak prompt, change one variable, and log the difference.
+4. Debrief which single change helped most.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -42,3 +42,4 @@ Expected: the two outputs differ in emphasis, showing order matters.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [prompting.md](../core-knowledge/prompting.md) (sections 5, 9)
+

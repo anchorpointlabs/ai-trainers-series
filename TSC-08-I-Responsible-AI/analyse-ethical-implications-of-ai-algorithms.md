@@ -20,10 +20,10 @@ title: Analyse ethical implications of AI algorithms
 - Describe a downstream harm.
 
 **Lesson Plan Ideas:**
-1. Walk an analysis on a real-sounding model (loan, hiring). 
-2. Teach the two questions (who is treated unfairly, how it goes wrong). 
-3. Learners analyse a model for fairness. 
-4. Debrief. 
+1. Walk an analysis on a real-sounding model (loan, hiring).
+2. Teach the two questions (who is treated unfairly, how it goes wrong).
+3. Learners analyse a model for fairness.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: women are unfairly filtered, and the harm is lost opportunity at scale
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [governance-and-ethics.md](../core-knowledge/governance-and-ethics.md) (section 2.3)
+

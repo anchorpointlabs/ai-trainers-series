@@ -20,10 +20,10 @@ title: Theoretical frameworks of prompt engineering
 - Decompose a real prompt into its framework parts.
 
 **Lesson Plan Ideas:**
-1. Show one strong prompt and label its parts (role, context, task, format). 
-2. Introduce two more frames (few-shot, chain-of-thought) with one line each. 
-3. Learners re-write a weak prompt using one framework. 
-4. Debrief which frame fitted which task. 
+1. Show one strong prompt and label its parts (role, context, task, format).
+2. Introduce two more frames (few-shot, chain-of-thought) with one line each.
+3. Learners re-write a weak prompt using one framework.
+4. Debrief which frame fitted which task.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -39,3 +39,4 @@ Expected: learners correctly label role, context (reports), task (list root caus
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [prompting.md](../core-knowledge/prompting.md) (sections 3, 4)
+

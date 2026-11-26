@@ -20,10 +20,10 @@ title: Enterprise risk management frameworks
 - Relate AI risk to board-level oversight.
 
 **Lesson Plan Ideas:**
-1. Teach 'AI risk is organisational risk, not a tech silo'. 
-2. Map AI risk to the ERM elements. 
-3. Learners assign owners/appetite to a risk. 
-4. Debrief. 
+1. Teach 'AI risk is organisational risk, not a tech silo'.
+2. Map AI risk to the ERM elements.
+3. Learners assign owners/appetite to a risk.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: an owner (product/risk), and 'reduce' with guardrails rather than 'acc
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [ai-security.md](../core-knowledge/ai-security.md) (section 5)
+

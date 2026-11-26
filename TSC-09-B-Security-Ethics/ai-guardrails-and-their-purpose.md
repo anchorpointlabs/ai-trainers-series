@@ -20,10 +20,10 @@ title: AI guardrails and their purpose
 - Explain what a guardrail is protecting against.
 
 **Lesson Plan Ideas:**
-1. Compare a model with no guardrails to one with them (same input). 
-2. Teach the three types (input, output, human gate). 
-3. Learners match a guardrail to a risk. 
-4. Debrief. 
+1. Compare a model with no guardrails to one with them (same input).
+2. Teach the three types (input, output, human gate).
+3. Learners match a guardrail to a risk.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: input→(a), output→(b), human→(c).
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [ai-security.md](../core-knowledge/ai-security.md) (section 4)
+

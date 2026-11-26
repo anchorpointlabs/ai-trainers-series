@@ -20,10 +20,10 @@ title: Apply ethical principles in decisions
 - State which principle a decision serves.
 
 **Lesson Plan Ideas:**
-1. Walk the four questions on one decision together. 
-2. Contrast 'the AI said so' with a reasoned decision. 
-3. Learners run the four questions on their own decision. 
-4. Debrief. 
+1. Walk the four questions on one decision together.
+2. Contrast 'the AI said so' with a reasoned decision.
+3. Learners run the four questions on their own decision.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: accountability is weak — recommend a human check or a clear appeal p
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [governance-and-ethics.md](../core-knowledge/governance-and-ethics.md) (section 2)
+

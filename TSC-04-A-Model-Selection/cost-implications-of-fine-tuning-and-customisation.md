@@ -20,10 +20,10 @@ title: Cost implications of fine-tuning and customisation
 - Price a fine-tune over its lifetime.
 
 **Lesson Plan Ideas:**
-1. Contrast 'one fine-tune run' vs 'a custom model you must maintain'. 
-2. Teach the cost drivers (size, data, retraining). 
-3. Learners estimate lifetime cost for a scenario. 
-4. Debrief. 
+1. Contrast 'one fine-tune run' vs 'a custom model you must maintain'.
+2. Teach the cost drivers (size, data, retraining).
+3. Learners estimate lifetime cost for a scenario.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: it turns a one-off into a recurring cost — retraining, re-evaluation
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [model-selection-and-evaluation.md](../core-knowledge/model-selection-and-evaluation.md) (section 3.3)
+

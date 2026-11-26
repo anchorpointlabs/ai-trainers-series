@@ -20,10 +20,10 @@ title: Interdisciplinary ethical dimensions
 - Explain why one lens alone is insufficient.
 
 **Lesson Plan Ideas:**
-1. Take one decision and run it through all four lenses. 
-2. Teach 'ethics is four lenses, not one'. 
-3. Learners apply two lenses to a scenario. 
-4. Debrief. 
+1. Take one decision and run it through all four lenses.
+2. Teach 'ethics is four lenses, not one'.
+3. Learners apply two lenses to a scenario.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: legal (PDPA, surveillance law) and socio-political (privacy vs securit
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [governance-and-ethics.md](../core-knowledge/governance-and-ethics.md) (section 4)
+

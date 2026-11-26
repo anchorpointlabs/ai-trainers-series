@@ -20,10 +20,10 @@ title: Compare data compliance on content storage
 - Flag a compliance risk in a provider choice.
 
 **Lesson Plan Ideas:**
-1. Explain why 'where does the data go?' is a selection question. 
-2. Walk a provider's data terms and point to the retention clause. 
-3. Learners compare two providers on a compliance scenario. 
-4. Debrief. 
+1. Explain why 'where does the data go?' is a selection question.
+2. Walk a provider's data terms and point to the retention clause.
+3. Learners compare two providers on a compliance scenario.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: residency, retention, and sub-processor / third-party sharing.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [governance-and-ethics.md](../core-knowledge/governance-and-ethics.md) (section 4.1)
+

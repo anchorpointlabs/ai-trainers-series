@@ -20,10 +20,10 @@ title: Analyse ethical dilemmas in governance and regulation
 - Argue a defensible position.
 
 **Lesson Plan Ideas:**
-1. Present a dilemma (privacy vs security in AI surveillance). 
-2. Teach 'a dilemma is two goods in tension'. 
-3. Learners argue both sides of a dilemma. 
-4. Debrief. 
+1. Present a dilemma (privacy vs security in AI surveillance).
+2. Teach 'a dilemma is two goods in tension'.
+3. Learners argue both sides of a dilemma.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: security (prevent harm) vs privacy (mass surveillance), then a reasone
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [governance-and-ethics.md](../core-knowledge/governance-and-ethics.md) (section 4)
+

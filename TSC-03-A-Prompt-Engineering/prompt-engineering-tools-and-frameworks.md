@@ -20,10 +20,10 @@ title: Prompt engineering tools and frameworks
 - Choose a tool for a given team need.
 
 **Lesson Plan Ideas:**
-1. Contrast 'prompt in a chat window' with 'prompt as a managed asset'. 
-2. Walk one templated prompt with placeholders. 
-3. Learners template a real prompt, replacing names/dates with placeholders. 
-4. Debrief what would break if the template changed. 
+1. Contrast 'prompt in a chat window' with 'prompt as a managed asset'.
+2. Walk one templated prompt with placeholders.
+3. Learners template a real prompt, replacing names/dates with placeholders.
+4. Debrief what would break if the template changed.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -41,3 +41,4 @@ Expected: placeholders for name, course, date, price — reusable across custome
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [prompting.md](../core-knowledge/prompting.md) (section 9)
+

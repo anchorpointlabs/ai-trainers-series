@@ -20,10 +20,10 @@ title: Assess models against diverse datasets and scenarios
 - State why diverse testing matters.
 
 **Lesson Plan Ideas:**
-1. Show a model that aces English and stumbles on Singlish. 
-2. Teach 'a benchmark is one dataset, not the truth'. 
-3. Learners list diverse scenarios to test a model for Singapore use. 
-4. Debrief. 
+1. Show a model that aces English and stumbles on Singlish.
+2. Teach 'a benchmark is one dataset, not the truth'.
+3. Learners list diverse scenarios to test a model for Singapore use.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: Singlish, code-switching, and local policy references.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [model-selection-and-evaluation.md](../core-knowledge/model-selection-and-evaluation.md) (section 8)
+

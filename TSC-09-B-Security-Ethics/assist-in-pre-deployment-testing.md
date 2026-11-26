@@ -20,10 +20,10 @@ title: Assist in pre-deployment testing
 - Explain what an adversarial input is.
 
 **Lesson Plan Ideas:**
-1. Define adversarial input (an input designed to break it). 
-2. Show a test log and its fields. 
-3. Learners write three test cases for a booking bot. 
-4. Debrief. 
+1. Define adversarial input (an input designed to break it).
+2. Show a test log and its fields.
+3. Learners write three test cases for a booking bot.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: a normal booking, a weird date/name, and a jailbreak attempt.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [ai-security.md](../core-knowledge/ai-security.md) (section 4)
+

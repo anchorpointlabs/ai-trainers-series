@@ -20,10 +20,10 @@ title: Apply privacy measures when handling data
 - Restrict access to sensitive data.
 
 **Lesson Plan Ideas:**
-1. Walk anonymise-then-use on a sample. 
-2. Teach encryption and access control in one line each. 
-3. Learners apply the measures to a dataset. 
-4. Debrief. 
+1. Walk anonymise-then-use on a sample.
+2. Teach encryption and access control in one line each.
+3. Learners apply the measures to a dataset.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: anonymise/de-identify, restrict access, and (for storage) encrypt.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [governance-and-ethics.md](../core-knowledge/governance-and-ethics.md) (section 1)
+

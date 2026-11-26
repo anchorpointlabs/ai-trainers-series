@@ -20,10 +20,10 @@ title: Model parameters — modality, size, cost, features
 - Pick a sensible model for a budgeted task.
 
 **Lesson Plan Ideas:**
-1. Present the four knobs with one example each. 
-2. Teach the trade-off: bigger is smarter but costlier. 
-3. Learners choose a model for a task with a cost cap. 
-4. Debrief the choices. 
+1. Present the four knobs with one example each.
+2. Teach the trade-off: bigger is smarter but costlier.
+3. Learners choose a model for a task with a cost cap.
+4. Debrief the choices.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: cost dominates — a small, cheap model beats a frontier model on unit
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [model-selection-and-evaluation.md](../core-knowledge/model-selection-and-evaluation.md) (section 3)
+

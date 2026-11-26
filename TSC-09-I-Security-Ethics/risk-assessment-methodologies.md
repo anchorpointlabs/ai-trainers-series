@@ -20,10 +20,10 @@ title: Risk assessment methodologies
 - Run a simple assessment on a scenario.
 
 **Lesson Plan Ideas:**
-1. Teach the risk matrix (plot likelihood vs impact). 
-2. Show a bowtie (causes on the left, consequences on the right). 
-3. Learners rank three risks on a matrix. 
-4. Debrief. 
+1. Teach the risk matrix (plot likelihood vs impact).
+2. Show a bowtie (causes on the left, consequences on the right).
+3. Learners rank three risks on a matrix.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: learners place each and justify the position.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [ai-security.md](../core-knowledge/ai-security.md) (section 5)
+

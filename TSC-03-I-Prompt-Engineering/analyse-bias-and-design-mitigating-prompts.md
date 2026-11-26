@@ -20,10 +20,10 @@ title: Analyse bias and design mitigating prompts
 - Explain why the bias appears.
 
 **Lesson Plan Ideas:**
-1. Show a biased output (a model assuming a nurse is 'she'). 
-2. Teach 'the model echoes its training data — check, then re-prompt'. 
-3. Learners re-prompt a biased output to fix it. 
-4. Debrief what the re-prompt changed. 
+1. Show a biased output (a model assuming a nurse is 'she').
+2. Teach 'the model echoes its training data — check, then re-prompt'.
+3. Learners re-prompt a biased output to fix it.
+4. Debrief what the re-prompt changed.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: a re-prompt like 'rewrite using gender-neutral terms for the nurse'.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [governance-and-ethics.md](../core-knowledge/governance-and-ethics.md) (section 2.3)
+

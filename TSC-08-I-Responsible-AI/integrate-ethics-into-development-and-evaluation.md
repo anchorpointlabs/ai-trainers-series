@@ -20,10 +20,10 @@ title: Integrate ethics into development and evaluation
 - Explain why early beats late.
 
 **Lesson Plan Ideas:**
-1. Contrast ethics-at-the-end with built-in checkpoints. 
-2. Map checkpoints onto a lifecycle. 
-3. Learners place a checkpoint for a project. 
-4. Debrief. 
+1. Contrast ethics-at-the-end with built-in checkpoints.
+2. Map checkpoints onto a lifecycle.
+3. Learners place a checkpoint for a project.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: in evaluation, before deployment — before the harm reaches users.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [governance-and-ethics.md](../core-knowledge/governance-and-ethics.md) (section 2)
+

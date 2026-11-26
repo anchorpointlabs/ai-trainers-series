@@ -20,10 +20,10 @@ title: Implications of biased algorithms and societal impact
 - State why fixing bias is a duty, not an option.
 
 **Lesson Plan Ideas:**
-1. Show one biased decision repeated across a million people. 
-2. Teach 'scale turns a bug into an injustice'. 
-3. Learners trace a biased model's downstream effect. 
-4. Debrief. 
+1. Show one biased decision repeated across a million people.
+2. Teach 'scale turns a bug into an injustice'.
+3. Learners trace a biased model's downstream effect.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: a whole community is locked out of credit, deepening inequality.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [governance-and-ethics.md](../core-knowledge/governance-and-ethics.md) (section 2)
+

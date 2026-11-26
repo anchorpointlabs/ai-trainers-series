@@ -20,10 +20,10 @@ title: Generative AI versus other AI paradigms
 - Give one example of each from their workplace.
 
 **Lesson Plan Ideas:**
-1. Show two outputs: a spam filter's 'spam/not spam' vs a chatbot's drafted reply. 
-2. Draw the line: prediction of a label vs generation of content. 
-3. Learners sort ten systems (fraud detector, image generator, churn predictor, chatbot, autocorrect, translation). 
-4. Debrief the two hardest. 
+1. Show two outputs: a spam filter's 'spam/not spam' vs a chatbot's drafted reply.
+2. Draw the line: prediction of a label vs generation of content.
+3. Learners sort ten systems (fraud detector, image generator, churn predictor, chatbot, autocorrect, translation).
+4. Debrief the two hardest.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -43,3 +43,4 @@ Expected: 1 and 3 discriminative; 2 and 4 generative.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [agentic-ai.md](../core-knowledge/agentic-ai.md) (section 1)
+

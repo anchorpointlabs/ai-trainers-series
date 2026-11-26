@@ -20,10 +20,10 @@ title: Design and govern ethical AI systems
 - Describe a governance checkpoint.
 
 **Lesson Plan Ideas:**
-1. Contrast 'bolted-on review at the end' with 'built-in checkpoints'. 
-2. Walk a lifecycle with checkpoints. 
-3. Learners place a checkpoint for a project. 
-4. Debrief. 
+1. Contrast 'bolted-on review at the end' with 'built-in checkpoints'.
+2. Walk a lifecycle with checkpoints.
+3. Learners place a checkpoint for a project.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: at least at ideation (is this allowed?) and pre-deploy (is it safe?) â
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [governance-and-ethics.md](../core-knowledge/governance-and-ethics.md) (section 2)
+

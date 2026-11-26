@@ -21,10 +21,10 @@ title: Prompt construction techniques and settings
 - Check an AI response against the supplied rules and requested format.
 
 **Lesson Plan Ideas:**
-1. Ask: “How might an AI label library books differently if we show it one worked example rather than none?” Take predictions without assuming either approach will be better. 
-2. Use the exercise to show one-shot prompting (one input and output), instruction prompting (the direct request to label books) and domain-based prompting (the fictional library rule). Explain that removing the worked example would make the same request zero-shot; use this when no example is needed, or one-shot when a pattern is worth showing. A generation setting, sometimes called a hyper-parameter, is set outside the prompt through tool controls or an application's API, the way software sends requests. Where supported, a lower temperature generally makes selection less random and a higher one more random; top-p limits the eligible next text pieces using their combined likelihood. Not every model or interface exposes or honours these settings, and neither guarantees a correct answer. 
-3. In pairs, identify the instruction, library rule and single example below. Predict the three labels, paste the prompt into a new chat, then compare the response with the rule and format. 
-4. Debrief any mismatch: which label or line broke the supplied rule or format? Ask which part of the prompt is the example and why typing a temperature into it would not change a tool setting. 
+1. Ask: “How might an AI label library books differently if we show it one worked example rather than none?” Take predictions without assuming either approach will be better.
+2. Use the exercise to show one-shot prompting (one input and output), instruction prompting (the direct request to label books) and domain-based prompting (the fictional library rule). Explain that removing the worked example would make the same request zero-shot; use this when no example is needed, or one-shot when a pattern is worth showing. A generation setting, sometimes called a hyper-parameter, is set outside the prompt through tool controls or an application's API, the way software sends requests. Where supported, a lower temperature generally makes selection less random and a higher one more random; top-p limits the eligible next text pieces using their combined likelihood. Not every model or interface exposes or honours these settings, and neither guarantees a correct answer.
+3. In pairs, identify the instruction, library rule and single example below. Predict the three labels, paste the prompt into a new chat, then compare the response with the rule and format.
+4. Debrief any mismatch: which label or line broke the supplied rule or format? Ask which part of the prompt is the example and why typing a temperature into it would not change a tool setting.
 
 **Exercise (with the exact prompt):**
 Setup: Pairs use a chat AI in a new chat; no files or sampling-setting changes are needed; all library data are invented.
@@ -59,3 +59,4 @@ Dune — 1 copy available
 - https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/prompts/prompt-design-strategies — accessed 2026-11-15; describes direct instructions, context and requested output formats.
 - https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/prompts/contextual-information — accessed 2026-11-15; explains supplying task-specific background and rules.
 - https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/capabilities/content-generation-parameters — accessed 2026-11-15; explains sampling, temperature and top-p as request settings, and notes that support differs between models.
+

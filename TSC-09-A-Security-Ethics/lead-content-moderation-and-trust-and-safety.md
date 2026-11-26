@@ -20,10 +20,10 @@ title: Lead content moderation and trust-and-safety
 - Set a metric for the programme.
 
 **Lesson Plan Ideas:**
-1. Contrast 'doing reviews' with 'running the programme'. 
-2. Walk the programme elements (policy, people, metrics, reporting). 
-3. Learners draft a policy + one metric. 
-4. Debrief. 
+1. Contrast 'doing reviews' with 'running the programme'.
+2. Walk the programme elements (policy, people, metrics, reporting).
+3. Learners draft a policy + one metric.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: a policy (no hate/abuse/spam) and a metric (e.g. % of harmful posts re
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [ai-security.md](../core-knowledge/ai-security.md) (section 5)
+

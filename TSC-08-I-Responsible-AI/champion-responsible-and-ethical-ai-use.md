@@ -20,10 +20,10 @@ title: Champion responsible and ethical AI use
 - Model the behaviour for a team.
 
 **Lesson Plan Ideas:**
-1. Contrast a complaint ('this is wrong') with a champion's push ('here's the risk and a fix'). 
-2. Teach 'concern + fix = leadership'. 
-3. Learners script a constructive challenge. 
-4. Debrief. 
+1. Contrast a complaint ('this is wrong') with a champion's push ('here's the risk and a fix').
+2. Teach 'concern + fix = leadership'.
+3. Learners script a constructive challenge.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: a concern (bias → unfair outcomes) + a fix (a quick fairness test be
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [governance-and-ethics.md](../core-knowledge/governance-and-ethics.md) (section 2)
+

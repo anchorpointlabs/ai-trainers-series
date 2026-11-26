@@ -20,10 +20,10 @@ title: Where models run — large-scale and distributed clusters
 - Relate scale to a selection decision.
 
 **Lesson Plan Ideas:**
-1. Draw 'one machine' vs 'many machines' and why scale matters. 
-2. Teach throughput vs latency at scale. 
-3. Learners name which model trait matters more at scale. 
-4. Debrief. 
+1. Draw 'one machine' vs 'many machines' and why scale matters.
+2. Teach throughput vs latency at scale.
+3. Learners name which model trait matters more at scale.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: throughput, because latency and capacity dominate at scale.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [model-selection-and-evaluation.md](../core-knowledge/model-selection-and-evaluation.md) (section 3.4)
+

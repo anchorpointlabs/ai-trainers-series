@@ -20,10 +20,10 @@ title: Prompt design, model behaviour, and output diversity
 - Write a precise version and a diverse version of the same task.
 
 **Lesson Plan Ideas:**
-1. Show the same task prompted tight (one exact answer) vs loose (ten varied answers). 
-2. Teach the dial metaphor. 
-3. Learners write both versions for one task. 
-4. Compare where the dial landed. 
+1. Show the same task prompted tight (one exact answer) vs loose (ten varied answers).
+2. Teach the dial metaphor.
+3. Learners write both versions for one task.
+4. Compare where the dial landed.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -39,3 +39,4 @@ Expected: the first is tight and uniform; the second varies widely.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [prompting.md](../core-knowledge/prompting.md) (section 5)
+

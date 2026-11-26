@@ -19,10 +19,10 @@ title: Deploy models for specialised tasks
 - Describe a deployment with version pinning and monitoring.
 
 **Lesson Plan Ideas:**
-1. Show one specialised task solved three ways (prompt, RAG, fine-tune). 
-2. Teach 'pick the lightest route that meets the bar'. 
-3. Learners choose a route for a task and justify it. 
-4. Debrief. 
+1. Show one specialised task solved three ways (prompt, RAG, fine-tune).
+2. Teach 'pick the lightest route that meets the bar'.
+3. Learners choose a route for a task and justify it.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -37,3 +37,4 @@ Expected: RAG — the handbook changes, and RAG injects fresh content without re
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [rag-and-retrieval.md](../core-knowledge/rag-and-retrieval.md) (section 1)
+

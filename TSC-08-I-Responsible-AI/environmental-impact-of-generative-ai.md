@@ -20,10 +20,10 @@ title: Environmental impact of generative AI
 - Name one way to reduce footprint.
 
 **Lesson Plan Ideas:**
-1. Compare energy cost of a big vs small model for one task. 
-2. Teach 'size matters — right-size the model'. 
-3. Learners pick a model size for a task. 
-4. Debrief. 
+1. Compare energy cost of a big vs small model for one task.
+2. Teach 'size matters — right-size the model'.
+3. Learners pick a model size for a task.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: a small/cheap model — the task is simple, and a frontier model waste
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [governance-and-ethics.md](../core-knowledge/governance-and-ethics.md) (section 2)
+

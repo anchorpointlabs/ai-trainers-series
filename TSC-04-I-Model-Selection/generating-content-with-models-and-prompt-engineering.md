@@ -20,10 +20,10 @@ title: Generating content with models and prompt engineering
 - Choose a model + prompt style for a task.
 
 **Lesson Plan Ideas:**
-1. Show the same task run on a model with a weak vs strong prompt. 
-2. Teach 'you are evaluating model + prompt together'. 
-3. Learners pair a model to a task and write the prompt. 
-4. Debrief. 
+1. Show the same task run on a model with a weak vs strong prompt.
+2. Teach 'you are evaluating model + prompt together'.
+3. Learners pair a model to a task and write the prompt.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: a text model + a prompt that specifies length and audience.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [model-selection-and-evaluation.md](../core-knowledge/model-selection-and-evaluation.md) (section 3)
+

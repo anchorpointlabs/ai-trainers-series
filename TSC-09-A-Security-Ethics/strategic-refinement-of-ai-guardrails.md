@@ -20,10 +20,10 @@ title: Strategic refinement of AI guardrails
 - Propose a refinement from failure data.
 
 **Lesson Plan Ideas:**
-1. Teach false positive vs false negative with examples. 
-2. Explain tuning to risk appetite. 
-3. Learners propose a refinement from failure data. 
-4. Debrief. 
+1. Teach false positive vs false negative with examples.
+2. Explain tuning to risk appetite.
+3. Learners propose a refinement from failure data.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: depends on risk appetite — tighten for safety-critical, loosen for c
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [ai-security.md](../core-knowledge/ai-security.md) (section 4)
+

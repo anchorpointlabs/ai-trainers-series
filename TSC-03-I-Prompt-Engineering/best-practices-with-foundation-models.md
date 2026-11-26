@@ -20,10 +20,10 @@ title: Best practices with Foundation Models
 - State which practice a given prompt violates.
 
 **Lesson Plan Ideas:**
-1. Introduce the five as 'specific, context, format, constraints, test'. 
-2. Fix one vague prompt together. 
-3. Learners fix a weak prompt on their own. 
-4. Debrief which practice was most often missing. 
+1. Introduce the five as 'specific, context, format, constraints, test'.
+2. Fix one vague prompt together.
+3. Learners fix a weak prompt on their own.
+4. Debrief which practice was most often missing.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -39,3 +39,4 @@ Expected: the learner adds specificity, context, format, and a constraint.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [prompting.md](../core-knowledge/prompting.md) (section 9)
+

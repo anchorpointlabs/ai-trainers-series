@@ -20,10 +20,10 @@ title: Words and structures that influence output
 - Use multi-turn to build context across several messages.
 
 **Lesson Plan Ideas:**
-1. Show one task prompted three ways with visibly different tones. 
-2. Teach multi-lingual and multi-turn with a customer-service example. 
-3. Learners reword a prompt to shift its tone, and write a multi-turn exchange. 
-4. Compare results. 
+1. Show one task prompted three ways with visibly different tones.
+2. Teach multi-lingual and multi-turn with a customer-service example.
+3. Learners reword a prompt to shift its tone, and write a multi-turn exchange.
+4. Compare results.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -39,3 +39,4 @@ Expected: the second turn reuses the list and changes register.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [prompting.md](../core-knowledge/prompting.md) (section 4)
+

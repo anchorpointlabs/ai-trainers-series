@@ -20,10 +20,10 @@ title: Evaluate bias and limitations of models
 - Explain why source diversity matters.
 
 **Lesson Plan Ideas:**
-1. Show a model that passes one dataset and fails another. 
-2. Teach 'one dataset is a flattering mirror'. 
-3. Learners design a multi-source test. 
-4. Debrief. 
+1. Show a model that passes one dataset and fails another.
+2. Teach 'one dataset is a flattering mirror'.
+3. Learners design a multi-source test.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: test on standard English, Singlish, and minority languages from differ
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [model-selection-and-evaluation.md](../core-knowledge/model-selection-and-evaluation.md) (section 8)
+

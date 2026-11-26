@@ -20,10 +20,10 @@ title: Evaluate privacy vs performance trade-offs
 - Justify a trade-off choice.
 
 **Lesson Plan Ideas:**
-1. Show anonymisation slightly reducing accuracy. 
-2. Teach 'name the trade-off, then choose'. 
-3. Learners weigh a trade-off for a scenario. 
-4. Debrief. 
+1. Show anonymisation slightly reducing accuracy.
+2. Teach 'name the trade-off, then choose'.
+3. Learners weigh a trade-off for a scenario.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: anonymised — the small accuracy loss is worth the privacy gain in a 
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [governance-and-ethics.md](../core-knowledge/governance-and-ethics.md) (section 2)
+

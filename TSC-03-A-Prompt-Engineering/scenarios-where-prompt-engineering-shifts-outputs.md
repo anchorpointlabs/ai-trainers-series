@@ -19,10 +19,10 @@ title: Scenarios where prompt engineering shifts outputs
 - Explain why the same question, prompted differently, produces a different-shaped answer.
 
 **Lesson Plan Ideas:**
-1. Ask: when would a vague one-line prompt be fine, and when would it fail? Collect two answers. 
-2. Show a weak prompt vs a structured prompt on the same task; point out the difference is structure, not vocabulary. 
-3. Pairs pick one workplace task and write both a weak and a structured version. 
-4. Debrief: which differences came from structure? 
+1. Ask: when would a vague one-line prompt be fine, and when would it fail? Collect two answers.
+2. Show a weak prompt vs a structured prompt on the same task; point out the difference is structure, not vocabulary.
+3. Pairs pick one workplace task and write both a weak and a structured version.
+4. Debrief: which differences came from structure?
 
 **Exercise (with the exact prompt):**
 ```text
@@ -39,3 +39,4 @@ Expected: the weak prompt returns generic advice; the strong one returns a usabl
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [prompting.md](../core-knowledge/prompting.md) (sections 1, 5)
+

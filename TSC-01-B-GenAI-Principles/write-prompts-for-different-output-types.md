@@ -20,10 +20,10 @@ title: Write prompts for different output types
 - Name the format lever for each mode.
 
 **Lesson Plan Ideas:**
-1. Show one task requested three ways: a paragraph, a table, a list. 
-2. Teach 'state the mode and the format'. 
-3. Learners write a prompt for a notice (text) and a description of a poster (image). 
-4. Share and compare formats. 
+1. Show one task requested three ways: a paragraph, a table, a list.
+2. Teach 'state the mode and the format'.
+3. Learners write a prompt for a notice (text) and a description of a poster (image).
+4. Share and compare formats.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -39,3 +39,4 @@ Expected: the text prompt yields a short notice; the image description yields a 
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [prompting.md](../core-knowledge/prompting.md) (section 4)
+

@@ -20,10 +20,10 @@ title: Dataset quality and the training pipeline
 - Spot a data-quality risk in a dataset description.
 
 **Lesson Plan Ideas:**
-1. Use 'garbage in, garbage out' as the anchor. 
-2. Walk ETL with a simple example. 
-3. Learners list what could go wrong in a messy customer dataset. 
-4. Debrief. 
+1. Use 'garbage in, garbage out' as the anchor.
+2. Walk ETL with a simple example.
+3. Learners list what could go wrong in a messy customer dataset.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: the model over-fits duplicates and fails on unseen cases.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [model-selection-and-evaluation.md](../core-knowledge/model-selection-and-evaluation.md) (section 2.4)
+

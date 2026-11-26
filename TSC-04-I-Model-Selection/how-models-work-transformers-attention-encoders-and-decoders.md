@@ -20,10 +20,10 @@ title: How models work — transformers, attention, encoders and decoders
 - Explain why the modality gap matters for model choice.
 
 **Lesson Plan Ideas:**
-1. Draw the transformer as 'reads the whole sentence, weighs each word, predicts the next'. 
-2. Contrast encoder/decoder with an example. 
-3. Learners explain the modality gap's effect on choosing an image vs text model. 
-4. Debrief. 
+1. Draw the transformer as 'reads the whole sentence, weighs each word, predicts the next'.
+2. Contrast encoder/decoder with an example.
+3. Learners explain the modality gap's effect on choosing an image vs text model.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: the learner connects the modality gap to why image and text models are
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [model-selection-and-evaluation.md](../core-knowledge/model-selection-and-evaluation.md) (section 2)
+

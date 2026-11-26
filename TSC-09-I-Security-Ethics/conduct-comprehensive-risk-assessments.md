@@ -20,10 +20,10 @@ title: Conduct comprehensive risk assessments
 - Assign an owner to each risk.
 
 **Lesson Plan Ideas:**
-1. Map the surfaces of a sample AI system. 
-2. Teach the risk register format. 
-3. Learners produce a short register. 
-4. Debrief. 
+1. Map the surfaces of a sample AI system.
+2. Teach the risk register format.
+3. Learners produce a short register.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: model (hallucination), data (PII leak), tools (bad API call), users (a
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [ai-security.md](../core-knowledge/ai-security.md) (section 5)
+

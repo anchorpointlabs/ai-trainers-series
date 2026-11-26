@@ -20,10 +20,10 @@ title: Ethical frameworks and legal data protection
 - Explain 'legal floor vs ethical ceiling'.
 
 **Lesson Plan Ideas:**
-1. Teach the floor-vs-ceiling idea: law is the minimum, ethics is the standard. 
-2. Map a framework (principles → controls) onto a tool. 
-3. Learners state what PDPA requires for a use case. 
-4. Debrief. 
+1. Teach the floor-vs-ceiling idea: law is the minimum, ethics is the standard.
+2. Map a framework (principles → controls) onto a tool.
+3. Learners state what PDPA requires for a use case.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: PDPA (consent, purpose, protection); ethics adds transparency and fair
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [governance-and-ethics.md](../core-knowledge/governance-and-ethics.md) (section 4.1)
+

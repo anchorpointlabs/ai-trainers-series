@@ -20,10 +20,10 @@ title: Fundamentals of AI model security
 - Name one sign that a model has been tricked.
 
 **Lesson Plan Ideas:**
-1. Use the gullible-intern analogy as the frame. 
-2. Teach 'the prompt is a door, not just a question'. 
-3. Learners list what could go wrong if nobody monitors an AI that reads emails. 
-4. Debrief. 
+1. Use the gullible-intern analogy as the frame.
+2. Teach 'the prompt is a door, not just a question'.
+3. Learners list what could go wrong if nobody monitors an AI that reads emails.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: unusual instructions in emails, and any action the AI takes (sending, 
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [ai-security.md](../core-knowledge/ai-security.md) (section 1)
+

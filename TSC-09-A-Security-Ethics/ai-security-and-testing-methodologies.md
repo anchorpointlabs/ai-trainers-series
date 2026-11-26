@@ -20,10 +20,10 @@ title: AI security and testing methodologies
 - State an acceptance bar for a model.
 
 **Lesson Plan Ideas:**
-1. Contrast ad-hoc poking with a methodology. 
-2. Walk a threat model for a sample system. 
-3. Learners sketch a threat model. 
-4. Debrief. 
+1. Contrast ad-hoc poking with a methodology.
+2. Walk a threat model for a sample system.
+3. Learners sketch a threat model.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: attacker (user/insider), via prompt injection or the DB tool, to get P
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [ai-security.md](../core-knowledge/ai-security.md) (sections 2, 4)
+

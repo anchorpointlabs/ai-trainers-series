@@ -20,10 +20,10 @@ title: Assess environmental impact
 - Name a lower-footprint alternative.
 
 **Lesson Plan Ideas:**
-1. Show a rough energy comparison of model sizes. 
-2. Teach 'estimate, then right-size'. 
-3. Learners compare two options on footprint. 
-4. Debrief. 
+1. Show a rough energy comparison of model sizes.
+2. Teach 'estimate, then right-size'.
+3. Learners compare two options on footprint.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: the small model — often orders of magnitude cheaper in energy.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [governance-and-ethics.md](../core-knowledge/governance-and-ethics.md) (section 2)
+

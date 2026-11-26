@@ -20,10 +20,10 @@ title: Define prompt engineering
 - Explain the 'test and iterate' part.
 
 **Lesson Plan Ideas:**
-1. Contrast the two levels: 'write a clear request' vs 'design, test, iterate'. 
-2. Walk one prompt improved across three iterations. 
-3. Learners write their own one-line definition. 
-4. Share and sharpen. 
+1. Contrast the two levels: 'write a clear request' vs 'design, test, iterate'.
+2. Walk one prompt improved across three iterations.
+3. Learners write their own one-line definition.
+4. Share and sharpen.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: the learner's definition captures design + iteration.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [prompting.md](../core-knowledge/prompting.md) (section 1)
+

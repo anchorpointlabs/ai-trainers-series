@@ -20,10 +20,10 @@ title: AI security measures and system testing in depth
 - Design a test for a specific control.
 
 **Lesson Plan Ideas:**
-1. Map the control set (filter, privilege, log, rate-limit). 
-2. Teach 'every control has a failure mode — test for it'. 
-3. Learners design a test for one control. 
-4. Debrief. 
+1. Map the control set (filter, privilege, log, rate-limit).
+2. Teach 'every control has a failure mode — test for it'.
+3. Learners design a test for one control.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: inputs containing card-like numbers, checking the output is redacted/b
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [ai-security.md](../core-knowledge/ai-security.md) (sections 4, 5)
+

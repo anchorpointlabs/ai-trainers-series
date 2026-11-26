@@ -20,10 +20,10 @@ title: Identify potential prompt misuses
 - Flag a harmful or over-reliant ask.
 
 **Lesson Plan Ideas:**
-1. Show three flawed prompts and have learners spot the flaw. 
-2. Teach the four misuse types (vague, missing context, harmful, over-reliant). 
-3. Learners fix two flawed prompts. 
-4. Debrief. 
+1. Show three flawed prompts and have learners spot the flaw.
+2. Teach the four misuse types (vague, missing context, harmful, over-reliant).
+3. Learners fix two flawed prompts.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: over-reliance — asking for financial advice and an unchecked recomme
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [prompting.md](../core-knowledge/prompting.md) (section 8)
+

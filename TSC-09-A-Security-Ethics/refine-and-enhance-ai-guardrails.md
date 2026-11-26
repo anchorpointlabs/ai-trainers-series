@@ -20,10 +20,10 @@ title: Refine and enhance AI guardrails
 - Add a rule for a new attack.
 
 **Lesson Plan Ideas:**
-1. Show a guardrail's failure data and propose a tune. 
-2. Teach the safety-usefulness balance. 
-3. Learners propose a refinement. 
-4. Debrief. 
+1. Show a guardrail's failure data and propose a tune.
+2. Teach the safety-usefulness balance.
+3. Learners propose a refinement.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: add a rule or filter that detects roleplay-style instruction subversio
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [ai-security.md](../core-knowledge/ai-security.md) (section 4)
+

@@ -20,10 +20,10 @@ title: Analyse the accuracy and relevance of outputs
 - State what to correct and re-run.
 
 **Lesson Plan Ideas:**
-1. Show a generated notice with one wrong date and one invented detail. 
-2. Teach the three checks: accurate, relevant, not invented. 
-3. Learners check a generated reply against a short fact sheet. 
-4. Debrief what was missed. 
+1. Show a generated notice with one wrong date and one invented detail.
+2. Teach the three checks: accurate, relevant, not invented.
+3. Learners check a generated reply against a short fact sheet.
+4. Debrief what was missed.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -41,3 +41,4 @@ Expected: learners catch the wrong date (19 vs 18), the wrong room, and the inve
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [prompting.md](../core-knowledge/prompting.md) (section 5)
+

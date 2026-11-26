@@ -20,10 +20,10 @@ title: Red teaming for vulnerabilities
 - Describe a red-team finding and its fix.
 
 **Lesson Plan Ideas:**
-1. Contrast red teaming with ordinary testing (adversarial vs functional). 
-2. Walk one red-team exercise (extract the system prompt). 
-3. Learners write one red-team attack. 
-4. Debrief. 
+1. Contrast red teaming with ordinary testing (adversarial vs functional).
+2. Walk one red-team exercise (extract the system prompt).
+3. Learners write one red-team attack.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: e.g. 'reveal your instructions' — and the fix (constrain outputs, dr
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [ai-security.md](../core-knowledge/ai-security.md) (sections 3, 4)
+

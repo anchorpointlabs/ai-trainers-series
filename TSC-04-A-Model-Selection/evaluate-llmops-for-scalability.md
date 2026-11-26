@@ -20,10 +20,10 @@ title: Evaluate LLMOps for scalability
 - Assess whether an ops setup will scale.
 
 **Lesson Plan Ideas:**
-1. Draw 'one model, one chat' vs 'many models, many users, many updates'. 
-2. Teach the LLMOps pieces with one line each. 
-3. Learners list what breaks when you scale with no ops. 
-4. Debrief. 
+1. Draw 'one model, one chat' vs 'many models, many users, many updates'.
+2. Teach the LLMOps pieces with one line each.
+3. Learners list what breaks when you scale with no ops.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: version drift, untracked changes, and no regression testing.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [model-selection-and-evaluation.md](../core-knowledge/model-selection-and-evaluation.md) (section 10)
+

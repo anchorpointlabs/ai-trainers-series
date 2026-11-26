@@ -20,10 +20,10 @@ title: Identify effective prompt practices
 - Check an answer against those facts and requirements, then suggest a prompt change if something is missing.
 
 **Lesson Plan Ideas:**
-1. Ask: “If a colleague simply says ‘Write a notice’, what would you need to ask before writing it?” Collect a few suggestions. 
-2. Explain the central habit: give the details needed for the job. Using the notice task below, point out the audience, event facts and two-sentence limit; ask learners which details would also matter in a notice from their own workplace. Stress that clear words and relevant information matter more than a fixed formula. 
-3. In pairs, read the original prompt, invented facts and task requirements in the exercise. Identify two things missing from the original and write your own improved prompt before generating the AI example . Paste the exact block into a new chat, independently check its revised prompt and notice using the check below, and amend your own prompt if needed . Run your own revised prompt in another new chat and check the notice against the same facts and length . 
-4. Ask pairs which detail they added and why. If a notice missed a requirement, ask how they would make that requirement clearer in their prompt; if none did, ask what they would change if the date were missing. 
+1. Ask: “If a colleague simply says ‘Write a notice’, what would you need to ask before writing it?” Collect a few suggestions.
+2. Explain the central habit: give the details needed for the job. Using the notice task below, point out the audience, event facts and two-sentence limit; ask learners which details would also matter in a notice from their own workplace. Stress that clear words and relevant information matter more than a fixed formula.
+3. In pairs, read the original prompt, invented facts and task requirements in the exercise. Identify two things missing from the original and write your own improved prompt before generating the AI example . Paste the exact block into a new chat, independently check its revised prompt and notice using the check below, and amend your own prompt if needed . Run your own revised prompt in another new chat and check the notice against the same facts and length .
+4. Ask pairs which detail they added and why. If a notice missed a requirement, ask how they would make that requirement clearer in their prompt; if none did, ask what they would change if the date were missing.
 
 **Exercise (with the exact prompt):**
 *Setup: Work in pairs with a chat AI, using a new conversation for each run; no files are needed and all event details are invented.*
@@ -50,3 +50,4 @@ Check: Both your revised prompt and the AI's should specify the library, book sw
 - https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api — accessed 2026-11-15; recommends clear, specific instructions on context, outcome, length and format, and acknowledges that different formats may fit different tasks.
 - https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices — accessed 2026-11-15; recommends clear instructions, useful context and explicit output requirements, and suggests checking whether a person with little context can follow the prompt.
 - https://developers.openai.com/api/docs/guides/prompt-engineering — accessed 2026-11-15; discusses relevant context, variation in AI outputs and testing against requirements while revising prompts.
+

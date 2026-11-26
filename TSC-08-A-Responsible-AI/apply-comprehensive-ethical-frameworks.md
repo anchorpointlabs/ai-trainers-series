@@ -20,10 +20,10 @@ title: Apply comprehensive ethical frameworks
 - Name what 'comprehensive' must include.
 
 **Lesson Plan Ideas:**
-1. Walk a comprehensive framework across a project. 
-2. Teach 'owner + evidence = applied'. 
-3. Learners apply the framework to one stage. 
-4. Debrief. 
+1. Walk a comprehensive framework across a project.
+2. Teach 'owner + evidence = applied'.
+3. Learners apply the framework to one stage.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: fairness metrics across groups, owned by a named person with sign-off.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [governance-and-ethics.md](../core-knowledge/governance-and-ethics.md) (section 2)
+

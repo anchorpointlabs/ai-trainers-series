@@ -20,10 +20,10 @@ title: Assess AI ethics across disciplines
 - Explain a trade-off across lenses.
 
 **Lesson Plan Ideas:**
-1. Run one decision through all four lenses and find the conflict. 
-2. Teach 'the lenses pull in different directions'. 
-3. Learners find a cross-lens conflict. 
-4. Debrief. 
+1. Run one decision through all four lenses and find the conflict.
+2. Teach 'the lenses pull in different directions'.
+3. Learners find a cross-lens conflict.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: legal/cultural support vs environmental cost — the conflict is betwe
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [governance-and-ethics.md](../core-knowledge/governance-and-ethics.md) (section 4)
+

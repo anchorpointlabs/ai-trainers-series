@@ -20,10 +20,10 @@ title: Ethical frameworks and global standards
 - State what one standard demands.
 
 **Lesson Plan Ideas:**
-1. Map the standards (OECD, EU AI Act, ISO) to what each governs. 
-2. Teach 'the standard you must meet depends on your market'. 
-3. Learners pick the relevant standard for a scenario. 
-4. Debrief. 
+1. Map the standards (OECD, EU AI Act, ISO) to what each governs.
+2. Teach 'the standard you must meet depends on your market'.
+3. Learners pick the relevant standard for a scenario.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: the EU AI Act — it directly regulates AI in the EU market.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [governance-and-ethics.md](../core-knowledge/governance-and-ethics.md) (section 4)
+

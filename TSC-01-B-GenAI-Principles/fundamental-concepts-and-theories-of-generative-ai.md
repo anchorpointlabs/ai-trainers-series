@@ -20,10 +20,10 @@ title: Fundamental concepts and theories of generative AI
 - Point to one visible consequence of the probabilistic nature (output varies on re-run).
 
 **Lesson Plan Ideas:**
-1. Ask: does ChatGPT 'know' things the way a dictionary does? Collect guesses. 
-2. Teach the three ideas with the 'student who read every book' picture. 
-3. Run the same prompt twice and show the output differs — evidence it is prediction, not lookup. 
-4. Debrief: what pattern, probability and networks mean in their own words. 
+1. Ask: does ChatGPT 'know' things the way a dictionary does? Collect guesses.
+2. Teach the three ideas with the 'student who read every book' picture.
+3. Run the same prompt twice and show the output differs — evidence it is prediction, not lookup.
+4. Debrief: what pattern, probability and networks mean in their own words.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -40,3 +40,4 @@ Expected: the two runs differ slightly — proof the model predicts, it does not
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [agentic-ai.md](../core-knowledge/agentic-ai.md) (section 1)
+

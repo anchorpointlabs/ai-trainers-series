@@ -20,10 +20,10 @@ title: Create adversarial datasets for the business use case
 - Turn a failure into a new test case.
 
 **Lesson Plan Ideas:**
-1. Contrast ordinary test data with adversarial data. 
-2. Build adversarial examples together for a use case. 
-3. Learners add an adversarial case. 
-4. Debrief. 
+1. Contrast ordinary test data with adversarial data.
+2. Build adversarial examples together for a use case.
+3. Learners add an adversarial case.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: e.g. a dialect-heavy insult, and a request that tests for gender/race 
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [model-selection-and-evaluation.md](../core-knowledge/model-selection-and-evaluation.md) (section 8)
+

@@ -20,10 +20,10 @@ title: Evaluate ethical frameworks and guidelines
 - Recommend a framework for a context.
 
 **Lesson Plan Ideas:**
-1. Compare a vague 'we value ethics' statement with an actionable framework. 
-2. Teach the evaluation questions. 
-3. Learners evaluate a framework against a scenario. 
-4. Debrief. 
+1. Compare a vague 'we value ethics' statement with an actionable framework.
+2. Teach the evaluation questions.
+3. Learners evaluate a framework against a scenario.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: too vague — it does not specify checks, owners, or thresholds, so it
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [governance-and-ethics.md](../core-knowledge/governance-and-ethics.md) (section 2)
+

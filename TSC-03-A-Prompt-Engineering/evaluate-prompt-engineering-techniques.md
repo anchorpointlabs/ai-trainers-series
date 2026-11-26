@@ -20,10 +20,10 @@ title: Evaluate prompt engineering techniques
 - State a technique's limitation from the results.
 
 **Lesson Plan Ideas:**
-1. Introduce the 'rubric before results' rule (reuse the PSLE-marking analogy). 
-2. Score two prompt versions against one rubric together. 
-3. Learners score a third version on their own. 
-4. Debrief which technique won and where it broke. 
+1. Introduce the 'rubric before results' rule (reuse the PSLE-marking analogy).
+2. Score two prompt versions against one rubric together.
+3. Learners score a third version on their own.
+4. Debrief which technique won and where it broke.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -39,3 +39,4 @@ Expected: learners produce a numeric score and can name which criterion failed.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [model-selection-and-evaluation.md](../core-knowledge/model-selection-and-evaluation.md) (evaluation harness)
+

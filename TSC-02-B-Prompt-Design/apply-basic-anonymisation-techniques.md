@@ -21,10 +21,10 @@ title: Apply basic anonymisation techniques
 - Explain how someone might re-identify a person and why pseudonymisation alone does not necessarily make data anonymous.
 
 **Lesson Plan Ideas:**
-1. Ask: “If a list of support visits has no names, is it necessarily anonymous?” Invite a reason for each answer. 
-2. Use invented records to demonstrate each change: mask `ZX1234` as `ZX****`, perturb a wait of 12 minutes to 14, and replace a customer's name with a made-up label, using the same label for repeat visits. Explain that topics and approximate waits remain useful for discussing service waits, but the changed times are not exact. A separate name-to-label list or an unusual combination of details could link a record to a person. For real work, keep any name-to-label list separate and secure, assess identification risk in the intended sharing context, and do not put real personal data into a chatbot (a computer service that responds to typed messages). [2] [3] 
-3. In pairs, learners apply all three rules by hand to every fictional row in the exercise, before running the prompt. They then compare their own table with the AI answer and the check below. 
-4. Debrief one discrepancy and why it occurred. Explain that a named public post about an unusual topic and approximate wait might be matched to a row; a leaked name-to-label list could also reveal the person. The fixed adjustments here make marking easy but can be reversed if known; they do not guarantee privacy. [2] [3] 
+1. Ask: “If a list of support visits has no names, is it necessarily anonymous?” Invite a reason for each answer.
+2. Use invented records to demonstrate each change: mask `ZX1234` as `ZX****`, perturb a wait of 12 minutes to 14, and replace a customer's name with a made-up label, using the same label for repeat visits. Explain that topics and approximate waits remain useful for discussing service waits, but the changed times are not exact. A separate name-to-label list or an unusual combination of details could link a record to a person. For real work, keep any name-to-label list separate and secure, assess identification risk in the intended sharing context, and do not put real personal data into a chatbot (a computer service that responds to typed messages). [2] [3]
+3. In pairs, learners apply all three rules by hand to every fictional row in the exercise, before running the prompt. They then compare their own table with the AI answer and the check below.
+4. Debrief one discrepancy and why it occurred. Explain that a named public post about an unusual topic and approximate wait might be matched to a row; a leaked name-to-label list could also reveal the person. The fixed adjustments here make marking easy but can be reversed if known; they do not guarantee privacy. [2] [3]
 
 **Exercise (with the exact prompt):**
 *Setup: pairs need paper and access to a chat AI; first make all three changes by hand to the invented rows in the prompt, then paste it for a comparison.*
@@ -62,3 +62,4 @@ What to check: compare both tables with those rows; confirm the repeated label, 
 - [4] https://developers.openai.com/api/docs/guides/advanced-usage — accessed 2026-11-15; explains that Chat Completions outputs can differ between requests.
 
 **Related:** [Masking, perturbation, pseudonymisation](../TSC-01-B-GenAI-Principles/masking-perturbation-pseudonymisation.md) — the same skill at a different level.
+

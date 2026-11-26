@@ -21,10 +21,10 @@ title: Recognise AI tool issues
 - Quote the visible evidence without claiming a cause that has not been established.
 
 **Lesson Plan Ideas:**
-1. Ask: “If an AI answer looks tidy, how can we tell whether it meets the request?” Take two suggestions. 
-2. Use the fictional note in the exercise to explain four checks: compare claims with the note; compare layout with the requested lines; look for a refusal, meaning the tool declines the request; and look for a service error message. Explain that a detail missing from the note is unsupported by that note, not automatically false, and that a refusal is not automatically a fault. A message alone does not establish the cause of an error. 
-3. In pairs, learners run the prompt below. They check the actual notice against the note and line requirements, then classify each invented card and quote the words that support their choice. 
-4. Compare the pairs’ findings with the check below. Ask what they can observe and what they cannot conclude about the cause; distinguish the made-up cards from the actual response. 
+1. Ask: “If an AI answer looks tidy, how can we tell whether it meets the request?” Take two suggestions.
+2. Use the fictional note in the exercise to explain four checks: compare claims with the note; compare layout with the requested lines; look for a refusal, meaning the tool declines the request; and look for a service error message. Explain that a detail missing from the note is unsupported by that note, not automatically false, and that a refusal is not automatically a fault. A message alone does not establish the cause of an error.
+3. In pairs, learners run the prompt below. They check the actual notice against the note and line requirements, then classify each invented card and quote the words that support their choice.
+4. Compare the pairs’ findings with the check below. Ask what they can observe and what they cannot conclude about the cause; distinguish the made-up cards from the actual response.
 
 **Exercise (with the exact prompt):**
 Setup: Use any chat AI; no files are needed. Work in pairs.

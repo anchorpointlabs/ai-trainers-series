@@ -21,10 +21,10 @@ title: Data privacy regulations
 - Identify why deleting names may not make a record anonymous and choose a next step before using real data in a prompt.
 
 **Lesson Plan Ideas:**
-1. Ask: “If a customer record has no name, why might it still need care before you put it into a chat AI?” Collect suggestions without asking for real customer details. 
-2. Explain the PDPA baseline using an imagined appointment list: the intended use must be appropriate, people generally need to be told the purpose, consent may be needed, and personal data needs reasonable protection. Exceptions can apply. Explain that an organisation’s own rules and approval for an external (outside the organisation) chat AI are separate checks, and safeguards are ways of protecting data. 
-3. In pairs, learners run the exercise below. They compare the checklist with the stated checks, mark any missing point and explain one correction to each other. 
-4. Debrief: ask why B and C are paused, why an appointment-reminder agreement is not automatically permission for AI use, and why the fictional approval rule is not a universal PDPA requirement. 
+1. Ask: “If a customer record has no name, why might it still need care before you put it into a chat AI?” Collect suggestions without asking for real customer details.
+2. Explain the PDPA baseline using an imagined appointment list: the intended use must be appropriate, people generally need to be told the purpose, consent may be needed, and personal data needs reasonable protection. Exceptions can apply. Explain that an organisation’s own rules and approval for an external (outside the organisation) chat AI are separate checks, and safeguards are ways of protecting data.
+3. In pairs, learners run the exercise below. They compare the checklist with the stated checks, mark any missing point and explain one correction to each other.
+4. Debrief: ask why B and C are paused, why an appointment-reminder agreement is not automatically permission for AI use, and why the fictional approval rule is not a universal PDPA requirement.
 
 **Exercise (with the exact prompt):**
 *Setup: pairs need access to a chat AI; no files or real customer information are needed.*
@@ -62,3 +62,4 @@ Create a three-row checklist, one row per case, with a decision to proceed or pa
 - https://www.pdpc.gov.sg/assets/143cb9d4-532e-4cca-9a77-bcc0415ca294 — accessed 2026-11-15; PDPC’s 2026 generative AI advisory discusses consent and exceptions, organisations’ responsibilities, safeguards and written policies; it states that the guidance is not legal advice.
 - https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/advisory-guidelines/guide-to-basic-anonymisation-%28updated-24-july-2024%29.pdf — accessed 2026-11-15; explains that removing direct identifiers is not necessarily anonymisation because other information can enable identification.
 - https://developers.openai.com/api/docs/guides/evaluation-best-practices — accessed 2026-11-15; explains that outputs can vary for the same input and should be checked against specific criteria.
+

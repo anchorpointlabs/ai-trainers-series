@@ -20,10 +20,10 @@ title: Risk management frameworks and trust-and-safety best practice
 - Explain 'agile risk' in one line.
 
 **Lesson Plan Ideas:**
-1. Contrast the three frameworks with one example each. 
-2. Walk a bowtie for a chatbot leak. 
-3. Learners map a second failure with a bowtie. 
-4. Debrief. 
+1. Contrast the three frameworks with one example each.
+2. Walk a bowtie for a chatbot leak.
+3. Learners map a second failure with a bowtie.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: causes (bad routing, no check), event (data sent), consequences (PDPA 
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [ai-security.md](../core-knowledge/ai-security.md) (section 5)
+

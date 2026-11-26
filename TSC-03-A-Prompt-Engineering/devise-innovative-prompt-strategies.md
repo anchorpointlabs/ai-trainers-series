@@ -20,10 +20,10 @@ title: Devise innovative prompt strategies
 - Build in a verification step and explain why it matters.
 
 **Lesson Plan Ideas:**
-1. Present a task that defeats a single prompt; show it solved as a staged pipeline. 
-2. Teach 'decompose, assign, verify'. 
-3. Groups design a staged prompt for a real task and pitch it. 
-4. Vote on the strongest design. 
+1. Present a task that defeats a single prompt; show it solved as a staged pipeline.
+2. Teach 'decompose, assign, verify'.
+3. Groups design a staged prompt for a real task and pitch it.
+4. Vote on the strongest design.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: a staged pipeline with an explicit verification step.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [prompting.md](../core-knowledge/prompting.md) (section 3)
+

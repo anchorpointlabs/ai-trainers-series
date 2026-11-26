@@ -20,10 +20,10 @@ title: Exercise professional scepticism on AI output
 - State why scepticism is professional, not negative.
 
 **Lesson Plan Ideas:**
-1. Show a confidently wrong output and model the check. 
-2. Teach 'scepticism is diligence, not distrust'. 
-3. Learners check a generated claim against a source. 
-4. Debrief. 
+1. Show a confidently wrong output and model the check.
+2. Teach 'scepticism is diligence, not distrust'.
+3. Learners check a generated claim against a source.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: check the National Library Board source, then correct or discard.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [governance-and-ethics.md](../core-knowledge/governance-and-ethics.md) (section 2)
+

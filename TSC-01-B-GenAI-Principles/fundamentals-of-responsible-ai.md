@@ -20,10 +20,10 @@ title: Fundamentals of responsible AI
 - State when and how to disclose AI use.
 
 **Lesson Plan Ideas:**
-1. Show a biased output (a model assuming a nurse is 'she'). 
-2. Teach the four principles with one workplace example each. 
-3. Learners read a scenario (AI-written staff review) and list the fairness/transparency risks. 
-4. Debrief who is accountable for the final decision. 
+1. Show a biased output (a model assuming a nurse is 'she').
+2. Teach the four principles with one workplace example each.
+3. Learners read a scenario (AI-written staff review) and list the fairness/transparency risks.
+4. Debrief who is accountable for the final decision.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -40,3 +40,4 @@ Expected: risks include hidden bias in ranking, no human review, and no disclosu
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [governance-and-ethics.md](../core-knowledge/governance-and-ethics.md) (section 1)
+

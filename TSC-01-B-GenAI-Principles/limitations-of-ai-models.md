@@ -20,10 +20,10 @@ title: Limitations of AI models
 - Explain why checking against a source is non-negotiable.
 
 **Lesson Plan Ideas:**
-1. Show a fluent but wrong output (a fake statistic or a hallucinated citation). 
-2. Teach 'fluent is not true' — the model is a confident guesser. 
-3. Learners read a generated paragraph and underline anything that must be verified. 
-4. Debrief what to check and where. 
+1. Show a fluent but wrong output (a fake statistic or a hallucinated citation).
+2. Teach 'fluent is not true' — the model is a confident guesser.
+3. Learners read a generated paragraph and underline anything that must be verified.
+4. Debrief what to check and where.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -40,3 +40,4 @@ Expected: the model states a confident number; verification shows whether it is 
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [popular-llms-and-notebooklm.md](../core-knowledge/popular-llms-and-notebooklm.md) (section 5)
+

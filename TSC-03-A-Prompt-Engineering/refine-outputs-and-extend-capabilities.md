@@ -20,10 +20,10 @@ title: Refine outputs and extend capabilities
 - Explain what each pass changed and why.
 
 **Lesson Plan Ideas:**
-1. Show a first-draft output, then two refinements, and name what changed each time. 
-2. Demonstrate extending a prompt with a retrieval step. 
-3. Learners refine a weak prompt across three passes. 
-4. Share the before/after. 
+1. Show a first-draft output, then two refinements, and name what changed each time.
+2. Demonstrate extending a prompt with a retrieval step.
+3. Learners refine a weak prompt across three passes.
+4. Share the before/after.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -41,3 +41,4 @@ Expected: each pass narrows the output toward the goal.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [prompting.md](../core-knowledge/prompting.md) (section 9)
+

@@ -20,10 +20,10 @@ title: Evaluate reliability and adaptability
 - State what 'consistent over time' means.
 
 **Lesson Plan Ideas:**
-1. Contrast a flashy demo with steady, boring reliability. 
-2. Teach the two axes (reliability, adaptability). 
-3. Learners design a week-long stress test. 
-4. Debrief. 
+1. Contrast a flashy demo with steady, boring reliability.
+2. Teach the two axes (reliability, adaptability).
+3. Learners design a week-long stress test.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: a varied input set over time, checking for drift and edge-case failure
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [model-selection-and-evaluation.md](../core-knowledge/model-selection-and-evaluation.md) (section 10)
+

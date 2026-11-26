@@ -21,10 +21,10 @@ title: Follow troubleshooting procedures
 - Prepare a short report for information technology (IT) support if the issue remains unresolved.
 
 **Lesson Plan Ideas:**
-1. Ask: “A chat gives an error instead of a reply. What should you do before changing settings or trying repeatedly?” Take two suggestions. 
-2. Use the invented case below to show the sequence: note the error and time without private details; check the service-status page and an approved public website; start a new chat and retry the same harmless request once; check the result; report it to IT support if it still fails. If it works, record success and stop. A clear status page and a loading website do not prove the cause. Leave security settings alone; for real problems, follow workplace and provider guidance. 
-3. In pairs, read the case in the prompt and role-play the actions in order. Write your own five-step record and support message before running the prompt, then compare both your work and the AI's model answer with the check below. Do not perform real service checks or send a real support message. 
-4. Debrief: which step was missed, and did anyone mistake the checks for proof of a cause? Correct the record together. 
+1. Ask: “A chat gives an error instead of a reply. What should you do before changing settings or trying repeatedly?” Take two suggestions.
+2. Use the invented case below to show the sequence: note the error and time without private details; check the service-status page and an approved public website; start a new chat and retry the same harmless request once; check the result; report it to IT support if it still fails. If it works, record success and stop. A clear status page and a loading website do not prove the cause. Leave security settings alone; for real problems, follow workplace and provider guidance.
+3. In pairs, read the case in the prompt and role-play the actions in order. Write your own five-step record and support message before running the prompt, then compare both your work and the AI's model answer with the check below. Do not perform real service checks or send a real support message.
+4. Debrief: which step was missed, and did anyone mistake the checks for proof of a cause? Correct the record together.
 
 **Exercise (with the exact prompt):**
 *Setup: pairs need access to a chat AI and paper; all checks and actions in the case are simulated.*
@@ -50,3 +50,4 @@ What to check: both records show, in order, (1) the error and its time without s
 - https://help.openai.com/en/articles/7996703-troubleshooting-chatgpt-error-messages — accessed 2026-11-15; describes checking service status, starting a new chat or retrying, and contacting support for continuing errors. The single-retry limit is a classroom rule, not a universal provider requirement.
 - https://support.mozilla.org/en-US/kb/websites-dont-load-troubleshoot-and-fix-errors — accessed 2026-11-15; recommends trying another website as a connection check.
 - https://help.openai.com/en/articles/6614161-how-can-i-contact-support — accessed 2026-11-15; recommends reporting the issue, steps and time, and excluding passwords and sensitive information.
+

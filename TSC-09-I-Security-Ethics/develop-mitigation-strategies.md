@@ -20,10 +20,10 @@ title: Develop mitigation strategies
 - Rank mitigations by cost vs effect.
 
 **Lesson Plan Ideas:**
-1. Contrast 'we'll be careful' with a real mitigation. 
-2. Teach the mitigation menu (prevent, detect, respond). 
-3. Learners write a mitigation for a named risk. 
-4. Debrief. 
+1. Contrast 'we'll be careful' with a real mitigation.
+2. Teach the mitigation menu (prevent, detect, respond).
+3. Learners write a mitigation for a named risk.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: e.g. output filter for names + never sending customer data to the mode
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [ai-security.md](../core-knowledge/ai-security.md) (section 4)
+

@@ -20,10 +20,10 @@ title: Deploying and fine-tuning AI models
 - Name the evaluation step's role.
 
 **Lesson Plan Ideas:**
-1. Walk the lifecycle end-to-end on the board. 
-2. Teach version pinning with a 'don't move the goalposts' example. 
-3. Learners order the workflow steps. 
-4. Debrief. 
+1. Walk the lifecycle end-to-end on the board.
+2. Teach version pinning with a 'don't move the goalposts' example.
+3. Learners order the workflow steps.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: prepare → fine-tune → evaluate → deploy (pin version) → monito
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [model-selection-and-evaluation.md](../core-knowledge/model-selection-and-evaluation.md) (section 10)
+

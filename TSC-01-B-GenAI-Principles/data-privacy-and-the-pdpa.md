@@ -20,10 +20,10 @@ title: Data privacy and the PDPA
 - Decide whether a piece of data may be entered into a tool.
 
 **Lesson Plan Ideas:**
-1. Ask: what would you not want on the office noticeboard? That is the test. 
-2. Teach consent, purpose, protection with a customer-email example. 
-3. Learners classify ten items (name, job title, salary, company name, NRIC, email). 
-4. Debrief: which were personal, which were not obvious. 
+1. Ask: what would you not want on the office noticeboard? That is the test.
+2. Teach consent, purpose, protection with a customer-email example.
+3. Learners classify ten items (name, job title, salary, company name, NRIC, email).
+4. Debrief: which were personal, which were not obvious.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -43,3 +43,4 @@ Expected: 1, 2 and 4 are personal data (name, NRIC, email); 3 alone is not.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [governance-and-ethics.md](../core-knowledge/governance-and-ethics.md) (section 4.1)
+

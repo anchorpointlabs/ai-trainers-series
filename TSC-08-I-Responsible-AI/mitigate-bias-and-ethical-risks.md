@@ -20,10 +20,10 @@ title: Mitigate bias and ethical risks
 - Add a fairness check to a pipeline.
 
 **Lesson Plan Ideas:**
-1. Show a biased output and trace it to a cause, then fix it. 
-2. Teach the mitigation menu (data, checks, constraints, human gate). 
-3. Learners pick a mitigation for a risk. 
-4. Debrief. 
+1. Show a biased output and trace it to a cause, then fix it.
+2. Teach the mitigation menu (data, checks, constraints, human gate).
+3. Learners pick a mitigation for a risk.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: cause = biased training data; mitigation = rebalance data + a fairness
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [governance-and-ethics.md](../core-knowledge/governance-and-ethics.md) (section 2)
+

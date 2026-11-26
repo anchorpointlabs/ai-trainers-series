@@ -20,10 +20,10 @@ title: Evaluate effectiveness across scenarios
 - Adjust the method to the new scenario and retest.
 
 **Lesson Plan Ideas:**
-1. Take a method that works in English and run it in Singlish or a different format; show the crack. 
-2. Teach 'vary one variable to test adaptability'. 
-3. Learners stress-test a prompt across two scenarios. 
-4. Debrief what they had to change. 
+1. Take a method that works in English and run it in Singlish or a different format; show the crack.
+2. Teach 'vary one variable to test adaptability'.
+3. Learners stress-test a prompt across two scenarios.
+4. Debrief what they had to change.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -40,3 +40,4 @@ Expected: the formal version fails for WhatsApp; learners adjust register and le
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [prompting.md](../core-knowledge/prompting.md) (section 5)
+

@@ -20,10 +20,10 @@ title: Extending models with RAG, tools, and LangChain
 - Sketch the pipeline: query → retrieve → inject → generate.
 
 **Lesson Plan Ideas:**
-1. Ask a question the model cannot answer (a private policy), show it guessing, then show the RAG answer. 
-2. Draw the RAG pipeline on the board. 
-3. Learners identify which of three tasks needs RAG, which needs a tool, which needs neither. 
-4. Debrief the choices. 
+1. Ask a question the model cannot answer (a private policy), show it guessing, then show the RAG answer.
+2. Draw the RAG pipeline on the board.
+3. Learners identify which of three tasks needs RAG, which needs a tool, which needs neither.
+4. Debrief the choices.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -43,3 +43,4 @@ Expected: the model answers from the document and says 'not in the document' whe
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [rag-and-retrieval.md](../core-knowledge/rag-and-retrieval.md)
+

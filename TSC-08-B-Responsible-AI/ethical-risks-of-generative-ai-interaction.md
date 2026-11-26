@@ -20,10 +20,10 @@ title: Ethical risks of generative AI interaction
 - State a mitigation.
 
 **Lesson Plan Ideas:**
-1. Show a fluent-but-wrong output and the over-trust it invited. 
-2. Teach the three risks. 
-3. Learners identify risks in three planned uses. 
-4. Debrief. 
+1. Show a fluent-but-wrong output and the over-trust it invited.
+2. Teach the three risks.
+3. Learners identify risks in three planned uses.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: bias, over-trust, accountability gap, and unfair outcomes.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [governance-and-ethics.md](../core-knowledge/governance-and-ethics.md) (section 2)
+

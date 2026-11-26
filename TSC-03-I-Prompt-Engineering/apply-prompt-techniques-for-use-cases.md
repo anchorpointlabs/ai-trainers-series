@@ -20,10 +20,10 @@ title: Apply prompt techniques for use cases
 - Explain why that technique fit.
 
 **Lesson Plan Ideas:**
-1. Show a task solved with the wrong technique, then the right one. 
-2. Teach the matching table (format→few-shot, reasoning→CoT, tone→role). 
-3. Learners choose + apply a technique for a task. 
-4. Debrief the choices. 
+1. Show a task solved with the wrong technique, then the right one.
+2. Teach the matching table (format→few-shot, reasoning→CoT, tone→role).
+3. Learners choose + apply a technique for a task.
+4. Debrief the choices.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: chain-of-thought, with 'work step by step'.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [prompting.md](../core-knowledge/prompting.md) (section 3)
+

@@ -20,10 +20,10 @@ title: Configuring guardrails for content generation
 - Test the guardrail against attempts to slip through.
 
 **Lesson Plan Ideas:**
-1. Write a content policy together (what the bot must never produce). 
-2. Encode it as rules. 
-3. Learners try to make the model violate the policy. 
-4. Debrief which attempts slipped through. 
+1. Write a content policy together (what the bot must never produce).
+2. Encode it as rules.
+3. Learners try to make the model violate the policy.
+4. Debrief which attempts slipped through.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: e.g. roleplay as a doctor, ask 'hypothetically', or hide the ask in a 
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [ai-security.md](../core-knowledge/ai-security.md) (section 4)
+

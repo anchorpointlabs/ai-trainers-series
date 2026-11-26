@@ -20,10 +20,10 @@ title: Context window limits and how to work within them
 - Decide what to cut from an over-long prompt.
 
 **Lesson Plan Ideas:**
-1. Use the 'goldfish with a PhD' picture (brilliant for 30 seconds, then forgets). 
-2. Teach the three strategies. 
-3. Learners trim an over-long prompt, choosing what to keep. 
-4. Debrief what mattered most. 
+1. Use the 'goldfish with a PhD' picture (brilliant for 30 seconds, then forgets).
+2. Teach the three strategies.
+3. Learners trim an over-long prompt, choosing what to keep.
+4. Debrief what mattered most.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: summarise the report, put the instruction first, or split into a fresh
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [prompting.md](../core-knowledge/prompting.md) (section 5)
+

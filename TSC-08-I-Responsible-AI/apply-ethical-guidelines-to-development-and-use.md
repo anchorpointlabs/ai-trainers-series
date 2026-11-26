@@ -20,10 +20,10 @@ title: Apply ethical guidelines to development and use
 - Name which check a stage most needs.
 
 **Lesson Plan Ideas:**
-1. Walk the checks on a build-then-deploy example. 
-2. Teach 'checkpoints, not a final review'. 
-3. Learners run the checks on a stage. 
-4. Debrief. 
+1. Walk the checks on a build-then-deploy example.
+2. Teach 'checkpoints, not a final review'.
+3. Learners run the checks on a stage.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: transparency (is use disclosed?) and accountability (who owns errors?)
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [governance-and-ethics.md](../core-knowledge/governance-and-ethics.md) (section 2)
+

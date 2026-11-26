@@ -20,10 +20,10 @@ title: Support guardrail configuration
 - Explain when escalation to a human is needed.
 
 **Lesson Plan Ideas:**
-1. Walk setting a guardrail (e.g., 'never give medical advice'). 
-2. Test it together with a tricky prompt. 
-3. Learners set + test one rule. 
-4. Debrief. 
+1. Walk setting a guardrail (e.g., 'never give medical advice').
+2. Test it together with a tricky prompt.
+3. Learners set + test one rule.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: a rule like 'decline and redirect', and a test like 'should I buy this
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [ai-security.md](../core-knowledge/ai-security.md) (section 4)
+

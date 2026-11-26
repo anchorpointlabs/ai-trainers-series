@@ -20,10 +20,10 @@ title: Historical context and evolution of AI ethics
 - Relate a current issue to an older one.
 
 **Lesson Plan Ideas:**
-1. Sketch the arc: algorithmic bias → data privacy → generative AI. 
-2. Teach 'the questions are old; the tools are new'. 
-3. Learners connect a current issue to its older root. 
-4. Debrief. 
+1. Sketch the arc: algorithmic bias → data privacy → generative AI.
+2. Teach 'the questions are old; the tools are new'.
+3. Learners connect a current issue to its older root.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: the fairness concern is old (hiring algorithms); the scale and fluency
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [governance-and-ethics.md](../core-knowledge/governance-and-ethics.md) (section 4)
+

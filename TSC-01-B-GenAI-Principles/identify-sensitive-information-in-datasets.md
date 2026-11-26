@@ -20,10 +20,10 @@ title: Identify sensitive information in datasets
 - Decide whether a dataset can be used or must be cleaned.
 
 **Lesson Plan Ideas:**
-1. Give the noticeboard test as the one-line rule. 
-2. Walk a sample row and circle the sensitive fields. 
-3. Learners scan a short customer list and flag every sensitive item. 
-4. Debrief the indirect identifiers they missed. 
+1. Give the noticeboard test as the one-line rule.
+2. Walk a sample row and circle the sensitive fields.
+3. Learners scan a short customer list and flag every sensitive item.
+4. Debrief the indirect identifiers they missed.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -40,3 +40,4 @@ Expected: name, NRIC, age + health condition, and address are all flagged as per
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [governance-and-ethics.md](../core-knowledge/governance-and-ethics.md) (section 1)
+

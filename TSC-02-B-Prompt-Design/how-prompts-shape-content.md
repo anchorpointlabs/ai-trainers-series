@@ -20,10 +20,10 @@ title: How prompts shape content
 - Check each reply against the requested sentence count and supplied facts, and explain why a match is not guaranteed.
 
 **Lesson Plan Ideas:**
-1. Ask: “If you need a notice about a room opening, what details would the writer need?” Take two suggestions and ask how an instruction about length might change the notice. 
-2. Explain that the instruction tells the AI what form to aim for, while the notes supply facts for the notice. Point to “one-sentence” and the invented notes in prompt A below. A clear request can guide the reply, but it does not ensure the AI will follow it or use the facts correctly. Show how to count sentences and compare facts with the notes. 
-3. In pairs, learners run prompts A and B below in separate new chats with the same AI. They place the replies side by side, identify the single word changed, count sentences and check the facts. Record any mismatch rather than assuming the request was followed. 
-4. Debrief: what changed in the request and what happened in the replies? Discuss any wrong or added details and any unexpected sentence counts. One pair of replies can suggest an effect but cannot establish that it will happen every time; replies can vary, so repeat the comparison for more evidence. 
+1. Ask: “If you need a notice about a room opening, what details would the writer need?” Take two suggestions and ask how an instruction about length might change the notice.
+2. Explain that the instruction tells the AI what form to aim for, while the notes supply facts for the notice. Point to “one-sentence” and the invented notes in prompt A below. A clear request can guide the reply, but it does not ensure the AI will follow it or use the facts correctly. Show how to count sentences and compare facts with the notes.
+3. In pairs, learners run prompts A and B below in separate new chats with the same AI. They place the replies side by side, identify the single word changed, count sentences and check the facts. Record any mismatch rather than assuming the request was followed.
+4. Debrief: what changed in the request and what happened in the replies? Discuss any wrong or added details and any unexpected sentence counts. One pair of replies can suggest an effect but cannot establish that it will happen every time; replies can vary, so repeat the comparison for more evidence.
 
 **Exercise (with the exact prompt):**
 Setup: No files are needed; use a chat AI, paste A and B into separate new chats with the same AI, and keep both replies.
@@ -56,3 +56,4 @@ Check: Count sentences, check the room, day, time and entry price against the no
 - https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices — accessed 2026-11-15; describes clear instructions and task context as ways to guide Claude’s output.
 - https://developers.openai.com/api/docs/guides/evaluation-best-practices — accessed 2026-11-15; explains that the same input can yield different outputs and recommends checking responses against task-specific criteria.
 - https://platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/reduce-hallucinations — accessed 2026-11-15; notes that a response can be incorrect or inconsistent with supplied context and that checking remains necessary.
+

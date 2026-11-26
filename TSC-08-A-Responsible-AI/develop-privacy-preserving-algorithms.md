@@ -20,10 +20,10 @@ title: Develop privacy-preserving algorithms
 - Explain what differential privacy does in one line.
 
 **Lesson Plan Ideas:**
-1. Map the techniques to the problems they solve. 
-2. Teach differential privacy with the 'add a little noise' picture. 
-3. Learners match techniques to scenarios. 
-4. Debrief. 
+1. Map the techniques to the problems they solve.
+2. Teach differential privacy with the 'add a little noise' picture.
+3. Learners match techniques to scenarios.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: (a) federated learning, (b) differential privacy.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [governance-and-ethics.md](../core-knowledge/governance-and-ethics.md) (section 2)
+

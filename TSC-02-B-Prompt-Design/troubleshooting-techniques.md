@@ -21,10 +21,10 @@ title: Troubleshooting techniques
 - Describe when to ask the provider or workplace technology support team for help and what evidence to share.
 
 **Lesson Plan Ideas:**
-1. Ask: “What would you check first if an AI reply had the wrong format? What if no reply appeared at all?” Collect one suggestion for each. 
-2. Explain three possible areas, not automatic diagnoses. If a reply has the wrong format, compare it with the prompt and try one wording change. If no reply appears, retry the same prompt, check whether another website loads and, if permitted, retry on a different network, such as mobile data instead of Wi-Fi, without changing the prompt or device. Success on the second network suggests a connection issue. Check the provider’s page reporting service incidents, if available; a matching incident suggests a service issue. These are clues: a clear page or working website does not prove the AI service is healthy. If the problem continues, share the actual error, time and checks with the provider or workplace technology support team; do not share passwords. 
-3. Pairs run both prompts below in separate new chats with the same AI and settings, then compare their replies with the two-sentence requirement. Identify the single factor changed. If either reply does not follow its instruction, repeat that unchanged prompt once and record the result instead of assuming the cause. 
-4. Debrief: Did the first prompt ask for the intended format? What does the comparison suggest, and what would you check if there had instead been a real connection error? 
+1. Ask: “What would you check first if an AI reply had the wrong format? What if no reply appeared at all?” Collect one suggestion for each.
+2. Explain three possible areas, not automatic diagnoses. If a reply has the wrong format, compare it with the prompt and try one wording change. If no reply appears, retry the same prompt, check whether another website loads and, if permitted, retry on a different network, such as mobile data instead of Wi-Fi, without changing the prompt or device. Success on the second network suggests a connection issue. Check the provider’s page reporting service incidents, if available; a matching incident suggests a service issue. These are clues: a clear page or working website does not prove the AI service is healthy. If the problem continues, share the actual error, time and checks with the provider or workplace technology support team; do not share passwords.
+3. Pairs run both prompts below in separate new chats with the same AI and settings, then compare their replies with the two-sentence requirement. Identify the single factor changed. If either reply does not follow its instruction, repeat that unchanged prompt once and record the result instead of assuming the cause.
+4. Debrief: Did the first prompt ask for the intended format? What does the comparison suggest, and what would you check if there had instead been a real connection error?
 
 **Exercise (with the exact prompt):**
 *Setup: Any chat AI; no files needed. A ticket is a recorded request for help. The desired final result is two sentences; run each prompt in a fresh chat using the same tool and settings.*
@@ -61,3 +61,4 @@ Check: Count sentences and check both replies say 3 tickets are open and 5 were 
 - https://status.openai.com/ — accessed 2026-11-15; status information is aggregated and individual availability can differ.
 - https://developers.openai.com/api/docs/guides/prompt-engineering — accessed 2026-11-15; testing prompt behaviour and the variability of generated content.
 - https://developers.openai.com/cookbook/examples/audio/voice_agent_evaluation — accessed 2026-11-15; change one variable at a time so test results are easier to interpret.
+

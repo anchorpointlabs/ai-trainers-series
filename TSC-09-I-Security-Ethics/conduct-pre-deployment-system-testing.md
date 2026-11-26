@@ -20,10 +20,10 @@ title: Conduct pre-deployment system testing
 - Explain what 'comprehensive' includes.
 
 **Lesson Plan Ideas:**
-1. Teach the four case types (normal, edge, adversarial, integration). 
-2. Show a test plan. 
-3. Learners write one case per type for a scenario. 
-4. Debrief. 
+1. Teach the four case types (normal, edge, adversarial, integration).
+2. Show a test plan.
+3. Learners write one case per type for a scenario.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: a clean invoice, a malformed one, a hidden-instruction one, and a wron
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [ai-security.md](../core-knowledge/ai-security.md) (section 4)
+

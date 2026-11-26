@@ -20,10 +20,10 @@ title: Chain-of-Thought and Tree of Thought
 - Write a CoT prompt for a multi-step workplace calculation.
 
 **Lesson Plan Ideas:**
-1. Give the classic failed example (model skips steps, gets the maths wrong), then the CoT fix. 
-2. Explain why it works (each step is context). 
-3. Learners write a CoT prompt for a rostering or budget task. 
-4. Test and debrief. 
+1. Give the classic failed example (model skips steps, gets the maths wrong), then the CoT fix.
+2. Explain why it works (each step is context).
+3. Learners write a CoT prompt for a rostering or budget task.
+4. Test and debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -39,3 +39,4 @@ Expected: the model shows minutes-per-day, minutes-per-nurse, then the division,
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [prompting.md](../core-knowledge/prompting.md) (section 3)
+

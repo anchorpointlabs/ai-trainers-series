@@ -21,10 +21,10 @@ title: Guardrails for unexpected outputs
 - Choose a separate tool-access control and decide whether to accept or reject an answer after checking it.
 
 **Lesson Plan Ideas:**
-1. Show the made-up room notes in the exercise. Ask: “What could go wrong if a notice states a capacity that the notes do not give?” 
-2. Use the room notice to explain task boundaries: specify the facts to use, the format and the response to missing information. Explain that the AI can still stray from these instructions. A person must compare the answer with the notes before use; separately, the tool owner can disable booking or sending access, or enforce human approval for each specific action in the connected system before it runs. 
-3. In pairs, identify the task, allowed facts, format and missing-information rule in the prompt. One learner runs it and the other checks the result against the notes and stated checks. Mark it pass or reject; identify a separate control that would stop the AI making an unauthorised booking. 
-4. Ask for a mismatch, or confirm that none was found. Discuss why an apparently correct answer does not prove the wording is a security control, and what to do if the check fails: reject the answer, correct or rerun it, and recheck it before use. 
+1. Show the made-up room notes in the exercise. Ask: “What could go wrong if a notice states a capacity that the notes do not give?”
+2. Use the room notice to explain task boundaries: specify the facts to use, the format and the response to missing information. Explain that the AI can still stray from these instructions. A person must compare the answer with the notes before use; separately, the tool owner can disable booking or sending access, or enforce human approval for each specific action in the connected system before it runs.
+3. In pairs, identify the task, allowed facts, format and missing-information rule in the prompt. One learner runs it and the other checks the result against the notes and stated checks. Mark it pass or reject; identify a separate control that would stop the AI making an unauthorised booking.
+4. Ask for a mismatch, or confirm that none was found. Discuss why an apparently correct answer does not prove the wording is a security control, and what to do if the check fails: reject the answer, correct or rerun it, and recheck it before use.
 
 **Exercise (with the exact prompt):**
 Setup: In pairs, use a chat AI with email and booking connections switched off; no files are needed.

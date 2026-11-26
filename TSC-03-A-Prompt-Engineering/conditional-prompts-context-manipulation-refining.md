@@ -20,10 +20,10 @@ title: Conditional prompts, context manipulation, refining
 - Refine a prompt across three passes and say what each pass changed.
 
 **Lesson Plan Ideas:**
-1. Define the three levers with one example each. 
-2. Show one prompt rewritten three ways (conditional, reordered context, refined). 
-3. Learners take a pasted email and write a conditional prompt to categorise it. 
-4. Share and compare outputs; note how reordering changed the answer. 
+1. Define the three levers with one example each.
+2. Show one prompt rewritten three ways (conditional, reordered context, refined).
+3. Learners take a pasted email and write a conditional prompt to categorise it.
+4. Share and compare outputs; note how reordering changed the answer.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -41,3 +41,4 @@ Expected: the reply follows the matching branch only.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [prompting.md](../core-knowledge/prompting.md) (section 4)
+

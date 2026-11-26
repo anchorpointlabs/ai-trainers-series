@@ -20,10 +20,10 @@ title: Responsible AI principles — IP, privacy, environment
 - Relate model size to energy use.
 
 **Lesson Plan Ideas:**
-1. Walk one bad example: a staff member pastes a client contract into a public tool. 
-2. Teach the three checks. 
-3. Learners flag the risks in a scenario. 
-4. Debrief. 
+1. Walk one bad example: a staff member pastes a client contract into a public tool.
+2. Teach the three checks.
+3. Learners flag the risks in a scenario.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: IP (client data disclosed to a third party) and privacy (PDPA) — bot
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [governance-and-ethics.md](../core-knowledge/governance-and-ethics.md) (section 2)
+

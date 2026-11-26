@@ -20,10 +20,10 @@ title: Ethical challenges in governance and policy
 - Spot a policy gap.
 
 **Lesson Plan Ideas:**
-1. Show one model governed by three different regimes. 
-2. Teach 'the model is global; the rules are local'. 
-3. Learners identify a governance gap in a scenario. 
-4. Debrief. 
+1. Show one model governed by three different regimes.
+2. Teach 'the model is global; the rules are local'.
+3. Learners identify a governance gap in a scenario.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: which rules apply, where data flows, and who enforces a violation.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [governance-and-ethics.md](../core-knowledge/governance-and-ethics.md) (section 4)
+

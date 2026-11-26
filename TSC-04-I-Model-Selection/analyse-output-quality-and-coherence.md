@@ -20,10 +20,10 @@ title: Analyse output quality and coherence
 - State what to fix.
 
 **Lesson Plan Ideas:**
-1. Show a fluent but incoherent output and find the drift. 
-2. Teach the two lenses (quality, coherence). 
-3. Learners grade an output with both lenses. 
-4. Debrief. 
+1. Show a fluent but incoherent output and find the drift.
+2. Teach the two lenses (quality, coherence).
+3. Learners grade an output with both lenses.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: learners catch the contradiction (starts 3 pm but arrive by 4 pm).
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [model-selection-and-evaluation.md](../core-knowledge/model-selection-and-evaluation.md) (section 5)
+

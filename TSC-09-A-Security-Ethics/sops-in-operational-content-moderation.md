@@ -20,10 +20,10 @@ title: SOPs in operational content moderation
 - Write a one-line moderation rule.
 
 **Lesson Plan Ideas:**
-1. Contrast one moderator's gut feel with a written SOP. 
-2. Walk the stages. 
-3. Learners write a two-step SOP for a moderation decision. 
-4. Debrief. 
+1. Contrast one moderator's gut feel with a written SOP.
+2. Walk the stages.
+3. Learners write a two-step SOP for a moderation decision.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: clear thresholds (e.g. remove hate/abuse; escalate anything ambiguous)
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [ai-security.md](../core-knowledge/ai-security.md) (section 5)
+

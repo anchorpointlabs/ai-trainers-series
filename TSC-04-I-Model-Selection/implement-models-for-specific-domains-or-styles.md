@@ -20,10 +20,10 @@ title: Implement models for specific domains or styles
 - Explain why examples anchor the style.
 
 **Lesson Plan Ideas:**
-1. Show a generic output vs a domain-steered output. 
-2. Teach 'few-shot anchors the style'. 
-3. Learners steer a model to a style with two examples. 
-4. Debrief. 
+1. Show a generic output vs a domain-steered output.
+2. Teach 'few-shot anchors the style'.
+3. Learners steer a model to a style with two examples.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: the rewrite matches the legal tone of the examples.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [prompting.md](../core-knowledge/prompting.md) (section 3)
+

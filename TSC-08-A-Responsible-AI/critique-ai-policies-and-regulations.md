@@ -20,10 +20,10 @@ title: Critique AI policies and regulations
 - Propose an improvement.
 
 **Lesson Plan Ideas:**
-1. Critique a real-sounding policy (vague rules, no enforcement). 
-2. Teach the three tests (clear, enforceable, covers risks). 
-3. Learners critique a policy. 
-4. Debrief. 
+1. Critique a real-sounding policy (vague rules, no enforcement).
+2. Teach the three tests (clear, enforceable, covers risks).
+3. Learners critique a policy.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: no specific rules, no enforcement, no owner — unworkable as a policy
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [governance-and-ethics.md](../core-knowledge/governance-and-ethics.md) (section 4)
+

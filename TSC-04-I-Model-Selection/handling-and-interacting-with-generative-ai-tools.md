@@ -20,10 +20,10 @@ title: Handling and interacting with generative AI tools
 - Read an error and state the likely cause.
 
 **Lesson Plan Ideas:**
-1. Walk the loop on a live example. 
-2. Teach two settings (temperature, max length) and their effect. 
-3. Learners run a task and log their settings. 
-4. Debrief. 
+1. Walk the loop on a live example.
+2. Teach two settings (temperature, max length) and their effect.
+3. Learners run a task and log their settings.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: low temperature is steadier; high temperature varies more.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [model-selection-and-evaluation.md](../core-knowledge/model-selection-and-evaluation.md) (section 2.5)
+

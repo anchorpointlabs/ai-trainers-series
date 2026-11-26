@@ -20,10 +20,10 @@ title: Configure AI guardrails effectively
 - Explain the trade-off between safety and usefulness.
 
 **Lesson Plan Ideas:**
-1. Show a guardrail too loose (lets harm through) and too strict (refuses everything). 
-2. Teach the tuning loop. 
-3. Learners tune a guardrail on sample inputs. 
-4. Debrief. 
+1. Show a guardrail too loose (lets harm through) and too strict (refuses everything).
+2. Teach the tuning loop.
+3. Learners tune a guardrail on sample inputs.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: refine the rule to block only suspicious uses, not legitimate support 
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [ai-security.md](../core-knowledge/ai-security.md) (section 4)
+

@@ -20,10 +20,10 @@ title: Devise interdisciplinary approaches
 - Propose a cross-disciplinary solution.
 
 **Lesson Plan Ideas:**
-1. Show a moderation problem that needs law + design + community. 
-2. Teach 'the hard problems are not single-discipline'. 
-3. Learners assemble a team for a scenario. 
-4. Debrief. 
+1. Show a moderation problem that needs law + design + community.
+2. Teach 'the hard problems are not single-discipline'.
+3. Learners assemble a team for a scenario.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: law (what's illegal), design (what's usable), community (what's accept
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [governance-and-ethics.md](../core-knowledge/governance-and-ethics.md) (section 4)
+

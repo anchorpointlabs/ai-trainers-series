@@ -20,10 +20,10 @@ title: Ethical principles in AI
 - Explain why accountability always lands on a human.
 
 **Lesson Plan Ideas:**
-1. Ask: whose fault is it if the AI gives bad advice? Collect answers. 
-2. Teach the four principles with one workplace example each. 
-3. Learners match four scenarios to the principles. 
-4. Debrief. 
+1. Ask: whose fault is it if the AI gives bad advice? Collect answers.
+2. Teach the four principles with one workplace example each.
+3. Learners match four scenarios to the principles.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: (a) accountability, (b) transparency, (c) safety.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [governance-and-ethics.md](../core-knowledge/governance-and-ethics.md) (section 1)
+

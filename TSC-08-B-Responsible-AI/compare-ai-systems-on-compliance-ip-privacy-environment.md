@@ -20,10 +20,10 @@ title: Compare AI systems on compliance, IP, privacy, environment
 - Weigh environmental impact in a choice.
 
 **Lesson Plan Ideas:**
-1. Show two providers' data terms side by side. 
-2. Teach 'compliance is a selection criterion'. 
-3. Learners compare two systems on a scenario. 
-4. Debrief. 
+1. Show two providers' data terms side by side.
+2. Teach 'compliance is a selection criterion'.
+3. Learners compare two systems on a scenario.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: B — retention is the deciding compliance factor.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [governance-and-ethics.md](../core-knowledge/governance-and-ethics.md) (section 4.1)
+

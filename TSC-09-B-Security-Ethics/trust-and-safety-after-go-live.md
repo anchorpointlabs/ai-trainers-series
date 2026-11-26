@@ -20,10 +20,10 @@ title: Trust and safety after go-live
 - Explain why security continues after go-live.
 
 **Lesson Plan Ideas:**
-1. Teach 'launch is the start of monitoring, not the end of it'. 
-2. Walk one post-launch incident (a new jailbreak found after release). 
-3. Learners list what a team should review weekly. 
-4. Debrief. 
+1. Teach 'launch is the start of monitoring, not the end of it'.
+2. Walk one post-launch incident (a new jailbreak found after release).
+3. Learners list what a team should review weekly.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: reproduce it, patch/guardrail it, and review logs for prior abuse.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [ai-security.md](../core-knowledge/ai-security.md) (section 5)
+

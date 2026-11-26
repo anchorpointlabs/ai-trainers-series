@@ -20,10 +20,10 @@ title: Foundation Models — definition, characteristics, limitations
 - State its three main limitations.
 
 **Lesson Plan Ideas:**
-1. Draw the line: a foundation model vs a purpose-built classifier. 
-2. Teach characteristics with the 'generalist graduate' picture. 
-3. Learners name which tools they use are built on foundation models. 
-4. Debrief the limitations with a hallucination example. 
+1. Draw the line: a foundation model vs a purpose-built classifier.
+2. Teach characteristics with the 'generalist graduate' picture.
+3. Learners name which tools they use are built on foundation models.
+4. Debrief the limitations with a hallucination example.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: learners identify the tool's underlying model and a visible limit.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [popular-llms-and-notebooklm.md](../core-knowledge/popular-llms-and-notebooklm.md) (sections 1, 5)
+

@@ -20,10 +20,10 @@ title: Create innovative ethical frameworks
 - Explain what makes a framework actionable.
 
 **Lesson Plan Ideas:**
-1. Take an emerging domain (AI agents that act on your behalf) and find the gap. 
-2. Teach 'extend the principles, make them concrete'. 
-3. Learners write one rule for the domain. 
-4. Debrief. 
+1. Take an emerging domain (AI agents that act on your behalf) and find the gap.
+2. Teach 'extend the principles, make them concrete'.
+3. Learners write one rule for the domain.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: e.g. 'an agent may not spend above $X without explicit user confirmati
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [governance-and-ethics.md](../core-knowledge/governance-and-ethics.md) (section 2)
+

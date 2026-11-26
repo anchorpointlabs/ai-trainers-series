@@ -20,10 +20,10 @@ title: Analyse impact on societal groups and cultures
 - State a mitigation for that group.
 
 **Lesson Plan Ideas:**
-1. Show a model failing on Singlish or a minority language. 
-2. Teach 'who is missing from the data gets the worst output'. 
-3. Learners identify an underserved group for a tool. 
-4. Debrief. 
+1. Show a model failing on Singlish or a minority language.
+2. Teach 'who is missing from the data gets the worst output'.
+3. Learners identify an underserved group for a tool.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: Singlish speakers, elderly, and dialect speakers — the model misses 
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [governance-and-ethics.md](../core-knowledge/governance-and-ethics.md) (section 2.3)
+

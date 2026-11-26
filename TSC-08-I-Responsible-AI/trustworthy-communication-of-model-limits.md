@@ -20,10 +20,10 @@ title: Trustworthy communication of model limits
 - Explain why overselling erodes trust.
 
 **Lesson Plan Ideas:**
-1. Contrast marketing copy with an honest capability note. 
-2. Teach 'say what it cannot do'. 
-3. Learners write an honest note for a tool. 
-4. Debrief. 
+1. Contrast marketing copy with an honest capability note.
+2. Teach 'say what it cannot do'.
+3. Learners write an honest note for a tool.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: 'summarises well; may invent specifics — always verify against the s
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [governance-and-ethics.md](../core-knowledge/governance-and-ethics.md) (section 2)
+

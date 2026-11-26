@@ -20,10 +20,10 @@ title: Architectures, training strategies, and optimisation
 - Name an optimisation technique (quantisation, distillation).
 
 **Lesson Plan Ideas:**
-1. Reuse the 'general schooling vs bootcamp' analogy. 
-2. Teach the cost/benefit of fine-tuning. 
-3. Learners decide pre-train vs fine-tune for a scenario. 
-4. Debrief. 
+1. Reuse the 'general schooling vs bootcamp' analogy.
+2. Teach the cost/benefit of fine-tuning.
+3. Learners decide pre-train vs fine-tune for a scenario.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: fine-tune — pre-training is prohibitive, and the base model already 
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [model-selection-and-evaluation.md](../core-knowledge/model-selection-and-evaluation.md) (section 2.4)
+

@@ -21,10 +21,10 @@ title: Describe prompt techniques
 - Check a generated notice against its source note and the requested format.
 
 **Lesson Plan Ideas:**
-1. Ask: “We need a two-line room closure notice. How could we show a chat AI the layout we want? Does sending a request twice count as giving an example?” Take two or three guesses. 
-2. Show the two prompts below. In the first, point out that the Cedar note is the task input, not a worked example. In the second, point out the Birch note and finished notice: together they are one worked example. Explain zero-shot and one-shot, then distinguish giving that example from running a prompt a second time. Suggest starting with zero-shot when instructions are clear and no example is needed, or one-shot when a suitable example can show a preferred pattern; neither guarantees a correct result. 
-3. In pairs, run the zero-shot prompt twice in separate fresh chats, then the one-shot prompt in another fresh chat. Check each notice using the criteria below. For each prompt, write down the number of worked examples and explain why the second zero-shot run is still zero-shot. Choose which technique to start with for a clear request with no sample, and which for a team with an agreed sample layout; give one reason for each. 
-4. Debrief: the zero-shot prompt has no worked examples on either run; the one-shot prompt has one, about Birch. Cedar is the new task in both. Ask pairs to report a missing detail or format error if they found one, and explain how the check revealed it. 
+1. Ask: “We need a two-line room closure notice. How could we show a chat AI the layout we want? Does sending a request twice count as giving an example?” Take two or three guesses.
+2. Show the two prompts below. In the first, point out that the Cedar note is the task input, not a worked example. In the second, point out the Birch note and finished notice: together they are one worked example. Explain zero-shot and one-shot, then distinguish giving that example from running a prompt a second time. Suggest starting with zero-shot when instructions are clear and no example is needed, or one-shot when a suitable example can show a preferred pattern; neither guarantees a correct result.
+3. In pairs, run the zero-shot prompt twice in separate fresh chats, then the one-shot prompt in another fresh chat. Check each notice using the criteria below. For each prompt, write down the number of worked examples and explain why the second zero-shot run is still zero-shot. Choose which technique to start with for a clear request with no sample, and which for a team with an agreed sample layout; give one reason for each.
+4. Debrief: the zero-shot prompt has no worked examples on either run; the one-shot prompt has one, about Birch. Cedar is the new task in both. Ask pairs to report a missing detail or format error if they found one, and explain how the check revealed it.
 
 **Exercise (with the exact prompt):**
 *Setup: Use a chat AI (an account if required), starting a fresh chat for each run; no files are needed.*
@@ -65,3 +65,4 @@ Note: The Cedar meeting room will be closed for floor cleaning on Tuesday and wi
 - https://proceedings.neurips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf — accessed 2026-11-15. Brown and colleagues define zero-shot as a task description without examples and one-shot as one task demonstration; they describe examples as input and desired completion pairs.
 - https://developers.openai.com/api/docs/guides/prompt-engineering — accessed 2026-11-15. OpenAI describes using input/output examples to guide a response and notes that generated outputs can vary.
 - https://dl.acm.org/doi/abs/10.1145/3411763.3451760 — accessed 2026-11-15. Reynolds and McDonell report cases where zero-shot outperformed prompts with several examples, supporting the caution that examples do not guarantee better results.
+

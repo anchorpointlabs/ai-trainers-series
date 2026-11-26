@@ -20,10 +20,10 @@ title: Compare ethical issues in AI applications
 - Justify why one use needs more scrutiny.
 
 **Lesson Plan Ideas:**
-1. Rank a list of AI uses from benign to high-stakes. 
-2. Teach the three questions. 
-3. Learners compare two uses and justify. 
-4. Debrief. 
+1. Rank a list of AI uses from benign to high-stakes.
+2. Teach the three questions.
+3. Learners compare two uses and justify.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: (b) highest, (a) lowest — with justification.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [governance-and-ethics.md](../core-knowledge/governance-and-ethics.md) (section 2)
+

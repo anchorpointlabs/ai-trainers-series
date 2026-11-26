@@ -20,10 +20,10 @@ title: Design guidelines for ethical AI use
 - Cover sensitive data explicitly.
 
 **Lesson Plan Ideas:**
-1. Contrast 'be careful with data' with a concrete guideline. 
-2. Teach the parts of a guideline. 
-3. Learners write a guideline for a team. 
-4. Debrief. 
+1. Contrast 'be careful with data' with a concrete guideline.
+2. Teach the parts of a guideline.
+3. Learners write a guideline for a team.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: a rule like 'no personal or confidential data; use the approved intern
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [governance-and-ethics.md](../core-knowledge/governance-and-ethics.md) (section 2)
+

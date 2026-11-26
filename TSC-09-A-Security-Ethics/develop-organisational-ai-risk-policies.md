@@ -20,10 +20,10 @@ title: Develop organisational AI risk policies
 - Explain why policies beat individual judgement.
 
 **Lesson Plan Ideas:**
-1. Contrast 'everyone uses their judgement' with a written policy. 
-2. Walk the sections of a policy. 
-3. Learners write one clause for a scenario. 
-4. Debrief. 
+1. Contrast 'everyone uses their judgement' with a written policy.
+2. Walk the sections of a policy.
+3. Learners write one clause for a scenario.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: e.g. 'no personal or confidential data in public tools; use the approv
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [governance-and-ethics.md](../core-knowledge/governance-and-ethics.md) (section 2)
+

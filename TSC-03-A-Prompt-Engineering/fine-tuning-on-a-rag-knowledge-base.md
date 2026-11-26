@@ -20,10 +20,10 @@ title: Fine-tuning on a RAG knowledge base
 - Describe what data you would need to fine-tune.
 
 **Lesson Plan Ideas:**
-1. Use the 'bootcamp vs open-book manual' analogy (from TSC #4). 
-2. Contrast the two failure modes: stale weights vs. stale context. 
-3. Learners decide, for three scenarios, whether to fine-tune, use RAG, or both. 
-4. Debrief the cost/benefit. 
+1. Use the 'bootcamp vs open-book manual' analogy (from TSC #4).
+2. Contrast the two failure modes: stale weights vs. stale context.
+3. Learners decide, for three scenarios, whether to fine-tune, use RAG, or both.
+4. Debrief the cost/benefit.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -39,3 +39,4 @@ Expected: RAG for fresh policy, fine-tuning alone fails (policy changes), both f
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [model-selection-and-evaluation.md](../core-knowledge/model-selection-and-evaluation.md)
+

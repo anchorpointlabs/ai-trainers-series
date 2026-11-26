@@ -20,10 +20,10 @@ title: Data anonymisation and de-identification
 - Explain why 'removing the name' is not enough.
 
 **Lesson Plan Ideas:**
-1. Teach the three techniques with a customer record. 
-2. Show why name-only removal fails (other fields still identify). 
-3. Learners anonymise a sample record. 
-4. Debrief. 
+1. Teach the three techniques with a customer record.
+2. Show why name-only removal fails (other fields still identify).
+3. Learners anonymise a sample record.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: NRIC, address, age + condition — not just the name.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [governance-and-ethics.md](../core-knowledge/governance-and-ethics.md) (section 1)
+

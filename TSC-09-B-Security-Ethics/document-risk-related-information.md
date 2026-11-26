@@ -20,10 +20,10 @@ title: Document risk-related information
 - Explain why documenting matters.
 
 **Lesson Plan Ideas:**
-1. Teach the four-part risk note with one example. 
-2. Contrast 'we talked about it' with a written risk log. 
-3. Learners write a risk note for a hallucinating chatbot. 
-4. Debrief. 
+1. Teach the four-part risk note with one example.
+2. Contrast 'we talked about it' with a written risk log.
+3. Learners write a risk note for a hallucinating chatbot.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: risk (hallucinated promises), likelihood, impact (financial/reputation
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [ai-security.md](../core-knowledge/ai-security.md) (section 5)
+

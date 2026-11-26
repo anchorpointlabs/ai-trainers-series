@@ -21,10 +21,10 @@ title: Compare designs and outputs
 - Check the facts against the supplied information separately from judging suitability.
 
 **Lesson Plan Ideas:**
-1. Ask: “Would the same closure message be equally useful in a staff log and on a public notice?” Invite one reason. 
-2. Explain the two designs below: A asks for a compressed staff log; B asks for a full-sentence public notice. Both use the same fictional facts. For this exercise, the staff log must have two short fragments separated by a semicolon, while the public notice must be one full sentence. Apply the same three checks to each reply in both domains: factual agreement, completeness and fit to the intended format. Fact agreement is not the same as suitability. 
-3. In pairs, run A and B in separate fresh chats. Put A and B and their matching outputs side by side for retail, then for education. For each output, check the three criteria below; choose a design for each use and give a reason linked to the actual text. 
-4. Debrief: compare choices and any omissions or invented details. Ask whether a well-formatted notice with the wrong reopening time would be suitable to use; it would first need correcting. 
+1. Ask: “Would the same closure message be equally useful in a staff log and on a public notice?” Invite one reason.
+2. Explain the two designs below: A asks for a compressed staff log; B asks for a full-sentence public notice. Both use the same fictional facts. For this exercise, the staff log must have two short fragments separated by a semicolon, while the public notice must be one full sentence. Apply the same three checks to each reply in both domains: factual agreement, completeness and fit to the intended format. Fact agreement is not the same as suitability.
+3. In pairs, run A and B in separate fresh chats. Put A and B and their matching outputs side by side for retail, then for education. For each output, check the three criteria below; choose a design for each use and give a reason linked to the actual text.
+4. Debrief: compare choices and any omissions or invented details. Ask whether a well-formatted notice with the wrong reopening time would be suitable to use; it would first need correcting.
 
 **Exercise (with the exact prompt):**
 *Setup: pairs need a chat AI and a fresh chat per prompt.*

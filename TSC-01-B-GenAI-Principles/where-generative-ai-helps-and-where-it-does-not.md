@@ -20,10 +20,10 @@ title: Where generative AI helps and where it does not
 - Give a one-line rule for deciding.
 
 **Lesson Plan Ideas:**
-1. Split the board into 'great fit' and 'bad fit'. Learners shout examples; you place them. 
-2. Give the rule: give it the boring 80%, keep the judgement 20%. 
-3. Learners classify ten tasks (draft a notice / diagnose a patient / sum the accounts / write a condolence email). 
-4. Debrief the two that split opinion. 
+1. Split the board into 'great fit' and 'bad fit'. Learners shout examples; you place them.
+2. Give the rule: give it the boring 80%, keep the judgement 20%.
+3. Learners classify ten tasks (draft a notice / diagnose a patient / sum the accounts / write a condolence email).
+4. Debrief the two that split opinion.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -43,3 +43,4 @@ Expected: 1 and 4 good fit; 2 bad (accountability, exactness); 3 bad (use a form
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [agentic-ai.md](../core-knowledge/agentic-ai.md) (section 8)
+

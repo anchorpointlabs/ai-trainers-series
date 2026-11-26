@@ -20,10 +20,10 @@ title: Assess model performance under different settings
 - Run a fair comparison across settings.
 
 **Lesson Plan Ideas:**
-1. Show temperature 0.2 vs 1.0 on one task. 
-2. Teach 'one run is not a result — vary and compare'. 
-3. Learners run a task at two settings and log the difference. 
-4. Debrief. 
+1. Show temperature 0.2 vs 1.0 on one task.
+2. Teach 'one run is not a result — vary and compare'.
+3. Learners run a task at two settings and log the difference.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: 0.9 more varied, 0.2 steadier.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [model-selection-and-evaluation.md](../core-knowledge/model-selection-and-evaluation.md) (section 2.5)
+

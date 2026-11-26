@@ -20,10 +20,10 @@ title: Apply red teaming to mitigate risk
 - Explain why findings must become mitigations.
 
 **Lesson Plan Ideas:**
-1. Walk the red-team loop (attack → fix → retest → add to tests). 
-2. Run one attack together and fix it. 
-3. Learners write the fix for a finding. 
-4. Debrief. 
+1. Walk the red-team loop (attack → fix → retest → add to tests).
+2. Run one attack together and fix it.
+3. Learners write the fix for a finding.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: a guardrail/filter for multilingual prompt extraction, plus a regressi
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [ai-security.md](../core-knowledge/ai-security.md) (section 4)
+

@@ -20,10 +20,10 @@ title: Monitor AI systems through the lifecycle
 - Describe the monitor-and-act loop.
 
 **Lesson Plan Ideas:**
-1. Teach 'monitoring is continuous, not a launch task'. 
-2. Show a log with a drift signal and an attack signal. 
-3. Learners mark what they would act on. 
-4. Debrief. 
+1. Teach 'monitoring is continuous, not a launch task'.
+2. Show a log with a drift signal and an attack signal.
+3. Learners mark what they would act on.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: a new attack pattern, a prompt/guardrail change, or a data shift.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [ai-security.md](../core-knowledge/ai-security.md) (section 5)
+

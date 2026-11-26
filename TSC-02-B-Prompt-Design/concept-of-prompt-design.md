@@ -20,10 +20,10 @@ title: Concept of prompt design
 - Check a generated notice against the supplied facts and requested length.
 
 **Lesson Plan Ideas:**
-1. Ask: if a colleague asks for a club notice but gives no details, what would you need to write it? Collect two suggestions. 
-2. Use the exercise below to show the task: write a two-sentence notice for members. Point out the relevant background: the meeting date, time, room change and reason. Ask learners for a task and relevant background from an invented example of their own; explain that no special phrase is needed. 
-3. In pairs, learners underline the task and circle the background in the prompt below, then run it in a new chat. They check the notice against the criteria below. 
-4. Ask which detail, if any, was missing or wrong in the replies and why a clear prompt still needs a check. Note that replies can vary. 
+1. Ask: if a colleague asks for a club notice but gives no details, what would you need to write it? Collect two suggestions.
+2. Use the exercise below to show the task: write a two-sentence notice for members. Point out the relevant background: the meeting date, time, room change and reason. Ask learners for a task and relevant background from an invented example of their own; explain that no special phrase is needed.
+3. In pairs, learners underline the task and circle the background in the prompt below, then run it in a new chat. They check the notice against the criteria below.
+4. Ask which detail, if any, was missing or wrong in the replies and why a clear prompt still needs a check. Note that replies can vary.
 
 **Exercise (with the exact prompt):**
 Setup: Use a chat AI in a new chat; an account may be needed, no files are needed, and all the details below are invented.
@@ -45,3 +45,4 @@ Check: Confirm 18 June, 3 pm, Blue Room instead of Green Room, and the painting 
 - https://developers.openai.com/api/docs/guides/prompt-engineering — accessed 2026-11-15; explains instructions, relevant context and why generated replies may vary.
 - https://learn.microsoft.com/en-us/azure/foundry/openai/concepts/prompt-engineering — accessed 2026-11-15; explains task instructions and text supplied for the model to process, with notice-like writing examples.
 - https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview — accessed 2026-11-15; recommends clear success criteria and testing against them.
+

@@ -20,10 +20,10 @@ title: Advocate for responsible AI development
 - Propose a constructive path forward.
 
 **Lesson Plan Ideas:**
-1. Contrast alarm ('AI is dangerous') with advocacy ('here's the risk, the evidence, and the fix'). 
-2. Teach 'advocacy = evidence + a path'. 
-3. Learners draft a short advocacy statement. 
-4. Debrief. 
+1. Contrast alarm ('AI is dangerous') with advocacy ('here's the risk, the evidence, and the fix').
+2. Teach 'advocacy = evidence + a path'.
+3. Learners draft a short advocacy statement.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: a risk (data exposure), evidence (a past breach), and a path (privacy-
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [governance-and-ethics.md](../core-knowledge/governance-and-ethics.md) (section 2)
+

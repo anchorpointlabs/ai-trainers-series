@@ -20,10 +20,10 @@ title: Types of prompt techniques — zero-shot and few-shot
 - Decide when examples are worth it.
 
 **Lesson Plan Ideas:**
-1. Show the same task zero-shot (messy) vs few-shot (clean). 
-2. Teach 'zero-shot is asking, few-shot is showing'. 
-3. Learners add examples to a prompt that needs a format. 
-4. Debrief the token trade-off. 
+1. Show the same task zero-shot (messy) vs few-shot (clean).
+2. Teach 'zero-shot is asking, few-shot is showing'.
+3. Learners add examples to a prompt that needs a format.
+4. Debrief the token trade-off.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -39,3 +39,4 @@ Expected: the few-shot version matches the house style more closely.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [prompting.md](../core-knowledge/prompting.md) (section 3)
+

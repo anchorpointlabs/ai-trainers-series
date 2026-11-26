@@ -20,10 +20,10 @@ title: Implement security measures against prompt hacks
 - Implement constrained outputs and least privilege.
 
 **Lesson Plan Ideas:**
-1. Use the kopitiam-runner analogy (quarantined reader, constrained tokens). 
-2. Teach the layered measures. 
-3. Learners pick measures for a scenario. 
-4. Debrief. 
+1. Use the kopitiam-runner analogy (quarantined reader, constrained tokens).
+2. Teach the layered measures.
+3. Learners pick measures for a scenario.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: constrained output (it can only return pre-set actions) + human approv
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [ai-security.md](../core-knowledge/ai-security.md) (section 4)
+

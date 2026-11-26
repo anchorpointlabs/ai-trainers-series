@@ -20,10 +20,10 @@ title: Analyse the impact of model variations on output quality
 - Explain why you test rather than assume.
 
 **Lesson Plan Ideas:**
-1. Show two model versions giving visibly different results on one task. 
-2. Teach 'the variant matters, and only your task's test proves it'. 
-3. Learners design a mini-test for two variants. 
-4. Debrief. 
+1. Show two model versions giving visibly different results on one task.
+2. Teach 'the variant matters, and only your task's test proves it'.
+3. Learners design a mini-test for two variants.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: a small test set with a pass/fail rubric (tone, accuracy, length).
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [model-selection-and-evaluation.md](../core-knowledge/model-selection-and-evaluation.md) (section 6)
+

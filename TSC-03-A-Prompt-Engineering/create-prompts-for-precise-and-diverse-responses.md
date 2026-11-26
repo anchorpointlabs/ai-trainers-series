@@ -19,10 +19,10 @@ title: Create prompts for precise and diverse responses
 - Explain which levers (format, constraints, temperature) serve which goal.
 
 **Lesson Plan Ideas:**
-1. Show a precise output (a fixed-format table) vs a diverse one (ten different slogans). 
-2. Name the levers. 
-3. Learners write both prompts for one task. 
-4. Compare and tune. 
+1. Show a precise output (a fixed-format table) vs a diverse one (ten different slogans).
+2. Name the levers.
+3. Learners write both prompts for one task.
+4. Compare and tune.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -39,3 +39,4 @@ Expected: the first is a clean table, the second ten clearly different tones.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [prompting.md](../core-knowledge/prompting.md) (sections 4, 9)
+

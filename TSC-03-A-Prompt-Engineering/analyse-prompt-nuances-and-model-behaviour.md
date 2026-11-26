@@ -20,10 +20,10 @@ title: Analyse prompt nuances and model behaviour
 - Describe how role, tone, and format words steer behaviour.
 
 **Lesson Plan Ideas:**
-1. Show two prompts differing by one word, with visibly different outputs. 
-2. Teach the trace: output feature → prompt cause. 
-3. Pairs get a prompt/output pair and highlight the causal wording. 
-4. Debrief the traces. 
+1. Show two prompts differing by one word, with visibly different outputs.
+2. Teach the trace: output feature → prompt cause.
+3. Pairs get a prompt/output pair and highlight the causal wording.
+4. Debrief the traces.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -41,3 +41,4 @@ Expected: learners identify that 'explain' triggered length and 'summarise' + '2
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [prompting.md](../core-knowledge/prompting.md) (sections 4, 5)
+

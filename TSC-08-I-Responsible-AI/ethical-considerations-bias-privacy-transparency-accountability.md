@@ -20,10 +20,10 @@ title: Ethical considerations — bias, privacy, transparency, accountability
 - Explain why bias lives in the training data.
 
 **Lesson Plan Ideas:**
-1. Walk one model's bias back to its training data. 
-2. Teach the four as design decisions. 
-3. Learners name the consideration behind a design choice. 
-4. Debrief. 
+1. Walk one model's bias back to its training data.
+2. Teach the four as design decisions.
+3. Learners name the consideration behind a design choice.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: bias — the training data encodes the historical skew.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [governance-and-ethics.md](../core-knowledge/governance-and-ethics.md) (section 2)
+

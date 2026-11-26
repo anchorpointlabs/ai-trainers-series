@@ -20,10 +20,10 @@ title: Fundamental prompt elements
 - Check a response against the facts, limits and format in the prompt.
 
 **Lesson Plan Ideas:**
-1. Ask: “If you asked someone to write a notice, what would they need to know?” Collect a few answers. 
-2. Explain the five elements using a notice: task is the action, such as writing a notice; context is the relevant background, such as a closure; audience is the intended reader; constraints are limits, such as length; and format is the form, such as a list. Explain that not every request needs every element. 
-3. In pairs, learners define the five elements, underline the words for each in the exercise prompt, then run it and check the response. Use the answer key below to review their labels and explain any differences. 
-4. Ask which element was hardest to identify and why. Discuss any missing fact or missed limit in the response and point to the relevant prompt wording. 
+1. Ask: “If you asked someone to write a notice, what would they need to know?” Collect a few answers.
+2. Explain the five elements using a notice: task is the action, such as writing a notice; context is the relevant background, such as a closure; audience is the intended reader; constraints are limits, such as length; and format is the form, such as a list. Explain that not every request needs every element.
+3. In pairs, learners define the five elements, underline the words for each in the exercise prompt, then run it and check the response. Use the answer key below to review their labels and explain any differences.
+4. Ask which element was hardest to identify and why. Discuss any missing fact or missed limit in the response and point to the relevant prompt wording.
 
 **Exercise (with the exact prompt):**
 Setup: Pairs need access to a chat AI; no files are needed, and all garden details below are invented.
@@ -47,3 +47,4 @@ What to check: Task = “Write a notice”; context = the fictional garden and t
 - https://aistudio.google.com/docs/prompting-strategies — accessed 2026-11-15; describes prompts, clear instructions, context, limits and response formats as starting points for prompt design.
 - https://claude.com/resources/articles/best-practices-for-prompt-engineering — accessed 2026-11-15; discusses audience, context, constraints and output structure, and says not every prompt needs every technique.
 - https://developers.openai.com/api/docs/guides/prompt-engineering — accessed 2026-11-15; discusses including relevant context and notes that generated content can vary.
+

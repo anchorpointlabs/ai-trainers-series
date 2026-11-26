@@ -20,10 +20,10 @@ title: Identify basic security vulnerabilities
 - Flag a data-leak risk.
 
 **Lesson Plan Ideas:**
-1. Show three transcripts, two with attacks, one clean. 
-2. Teach the tell-tale signs (instructions hidden in input). 
-3. Learners mark which transcripts are attacks. 
-4. Debrief. 
+1. Show three transcripts, two with attacks, one clean.
+2. Teach the tell-tale signs (instructions hidden in input).
+3. Learners mark which transcripts are attacks.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -40,3 +40,4 @@ Expected: (b) is a prompt-injection attempt.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [ai-security.md](../core-knowledge/ai-security.md) (section 3)
+

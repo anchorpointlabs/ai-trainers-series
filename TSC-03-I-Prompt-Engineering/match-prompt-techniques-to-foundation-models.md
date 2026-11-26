@@ -20,10 +20,10 @@ title: Match prompt techniques to foundation models
 - Explain why you test rather than assume.
 
 **Lesson Plan Ideas:**
-1. Run one prompt on two models (if available) and show the difference. 
-2. Teach 'different models, different needs — test'. 
-3. Learners write one prompt with a note on how they would adapt it. 
-4. Debrief. 
+1. Run one prompt on two models (if available) and show the difference.
+2. Teach 'different models, different needs — test'.
+3. Learners write one prompt with a note on how they would adapt it.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: learners note they would drop the explicit 'step by step' for a strong
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [popular-llms-and-notebooklm.md](../core-knowledge/popular-llms-and-notebooklm.md) (section 4)
+

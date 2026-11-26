@@ -20,10 +20,10 @@ title: Refine system testing procedures
 - Add a new test case class.
 
 **Lesson Plan Ideas:**
-1. Show a procedure that missed an attack, and how to amend it. 
-2. Teach 'every missed attack becomes a new test case'. 
-3. Learners amend a procedure from a finding. 
-4. Debrief. 
+1. Show a procedure that missed an attack, and how to amend it.
+2. Teach 'every missed attack becomes a new test case'.
+3. Learners amend a procedure from a finding.
+4. Debrief.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: add 'long-context narrative jailbreaks' as a new case class.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [ai-security.md](../core-knowledge/ai-security.md) (section 4)
+

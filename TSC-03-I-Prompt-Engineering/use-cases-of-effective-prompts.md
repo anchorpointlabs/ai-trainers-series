@@ -20,10 +20,10 @@ title: Use cases of effective prompts
 - Identify the shape a task needs.
 
 **Lesson Plan Ideas:**
-1. List six common use cases with one example prompt each. 
-2. Teach 'name the use case, then pick the shape'. 
-3. Learners write a prompt for an assigned use case. 
-4. Swap and check against the shape. 
+1. List six common use cases with one example prompt each.
+2. Teach 'name the use case, then pick the shape'.
+3. Learners write a prompt for an assigned use case.
+4. Swap and check against the shape.
 
 **Exercise (with the exact prompt):**
 ```text
@@ -38,3 +38,4 @@ Expected: a prompt that names the fields and the format.
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
 - [prompting.md](../core-knowledge/prompting.md) (section 3)
+
