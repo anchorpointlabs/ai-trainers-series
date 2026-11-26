@@ -1,3 +1,11 @@
+---
+id: 01.01.B.A5
+tsc: 1
+level: Basic
+code: A5
+title: The five questions to ask before you deploy anything
+---
+
 # The five questions to ask before you deploy anything
 
 > **TSC #1 Generative AI Principles and Applications · Basic · Ability A5**

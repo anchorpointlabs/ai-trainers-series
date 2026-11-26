@@ -1,3 +1,11 @@
+---
+id: 02.01.B.A8
+tsc: 2
+level: Basic
+code: A8
+title: Compare designs and outputs
+---
+
 # Compare designs and outputs
 
 > **TSC #2 Prompt Design · Basic · Ability A8**

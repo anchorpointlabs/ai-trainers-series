@@ -1,3 +1,11 @@
+---
+id: 02.01.B.K1
+tsc: 2
+level: Basic
+code: K1
+title: Troubleshooting techniques
+---
+
 # Troubleshooting techniques
 
 > **TSC #2 Prompt Design · Basic · Knowledge K1**

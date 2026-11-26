@@ -1,3 +1,11 @@
+---
+id: 02.01.B.K5
+tsc: 2
+level: Basic
+code: K5
+title: Prompt construction techniques and settings
+---
+
 # Prompt construction techniques and settings
 
 > **TSC #2 Prompt Design · Basic · Knowledge K5**

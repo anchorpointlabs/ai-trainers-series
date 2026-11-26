@@ -1,3 +1,11 @@
+---
+id: 02.01.B.A1
+tsc: 2
+level: Basic
+code: A1
+title: Describe prompt techniques
+---
+
 # Describe prompt techniques
 
 > **TSC #2 Prompt Design · Basic · Ability A1**

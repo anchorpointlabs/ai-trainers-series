@@ -1,3 +1,11 @@
+---
+id: 02.01.B.A3
+tsc: 2
+level: Basic
+code: A3
+title: Apply basic anonymisation techniques
+---
+
 # Apply basic anonymisation techniques
 
 > **TSC #2 Prompt Design · Basic · Ability A3**
@@ -53,4 +61,4 @@ What to check: compare both tables with those rows; confirm the repeated label, 
 - [3] https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/data-sharing/anonymisation/introduction-to-anonymisation/ — accessed 2026-11-15; explains identification using other information and why pseudonymisation is not the same as anonymisation.
 - [4] https://developers.openai.com/api/docs/guides/advanced-usage — accessed 2026-11-15; explains that Chat Completions outputs can differ between requests.
 
-**Related:** [Masking, perturbation, pseudonymisation](../TSC-01-GenAI-Principles-Basic/masking-perturbation-pseudonymisation.md) — the same skill at a different level.
+**Related:** [Masking, perturbation, pseudonymisation](../%5B01%5D%20TSC-01-B-GenAI-Principles/masking-perturbation-pseudonymisation.md) — the same skill at a different level.

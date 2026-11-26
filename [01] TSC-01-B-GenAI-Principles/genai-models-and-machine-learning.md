@@ -1,3 +1,11 @@
+---
+id: 01.01.B.K3
+tsc: 1
+level: Basic
+code: K3
+title: What exists in November 2026, and what machine learning has to do with it
+---
+
 # What exists in November 2026, and what machine learning has to do with it
 
 > **TSC #1 Generative AI Principles and Applications · Basic · Knowledge K3**

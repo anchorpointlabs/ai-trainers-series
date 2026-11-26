@@ -1,3 +1,11 @@
+---
+id: 02.01.B.A7
+tsc: 2
+level: Basic
+code: A7
+title: Identify prompt misuses and risks
+---
+
 # Identify prompt misuses and risks
 
 > **TSC #2 Prompt Design · Basic · Ability A7**

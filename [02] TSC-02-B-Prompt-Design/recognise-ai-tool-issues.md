@@ -1,3 +1,11 @@
+---
+id: 02.01.B.A2
+tsc: 2
+level: Basic
+code: A2
+title: Recognise AI tool issues
+---
+
 # Recognise AI tool issues
 
 > **TSC #2 Prompt Design · Basic · Ability A2**

@@ -1,3 +1,11 @@
+---
+id: 02.01.B.K4
+tsc: 2
+level: Basic
+code: K4
+title: Guardrails for unexpected outputs
+---
+
 # Guardrails for unexpected outputs
 
 > **TSC #2 Prompt Design · Basic · Knowledge K4**

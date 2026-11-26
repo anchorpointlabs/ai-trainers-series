@@ -1,3 +1,11 @@
+---
+id: 02.01.B.K2
+tsc: 2
+level: Basic
+code: K2
+title: How prompts shape content
+---
+
 # How prompts shape content
 
 > **TSC #2 Prompt Design · Basic · Knowledge K2**

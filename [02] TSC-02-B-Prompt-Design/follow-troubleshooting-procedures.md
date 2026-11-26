@@ -1,3 +1,11 @@
+---
+id: 02.01.B.A4
+tsc: 2
+level: Basic
+code: A4
+title: Follow troubleshooting procedures
+---
+
 # Follow troubleshooting procedures
 
 > **TSC #2 Prompt Design · Basic · Ability A4**

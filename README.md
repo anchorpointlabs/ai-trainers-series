@@ -14,10 +14,16 @@ thing, not just read the slide.
 
 | Folder | What it holds |
 |---|---|
-| `TSC-01-GenAI-Principles-Basic/` | Generative AI Principles and Applications (Basic) — partial |
-| `TSC-02-Prompt-Design-Basic/` | Prompt Design (Basic) — the complete K1–K7 / A1–A8 set |
+| `[01] TSC-01-B-GenAI-Principles/` | Generative AI Principles and Applications (Basic) — partial |
+| `[02] TSC-02-B-Prompt-Design/` | Prompt Design (Basic) — the complete K1–K7 / A1–A8 set |
 | `concepts/` | Cross-cutting mechanisms, organised by **decay tier** |
-| `method/` | The methodology: the decay model and the entry template |
+| `method/` | The methodology: the decay model, the entry template, the naming convention |
+
+## Naming convention
+
+- **Folder:** `[NN] TSC-NN-{B|I|A}-{Topic}/` — `NN` = TSC number; `B` / `I` / `A` = Basic / Intermediate / Advanced.
+- **Multi-level TSC:** a `[NN]` group with `[NN.01]` (Basic), `[NN.02]` (Intermediate), `[NN.03]` (Advanced) sub-folders.
+- **Entry ID (YAML frontmatter + index):** `NN.MM.L.code` — e.g. `02.01.B.K7` = TSC 2, level 01 (Basic), knowledge item K7. Cite the ID when you flag something stale. Full rules in [`method/naming-convention.md`](method/naming-convention.md).
 
 ## The decay model
 

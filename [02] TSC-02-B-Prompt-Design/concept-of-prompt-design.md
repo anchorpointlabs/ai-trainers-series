@@ -1,3 +1,11 @@
+---
+id: 02.01.B.K7
+tsc: 2
+level: Basic
+code: K7
+title: Concept of prompt design
+---
+
 # Concept of prompt design
 
 > **TSC #2 Prompt Design · Basic · Knowledge K7**

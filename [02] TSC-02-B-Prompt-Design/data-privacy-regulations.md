@@ -1,3 +1,11 @@
+---
+id: 02.01.B.K6
+tsc: 2
+level: Basic
+code: K6
+title: Data privacy regulations
+---
+
 # Data privacy regulations
 
 > **TSC #2 Prompt Design · Basic · Knowledge K6**

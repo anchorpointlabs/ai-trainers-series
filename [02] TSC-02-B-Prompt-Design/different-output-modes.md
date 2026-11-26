@@ -1,3 +1,11 @@
+---
+id: 02.01.B.K3
+tsc: 2
+level: Basic
+code: K3
+title: Different output modes
+---
+
 # Different output modes
 
 > **TSC #2 Prompt Design · Basic · Knowledge K3**

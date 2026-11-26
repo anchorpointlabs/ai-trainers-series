@@ -1,3 +1,11 @@
+---
+id: 02.01.B.A5
+tsc: 2
+level: Basic
+code: A5
+title: Fundamental prompt elements
+---
+
 # Fundamental prompt elements
 
 > **TSC #2 Prompt Design · Basic · Ability A5**

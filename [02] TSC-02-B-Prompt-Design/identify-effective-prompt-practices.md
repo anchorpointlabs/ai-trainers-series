@@ -1,3 +1,11 @@
+---
+id: 02.01.B.A6
+tsc: 2
+level: Basic
+code: A6
+title: Identify effective prompt practices
+---
+
 # Identify effective prompt practices
 
 > **TSC #2 Prompt Design · Basic · Ability A6**

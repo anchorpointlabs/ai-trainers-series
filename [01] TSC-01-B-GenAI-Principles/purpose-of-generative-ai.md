@@ -1,3 +1,11 @@
+---
+id: 01.01.B.K1
+tsc: 1
+level: Basic
+code: K1
+title: The purpose of generative AI: five things it is actually for
+---
+
 # The purpose of generative AI: five things it is actually for
 
 > **TSC #1 Generative AI Principles and Applications · Basic · Knowledge K1**
