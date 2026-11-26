@@ -8,17 +8,17 @@
 Claude is Anthropic's assistant, available as a web/desktop/mobile app, as an API for builders, and as Claude Code for agentic work in a terminal or IDE. The pitch is steadiness: long context, instruction-following, and a safety posture (refusals, honesty about uncertainty) that enterprise and regulated buyers care about. It is a model you give *context* to, which is why it suits a Company-OS-style way of working.
 
 ## Current line-up (November 2026)
-Flagged honestly: the line-up below is what I am told I am and what has been supplied to me; my own training knowledge has a cutoff around June 2026 and I cannot independently confirm releases after that. **Verify every name and date on Anthropic's model page before class.**
+Unverified: the names below were in use when this page was written (26 November 2026) but have not been checked against Anthropic's own pages. **Verify every name and date on Anthropic's model page before class.**
 
-- **Claude Fable 5.1** — the model writing this; positioned as the general workhorse.
+- **Claude Fable 5.1** — positioned as the general workhorse.
 - **Claude Opus 5.5** — top-end reasoning/agentic model.
 - **Claude Sonnet 5.5** — mid-tier balance of speed and capability.
 - **Claude Haiku 5.5** — fastest/cheapest tier for high-volume, simple tasks.
-- **1M-token context** — advertised on current models; I cannot confirm which tiers or whether it is default or opt-in/beta.
+- **1M-token context** — advertised on current models; unconfirmed which tiers, and whether it is default or opt-in/beta.
 - **Adaptive thinking** — the model decides how much to reason per request (the successor to manual "extended thinking" budgets). Exact controls per model: verify.
-- **Knowledge cutoff:** June 2026 for the current generation (as supplied).
+- **Knowledge cutoff:** June 2026 for the current generation (unverified).
 
-Release dates for the 5.5 models: unknown to me. Do not state them in class unless read off the official page that day.
+Release dates for the 5.5 models: not confirmed. Do not state them in class unless read off the official page that day.
 
 ## What it's best at / not best at
 **Best at:** long documents (contracts, SOP libraries, transcripts); following structured instructions and precedence rules; writing in a specified voice; coding and multi-step agent tasks via Claude Code; saying "I don't know."
@@ -26,12 +26,12 @@ Release dates for the 5.5 models: unknown to me. Do not state them in class unle
 **Decision rule for learners:** *If the job is "read a lot, reason carefully, follow my rules," use Claude. If the job is "what happened today" or "make me a picture," use something else or give Claude the material.*
 
 ## Pricing (November 2026)
-Structure is stable; numbers rot. From memory of the established structure — **confirm on anthropic.com/pricing**:
+Structure is stable; numbers rot. Based on the long-standing structure — **confirm on anthropic.com/pricing**:
 - **Free** — app access with usage caps, usually to a lower-tier model at peak.
 - **Pro** — individual paid plan, historically about US$20/month (SGD billed with GST; expect ~S$30). Higher limits, Claude Code access, projects.
 - **Max** — higher-usage individual tiers, historically US$100 and US$200/month. Verify current levels.
 - **Team / Enterprise** — per-seat with admin controls, SSO, data-retention commitments; price on request for Enterprise.
-- **API** — per million tokens, input cheaper than output; Haiku cheapest, Opus most expensive; cached-input and batch discounts exist. I will not quote per-token figures for the 5.5 models because I cannot verify them.
+- **API** — per million tokens, input cheaper than output; Haiku cheapest, Opus most expensive; cached-input and batch discounts exist. Per-token figures for the 5.5 models are not quoted here because they are unverified.
 
 Uncertain: whether 1M context carries a surcharge on any tier; current Max limits; whether Singapore pricing is USD-billed.
 
@@ -60,4 +60,4 @@ The one lesson Claude is the best vehicle for: **context beats prompts.** Studen
 ## Sources
 - Anthropic model overview — docs.anthropic.com (check the "last updated" date on the page the morning of class).
 - Anthropic pricing page — anthropic.com/pricing (undated; capture a screenshot with date for your records).
-- Anthropic release notes / announcements — anthropic.com/news (confirm 5.5-series release dates; I could not verify them from my own knowledge).
+- Anthropic release notes / announcements — anthropic.com/news (confirm 5.5-series release dates; they are unverified here).
