@@ -7,19 +7,26 @@
 
 **Descriptor (Advanced):** Craft nuanced prompts, adapt strategies across scenarios, and optimise responses.
 
-**Knowledge:**
-- Scenarios where prompt engineering shifts outputs.
-- Concepts — conditional prompts, context manipulation, refining.
-- Advanced techniques (Chain-of-Thought, Tree of Thought).
-- Extending capability (RAG, external tools, LangChain); prompt tools; fine-tuning on a RAG base.
+## Knowledge
 
-**Abilities:**
-- Create precise, diverse responses; analyse prompt nuances.
-- Evaluate performance, limits, effectiveness and adaptability.
-- Apply strategies to refine and extend models; devise new prompt strategies.
+- [**K1** · Scenarios where prompt engineering shifts outputs](k1.md)
+- [**K2** · Conditional prompts, context manipulation, refining](k2.md)
+- [**K3** · Prompt optimisation and sequencing of instructions](k3.md)
+- [**K4** · Chain-of-Thought and Tree of Thought](k4.md)
+- [**K5** · Extending models with RAG, tools, and LangChain](k5.md)
+- [**K6** · Prompt engineering tools and frameworks](k6.md)
+- [**K7** · Fine-tuning on a RAG knowledge base](k7.md)
 
-**Teach it with:**
-**Prompting is briefing a very fast, very literal new hire.** A vague brief ('do the report') gets a generic result; a good brief states the task, audience, facts, constraints, and what to do when something is missing. Named patterns (Chain-of-Thought, few-shot) are just ways to structure that brief — they are not magic truth serum.
+## Abilities
+
+- [**A1** · Create prompts for precise and diverse responses](a1.md)
+- [**A2** · Analyse prompt nuances and model behaviour](a2.md)
+- [**A3** · Evaluate prompt engineering techniques](a3.md)
+- [**A4** · Evaluate effectiveness across scenarios](a4.md)
+- [**A5** · Refine outputs and extend capabilities](a5.md)
+- [**A6** · Devise innovative prompt strategies](a6.md)
+
+**Teach it with:** Prompting is briefing a very fast, very literal new hire — a vague brief gets a generic result; a good brief states the task, audience, facts and constraints, then checks the reply. Named patterns are ways to structure that brief, not magic truth serum.
 
 ---
-*Condensed K/A — full verbatim bullets in the IMDA framework PDF. Entry files (one per K/A item) come next.*
+*Each bullet above links to a full entry. Verbatim IMDA bullets and sources are in each entry.*
