@@ -4,6 +4,8 @@ tsc: 1
 level: Basic
 code: A4
 title: Masking, perturbation, pseudonymisation: three tools, three limits
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Masking, perturbation, pseudonymisation: three tools, three limits
@@ -57,6 +59,8 @@ Adjacent techniques worth naming in class, without teaching them in depth: token
 - **"We don't train on your data" is not anonymisation.** It is a retention and training statement. The data is still transmitted, still logged for some period, and still subject to the provider's access controls.
 - **Enterprise tiers change the risk, not the obligation.** Data-processing terms, regional processing and zero-retention options reduce exposure; they do not convert personal data into anonymous data.
 - **Free text is the leak.** Comments fields, case notes, email bodies and chat transcripts contain identifiers that no column-level masking touches. In practice this is where anonymisation fails, not in the NRIC column.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

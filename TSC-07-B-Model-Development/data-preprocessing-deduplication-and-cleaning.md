@@ -4,6 +4,8 @@ tsc: 7
 level: Basic
 code: K4
 title: "Data preparation: cleaning, de-duplication and what a training set must contain"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Data preparation: cleaning, de-duplication and what a training set must contain
@@ -49,9 +51,11 @@ Training data requirements, stated plainly: **enough** (volume to cover the patt
 
 ### What is current as of November 2026
 
-The frontier conversation has moved from "more data" to "better-chosen data". Labs serving the GPT-6 generation, Claude 5.5 and Gemini 4 Argon describe their advantage less in raw volume and more in curation, synthetic data mixtures and post-training data — and open-weight fine-tuning practice has followed: small, carefully cleaned, task-specific sets now beat large scraped ones for most adaptation work.
+The frontier conversation has moved from "more data" to "better-chosen data". Labs serving current frontier models describe their advantage less in raw volume and more in curation, synthetic data mixtures and post-training data — and open-weight fine-tuning practice has followed: small, carefully cleaned, task-specific sets now beat large scraped ones for most adaptation work.
 
 Two practical shifts for a Basic class. First, **duplication detection is a standard step, not an advanced one** — most modern training pipelines run near-duplicate removal by default. Second, **synthetic data is now a normal ingredient**, which means the trainer must teach the failure mode: a model trained on another model's output inherits and amplifies its errors. "Model collapse" is the shorthand.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

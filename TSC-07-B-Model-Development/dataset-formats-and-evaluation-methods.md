@@ -4,6 +4,8 @@ tsc: 7
 level: Basic
 code: K9
 title: "Dataset formats and evaluation methods for generative tasks"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Dataset formats and evaluation methods for generative tasks
@@ -58,9 +60,11 @@ Evaluation methods, in practice: **held-out loss**, **benchmark suites**, **task
 
 ### What is current as of November 2026
 
-Two shifts. First, **JSONL with a messages array has become the lingua franca** for fine-tuning uploads, and most providers now accept the same shape, which makes portability between the GPT-6 generation, Claude 5.5 and open-weight tooling far better than it was a few years ago. Second, **model-as-judge is now standard practice and standard liability**: practitioner teams use a strong model to score thousands of outputs against a written rubric, then audit a sample by hand. The failure mode is well known — judges reward verbose, confident answers — so the rubric and the audit are what make it credible.
+Two shifts. First, **JSONL with a messages array has become the lingua franca** for fine-tuning uploads, and most providers now accept the same shape, which makes portability between current frontier models and open-weight tooling far better than it was a few years ago. Second, **model-as-judge is now standard practice and standard liability**: practitioner teams use a strong model to score thousands of outputs against a written rubric, then audit a sample by hand. The failure mode is well known — judges reward verbose, confident answers — so the rubric and the audit are what make it credible.
 
 Benchmark contamination has also become a mainstream concern: models trained on data that overlaps public test sets can appear better than they are, which is why serious teams keep a private, freshly collected evaluation set.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

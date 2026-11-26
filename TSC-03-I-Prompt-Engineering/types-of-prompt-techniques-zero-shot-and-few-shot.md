@@ -4,6 +4,8 @@ tsc: 3
 level: Intermediate
 code: A3
 title: Types of prompt techniques — zero-shot and few-shot
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Types of prompt techniques — zero-shot and few-shot
@@ -52,10 +54,12 @@ The mechanism is in-context learning: without changing a weight, the model picks
 
 Three changes and one constant.
 
-- **Format examples have been partly replaced by schemas.** With native structured output in the GPT-6 generation, Claude 5.5, Gemini 3.1 Pro and Gemini 4 Argon, you no longer need three examples to teach JSON shape — you need a schema. Examples are now spent on *judgement*, not punctuation.
+- **Format examples have been partly replaced by schemas.** With native structured output in current frontier models, you no longer need three examples to teach JSON shape — you need a schema. Examples are now spent on *judgement*, not punctuation.
 - **Reasoning tiers need fewer examples.** A deliberating model often performs worse with heavy few-shot scaffolding, because the examples compete with its internal process. Test with zero or one before adding more.
 - **Many-shot is viable with caching.** Static example blocks at the front of a prompt are cheap to reuse, which makes dozens of examples affordable for a narrow, high-volume task.
 - **The constant:** example selection is still a data problem. A biased or contaminated example set produces a biased, contaminated prompt no matter how good the model is.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

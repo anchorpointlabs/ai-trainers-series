@@ -4,6 +4,8 @@ tsc: 3
 level: Basic
 code: A7
 title: Anonymising before you paste: masking that survives a second look
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Anonymising before you paste: masking that survives a second look
@@ -62,6 +64,8 @@ This is the practitioner-level view of `TSC2-Basic-A3` (Prompt Design); see that
 Two things have sharpened. Tooling has improved: several mainstream productivity tools now offer redaction before sending, and enterprise AI tiers increasingly offer data-loss-prevention controls that flag identifiers on the way in. That reduces the mechanical part of the work, not the judgement — a redaction feature will not tell you that "the only Grade 6 teacher in that department who filed a grievance in March" is one person.
 
 The second shift is contractual. More client and vendor agreements now name AI processing explicitly, so the question is no longer only "is this personal data" but "does this agreement permit a third-party model provider at all". The stricter rule wins, and it is usually the contract, not the statute.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

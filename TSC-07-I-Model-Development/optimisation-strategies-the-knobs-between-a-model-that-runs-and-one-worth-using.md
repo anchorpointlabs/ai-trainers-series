@@ -4,6 +4,8 @@ tsc: 7
 level: Intermediate
 code: K5
 title: Optimisation strategies: the knobs between a model that runs and one worth using
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Optimisation strategies: the knobs between a model that runs and one worth using
@@ -43,9 +45,11 @@ Gradient descent only promises to reduce the loss you gave it. Whether that loss
 
 ### What is current as of November 2026
 
-- **Quality now comes from data and post-training, not architecture.** The frontier model families — GPT-6 generation, Claude 5.5, Gemini 3.1 Pro and Gemini 4 Argon — differentiate on curation, post-training recipe and inference-time budget rather than on novel optimisers.
+- **Quality now comes from data and post-training, not architecture.** Current frontier model families differentiate on curation, post-training recipe and inference-time budget rather than on novel optimisers.
 - **Test-time compute became a first-class knob.** Best-of-n with a verifier, and longer reasoning before answering, are now routine ways to buy quality at inference, which changes the usual "tune the training job" instinct.
 - **Few-step sampling matured.** Distilled samplers mean the step count for image generation is a cost decision you can now make aggressively.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

@@ -4,6 +4,8 @@ tsc: 1
 level: Intermediate
 code: K1
 title: "The principles underneath the output: prediction, representation, objective, scale"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # The principles underneath the output: prediction, representation, objective, scale
@@ -45,9 +47,11 @@ Four principles carry most of the weight. **Prediction:** the model estimates a 
 
 ### What is current as of November 2026
 
-Reasoning has been industrialised. The frontier families — OpenAI's GPT-6 generation (Astra, Sol, Luna, 6.1 Sol, 6.1 Terra, Cyber), Anthropic's Claude 5.5 line and Google's Gemini 3.1 Pro and Gemini 4 Argon — now spend additional compute on internal deliberation before the visible answer. "It predicts the next token" remains true, but the tokens now include thinking, so behaviour looks less like autocomplete and more like a fast draft with working shown.
+Reasoning has been industrialised. The current frontier families now spend additional compute on internal deliberation before the visible answer. "It predicts the next token" remains true, but the tokens now include thinking, so behaviour looks less like autocomplete and more like a fast draft with working shown.
 
 Representation is also multimodal at the input layer, and decoding has become a product surface: effort settings and thinking budgets are how a buyer now chooses between speed and deliberation.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

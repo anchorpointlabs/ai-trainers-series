@@ -4,6 +4,8 @@ tsc: 3
 level: Basic
 code: A5
 title: Recognising an AI problem: name what you see, not what you think
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Recognising an AI problem: name what you see, not what you think
@@ -60,6 +62,8 @@ This is the practitioner-level view of `TSC2-Basic-A2` (Prompt Design); see that
 Two symptoms have changed shape. Truncation is now more often a thinking-budget or output-limit setting than a length instruction problem, so "make it shorter" is frequently the wrong first move. And regressions have become the most common corrupting failure: model versions are retired and rerouted behind unchanged product names, so a prompt that produced acceptable output last quarter can produce different output today with no change on your side.
 
 The other shift is that corrupting failures are easier to catch than they used to be, because structured outputs and citations give you something mechanical to check — a schema, a quote, a source link. A team that specifies an output shape has, in effect, built its own detection.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

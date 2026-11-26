@@ -4,6 +4,8 @@ tsc: 9
 level: Advanced
 code: A2
 title: Refine and enhance AI guardrails
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Refine and enhance AI guardrails
@@ -56,7 +58,9 @@ K3 is the strategy this executes; K4 supplies the failures that trigger it; A1 h
 - **Most guardrails are configured, not built.** Teams tune vendor shields and orchestration policies, which makes "read the vendor's measurement, then test it on your own traffic" the core skill.
 - **Structured output is the strongest cheap control.** Constrained decoding and strict schemas remove whole classes of exfiltration and injection, and they are now routine in agent frameworks.
 - **Agent frameworks expose policy hooks.** Tool-level enforcement — allow/deny per tool, per argument pattern, per user — is the layer where refinements increasingly land.
-- **Model versions shift behaviour.** A refinement that relies on GPT-6 generation, Claude 5.5, Gemini 3.1 Pro or Gemini 4 Argon behaving a particular way needs a re-test whenever the pinned version changes.
+- **Model versions shift behaviour.** A refinement that relies on current frontier models behaving a particular way needs a re-test whenever the pinned version changes.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

@@ -4,6 +4,8 @@ tsc: 2
 level: Basic
 code: K1
 title: Troubleshooting techniques
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Troubleshooting techniques
@@ -52,7 +54,9 @@ The technique underneath all three is the same: hold everything still, change on
 
 ### What is current as of November 2026
 
-Two things have changed. First, error surfaces have multiplied: the same product can fail differently in a browser tab, a desktop app, a mobile app and an API, and the error text is rarely the same in each. Second, agents and connected tools make "no answer" rarer and "wrong action" more common — a tool-enabled assistant may not error at all, it may simply do the wrong thing with the right permissions. That is not a troubleshooting case; it is a guardrail case (`TSC2-Basic-K4`). For the 2026 frontier products — OpenAI's GPT-6 generation, Claude 5.5, Gemini 3.1 Pro and Gemini 4 Argon — most failures a Basic user sees are still the two old ones: an unclear prompt, and a transient service blip.
+Two things have changed. First, error surfaces have multiplied: the same product can fail differently in a browser tab, a desktop app, a mobile app and an API, and the error text is rarely the same in each. Second, agents and connected tools make "no answer" rarer and "wrong action" more common — a tool-enabled assistant may not error at all, it may simply do the wrong thing with the right permissions. That is not a troubleshooting case; it is a guardrail case (`TSC2-Basic-K4`). With current frontier models, most failures a Basic user sees are still the two old ones: an unclear prompt, and a transient service blip.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

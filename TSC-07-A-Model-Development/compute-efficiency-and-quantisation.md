@@ -4,6 +4,8 @@ tsc: 7
 level: Advanced
 code: K6
 title: Compute efficiency: how a model gets smaller without getting dumber
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Compute efficiency: how a model gets smaller without getting dumber
@@ -47,7 +49,9 @@ Quantisation comes in two flavours. **Post-training quantisation** converts weig
 
 ### What is current as of November 2026
 
-Efficiency has become the main competitive axis rather than a cost-saving afterthought. Serving stacks now treat 8-bit and 4-bit weights, paged KV caches and speculative decoding as defaults, and the late-2026 frontier releases — the GPT-6 generation, Claude 5.5, Gemini 3.1 Pro and 4 Argon — compete as much on price per useful token and latency as on capability. On the open-weight side, a small model fine-tuned on your domain and quantised for your hardware routinely beats a large general model on cost at equal quality for narrow tasks.
+Efficiency has become the main competitive axis rather than a cost-saving afterthought. Serving stacks now treat 8-bit and 4-bit weights, paged KV caches and speculative decoding as defaults, and current frontier releases compete as much on price per useful token and latency as on capability. On the open-weight side, a small model fine-tuned on your domain and quantised for your hardware routinely beats a large general model on cost at equal quality for narrow tasks.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

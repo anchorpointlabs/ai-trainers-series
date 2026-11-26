@@ -4,6 +4,8 @@ tsc: 6
 level: Intermediate
 code: K7
 title: Guardrails for LLMs: three layers, and what each one cannot do
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Guardrails for LLMs: three layers, and what each one cannot do
@@ -54,6 +56,8 @@ The design principle is **defence in depth with different mechanisms**, not the 
 ### What is current as of November 2026
 
 Guardrails have shifted from prompt tricks to infrastructure. They are services now, not sentences: moderation endpoints, content-safety APIs and declarative guardrail frameworks are standard components, and prompt-only safeguards are a convenience layer rather than a control. Prompt injection is treated as an architecture problem — filtering is necessary but insufficient, and least-privilege tools with confirmation gates are where the defence sits. Effectiveness is measured rather than asserted: attack suites and bypass rates are part of procurement.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

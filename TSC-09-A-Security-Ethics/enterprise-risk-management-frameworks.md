@@ -4,6 +4,8 @@ tsc: 9
 level: Advanced
 code: K5
 title: Enterprise risk management frameworks
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Enterprise risk management frameworks
@@ -60,6 +62,8 @@ K1 supplies the security methodology whose results feed the register. K6 makes t
 - **Regulation has teeth somewhere.** The EU AI Act's high-risk obligations and its general-purpose model rules reach any provider whose output is used in the EU, and Singapore's PDPA carries statutory penalties — including a share of annual turnover — for personal-data failures, so the voluntary Model AI Governance Framework sits on top of enforceable law rather than replacing it.
 - **Sector rules lead.** Financial institutions work to MAS's fairness, ethics, accountability and transparency expectations; clinical AI falls under device regulation. Sector supervisors move faster than horizontal regulators.
 - **Agents changed the risk shape.** A system that can act has an availability and authorisation risk profile that a content-only register misses, so entries now need a tool inventory and a spend cap.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

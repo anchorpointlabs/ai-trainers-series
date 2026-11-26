@@ -4,6 +4,8 @@ tsc: 8
 level: Advanced
 code: K2
 title: Historical context and evolution of AI ethics
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Historical context and evolution of AI ethics
@@ -47,6 +49,8 @@ The third era is scale and agency. From late 2022 systems stopped classifying an
 ### What is current as of November 2026
 
 The history has a live edge. The EU AI Act's prohibitions took effect in February 2025 and its high-risk and general-purpose obligations are phasing in, so the second era's "voluntary principles" period is closing. The genuinely new item on the timeline is agentic deployment, which has no settled governance anywhere, and synthetic media at election scale, which Singapore addressed through the Elections (Integrity of Online Advertising) Amendment rather than through AI-specific statute.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

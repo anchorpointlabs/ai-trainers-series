@@ -4,6 +4,8 @@ tsc: 6
 level: Intermediate
 code: K4
 title: Knowledge graphs: context augmentation that remembers relationships
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Knowledge graphs: context augmentation that remembers relationships
@@ -50,6 +52,8 @@ A knowledge graph stores knowledge as triples — subject, predicate, object: *(
 ### What is current as of November 2026
 
 Graph-based augmentation has moved from research pattern to product feature. Extraction with a strong model plus schema validation now yields a usable graph from a document set in days, so graph building is a pipeline rather than a consultancy engagement. The hybrid is the default: vendors ship vector-plus-graph retrieval together, making the question "how much graph" rather than "graph or vector". And agentic retrieval changed the loop — a tool-calling model can write and iterate its own traversal, which raises the value of a clean schema and lowers the value of a giant pre-built index.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

@@ -4,6 +4,8 @@ tsc: 3
 level: Advanced
 code: K5
 title: Extending models with RAG, tools, and LangChain
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Extending models with RAG, tools, and LangChain
@@ -50,9 +52,11 @@ Bullet 1 (`TSC3-Advanced-K1`) is the routing decision that sends you here. Bulle
 
 ### What is current as of November 2026
 
-- **Long context changed the arithmetic, not the conclusion.** With the late-2026 frontier models (GPT-6 generation, Claude 5.5, Gemini 3.1 Pro, Gemini 4 Argon) holding very large windows, small bounded corpora can be handled by loading everything — the pattern behind source-grounded workspace products. But an enterprise corpus is not bounded, sending a million tokens per query is slow and expensive, and attention still decays in the middle. Retrieval selects what the long context reads.
+- **Long context changed the arithmetic, not the conclusion.** With current frontier models holding very large windows, small bounded corpora can be handled by loading everything — the pattern behind source-grounded workspace products. But an enterprise corpus is not bounded, sending a million tokens per query is slow and expensive, and attention still decays in the middle. Retrieval selects what the long context reads.
 - **Agentic retrieval is now the default shape.** Rather than a fixed retrieve-then-answer pipeline, the model is given search as a tool and decides when to search, rewrite the query, and search again. Better on multi-hop questions, harder to audit.
 - **Tool protocols standardised.** Connecting a model to internal systems is now mostly configuration rather than bespoke integration, which moved the practical skill from plumbing to tool description quality.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

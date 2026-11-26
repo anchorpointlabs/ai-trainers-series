@@ -4,6 +4,8 @@ tsc: 7
 level: Intermediate
 code: A2
 title: Watching a model learn: stability, convergence and the loss curve
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Watching a model learn: stability, convergence and the loss curve
@@ -43,9 +45,11 @@ You have one curve and several hypotheses. A spike can be a bad batch, a learnin
 
 ### What is current as of November 2026
 
-- **Observability is a first-class part of training.** Runs against the GPT-6 generation class of models are tracked with per-step metrics, and the teams that ship reliably are the ones with alerting on gradient norm rather than on loss alone.
+- **Observability is a first-class part of training.** Runs against current frontier-class models are tracked with per-step metrics, and the teams that ship reliably are the ones with alerting on gradient norm rather than on loss alone.
 - **Loss spikes are understood as state events.** The research conversation has shifted toward optimiser-state resets and checkpoint rollback rather than only lowering the learning rate.
 - **Cost telemetry sits beside the loss curve.** Tracking dollars per step, not just seconds per step, has become normal as accelerator rental dominates budgets.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

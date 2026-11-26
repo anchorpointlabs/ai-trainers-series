@@ -4,6 +4,8 @@ tsc: 7
 level: Advanced
 code: K8
 title: Scalable data processing: what changes when the corpus is ten terabytes
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Scalable data processing: what changes when the corpus is ten terabytes
@@ -54,7 +56,9 @@ Deduplication deserves separate mention because it is where most beginner pipeli
 
 ### What is current as of November 2026
 
-The interesting shift is that single-node tools got good enough for most teams. Polars and DuckDB now handle corpora that needed a cluster a few years ago, and GPU-accelerated dataframe engines have made filtering cheap. Cluster frameworks remain necessary for genuine multi-terabyte shuffles and for teams already standardised on Spark. Meanwhile the pre-training stacks behind the late-2026 frontier models — the GPT-6 generation, Claude 5.5, Gemini 3.1 Pro and 4 Argon — all treat data pipelines as first-class engineering, with dataset versioning and reproducible mixtures, which is the practice worth copying at any scale.
+The interesting shift is that single-node tools got good enough for most teams. Polars and DuckDB now handle corpora that needed a cluster a few years ago, and GPU-accelerated dataframe engines have made filtering cheap. Cluster frameworks remain necessary for genuine multi-terabyte shuffles and for teams already standardised on Spark. Meanwhile the pre-training stacks behind current frontier models all treat data pipelines as first-class engineering, with dataset versioning and reproducible mixtures, which is the practice worth copying at any scale.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

@@ -4,6 +4,8 @@ tsc: 3
 level: Intermediate
 code: A2
 title: Best practices with Foundation Models
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Best practices with Foundation Models
@@ -64,10 +66,12 @@ Eight practices survive, and they map onto three obligations:
 
 Three practices have strengthened, one has weakened.
 
-- **Strengthened: state the output schema.** The GPT-6 generation, Claude 5.5, Gemini 3.1 Pro and Gemini 4 Argon all enforce structured output reliably, so a schema now does what a paragraph of formatting instructions used to attempt.
+- **Strengthened: state the output schema.** Current frontier models all enforce structured output reliably, so a schema now does what a paragraph of formatting instructions used to attempt.
 - **Strengthened: keep static material at the front.** Prompt caching rewards an unchanging prefix and makes repeat calls cheaper and faster — a practice that is now economic as well as attentional.
 - **Strengthened: decide what the model may do.** With tool-using assistants in ordinary workflows, a prompt with no permissions decision is half a design.
 - **Weakened: persona and politeness.** Elaborate role stacks and courteous framing do little on current models compared with explicit rules and supplied facts.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

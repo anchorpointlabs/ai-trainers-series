@@ -4,6 +4,8 @@ tsc: 9
 level: Basic
 code: K4
 title: Trust and safety after go-live
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Trust and safety after go-live
@@ -50,10 +52,12 @@ For a Basic audience, the crucial correction is about the shape of the work. It 
 
 ### What is current as of November 2026
 
-Two things have changed the post-launch picture. First, model updates arrive continuously rather than as annual releases — the late-2026 frontier, from OpenAI's GPT-6 generation (Astra, Sol, Luna, 6.1 Sol, 6.1 Terra and the security-tuned Cyber) through Anthropic's Claude 5.5 to Google's Gemini 3.1 Pro and Gemini 4 Argon, is delivered as a moving service, so "the model changed" is a routine event, not an incident. Second, agents with tools are now ordinary, which means post-launch monitoring has to cover *actions*, not just answers.
+Two things have changed the post-launch picture. First, model updates arrive continuously rather than as annual releases — current frontier models are delivered as a moving service, so "the model changed" is a routine event, not an incident. Second, agents with tools are now ordinary, which means post-launch monitoring has to cover *actions*, not just answers.
 
 - **Version changes are the most common cause of sudden behaviour change.** Pin versions where the vendor allows it, and replay the test set when you move.
 - **Attack traffic is now automated.** Expect probing within hours of any public launch; rate limits and spend caps are part of trust and safety, not just cost control.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

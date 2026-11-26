@@ -4,6 +4,8 @@ tsc: 5
 level: Basic
 code: A5
 title: Identify ethical concerns in generated outputs
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Identify ethical concerns in generated outputs
@@ -44,6 +46,8 @@ This is the ability that operationalises `TSC5-Basic-K6` (ethical considerations
 ### What is current as of November 2026
 
 The headline shift is **deception has become the dominant concern.** Late-2026 models generate voice, image and text that are effectively indistinguishable from human work, so "is this real" is now the most common ethics question a Singapore office asks — synthetic endorsements, deepfake clips, AI-written reviews. Privacy is the second: as models get better at memorising and reproducing, the risk of a personal detail surfacing in an output grows, and PDPA turns "it leaked" from an embarrassment into a compliance incident. The scan has moved from a nice-to-have to a pre-send step.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

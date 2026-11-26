@@ -4,6 +4,8 @@ tsc: 6
 level: Advanced
 code: A1
 title: "Building an application that uses more than one model, and knows why"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Building an application that uses more than one model, and knows why
@@ -62,6 +64,8 @@ Beyond these, planner-executor and specialist delegation patterns exist, and the
 - **Orchestration frameworks matured and multiplied.** They reduce boilerplate and add hidden control flow; teams that debug them well often end up with explicit code instead.
 - **Multi-agent designs are used more cautiously.** The enthusiasm of 2024–25 has given way to "one agent, several tools" for most tasks, with multi-agent reserved for genuinely separable work.
 - **The frontier models are close enough on ordinary tasks** that routing decisions increasingly turn on price, latency and context size rather than capability.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

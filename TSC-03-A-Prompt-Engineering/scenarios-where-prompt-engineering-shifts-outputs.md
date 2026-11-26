@@ -4,6 +4,8 @@ tsc: 3
 level: Advanced
 code: K1
 title: Scenarios where prompt engineering shifts outputs
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Scenarios where prompt engineering shifts outputs
@@ -54,11 +56,13 @@ Four where it does not: **deterministic work** (arithmetic, date maths, counting
 
 ### What is current as of November 2026
 
-The frontier models of late 2026 — OpenAI's GPT-6 generation (Astra, Sol, Luna, 6.1 Sol, 6.1 Terra, the security-tuned Cyber), Anthropic's Claude 5.5 line, Google's Gemini 3.1 Pro and Gemini 4 Argon — tolerate a vague brief far better than their 2023 ancestors. Three consequences:
+Current frontier models tolerate a vague brief far better than their 2023 ancestors. Three consequences:
 
 - **The weight moved from phrasing to supply.** When the model can infer a reasonable structure, clever wording buys less and the right source, example and checkable format buy more.
 - **Planning models reward a goal, not a script.** Telling a model that plans its own steps to "think step by step, then step 1, step 2…" adds latency and can degrade output.
 - **The ceiling relative to other tools dropped.** Retrieval and tool calling became ordinary product features, so more tasks now belong on the "route it elsewhere" side. The scenario test matters more, not less.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

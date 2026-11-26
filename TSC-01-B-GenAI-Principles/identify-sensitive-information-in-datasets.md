@@ -4,6 +4,8 @@ tsc: 1
 level: Basic
 code: A3
 title: Identify sensitive information in datasets
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Identify sensitive information in datasets
@@ -62,6 +64,8 @@ Then the part that separates competence from compliance: **the dataset is not th
 - **The leak moved to free text and attachments.** As column-level tooling matured, most real incidents moved to the parts no tool reads: a pasted PDF, a screenshot, a complaint paragraph, a filename.
 - **Enterprise terms change the risk, not the obligation.** Regional processing and zero-retention options reduce exposure and do not convert personal data into anonymous data. The scan still has to happen.
 - **Agentic tools widened the surface.** A system that reads a shared drive and writes to a chat now scans, copies and transmits on its own. The scan must cover what the agent can reach, not only what the user attached.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

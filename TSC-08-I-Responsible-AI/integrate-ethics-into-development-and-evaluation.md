@@ -4,6 +4,8 @@ tsc: 8
 level: Intermediate
 code: A8
 title: Integrate ethics into development and evaluation
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Integrate ethics into development and evaluation
@@ -50,9 +52,11 @@ The third constraint is that evaluation must be specific. "Evaluate the model fo
 
 ### What is current as of November 2026
 
-The tooling has caught up with the idea. Evaluation harnesses run in CI, red-team suites are versioned alongside code, and providers publish evaluations you can use as a baseline — the GPT-6 generation (Astra, Sol, Luna, 6.1 Sol, 6.1 Terra, Cyber), Claude 5.5, Gemini 3.1 Pro and Gemini 4 Argon each ship capability and safety documentation with their releases.
+The tooling has caught up with the idea. Evaluation harnesses run in CI, red-team suites are versioned alongside code, and providers publish evaluations you can use as a baseline — current frontier models each ship capability and safety documentation with their releases.
 
 The new gap is agentic change management. An agent's behaviour depends on its tool permissions and its prompt as much as its weights, so a permissions change is a model change and should re-open the gate. Most pipelines do not track that yet, and the omission is where incidents will come from. Model version pinning — knowing exactly which version is live and refusing a silent upgrade — is the cheapest control available and the one most often missing.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

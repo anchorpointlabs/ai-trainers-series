@@ -4,6 +4,8 @@ tsc: 6
 level: Advanced
 code: A5
 title: "Advancing the field: how application work becomes research"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Advancing the field: how application work becomes research
@@ -67,6 +69,8 @@ In application work the artefact *is* the contribution. A pattern described in p
 - **The half-life is short.** Findings about specific models expire in months; findings about architecture and evaluation method last years. Frame contributions to survive model churn.
 - **Benchmark theatre is recognised and discounted.** Scores on public benchmarks that do not predict task behaviour are increasingly called out, which raises the value of narrow, honest, task-level studies.
 - **Industry labs publish**, so the bar for novelty is set by teams with production data — and the credible niche for most organisations is the specific, the negative and the reproducible.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

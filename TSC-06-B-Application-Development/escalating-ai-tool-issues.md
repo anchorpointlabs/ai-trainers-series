@@ -4,6 +4,8 @@ tsc: 6
 level: Basic
 code: A3
 title: "Escalating an AI problem so that someone can actually fix it"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Escalating an AI problem so that someone can actually fix it
@@ -52,6 +54,8 @@ And a third: the report is an audit trail. When a data incident is reviewed late
 - **The admin console is the first stop.** Enterprise deployments expose usage, error rates, audit logs and quota in one place; a good report quotes the console, not just the user's experience.
 - **Vendors ship support assistants that are confidently wrong.** They resolve many tier-one questions and invent features that do not exist. Verify before quoting one into a ticket.
 - **Deprecation notices arrive by email and need an owner.** A very common escalation in 2026 is an app that broke because a pinned model snapshot was retired on a schedule nobody read.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

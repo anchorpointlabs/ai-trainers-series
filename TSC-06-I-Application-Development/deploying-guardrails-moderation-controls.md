@@ -4,6 +4,8 @@ tsc: 6
 level: Intermediate
 code: A4
 title: Deploying guardrails and moderation on the way in and the way out
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Deploying guardrails and moderation on the way in and the way out
@@ -56,6 +58,8 @@ A guardrail that only blocks will over-block, and an over-blocking guardrail get
 ### What is current as of November 2026
 
 Deploying a guardrail is now an integration task rather than a research task. Moderation is a service call: provider endpoints and cloud content-safety APIs cover hate, harassment, self-harm, sexual content and violence out of the box, with per-category scores, cheap enough to run on every request. Guardrail frameworks are standard middleware — declarative policy in front of the model call, handling input rails, output rails and tool-call rails. And prompt-injection detection is treated as necessary and insufficient: classifiers catch the crude attempts, while least privilege and human confirmation catch the rest.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

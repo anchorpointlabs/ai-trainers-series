@@ -4,6 +4,8 @@ tsc: 2
 level: Basic
 code: A8
 title: Compare designs and outputs
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Compare designs and outputs
@@ -51,7 +53,9 @@ The method is simple enough to teach in three minutes and hard enough to practis
 
 ### What is current as of November 2026
 
-Comparison has become easier to do at volume and easier to do badly. The late-2026 assistants — GPT-6-generation models, Claude 5.5, Gemini 3.1 Pro and Gemini 4 Argon — will happily generate five variants of a notice in one turn, which tempts learners to skip the checks and pick by feel. The useful 2026 discipline is the opposite: fewer variants, more runs per variant. It has also become normal to ask a model to critique two outputs against a stated rubric, which is a legitimate aid — provided the learner writes the rubric and still reads both outputs. A model grading its own writing tends to agree with itself.
+Comparison has become easier to do at volume and easier to do badly. Current frontier models will happily generate five variants of a notice in one turn, which tempts learners to skip the checks and pick by feel. The useful 2026 discipline is the opposite: fewer variants, more runs per variant. It has also become normal to ask a model to critique two outputs against a stated rubric, which is a legitimate aid — provided the learner writes the rubric and still reads both outputs. A model grading its own writing tends to agree with itself.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

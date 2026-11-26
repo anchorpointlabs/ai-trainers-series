@@ -4,6 +4,8 @@ tsc: 3
 level: Basic
 code: K7
 title: Prompt guardrails: what a sentence can fence off, and what it cannot
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Prompt guardrails: what a sentence can fence off, and what it cannot
@@ -62,6 +64,8 @@ This is the practitioner-level view of `TSC2-Basic-K4` (Prompt Design); see that
 Guardrailing has moved up a layer. Structured output modes now enforce a schema instead of requesting one, provider-side moderation endpoints are ordinary configuration rather than a research project, and the major platforms expose system-level instructions that outrank anything a user types. The practical consequence is that the prompt's job has narrowed to judgement and content, while format and refusal behaviour are increasingly enforced by the platform.
 
 The counter-shift is agentic use. Once a model can call tools, the interesting guardrail is not what it says but what it may do, and every serious deployment in the current generation pairs a prompt with permissions, an approval step for irreversible actions, and a log.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

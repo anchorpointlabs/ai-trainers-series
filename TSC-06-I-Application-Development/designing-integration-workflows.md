@@ -4,6 +4,8 @@ tsc: 6
 level: Intermediate
 code: A2
 title: Three integration workflows: batch, API, and multi-model orchestration
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Three integration workflows: batch, API, and multi-model orchestration
@@ -58,6 +60,8 @@ Choosing the shape is the design act. Learners routinely build interactive workf
 ### What is current as of November 2026
 
 The three shapes have not changed; the tooling around them has. Batch endpoints are now a first-class product on the major providers, priced well below synchronous calls, so "does this have to be now" has become a budget question with a clear answer. Orchestration moved from chained calls to state machines that declare stages, transitions and retry policy, because a plain chain cannot express "validate, and if it fails go back to retrieval". And tool protocols standardised the far side: MCP means the system a workflow talks to is often a tool server rather than bespoke code, which reduces glue and moves the failure modes into the tool layer.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

@@ -4,6 +4,8 @@ tsc: 2
 level: Basic
 code: K7
 title: Concept of prompt design
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Concept of prompt design
@@ -48,7 +50,9 @@ This bullet is the concept; `TSC2-Basic-K2` is the mechanism underneath it (why 
 
 The chat box has become a workspace. Assistants now carry saved instructions, attached files and per-project memory, so a prompt can contain background the learner never typed today — a standing brief running underneath every request. Two consequences: "what is in the prompt" is no longer fully visible to the person typing, and the skill has shifted slightly from composing a message to maintaining a briefing document.
 
-The frontier models of late 2026 — OpenAI's GPT-6 generation, Anthropic's Claude 5.5 line, Google's Gemini 3.1 Pro and Gemini 4 Argon — differ less in whether they can follow a clear instruction than in how literally they read an ambiguous one, how much they pad, and how much context they hold. That is the argument for teaching design over tool lore: a well-formed brief travels between them; a bag of phrase-tricks does not.
+Current frontier models differ less in whether they can follow a clear instruction than in how literally they read an ambiguous one, how much they pad, and how much context they hold. That is the argument for teaching design over tool lore: a well-formed brief travels between them; a bag of phrase-tricks does not.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

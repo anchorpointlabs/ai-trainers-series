@@ -4,6 +4,8 @@ tsc: 7
 level: Advanced
 code: A7
 title: Independent research: how to run an experiment that means something
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Independent research: how to run an experiment that means something
@@ -55,6 +57,8 @@ The reason generative AI research is unusually error-prone is that the variance 
 ### What is current as of November 2026
 
 The publication norm has shifted toward artefact-first research: papers increasingly arrive with code, evaluation harnesses and data cards, and reviewers ask for contamination checks as a matter of course. Model-as-judge evaluation has made cheap large-scale comparison possible and introduced a new failure mode — judges that prefer the style of their own family of models — so judge validation is now part of a credible methods section. The frontier models of late 2026 are also strong enough that a small team's contribution is usually a domain, a dataset or an evaluation, not an architecture.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

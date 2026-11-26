@@ -4,6 +4,8 @@ tsc: 7
 level: Intermediate
 code: K1
 title: Four generative concepts that decide how you build a model
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Four generative concepts that decide how you build a model
@@ -43,9 +45,11 @@ Pre-training a frontier model costs more than most companies spend on software; 
 
 ### What is current as of November 2026
 
-- **Distillation is product strategy, not just compression.** The tiers inside one family — GPT-6 generation (Astra, Sol, Luna, 6.1 Sol, 6.1 Terra, Cyber), the Claude 5.5 line, Gemini 3.1 Pro and Gemini 4 Argon — behave like models trained to hit different cost points. Teams now distil a small student from a strong API model rather than fine-tune a mid-size open one.
+- **Distillation is product strategy, not just compression.** The tiers inside one family behave like models trained to hit different cost points. Teams now distil a small student from a strong API model rather than fine-tune a mid-size open one.
 - **Self-supervision has not changed; the data mix has.** Curation and filtering are now the stated differentiator, exactly what this bullet implies downstream.
 - **Explainability moved from pictures to features and evals.** Sparse-autoencoder work and systematic red-teaming displaced attention heatmaps as the credible audit; AI Verify-style governance wants documented evaluation, not saliency.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

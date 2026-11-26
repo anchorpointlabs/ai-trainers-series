@@ -4,6 +4,8 @@ tsc: 8
 level: Basic
 code: K3
 title: Data anonymisation and de-identification
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Data anonymisation and de-identification
@@ -50,9 +52,11 @@ The reason this is hard, and the reason it belongs in a Responsible AI course ra
 
 Two shifts matter.
 
-First, the tools moved from add-ons to defaults. Enterprise tiers of the major assistants — the paid organisational products around GPT-6 generation models, Claude 5.5, Gemini 3.1 Pro and Gemini 4 Argon — increasingly offer automatic PII detection and redaction in the upload path, along with retention controls. That is good and it is not sufficient: a redactor that catches NRICs still misses the combination problem, and it does nothing about data you paste into a personal account.
+First, the tools moved from add-ons to defaults. Enterprise tiers of the major assistants — the paid organisational products around current frontier models — increasingly offer automatic PII detection and redaction in the upload path, along with retention controls. That is good and it is not sufficient: a redactor that catches NRICs still misses the combination problem, and it does nothing about data you paste into a personal account.
 
 Second, the regulatory conversation has shifted from "is it anonymous" to "can you show your work". PDPC guidance expects organisations to document how personal data is used in AI decision systems, which means the practical deliverable is no longer a claim but a record: what was removed, what was generalised, what key exists, who holds it, and when it was destroyed. Model and system cards are the vendor-side version of the same discipline.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

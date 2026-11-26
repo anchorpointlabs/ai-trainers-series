@@ -4,6 +4,8 @@ tsc: 1
 level: Intermediate
 code: A5
 title: "Who carries the cost: ethical implications and the societal impact of generated content"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Who carries the cost: ethical implications and the societal impact of generated content
@@ -60,6 +62,8 @@ Then there is a fifth, quieter cost: **who is served well**. A model fluent in s
 Provenance labelling is arriving in cameras and platforms but remains inconsistent, so "looks real" is still not evidence. Voice and video synthesis at consumer price points has made impersonation a routine fraud vector, and the practical countermeasure in most organisations is procedural — a callback, a shared phrase, a second channel — not a detector.
 
 Agentic systems have moved the ethical question from content to action: a model that books, pays or files on your behalf raises authorisation and liability questions that no content policy covers. And regulators have converged on the same expectation across sectors — disclosure, human accountability and documented testing — while differing on detail, which is why sector guidance matters more than general principle.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

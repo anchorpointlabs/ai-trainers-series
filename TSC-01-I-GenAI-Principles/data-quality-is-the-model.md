@@ -4,6 +4,8 @@ tsc: 1
 level: Intermediate
 code: K5
 title: "Data quality is the model: preprocessing, pipeline and inherited bias"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Data quality is the model: preprocessing, pipeline and inherited bias
@@ -52,6 +54,8 @@ For an Intermediate practitioner the useful discipline is knowing **which stage 
 **Synthetic data** is now ordinary in post-training and increasingly present in pre-training, which introduces a question practitioners must discuss honestly: training on model output can narrow the distribution over successive generations. The risk is real and debated in magnitude — quote no figure.
 
 **Licensing has become operational.** Content deals and opt-out mechanisms mean two vendors' models are no longer equivalent on provenance, and procurement now asks. And the **enterprise centre of gravity moved from the model to the data layer**: retrieval, document hygiene and evaluation sets are where the work now sits. Fine-tuning a small model on a few thousand well-curated examples is a routine first experiment for a narrow task, because curated data beats a bigger generic model on a house format.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

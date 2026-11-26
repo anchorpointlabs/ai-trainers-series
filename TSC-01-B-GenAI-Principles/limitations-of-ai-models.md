@@ -4,6 +4,8 @@ tsc: 1
 level: Basic
 code: K6
 title: Limitations of AI models
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Limitations of AI models
@@ -58,6 +60,8 @@ So the limitations are not bugs awaiting a patch. They are the shape of the inst
 - **Closed-world grounding reduced the problem where it is used.** Products that answer strictly from a supplied document set — Google's NotebookLM is the clearest example — refuse when the answer is not in the sources. That trades coverage for verifiability, and it is worth teaching as a design choice.
 - **Agents added a failure class that did not exist before.** A wrong sentence is embarrassing; a wrong write action — a sent email, an updated record, a merged pull request — is a state change. That is why the agentic governance framework exists.
 - **Reasoning modes improved multi-step logic, not freshness or truth.** A model that shows its working is easier to audit and still capable of building a flawless argument on a fabricated premise.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

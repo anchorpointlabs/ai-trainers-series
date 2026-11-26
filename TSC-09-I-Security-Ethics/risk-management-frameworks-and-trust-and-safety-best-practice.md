@@ -4,6 +4,8 @@ tsc: 9
 level: Intermediate
 code: K4
 title: Risk management frameworks and trust-and-safety best practice
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Risk management frameworks and trust-and-safety best practice
@@ -50,10 +52,12 @@ For Singapore organisations the reference points are the PDPA obligations on pro
 
 ### What is current as of November 2026
 
-Two forces have pushed frameworks from optional to expected. Procurement now asks suppliers for AI risk documentation, and regulators increasingly expect demonstrable governance rather than stated intent. Meanwhile the technical object being governed keeps moving: the late-2026 frontier — OpenAI's GPT-6 generation (Astra, Sol, Luna, 6.1 Sol, 6.1 Terra and the security-tuned Cyber), Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and Gemini 4 Argon — ships as a continuously updated service, so "the system changed" is routine rather than exceptional.
+Two forces have pushed frameworks from optional to expected. Procurement now asks suppliers for AI risk documentation, and regulators increasingly expect demonstrable governance rather than stated intent. Meanwhile the technical object being governed keeps moving: current frontier models ship as a continuously updated service, so "the system changed" is routine rather than exceptional.
 
 - **Frameworks now need a version-change clause.** A quarterly review is too slow if the model moves monthly.
 - **Agentic systems have made tiering the central skill.** The same model can sit in tier one or tier three depending on what it is wired to.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

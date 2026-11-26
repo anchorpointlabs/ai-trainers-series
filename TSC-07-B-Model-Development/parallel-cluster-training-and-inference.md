@@ -4,6 +4,8 @@ tsc: 7
 level: Basic
 code: K10
 title: "Parallel training and inference: why one GPU is never enough"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Parallel training and inference: why one GPU is never enough
@@ -58,6 +60,8 @@ Four strategies cover almost everything:
 The tooling has matured to the point where **most practitioners never write a distributed training loop**. `accelerate`, `torchrun` and the `Trainer`'s built-in FSDP support handle sharding, and managed platforms sell multi-node jobs by the hour. What remains genuinely difficult is the economics: interconnect bandwidth, the cost of idle devices during a pipeline bubble, and the fact that a badly configured multi-node job can be slower than a single-device one.
 
 On the inference side, the shift is decisive. Serving a frontier-scale open model now means a dedicated inference engine with paged attention and continuous batching, not a naive loop over requests. Teams that skip this step discover that their model is fine and their throughput is not.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

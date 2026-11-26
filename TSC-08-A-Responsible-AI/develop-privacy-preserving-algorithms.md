@@ -4,6 +4,8 @@ tsc: 8
 level: Advanced
 code: A4
 title: Develop privacy-preserving algorithms
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Develop privacy-preserving algorithms
@@ -54,7 +56,9 @@ Each technique answers a different question, and trainers should keep them separ
 
 ### What is current as of November 2026
 
-Privacy engineering has become a procurement line item rather than a research topic. Enterprise agreements with the major providers — OpenAI's GPT-6 generation, Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and 4 Argon — now turn on zero data retention, regional processing and whether prompts train anything. Confidential computing is available on mainstream cloud, which makes "compute on encrypted data" a configuration rather than a research project. The live pressure is agentic: an assistant with tool access can move data to places the privacy review never saw, which is why input redaction and permission scoping matter more than the model's own memory settings.
+Privacy engineering has become a procurement line item rather than a research topic. Enterprise agreements with the major providers now turn on zero data retention, regional processing and whether prompts train anything. Confidential computing is available on mainstream cloud, which makes "compute on encrypted data" a configuration rather than a research project. The live pressure is agentic: an assistant with tool access can move data to places the privacy review never saw, which is why input redaction and permission scoping matter more than the model's own memory settings.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

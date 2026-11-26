@@ -4,6 +4,8 @@ tsc: 6
 level: Advanced
 code: K4
 title: "Scripting and automation: making the machine do the first hour of debugging"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Scripting and automation: making the machine do the first hour of debugging
@@ -60,6 +62,8 @@ Each loop has a different tool. Detection needs probes and thresholds. Isolation
 - **Evaluation in CI has become normal practice** for teams shipping AI features weekly, typically a small suite rather than a large benchmark.
 - **Cost anomaly alerts are as common as latency alerts**, because token spend is now a variable cost that can multiply within an hour.
 - **Prompt and model versioning are prerequisites**, not nice-to-haves: without a version identifier in the log, no trace can be reproduced.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

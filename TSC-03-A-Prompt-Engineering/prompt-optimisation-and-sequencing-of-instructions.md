@@ -4,6 +4,8 @@ tsc: 3
 level: Advanced
 code: K3
 title: Prompt optimisation and sequencing of instructions
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Prompt optimisation and sequencing of instructions
@@ -48,7 +50,9 @@ Bullet 2 (`TSC3-Advanced-K2`) supplies the levers being sequenced — branches, 
 
 ### What is current as of November 2026
 
-Three things have changed the practice. **Prompt caching** made static-prefix-first ordering a line item: a stable rule block at the top of a repeated prompt is now materially cheaper, not just better attended. **Structured output modes** moved format from described to enforced, so fewer instructions are needed at the bottom and the schema does the work. And **prompt drift** became ordinary: providers update models behind aliases, so a prompt optimised in March can quietly degrade. The late-2026 frontier families — OpenAI's GPT-6 generation, Anthropic's Claude 5.5 line, Google's Gemini 3.1 Pro and Gemini 4 Argon — each respond better to their own markup habits, so an ordering tuned on one family should be re-checked, not assumed, on another. Pin the dated model version alongside the prompt version.
+Three things have changed the practice. **Prompt caching** made static-prefix-first ordering a line item: a stable rule block at the top of a repeated prompt is now materially cheaper, not just better attended. **Structured output modes** moved format from described to enforced, so fewer instructions are needed at the bottom and the schema does the work. And **prompt drift** became ordinary: providers update models behind aliases, so a prompt optimised in March can quietly degrade. Current frontier families each respond better to their own markup habits, so an ordering tuned on one family should be re-checked, not assumed, on another. Pin the dated model version alongside the prompt version.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

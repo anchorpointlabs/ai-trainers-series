@@ -4,6 +4,8 @@ tsc: 8
 level: Basic
 code: K2
 title: Responsible AI principles — IP, privacy, environment
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Responsible AI principles — IP, privacy, environment
@@ -46,11 +48,13 @@ They belong together because all three live in the same five seconds before a pe
 
 ### What is current as of November 2026
 
-The three checks have converged into procurement questions. Enterprise tiers of the major assistants — the paid organisational products around GPT-6 generation models, Claude 5.5, Gemini 3.1 Pro and Gemini 4 Argon — now commonly offer zero-retention terms, administrative controls and audit logs, which means the IP and privacy answer is often "use the enterprise endpoint, not the free one". That is a purchase decision, not a training one, and trainers should say so rather than imply discipline alone will fix it.
+The three checks have converged into procurement questions. Enterprise tiers of the major assistants — the paid organisational products around current frontier models — now commonly offer zero-retention terms, administrative controls and audit logs, which means the IP and privacy answer is often "use the enterprise endpoint, not the free one". That is a purchase decision, not a training one, and trainers should say so rather than imply discipline alone will fix it.
 
 On the environment, the industry's own answer has been efficiency: smaller distilled models and aggressive caching mean the marginal cost of a routine task has fallen sharply, while the top of the range has grown more expensive to run. The practical guidance for learners has not changed and will not: match the model to the task, and batch rather than repeat.
 
 On IP, the direction of travel is documentation and provenance rather than new ownership rules. Model and system cards, training-data summaries and content-provenance metadata (the C2PA standard) are becoming standard vendor disclosures — which means a buyer can now ask questions that were unanswerable two years ago.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

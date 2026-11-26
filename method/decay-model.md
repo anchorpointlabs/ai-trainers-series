@@ -78,7 +78,7 @@ If you cannot answer, you are probably writing a **living** entry disguised as a
 
 | Cadence | What | Time |
 |---|---|---|
-| **Monthly** | Update the Living Register: current models, versions, prices, deprecations, one line of "what changed". Re-date every LIV entry you touched. | 30–45 min |
+| **Monthly** | Run `python scripts/living.py stale`. Update the [Living Register](../concepts/living/register.csv): current models, versions, prices, deprecations. Move superseded rows to the [archive](../concepts/living/archive.md) with the date. Re-stamp every entry you touched. | 30–45 min |
 | **Quarterly** | Re-check TEC field tables against vendor documentation; re-read LIV entries for anything now wrong; archive superseded claims rather than deleting them. | 2 hours |
 | **Annually** | Re-read the DUR entries for mechanism drift — e.g. reasoning models made parts of the Chain-of-Thought lesson obsolete, and that had to be re-taught rather than deleted. | half a day |
 | **On occurrence** | Write the EVT entry within a week, while the sources are still live and the misreading is still circulating. | 1–2 hours |
@@ -128,4 +128,4 @@ The old Volume 1 IDs ([Tokens and tokenisation](../concepts/durable/tokens-and-t
 - **Technique coverage is one modality.** Video has a table; image, audio and structured output do not.
 - **Living coverage is one family.** There is a ChatGPT/Claude/Gemini lineage entry and a register, but nothing yet on pricing economics or on what is available in Singapore specifically.
 - **Events are retrospective.** There is no forward watch — no mechanism for noticing the next Black October while it is happening, only for writing it up afterwards.
-- **No archive discipline yet.** When a LIV entry is superseded, the old claim should move to an archive file rather than vanish. That file does not exist.
+- **Archive discipline — in place.** Superseded register rows move to [the archive](../concepts/living/archive.md) with the date they stopped being true.

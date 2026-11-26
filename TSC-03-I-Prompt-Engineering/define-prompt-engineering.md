@@ -4,6 +4,8 @@ tsc: 3
 level: Intermediate
 code: A1
 title: Define prompt engineering
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Define prompt engineering
@@ -53,9 +55,11 @@ That threshold matters because it changes the deliverable. A designed prompt is 
 
 The phrase has been declared dead repeatedly since the first wave of chat models, and remains in job descriptions, because the work moved rather than vanished. In late 2026 it means three things:
 
-- **Specification plus tests.** With the GPT-6 generation, Claude 5.5, Gemini 3.1 Pro and Gemini 4 Argon following explicit instructions and schemas closely, the marginal value of clever phrasing has fallen and the marginal value of a written contract and an evaluation set has risen.
+- **Specification plus tests.** With current frontier models following explicit instructions and schemas closely, the marginal value of clever phrasing has fallen and the marginal value of a written contract and an evaluation set has risen.
 - **System prompts are shipped products.** A support assistant's system prompt is a maintained artefact with an owner, a changelog and a regression suite — closer to configuration than to copywriting.
 - **Context, tools and permissions are the hard part.** With agents, the prompt now states what the model may do as well as what it may say, and that decision cannot be delegated to a sentence.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

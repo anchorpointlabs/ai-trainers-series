@@ -4,6 +4,8 @@ tsc: 5
 level: Basic
 code: K5
 title: Human perception and judgment: the evaluator is the weakest instrument
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Human perception and judgment: the evaluator is the weakest instrument
@@ -44,6 +46,8 @@ This bullet explains *why* `TSC5-Basic-K3` (qualitative evaluation) has to be st
 ### What is current as of November 2026
 
 Two developments sharpen this. First, **LLM-as-a-judge has scaled the problem** — organisations now grade thousands of outputs with a model instead of a person, and that judge has its own versions of every human bias (verbosity bias, self-preference, order bias). The principles of human judgement did not go away; they migrated into the judge. Second, **the fluency gap has closed** — late-2026 models are all fluent, so fluency bias can no longer separate good from bad at all, which makes *trained* human judgement more valuable, not less.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

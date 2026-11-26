@@ -4,6 +4,8 @@ tsc: 6
 level: Basic
 code: A4
 title: "Performance troubleshooting: slow, wrong and expensive are three different bugs"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Performance troubleshooting: slow, wrong and expensive are three different bugs
@@ -52,6 +54,8 @@ The other discipline is statistical honesty. A single slow request is an anecdot
 - **Reasoning modes made latency spiky.** Current flagships think before answering, so a request that took a second in chat mode can take several times longer with no code change. Spikiness, not average slowness, is the new normal.
 - **Prompt caching changed the cost model.** For apps with a long, stable system prompt, caching removed most of the repeat cost — provided the prompt never changes.
 - **Latency varies by region**, and a deployment serving Singapore users from a distant region pays a per-request penalty no prompt engineering fixes.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

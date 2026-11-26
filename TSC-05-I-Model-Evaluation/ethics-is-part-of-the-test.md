@@ -4,6 +4,8 @@ tsc: 5
 level: Intermediate
 code: K8
 title: "Ethics is part of the test: the frameworks that constrain evaluation"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Ethics is part of the test: the frameworks that constrain evaluation
@@ -52,6 +54,8 @@ The frameworks are also not interchangeable. Some are principles (OECD, UNESCO) 
 ### What is current as of November 2026
 
 Singapore's posture has settled on "test it, document it, disclose it": the Generative AI Governance Framework is used by enterprises as a practical checklist, AI Verify provides a shared testing vocabulary, and procurement increasingly asks for evidence rather than assurance. Globally the picture diverges — the EU's tiered obligations, sectoral US rules and labelling requirements in several Asian markets mean "compliant" is a jurisdiction-specific claim, not a property of a system. Within evaluation practice the visible shift is that disclosed limitations have become a trust signal: vendors who publish disaggregated failure modes are treated as more credible than those who publish only strengths.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

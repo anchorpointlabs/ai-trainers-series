@@ -4,6 +4,8 @@ tsc: 5
 level: Advanced
 code: A2
 title: "One framework, many inputs: integrating text, image, audio and structured evidence"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # One framework, many inputs: integrating text, image, audio and structured evidence
@@ -56,6 +58,8 @@ Most multimodal evaluations are several evaluations stapled together: an image s
 ### What is current as of November 2026
 
 Natively multimodal models collapsed the pipeline — one call takes a PDF, a photo and a recording — which removed plumbing and created an attribution problem: you can no longer blame the transcription step, because there is not one you control. The compensating practice is to evaluate on the *join*: given this photo and this complaint, is the answer right, and can you tell which input it ignored. Long context has made whole-document and whole-call evaluation practical, which raises the bar — a system that reads the whole file has no excuse for missing page nine.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

@@ -4,6 +4,8 @@ tsc: 6
 level: Advanced
 code: A6
 title: "Automating troubleshooting with your own scripts and tools"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Automating troubleshooting with your own scripts and tools
@@ -62,6 +64,8 @@ That gives a three-part shape to any troubleshooting tool:
 - **Agentic on-call assistants exist and are used with supervision.** They read dashboards, summarise an incident and propose a runbook step; they do not hold the pager alone.
 - **Cost anomaly detection became standard**, because a looping agent can multiply spend within an hour.
 - **Self-healing is bounded by policy**, typically restart, fail over and shed load — actions with reversible effects.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

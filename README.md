@@ -24,6 +24,7 @@ thing, not just read the slide.
 | [TSC #9 · Security & Ethics](TSC-09-B-Security-Ethics/README.md) | B (8) · I (10) · A (12) — complete |
 | [Tools](Tools/) | [ChatGPT](Tools/OpenAI/ChatGPT.md) · [Claude](Tools/Anthropic/Claude.md) · [Gemini](Tools/Google/Gemini.md) · [Copilot](Tools/Microsoft/Copilot.md) · [Grok](Tools/xAI/Grok.md) · [more…](Tools/) — 11 living deep-dives |
 | [concepts](concepts/) | Cross-cutting mechanisms, by decay tier |
+| [Living Register](concepts/living/register.csv) | Current models, versions, prices — checked monthly, every row sourced to the vendor |
 | [method](method/) | Decay model · entry template · naming convention |
 
 ## Naming convention

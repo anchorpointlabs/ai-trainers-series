@@ -4,6 +4,8 @@ tsc: 7
 level: Advanced
 code: K11
 title: Alignment by preference: how RLHF and RLAIF actually change a model
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Alignment by preference: how RLHF and RLAIF actually change a model
@@ -49,7 +51,9 @@ The critical insight is that the reward model is a *proxy*, and optimisation is 
 
 ### What is current as of November 2026
 
-Preference tuning has become routine rather than exotic: open tooling for DPO-style training and for RLAIF with rubric-based judges means small teams now run alignment passes on domain data. The frontier labs' late-2026 releases — the GPT-6 generation, Claude 5.5, Gemini 3.1 Pro and 4 Argon — describe their differences largely in terms of behaviour under long, tool-using tasks, which is the fingerprint of preference and rubric tuning rather than raw capability. The live argument is how much of the annotator's job can be given to a judge model without laundering that model's preferences into the product.
+Preference tuning has become routine rather than exotic: open tooling for DPO-style training and for RLAIF with rubric-based judges means small teams now run alignment passes on domain data. Current frontier models describe their differences largely in terms of behaviour under long, tool-using tasks, which is the fingerprint of preference and rubric tuning rather than raw capability. The live argument is how much of the annotator's job can be given to a judge model without laundering that model's preferences into the product.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

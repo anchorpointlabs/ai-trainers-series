@@ -4,6 +4,8 @@ tsc: 9
 level: Intermediate
 code: A6
 title: Monitor AI systems through the lifecycle
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Monitor AI systems through the lifecycle
@@ -60,10 +62,12 @@ With those, most questions become answerable: was it abused, did the guardrail o
 
 ### What is current as of November 2026
 
-Continuous model updates have made monitoring a version-management problem as much as a security one. The late-2026 frontier — OpenAI's GPT-6 generation (Astra, Sol, Luna, 6.1 Sol, 6.1 Terra and the security-tuned Cyber), Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and Gemini 4 Argon — is delivered as a service that changes under you, and agentic deployments mean the audit trail has to cover actions.
+Continuous model updates have made monitoring a version-management problem as much as a security one. Current frontier models are delivered as a service that changes under you, and agentic deployments mean the audit trail has to cover actions.
 
 - **Pin and replay.** Where the vendor allows a pinned version, pin it, and replay the test set before moving.
 - **Watch actions, not just answers.** The costliest post-launch failure in an agent is an authorisation, not a paragraph.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

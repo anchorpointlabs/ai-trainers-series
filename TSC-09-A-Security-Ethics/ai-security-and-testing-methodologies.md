@@ -4,6 +4,8 @@ tsc: 9
 level: Advanced
 code: K1
 title: AI security and testing methodologies
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # AI security and testing methodologies
@@ -48,11 +50,13 @@ For the learner the shift is from activity to evidence. "We ran a red team" is a
 
 ### What is current as of November 2026
 
-Better models have not solved this. Instruction-hierarchy training in the current frontier line — OpenAI's GPT-6 generation, Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and Gemini 4 Argon — reduces how often a model obeys an embedded instruction, but the vulnerability class stays architectural, so containment is still the control that holds. Three shifts matter for teaching:
+Better models have not solved this. Instruction-hierarchy training in current frontier models reduces how often a model obeys an embedded instruction, but the vulnerability class stays architectural, so containment is still the control that holds. Three shifts matter for teaching:
 
 - **Agency is the default.** Tool use and agent frameworks moved from demo to product, so the catalogue now has to cover multi-step behaviour — a tool chain, a browser session, a scheduled task — and not just one reply.
 - **Testing tooling is a market.** Automated attack suites and evaluation harnesses are now commercial products and open-source projects, and IMDA's Project Moonshot offers a Singapore-contextualised option. That raises the floor, and tempts teams to mistake tool output for assurance.
 - **Guardrails are layered and priced.** Classifier shields, structured-output enforcement and policy checks in the orchestration layer are standard, and each adds latency and cost, so a methodology budgets for them instead of assuming them free.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

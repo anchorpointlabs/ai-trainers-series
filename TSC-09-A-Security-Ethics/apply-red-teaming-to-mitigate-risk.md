@@ -4,6 +4,8 @@ tsc: 9
 level: Advanced
 code: A4
 title: Apply red teaming to mitigate risk
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Apply red teaming to mitigate risk
@@ -62,6 +64,8 @@ K4 supplies the finding; this bullet closes it. A1 stores the regression case. K
 - **Fix verification is a test problem.** Continuous attack suites in the pipeline are what turn "we fixed it" into "we know it still holds on this build".
 - **Model upgrades reopen findings.** A finding closed against one model version may reopen against the next, which is why the regression suite is pinned to versions rather than to dates.
 - **Disclosure expectations are rising.** Regulators and customers increasingly expect structured incident and vulnerability handling, not a quietly patched endpoint.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

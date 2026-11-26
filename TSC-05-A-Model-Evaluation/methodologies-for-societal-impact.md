@@ -4,6 +4,8 @@ tsc: 5
 level: Advanced
 code: A6
 title: "Measuring what leaks: methodologies for societal impact and ethical harm"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Measuring what leaks: methodologies for societal impact and ethical harm
@@ -52,6 +54,8 @@ A second distinction does most of the teaching work: **representational** harm (
 ### What is current as of November 2026
 
 Agentic systems widened the surface: an assistant that books, files and pays can produce allocative harm directly, not only through text. Evaluation is consequently moving from content audits to **action audits** — what the agent did, on whose behalf, with what authority, and who bore the cost of a wrong action. Assurance expectations have hardened too: buyers ask for disaggregated results and impact assessments, and a vendor reporting only an average is at a disadvantage in procurement. The methodological weak point is unchanged — measuring the effect on people who never touch the product.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

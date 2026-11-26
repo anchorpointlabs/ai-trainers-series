@@ -4,6 +4,8 @@ tsc: 7
 level: Advanced
 code: A1
 title: Inventing the method: solving tasks no model was built for
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Inventing the method: solving tasks no model was built for
@@ -54,7 +56,9 @@ A practical designer works backwards. Write down the failure, ask which of the f
 
 ### What is current as of November 2026
 
-Two primitives have become much stronger. First, reasoning-style inference means the model itself now performs internal search, so methods that used to need explicit sampling loops can be handled inside one call — but the verification step has become more important, not less, because confident internal reasoning is still unverified. Second, agent protocols have made tool-augmented methods routine, so a designer's edge has shifted from "can I call a tool" to "which tool is a trustworthy oracle". Frontier systems of late 2026 — the GPT-6 generation, Claude 5.5, Gemini 3.1 Pro and 4 Argon — are reliable enough at structured output that constraint-based methods now work in production rather than in demos.
+Two primitives have become much stronger. First, reasoning-style inference means the model itself now performs internal search, so methods that used to need explicit sampling loops can be handled inside one call — but the verification step has become more important, not less, because confident internal reasoning is still unverified. Second, agent protocols have made tool-augmented methods routine, so a designer's edge has shifted from "can I call a tool" to "which tool is a trustworthy oracle". Current frontier systems are reliable enough at structured output that constraint-based methods now work in production rather than in demos.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

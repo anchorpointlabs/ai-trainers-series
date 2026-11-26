@@ -4,6 +4,8 @@ tsc: 7
 level: Advanced
 code: A8
 title: Leading collaborative R&D: the operating system for multi-party research
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Leading collaborative R&D: the operating system for multi-party research
@@ -54,6 +56,8 @@ Four things determine whether a consortium produces anything:
 ### What is current as of November 2026
 
 Collaboration has shifted toward shared evaluation and shared data rather than shared model training: training a frontier model jointly is beyond most consortia, whereas building a domain benchmark, a data card and a reproducible harness is achievable and genuinely useful. Open-weight releases have made it possible for a university partner to fine-tune and evaluate a model locally, which changes the shape of partnerships — the lab contributes method and evaluation, the industry partner contributes data and deployment. Expect due diligence on a partner's evaluation practices as much as on its data.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

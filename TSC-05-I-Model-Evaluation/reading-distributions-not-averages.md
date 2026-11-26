@@ -4,6 +4,8 @@ tsc: 5
 level: Intermediate
 code: A2
 title: "Reading distributions, not averages: analysing model outputs"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Reading distributions, not averages: analysing model outputs
@@ -52,6 +54,8 @@ Distributional analysis is therefore mostly a matter of asking better questions 
 ### What is current as of November 2026
 
 Long-context behaviour remains an active area: quality does not degrade uniformly with input length, and the drop is often concentrated in material placed in the middle of a long document — which is a distributional fact you can only see by plotting quality against where the relevant passage sat. Multimodal evaluation has made the same analysis routine for image and video output, with per-category and per-style breakdowns. In production, output distributions have become a monitoring signal in their own right: a shift in the shape of generated text is often the first evidence that an upstream data or prompt change has gone wrong.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

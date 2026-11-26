@@ -4,6 +4,8 @@ tsc: 3
 level: Basic
 code: A2
 title: Describing a prompt technique so a colleague can actually use it
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Describing a prompt technique so a colleague can actually use it
@@ -58,6 +60,8 @@ This is the practitioner-level view of `TSC2-Basic-A1` (Prompt Design); see that
 The technique vocabulary has thinned. Several named techniques from the 2023 era — elaborate role stacks, "let's think step by step" as a magic phrase, prompt-length tricks — are now either built into reasoning models or simply ineffective, and cards describing them mislead. What has strengthened is the description of *structure*: labelled input blocks, explicit rules, schemas, and the separation of system-level instruction from user-level task.
 
 The practical refresh for any team library: delete the cards for techniques that no longer change output, and add one card for the thing that now matters most — how to specify what the model may use as a source.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

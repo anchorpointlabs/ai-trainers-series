@@ -4,6 +4,8 @@ tsc: 6
 level: Intermediate
 code: A1
 title: Reading a GenAI error log: the four families of failure
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Reading a GenAI error log: the four families of failure
@@ -58,6 +60,8 @@ Four families cover nearly everything:
 ### What is current as of November 2026
 
 Log reading is easier and more necessary at once. Structured errors are standard — nearly every provider returns a typed error object with a machine-readable code, and OpenAI-compatible endpoints made the shapes similar enough for one handler to cover several vendors. Tracing tools now show the whole chain: each stage, its input, its tokens and its latency, so the skill has shifted from parsing text to reading a waterfall. And context windows grew, which removed some 400s and replaced them with a quality failure — attention diluted across 200,000 tokens of retrieved text — that carries no error code at all.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

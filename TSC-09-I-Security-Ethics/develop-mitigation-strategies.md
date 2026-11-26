@@ -4,6 +4,8 @@ tsc: 9
 level: Intermediate
 code: A1
 title: Develop mitigation strategies
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Develop mitigation strategies
@@ -52,10 +54,12 @@ And the third, which is organisational rather than technical: **residual risk ne
 
 ### What is current as of November 2026
 
-The cheap structural mitigations have become easier to implement, and therefore harder to justify skipping: identity from the session token, narrow tools, and approval gates are standard patterns in agent frameworks. The late-2026 frontier — OpenAI's GPT-6 generation (Astra, Sol, Luna, 6.1 Sol, 6.1 Terra and the security-tuned Cyber), Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and Gemini 4 Argon — also reduces the frequency of crude jailbreaks, which tempts teams to rely on model behaviour instead of architecture.
+The cheap structural mitigations have become easier to implement, and therefore harder to justify skipping: identity from the session token, narrow tools, and approval gates are standard patterns in agent frameworks. Current frontier models also reduce the frequency of crude jailbreaks, which tempts teams to rely on model behaviour instead of architecture.
 
 - **Model improvement is not a mitigation you control.** Treat it as a bonus, not a control on the register.
 - **Agent frameworks ship with permission models.** Use them; a tool with no identity parameter is now a design default, not a clever trick.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

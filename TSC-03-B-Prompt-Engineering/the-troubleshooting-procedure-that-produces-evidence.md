@@ -4,6 +4,8 @@ tsc: 3
 level: Basic
 code: A6
 title: The troubleshooting procedure that produces evidence, not guesses
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # The troubleshooting procedure that produces evidence, not guesses
@@ -61,6 +63,8 @@ This is the practitioner-level view of `TSC2-Basic-A4` (Prompt Design); see that
 Procedures have had to absorb two things that did not exist in earlier versions of this course. First, version churn: with model versions retired behind unchanged product names, "it worked yesterday" now has a default hypothesis, and the procedure should record the model version at the time of the last good run, not just at the time of failure.
 
 Second, agentic actions. When a tool can send, book, pay or delete, a failure is not only a wrong answer — it is a wrong effect. The procedure needs one extra question before any retry: *did anything already happen as a result of that output?* Retrying a draft costs nothing; retrying a completed action can double it.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

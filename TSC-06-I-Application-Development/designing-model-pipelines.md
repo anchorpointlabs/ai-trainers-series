@@ -4,6 +4,8 @@ tsc: 6
 level: Intermediate
 code: K5
 title: Designing a model pipeline: where each stage earns its place
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Designing a model pipeline: where each stage earns its place
@@ -54,6 +56,8 @@ The typical sequence runs ingest → normalise → chunk → retrieve → build 
 ### What is current as of November 2026
 
 Pipelines have become cheaper to build and harder to reason about. Graph-based orchestration — state machines that declare stages, transitions and retry policy — replaced ad-hoc chaining for anything with a branch, because a plain chain cannot express "validate, and if it fails go back to retrieval". Structured outputs made validation gates practical, so more stages are safe to automate. And observability became a product category: you now read a trace of every stage, token and latency rather than grepping application logs.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

@@ -4,6 +4,8 @@ tsc: 7
 level: Advanced
 code: A4
 title: Pre-processing at scale: pipelines, custom algorithms, distributed compute
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Pre-processing at scale: pipelines, custom algorithms, distributed compute
@@ -52,6 +54,8 @@ Three design decisions determine almost everything downstream.
 ### What is current as of November 2026
 
 Two shifts. First, GPU-accelerated dataframe and tokenisation libraries have moved the expensive stages — tokenising, embedding for dedupe, classifier scoring — onto accelerators, changing the economics of a re-run. Second, documentation of pre-training data mixtures has become a differentiator for the labs, and the practical lesson for everyone else is that dataset versioning and per-stage rejection logs are now expected engineering practice rather than good intentions.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

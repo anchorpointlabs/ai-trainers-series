@@ -4,6 +4,8 @@ tsc: 3
 level: Intermediate
 code: K6
 title: Prompt design, model behaviour, and output diversity
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Prompt design, model behaviour, and output diversity
@@ -56,11 +58,13 @@ The consequence for teaching: when output is inconsistent, look for the unstated
 
 ### What is current as of November 2026
 
-The dial has moved toward convergence. Reasoning tiers in the GPT-6 generation, Claude 5.5, Gemini 3.1 Pro and Gemini 4 Argon deliberate toward a single best answer, which is exactly what you want for analysis and exactly what you do not want for ideation. Practical consequences:
+The dial has moved toward convergence. Reasoning tiers in current frontier models deliberate toward a single best answer, which is exactly what you want for analysis and exactly what you do not want for ideation. Practical consequences:
 
 - **Pick the tier by the task.** Divergence wants the fast chat model; convergence wants the reasoning model. Using one for the other is the most common misconfiguration in 2026.
 - **Structured output forces convergence.** A schema is a set of closed dimensions, and it makes outputs consistent at the cost of variety. That is the right trade for extraction and the wrong one for drafting options.
 - **Sampling ranges are provider-specific.** Temperature scales are not comparable across families; a value that is "creative" on one model is "unhinged" on another. Teach the concept, not a universal number.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

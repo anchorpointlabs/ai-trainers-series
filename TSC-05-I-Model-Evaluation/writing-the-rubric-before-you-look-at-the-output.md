@@ -4,6 +4,8 @@ tsc: 5
 level: Intermediate
 code: K4
 title: "Writing the rubric before you look at the output: task-specific criteria"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Writing the rubric before you look at the output: task-specific criteria
@@ -54,6 +56,8 @@ A workable rubric has four parts: dimensions, weights, anchors, and a gate. Most
 ### What is current as of November 2026
 
 Rubrics have become executable. Because a judge model can be given the rubric as a policy document, the quality of the rubric is now the main lever on evaluation quality — a vague criterion produces a vague judge and a number that looks precise. Teams increasingly split criteria into what a script can assert (format, required fields, citation present, no banned phrases) and what needs judgement (tone, completeness, helpfulness), and run both. Published domain rubrics for support, summarisation and medical writing are now common starting points, and the good ones ship with anchors rather than dimensions alone.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

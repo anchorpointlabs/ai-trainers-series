@@ -4,6 +4,8 @@ tsc: 5
 level: Intermediate
 code: A1
 title: "Building a custom evaluation pipeline: from test set to decision"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Building a custom evaluation pipeline: from test set to decision
@@ -61,6 +63,8 @@ The reason to build rather than buy is not that vendors are bad — several are 
 ### What is current as of November 2026
 
 Evaluation has consolidated into observability products — tracing, datasets, judges and dashboards in one place — and open harnesses remain popular for teams that need control. The judge is now treated as a component with its own tests rather than a magic scorer. Agentic systems have stretched the shape of the pipeline: the unit is a trajectory with intermediate steps, so the store has to hold spans, not just messages, and the scorers have to ask whether the task completed rather than whether one reply was good. Cost per evaluation run has become a line item, which is why layered scorers (cheap first, expensive last) is now standard advice rather than an optimisation.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

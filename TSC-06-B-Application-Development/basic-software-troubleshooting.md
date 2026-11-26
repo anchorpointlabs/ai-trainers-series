@@ -4,6 +4,8 @@ tsc: 6
 level: Basic
 code: K5
 title: "Troubleshooting by procedure: read the error, find the doc, change one thing"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Troubleshooting by procedure: read the error, find the doc, change one thing
@@ -53,6 +55,8 @@ A second skill sits inside this bullet: reading documentation. Vendor docs are s
 
 - **The assistant is now step one.** Pasting a traceback with context into Claude, ChatGPT or Gemini resolves much of the routine case faster than documentation browsing — and regularly invents parameter names, error codes and documentation pages. Treat the answer as a hypothesis, never a citation.
 - **Documentation search moved into the editor.** Copilot, Cursor and Claude Code read the installed library's own source and docstrings, which is often more accurate than the vendor site for the version you actually have.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

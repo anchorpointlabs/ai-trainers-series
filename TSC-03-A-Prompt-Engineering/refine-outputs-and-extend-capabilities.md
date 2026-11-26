@@ -4,6 +4,8 @@ tsc: 3
 level: Advanced
 code: A5
 title: Refine outputs and extend capabilities
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Refine outputs and extend capabilities
@@ -53,8 +55,10 @@ Bullet 3 (`TSC3-Advanced-K3`) is the optimisation loop at prompt level; this bul
 ### What is current as of November 2026
 
 - **Extension became configuration.** Attaching a document set, a search index or an internal API to a prompt is now a product feature rather than an integration project, so the balance shifted: more problems are worth extending and fewer are worth another refinement pass.
-- **Structured output made stage handoffs cheap.** Where a schema is enforced, one stage's output can be another stage's input without parsing accidents — which is why multi-stage pipelines became ordinary practice with the late-2026 frontier models (GPT-6 generation, Claude 5.5, Gemini 3.1 Pro, Gemini 4 Argon).
+- **Structured output made stage handoffs cheap.** Where a schema is enforced, one stage's output can be another stage's input without parsing accidents — which is why multi-stage pipelines became ordinary practice with current frontier models.
 - **Cheap parallel calls made selection a refinement technique.** Generating three drafts and choosing is often faster than three sequential refinement passes, and it produces a better audit trail.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

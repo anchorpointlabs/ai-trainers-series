@@ -4,6 +4,8 @@ tsc: 7
 level: Intermediate
 code: K2
 title: Three architecture families and the hardware they actually need
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Three architecture families and the hardware they actually need
@@ -46,6 +48,8 @@ Every generative model learns a distribution and samples from it. The families d
 - **Diffusion and autoregression have converged in practice.** Image and video generation runs on diffusion transformers with flow-matching objectives; text runs on autoregressive transformers; unified multimodal models blur the line by tokenising everything.
 - **Quality is now won at inference, not architecture.** Distillation into few-step samplers moved the engineering problem from training a model to serving one cheaply.
 - **Capacity planning beats price comparison.** Accelerator generations turn over faster than procurement cycles, so teams reserve for a class of GPU and treat spot instances with resumable checkpoints as normal practice.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

@@ -4,6 +4,8 @@ tsc: 3
 level: Advanced
 code: A4
 title: Evaluate effectiveness across scenarios
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Evaluate effectiveness across scenarios
@@ -50,9 +52,11 @@ Bullet 10 (`A3`) supplies the check you carry between scenarios — without a fi
 
 ### What is current as of November 2026
 
-- **Register, not capability, is the usual break.** Late-2026 frontier models (GPT-6 generation, Claude 5.5, Gemini 3.1 Pro, Gemini 4 Argon) handle Singlish, code-switching and mixed-language input far better than earlier generations. What they still do not do is infer that you wanted an informal register for a WhatsApp message — you have to say so.
+- **Register, not capability, is the usual break.** Current frontier models handle Singlish, code-switching and mixed-language input far better than earlier generations. What they still do not do is infer that you wanted an informal register for a WhatsApp message — you have to say so.
 - **Long inputs became ordinary.** With very large context windows, a prompt built for a two-page enquiry is often asked to handle a forty-page submission. The failure mode moved from "does not fit" to "attends to the wrong part", which is a placement problem rather than a capacity one.
 - **Cross-model portability got worse, not better.** Families diverged in their markup preferences and reasoning behaviour, so "it worked on the other one" is now a hypothesis to test, not a fact to rely on.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

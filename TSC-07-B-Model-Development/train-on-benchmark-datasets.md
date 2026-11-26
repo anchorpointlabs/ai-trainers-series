@@ -4,6 +4,8 @@ tsc: 7
 level: Basic
 code: A4
 title: "Training on a benchmark dataset: the first honest run"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Training on a benchmark dataset: the first honest run
@@ -61,6 +63,8 @@ Steps 5 and 6 are where most learners stop early, and they are the steps that tu
 Benchmarks have become contested ground. Saturation is the norm — many classic text benchmarks are now close to solved by frontier models, so they no longer discriminate — and contamination is a live concern, since public test sets have leaked into training corpora for years. The practical response across the field has been a move toward harder, fresher, or private evaluation sets, and toward preference-based comparisons rather than absolute scores.
 
 For a Basic class this changes the framing but not the exercise. The benchmark is a *teaching track*, not a leaderboard entry. Use a small, well-documented dataset, run the full loop, and be explicit that a good number here proves the pipeline works — not that the model is good.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

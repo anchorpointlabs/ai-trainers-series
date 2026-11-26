@@ -4,6 +4,8 @@ tsc: 7
 level: Basic
 code: A3
 title: "Preparing a training set: clean it, shape it, split it, prove it"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Preparing a training set: clean it, shape it, split it, prove it
@@ -58,6 +60,8 @@ Splitting must also prevent **leakage**. If one customer's five support tickets 
 The tooling has consolidated around two layers: pandas or Polars for tabular manipulation, and the Hugging Face `datasets` library for anything that will be fed to a trainer. `datasets` handles streaming, caching and Arrow-backed storage, which matters once files exceed memory, and its `train_test_split` supports stratification and seeding directly.
 
 Two practical shifts. First, **near-duplicate detection is now a standard pipeline stage** rather than a research nicety, because contaminated splits are a known cause of inflated results. Second, **Polars has become a credible default for large files** where pandas is slow or memory-hungry, though the operations are the same in spirit. For a Basic class, pandas remains the right teaching tool — the concepts transfer directly.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

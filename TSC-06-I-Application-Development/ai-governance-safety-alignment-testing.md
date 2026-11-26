@@ -4,6 +4,8 @@ tsc: 6
 level: Intermediate
 code: K6
 title: AI governance you can run: testing applications for safety and alignment
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # AI governance you can run: testing applications for safety and alignment
@@ -55,6 +57,8 @@ The governance objects a learner should be able to name:
 ### What is current as of November 2026
 
 Governance has become concrete and testable. Assurance frameworks moved from principles to evidence — Singapore's AI Verify testing framework and its generative AI evaluation work normalised the idea that a vendor hands over test results, and buyers now ask for them. Providers publish system cards and refusal behaviour, so a team can test against a documented baseline. And regulation is horizontal and sector-specific at once: PDPA applies everywhere, while finance, healthcare and education add their own layer.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

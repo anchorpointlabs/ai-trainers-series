@@ -4,6 +4,8 @@ tsc: 6
 level: Intermediate
 code: A5
 title: When it breaks outside the model: resolving toolchain compatibility issues
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # When it breaks outside the model: resolving toolchain compatibility issues
@@ -59,6 +61,8 @@ The surfaces a GenAI developer actually meets:
 ### What is current as of November 2026
 
 Toolchain compatibility has become a bigger share of the work, not a smaller one. Assistant tooling is embedded everywhere — editors, CI platforms, issue trackers and cloud consoles — each with its own auth model and its own way of failing quietly, so the number of integration points per developer has gone up. Protocols reduced one class of problem: MCP-standardised tool connections mean "this assistant cannot see that system" now has a common shape and a common fix. Version churn remains the top cause, because the major SDKs still ship breaking changes on a cadence shorter than most organisations' upgrade cycles.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

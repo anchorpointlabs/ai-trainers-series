@@ -4,6 +4,8 @@ tsc: 5
 level: Intermediate
 code: K1
 title: Why generative evaluation has no answer key, and what replaces it
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Why generative evaluation has no answer key, and what replaces it
@@ -49,7 +51,9 @@ The practical consequence: at this level the learner stops asking "which model i
 
 ### What is current as of November 2026
 
-Three shifts matter. **Leaderboards have lost authority.** Teams now build small, private, task-shaped test sets because public benchmarks are contaminated and because the frontier models of late 2026 — the GPT-6 generation (Astra, Sol, Luna, 6.1 Sol, 6.1 Terra, Cyber), Claude 5.5, Gemini 3.1 Pro and Gemini 4 Argon — are separated less by capability than by behaviour on a specific task. **LLM-as-judge is now the default instrument**, which means judge validation (agreement with humans, stability across re-runs) has become part of the method rather than an optional extra. **The frontier has moved to trajectories.** For agents, "correct" is no longer one good reply; it is whether the task got done in an environment, in how many steps, at what cost.
+Three shifts matter. **Leaderboards have lost authority.** Teams now build small, private, task-shaped test sets because public benchmarks are contaminated and because current frontier models are separated less by capability than by behaviour on a specific task. **LLM-as-judge is now the default instrument**, which means judge validation (agreement with humans, stability across re-runs) has become part of the method rather than an optional extra. **The frontier has moved to trajectories.** For agents, "correct" is no longer one good reply; it is whether the task got done in an environment, in how many steps, at what cost.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

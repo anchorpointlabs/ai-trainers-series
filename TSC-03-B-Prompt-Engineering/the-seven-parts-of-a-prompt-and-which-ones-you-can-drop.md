@@ -4,6 +4,8 @@ tsc: 3
 level: Basic
 code: A1
 title: The seven parts of a prompt, and which ones you can drop
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # The seven parts of a prompt, and which ones you can drop
@@ -60,6 +62,8 @@ This is the practitioner-level view of `TSC2-Basic-A5` (Prompt Design); see that
 Current models need less ceremonial framing than their predecessors did. Role statements ("you are a world-class analyst") have become largely decorative; explicit rules, an output schema and a supplied source do the work. Structured output modes have also absorbed element 5 — where the platform supports a schema, format is enforced rather than described, and the prompt only needs to say which schema.
 
 What has grown instead is the input element. With long context, the material supplied is often the largest part of the prompt, and the practitioner's skill has moved from writing instructions to labelling inputs: this block is the source, that block is the example, this block is the question.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

@@ -4,6 +4,8 @@ tsc: 9
 level: Basic
 code: A3
 title: Assist in pre-deployment testing
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Assist in pre-deployment testing
@@ -50,10 +52,12 @@ The mindset to install is adversarial politeness. You are not trying to embarras
 
 ### What is current as of November 2026
 
-The tooling has become cheap: a team can run a few hundred cases against a model in minutes, and the late-2026 frontier — OpenAI's GPT-6 generation (Astra, Sol, Luna, 6.1 Sol, 6.1 Terra and the security-tuned Cyber), Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and Gemini 4 Argon — can itself help generate cases. What has not become cheap is knowing which cases matter.
+The tooling has become cheap: a team can run a few hundred cases against a model in minutes, and current frontier models can themselves help generate cases. What has not become cheap is knowing which cases matter.
 
 - **Generation is automated; selection is not.** The valuable contributor is the one who says "this is what our customers actually type".
 - **Version churn makes regression replay routine.** Any model or prompt change should replay the existing set before launch.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

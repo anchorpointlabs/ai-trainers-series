@@ -4,6 +4,8 @@ tsc: 7
 level: Advanced
 code: K9
 title: Statistical inference for generative models: sampling, uncertainty, calibration
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Statistical inference for generative models: sampling, uncertainty, calibration
@@ -48,6 +50,8 @@ The second half is calibration. Token probabilities are not probabilities that t
 ### What is current as of November 2026
 
 Uncertainty has become a product feature rather than an evaluation nicety: assistants now surface confidence, ask clarifying questions or route to a human when a sample is unstable. Reasoning-style models complicate the statistics, because their output distribution is sharper — many samples agree — without necessarily being more correct, so agreement alone overstates confidence on hard items. Calibration against a held-out set remains the only honest check, and it is the part most teams still skip.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

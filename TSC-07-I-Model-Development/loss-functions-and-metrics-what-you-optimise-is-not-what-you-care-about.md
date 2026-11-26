@@ -4,6 +4,8 @@ tsc: 7
 level: Intermediate
 code: K4
 title: Loss functions and metrics: what you optimise is not what you care about
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Loss functions and metrics: what you optimise is not what you care about
@@ -45,7 +47,9 @@ You cannot train on "is this good". You can only train on a smooth proxy: how su
 
 - **Preference optimisation is standard after supervised tuning.** The DPO family displaced most reward-model pipelines for general alignment, while reinforcement learning against verifiable rewards became the norm for reasoning-heavy models.
 - **FID is still reported and still distrusted.** Practitioners increasingly pair it with human or model-judged pairwise comparisons, because FID moves with sample count and preprocessing as much as with quality.
-- **Judge-based metrics arrived with their own bias.** Using a frontier model — GPT-6 generation, Claude 5.5, Gemini 4 Argon — as the scorer is now common, and so is the discovery that it favours long, confident, well-formatted answers.
+- **Judge-based metrics arrived with their own bias.** Using a frontier model as the scorer is now common, and so is the discovery that it favours long, confident, well-formatted answers.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

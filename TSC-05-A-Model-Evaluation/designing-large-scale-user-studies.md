@@ -4,6 +4,8 @@ tsc: 5
 level: Advanced
 code: A1
 title: "Running it at scale: studies that survive a review board"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Running it at scale: studies that survive a review board
@@ -52,6 +54,8 @@ The discipline holding all three together is the **protocol** — a short docume
 ### What is current as of November 2026
 
 Live testing of generative features is routine enough that tooling assumes it: feature flags routing by model version, prompt registries, evaluation hooks in the serving layer. The awkward cases are agentic and long-context systems, where a session is the real experimental unit and the outcome may take days to resolve. Teams increasingly run two tracks — a fast judged evaluation on logged traffic weekly, and a slower randomised test quarterly — because the weekly loop answers questions the quarterly test is too slow to serve.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

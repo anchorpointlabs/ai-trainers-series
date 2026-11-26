@@ -4,6 +4,8 @@ tsc: 1
 level: Basic
 code: A5
 title: The five questions to ask before you deploy anything
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # The five questions to ask before you deploy anything
@@ -57,6 +59,8 @@ Everything else in responsible AI — fairness, transparency, safety, oversight,
 - **AI Verify** gives organisations a testing and assurance route, which is useful when a client asks "how do you know?".
 - **The National AI Impact Programme** (announced 2 March 2026, 10,000 enterprises and 100,000 workers, starting with accountancy and law) has pushed responsible-use questions into SMEs that had no AI policy at all eight months ago. Trainers are frequently the first person to raise them.
 - **Agentic deployments make the "what happens when it is wrong" question urgent**, because the wrongness can now be an action rather than a sentence.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

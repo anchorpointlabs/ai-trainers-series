@@ -4,6 +4,8 @@ tsc: 6
 level: Intermediate
 code: K3
 title: Five ways to serve a model from the cloud, and how to choose
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Five ways to serve a model from the cloud, and how to choose
@@ -56,6 +58,8 @@ Each answers a different question. A prototype wants (1) or (2); a regulated pro
 ### What is current as of November 2026
 
 The menu has not changed shape, but the pricing logic has inverted. Self-hosting was often cheaper at scale two years ago; provider prices have fallen faster than GPU rental, so self-hosting is now usually justified by *control* — residency, fine-tuned weights, guaranteed latency — rather than cost. Managed hosting inside the big clouds has become the default enterprise answer because it inherits identity and private networking, and batch endpoints are now materially cheaper than synchronous calls, which has moved much back-office work off the synchronous path.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

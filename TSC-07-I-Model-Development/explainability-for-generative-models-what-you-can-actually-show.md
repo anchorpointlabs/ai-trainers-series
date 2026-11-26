@@ -4,6 +4,8 @@ tsc: 7
 level: Intermediate
 code: K6
 title: Explainability for generative models: what you can actually show
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Explainability for generative models: what you can actually show
@@ -43,9 +45,11 @@ Prediction models could be explained with feature importances because the output
 
 ### What is current as of November 2026
 
-- **Chain-of-thought is no longer accepted as an explanation.** It is generated text that may be post-hoc rationalisation; reasoning-capable models from the GPT-6 generation, Claude 5.5 and Gemini 4 Argon produce traces that are useful for debugging and unsafe as evidence of cause.
+- **Chain-of-thought is no longer accepted as an explanation.** It is generated text that may be post-hoc rationalisation; reasoning-capable frontier models produce traces that are useful for debugging and unsafe as evidence of cause.
 - **Feature-level interpretability matured.** Sparse-autoencoder work moved from papers to tooling, giving teams a way to name behaviours rather than point at heatmaps.
 - **Documentation became the compliance product.** Model cards, system cards and governance testing frameworks such as AI Verify now carry more audit weight than any visualisation.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

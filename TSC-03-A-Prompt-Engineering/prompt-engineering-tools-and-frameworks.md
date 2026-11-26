@@ -4,6 +4,8 @@ tsc: 3
 level: Advanced
 code: K6
 title: Prompt engineering tools and frameworks
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Prompt engineering tools and frameworks
@@ -52,8 +54,10 @@ Bullet 3 (`TSC3-Advanced-K3`) is the optimisation loop these tools make possible
 
 - **Prompts now live in repositories.** The mainstream pattern is a versioned text file next to the code that calls it, reviewed like code, with the model id pinned beside it.
 - **Structured output moved format enforcement into the platform.** Where a schema can be supplied, the format is guaranteed rather than requested, which removes a whole class of parser failures and a whole class of prompt instructions.
-- **Evaluation became continuous rather than ceremonial.** Running a small test set on every prompt change — and on a sample of live traffic — is now ordinary practice, because the late-2026 frontier models (GPT-6 generation, Claude 5.5, Gemini 3.1 Pro, Gemini 4 Argon) change behaviour across versions in ways that are invisible until measured.
+- **Evaluation became continuous rather than ceremonial.** Running a small test set on every prompt change — and on a sample of live traffic — is now ordinary practice, because current frontier models change behaviour across versions in ways that are invisible until measured.
 - **The tooling market consolidated.** Editors, eval harnesses and tracing products converged into a few platforms plus open-source equivalents. Choosing one matters less than having the three properties: parameterised, versioned, measured.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

@@ -4,6 +4,8 @@ tsc: 6
 level: Advanced
 code: K3
 title: "Cutting-edge context augmentation: beyond pasting documents into the prompt"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Cutting-edge context augmentation: beyond pasting documents into the prompt
@@ -56,6 +58,8 @@ So frontier work splits into four moves: **find more candidates** (hybrid, multi
 - **Agentic retrieval moved from research to product.** Assistants that search, read and iterate are common in 2026, and the design question is now how to bound the loop.
 - **Page-level multimodal retrieval is routine for PDFs.** Retrieving a rendered page image rather than parsed text preserves tables and layout that text extraction destroys.
 - **Graph retrieval is used where the questions are relational**, typically compliance, supply chain and case history — not as a universal upgrade.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

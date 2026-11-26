@@ -11,12 +11,15 @@ tsc: 1
 level: Basic
 code: K1
 title: The purpose of generative AI: five things it is actually for
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 ```
 
 - `id` — stable ID `NN.MM.L.code` (see `naming-convention.md`).
 - `level` — `Basic` / `Intermediate` / `Advanced`.
 - `code` — the IMDA K/A code.
+- `as_at` / `review_by` — set by `python scripts/living.py stamp YYYY-MM-DD`; review_by = as_at + 91 days.
 
 ## Body (fixed order)
 
@@ -45,7 +48,9 @@ title: The purpose of generative AI: five things it is actually for
 <name the related bullets by code, e.g. "TSC1-Basic-K03 is the what…".>
 
 ### What is current as of <month year>
-<what changed recently — models, prices, product shifts. Dated, so it can be refreshed.>
+<what changed for THIS topic, in one to three sentences. Models, versions and prices live in the Living Register.>
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 <stated the way learners say them, each with the correction.>
@@ -93,5 +98,5 @@ title: The purpose of generative AI: five things it is actually for
 4. **The worked example uses a real prompt** the learner types, with what to point at afterwards.
 5. **Common misconceptions stated the way learners say them**, then corrected.
 6. **No invented statistics, studies or dates.**
-7. **"What is current as of…" is dated** — it is the living part, refreshed per quarter.
+7. **"What is current as of…" carries only this topic's change** and ends with the Living Register pointer. Products, versions and prices go in the register. Re-date it with `scripts/living.py stamp` when reviewed.
 8. **~800–1,200 words.** One page in the browser, teachable in a class.

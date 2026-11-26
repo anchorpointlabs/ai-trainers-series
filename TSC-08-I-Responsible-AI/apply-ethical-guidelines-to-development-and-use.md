@@ -4,6 +4,8 @@ tsc: 8
 level: Intermediate
 code: A1
 title: Apply ethical guidelines to development and use
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Apply ethical guidelines to development and use
@@ -52,7 +54,9 @@ The final piece is what happens to a flag. Most teams can generate a finding; fe
 
 Application has become cheaper and more mechanical. Singapore's AI Verify and Project Moonshot toolkits produce test evidence that used to require a consultant, and evaluation suites now run in a build pipeline rather than in a quarterly review. Enterprise buyers increasingly ask for that evidence, which means applying guidelines is now also a commercial skill.
 
-The harder change is agentic systems. When a model can call tools, the "deployment check" is no longer only about disclosure — it is about permissions, approval steps and a kill switch. A guideline that was written for a chatbot that answers questions does not automatically cover a system that sends emails. The GPT-6 generation (Astra, Sol, Luna, 6.1 Sol, 6.1 Terra, Cyber), Claude 5.5, Gemini 3.1 Pro and Gemini 4 Argon all support tool use, so this is the default condition rather than an edge case.
+The harder change is agentic systems. When a model can call tools, the "deployment check" is no longer only about disclosure — it is about permissions, approval steps and a kill switch. A guideline that was written for a chatbot that answers questions does not automatically cover a system that sends emails. Current frontier models all support tool use, so this is the default condition rather than an edge case.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

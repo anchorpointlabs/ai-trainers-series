@@ -4,6 +4,8 @@ tsc: 1
 level: Intermediate
 code: A3
 title: "Reading an output for what is wrong: limits, bias and the shape of the gap"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Reading an output for what is wrong: limits, bias and the shape of the gap
@@ -64,6 +66,8 @@ Four bias mechanisms, and how each shows up:
 Vendors now publish system cards and bias evaluations, and practitioners should know exactly how little those transfer: they measure the vendor's test sets, not your population. Treat them as evidence of process, not of fitness.
 
 Reasoning modes have reduced a class of arithmetic and multi-step errors without touching source fabrication — a model that thinks longer still invents a citation with total composure. Multimodal output has opened new bias surfaces that text-only reviewers miss: who is depicted by default, what "professional appearance" looks like, which skin tone the image model returns for "a Singaporean executive". And agentic output has made the stakes asymmetric: an error that is drafted can be caught, an error that was acted on has already happened.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

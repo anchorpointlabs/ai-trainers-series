@@ -4,6 +4,8 @@ tsc: 8
 level: Advanced
 code: A8
 title: Devise interdisciplinary approaches
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Devise interdisciplinary approaches
@@ -53,6 +55,8 @@ Each layer belongs to a different discipline, and the seams are where failures h
 ### What is current as of November 2026
 
 Synthetic media broke the old moderation assumption that detection could be automated. Provenance metadata helps where it survives — signed manifests and statistical watermarks — but stripping metadata is trivial, so detection is probabilistic and appeal-heavy. Volume has also shifted: generative systems produce content at a rate human review cannot match, which pushes teams toward triage by risk rather than review by default. In Singapore the legal frame for online harms sits in OCHA and POFMA plus election-advertising rules, while platforms set their own broader policies — so the interdisciplinary team is negotiating three boundaries at once: illegal, harmful, and unwelcome.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

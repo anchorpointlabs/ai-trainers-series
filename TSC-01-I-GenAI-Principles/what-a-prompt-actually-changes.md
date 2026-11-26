@@ -4,6 +4,8 @@ tsc: 1
 level: Intermediate
 code: K3
 title: "What a prompt actually changes: steering the distribution, not giving orders"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # What a prompt actually changes: steering the distribution, not giving orders
@@ -49,9 +51,11 @@ So prompt quality is mostly a **specificity and structure** problem, rarely a wo
 
 ### What is current as of November 2026
 
-Prompting is now less about clever phrasing than about **specification and control**. Reasoning models — the GPT-6 generation, Claude 5.5, Gemini 3.1 Pro and 4 Argon — respond better to a clear problem statement with constraints and success criteria than to a scripted chain of steps; over-scaffolding one often makes output worse.
+Prompting is now less about clever phrasing than about **specification and control**. Reasoning models respond better to a clear problem statement with constraints and success criteria than to a scripted chain of steps; over-scaffolding one often makes output worse.
 
 Structured outputs moved format enforcement out of the prompt altogether: where an API accepts a JSON schema, the platform guarantees the shape. Meanwhile "prompt engineer" as a job title has cooled while the skill of writing a precise brief has not — and knowing whether a change helped is still the hard part.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

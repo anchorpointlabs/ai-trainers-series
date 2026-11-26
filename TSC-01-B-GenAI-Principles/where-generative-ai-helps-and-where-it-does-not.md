@@ -4,6 +4,8 @@ tsc: 1
 level: Basic
 code: K4
 title: Where generative AI helps and where it does not
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Where generative AI helps and where it does not
@@ -54,6 +56,8 @@ Five tests, in order. Run them and the answer is usually obvious in a minute:
 - **Agentic use moved the boundary rather than removing it.** With tool access a model can search, read, fill and send. That extends scope into workflow and sharpens the limits — an action is harder to reverse than a sentence. The question changes from "is the draft good?" to "what may it do without asking?"
 - **The biggest workplace use is transformation, not creation.** In most Singapore offices the value is summarising, restructuring and translating documents that already exist. A course that demonstrates only creative writing misrepresents where the hours are saved.
 - **Regulated sectors now assume a human owner.** MAS guidance on credit decisions and the Model AI Governance Framework for Agentic AI both treat "the AI decided" as no answer at all.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

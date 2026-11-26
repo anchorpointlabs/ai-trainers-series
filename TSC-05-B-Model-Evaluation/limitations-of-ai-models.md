@@ -4,6 +4,8 @@ tsc: 5
 level: Basic
 code: K4
 title: Limitations of AI models in generating relevant outputs
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Limitations of AI models in generating relevant outputs
@@ -44,6 +46,8 @@ This bullet is the *why* behind the whole evaluation discipline. `TSC5-Basic-K2`
 ### What is current as of November 2026
 
 The limits have narrowed but not vanished. Late-2026 models hallucinate less than their 2024 ancestors and cite sources more often — but the *relevance* limit is unchanged: a frontier model with no access to your data is still guessing about your business. The frontier has also introduced a new wrinkle: **reasoning models are slower to produce an answer**, which is a relevance limit of a different kind — an answer that arrives after the meeting is over is not relevant, however correct. And "long context" marketing still misleads: a 1-million-token window does not mean the model *uses* the middle of it reliably.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

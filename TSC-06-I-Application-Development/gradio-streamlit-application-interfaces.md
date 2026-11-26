@@ -4,6 +4,8 @@ tsc: 6
 level: Intermediate
 code: A3
 title: From notebook to interface: shipping a model behind Gradio or Streamlit
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # From notebook to interface: shipping a model behind Gradio or Streamlit
@@ -56,6 +58,8 @@ The ability, though, is not the framework. It is knowing what a demo lacks: **se
 ### What is current as of November 2026
 
 Both frameworks have become the default last mile for AI prototypes, and expectations have risen with them. Streaming, chat history and file upload are table stakes — a form with a submit button reads as dated. Deployment is one command, so a prototype can be live in minutes, which raises the bar for what should be live: "it was only a demo" no longer excuses an open endpoint. And the honest gap has moved to auth and data — the framework renders your interface, but it will not give you single sign-on, row-level permissions or an audit log.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

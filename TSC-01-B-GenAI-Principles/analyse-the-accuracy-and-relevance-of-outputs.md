@@ -4,6 +4,8 @@ tsc: 1
 level: Basic
 code: A2
 title: Analyse the accuracy and relevance of outputs
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Analyse the accuracy and relevance of outputs
@@ -56,6 +58,8 @@ The order matters. Learners check prose quality first because it is the easiest 
 - **Closed-world grounding changed the arithmetic.** Products that answer strictly from an uploaded source set — NotebookLM is the clearest example — refuse when the answer is not in the documents, which turns a verification problem into a coverage problem. A better trade for high-stakes reading, and an option rather than a universal answer.
 - **Reasoning modes make the check easier and the error more convincing.** A visible chain can be audited step by step, and a chain built on one fabricated premise still reaches a confident wrong answer.
 - **Agentic outputs need a fourth check.** With tool access the output may include actions taken, not just text produced, so accuracy includes "did it do what it said it did" — checked in the system, not the reply. The agentic governance framework (January 2026) assumes this check exists.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

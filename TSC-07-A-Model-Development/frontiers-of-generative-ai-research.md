@@ -4,6 +4,8 @@ tsc: 7
 level: Advanced
 code: K4
 title: The research frontier: five live questions in generative AI
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # The research frontier: five live questions in generative AI
@@ -47,7 +49,9 @@ That shift is why a trainer should teach researchers-in-training to read an eval
 
 ### What is current as of November 2026
 
-The live arguments are: whether reasoning-style inference generalises beyond verifiable domains such as code and mathematics; whether long context will absorb retrieval; and how much of a model's behaviour can be explained mechanistically rather than described behaviourally. Model releases through late 2026 — the GPT-6 generation, Claude 5.5, Gemini 3.1 Pro and 4 Argon — emphasise reliability on long, tool-using tasks rather than headline benchmark jumps, which itself signals where the field thinks the remaining gains are.
+The live arguments are: whether reasoning-style inference generalises beyond verifiable domains such as code and mathematics; whether long context will absorb retrieval; and how much of a model's behaviour can be explained mechanistically rather than described behaviourally. Model releases now emphasise reliability on long, tool-using tasks rather than headline benchmark jumps, which itself signals where the field thinks the remaining gains are.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

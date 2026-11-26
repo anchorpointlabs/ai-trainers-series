@@ -4,6 +4,8 @@ tsc: 4
 level: Intermediate
 code: K3
 title: Model parameters — modality, size, cost, features
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Model parameters — modality, size, cost, features
@@ -48,11 +50,13 @@ The selection method that follows from this: **gate on the hard constraints firs
 
 ### What is current as of November 2026
 
-The 2026 frontier — OpenAI's GPT-6 generation, Anthropic's Claude 5.5 line, Google's Gemini 3.1 Pro and Gemini 4 Argon — has flattened the quality dimension and steepened the others:
+Current frontier models have flattened the quality dimension and steepened the others:
 
 - **Every major family now sells tiers, not a single model.** A fast cheap tier and an expensive reasoning tier of the same generation. Choosing the tier is now a larger cost decision than choosing the vendor.
 - **Modality converged into one endpoint.** Vision, audio and text arrive together on the frontier products, so "which modality" is often answered by "the same model, different input".
 - **Caching and batch are standard.** Ignoring them is now a straightforward overpayment rather than a missed optimisation.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

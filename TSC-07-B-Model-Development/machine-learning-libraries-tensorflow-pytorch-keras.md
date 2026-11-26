@@ -4,6 +4,8 @@ tsc: 7
 level: Basic
 code: K2
 title: "The library layer: what TensorFlow, PyTorch and Keras actually do"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # The library layer: what TensorFlow, PyTorch and Keras actually do
@@ -50,6 +52,8 @@ The framework lists this bullet second, right after the architectures, because y
 Two shifts matter. First, **PyTorch is the de facto standard for anything you download and adapt**. Open-weight families — Llama, Qwen, Mistral, SEA-LION — publish PyTorch checkpoints and a `transformers`-compatible config, and the fine-tuning ecosystem (PEFT, TRL, Unsloth, Axolotl) is built around it. Second, **Keras has become a genuine multi-backend layer**, so "Keras" no longer implies TensorFlow underneath. TensorFlow remains strong where models are served at scale inside a product, especially on mobile and edge hardware.
 
 For a Basic class the honest framing is: learn PyTorch enough to read a training script, learn the *idea* of TensorFlow serving, and treat Keras as the quick way to sketch an idea. You will not write a library. You will spend your life reading other people's.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

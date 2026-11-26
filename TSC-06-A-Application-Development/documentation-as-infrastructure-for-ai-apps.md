@@ -4,6 +4,8 @@ tsc: 6
 level: Advanced
 code: A7
 title: "Documentation as infrastructure: the knowledge base that keeps an AI app alive"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Documentation as infrastructure: the knowledge base that keeps an AI app alive
@@ -60,6 +62,8 @@ There is a third audience now. Agents read documentation: tool descriptions, API
 - **Docs-as-code is normal in engineering teams**, with review, version history and CI checks for links and schema validity — which makes the "update" half of this bullet achievable rather than aspirational.
 - **AI-assisted drafting is widely used and requires verification.** Generated documentation is fluent and can be confidently wrong about your system; the model supplies structure, the team supplies facts.
 - **Retention and access rules tightened.** Documentation about AI systems increasingly contains prompt text, evaluation data and model identifiers, which brings classification and access control with it.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

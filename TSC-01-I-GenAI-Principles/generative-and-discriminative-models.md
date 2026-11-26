@@ -4,6 +4,8 @@ tsc: 1
 level: Intermediate
 code: K4
 title: "Generative and discriminative models: two ways to model the same data"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Generative and discriminative models: two ways to model the same data
@@ -51,9 +53,11 @@ The framework asks for the difference as knowledge. At Intermediate level the le
 
 ### What is current as of November 2026
 
-The practical default has shifted. Where a team once trained a bespoke classifier for every labelling task, the first experiment now tends to be a small model with a good prompt and a dozen examples, because frontier models — the GPT-6 generation, Claude 5.5, Gemini 3.1 Pro and 4 Argon — classify ordinary material competently with no training data.
+The practical default has shifted. Where a team once trained a bespoke classifier for every labelling task, the first experiment now tends to be a small model with a good prompt and a dozen examples, because current frontier models classify ordinary material competently with no training data.
 
 What has not shifted is the governance line. Regulated decisions in Singapore still expect explainability, documented thresholds, human accountability and testing for disparate impact, which favours a discriminative model or a rules-plus-model hybrid. Meanwhile the discriminative layer has quietly grown: guardrail classifiers, prompt-injection detectors and content filters in front of generative systems are ordinary discriminative models, and they are the part of the stack that fails most visibly when wrong.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

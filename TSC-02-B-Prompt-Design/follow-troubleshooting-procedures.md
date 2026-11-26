@@ -4,6 +4,8 @@ tsc: 2
 level: Basic
 code: A4
 title: Follow troubleshooting procedures
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Follow troubleshooting procedures
@@ -56,7 +58,9 @@ The discipline is that steps three and four are one retry, not a loop. Repetitio
 
 ### What is current as of November 2026
 
-Two practical changes. First, most 2026 products surface failures in more places — browser, desktop app, mobile app, API — and the error text differs in each, so "which surface" is now part of the record. Second, the late-2026 assistants (GPT-6-generation models, Claude 5.5, Gemini 3.1 Pro and Gemini 4 Argon) are generally more reliable moment-to-moment than their predecessors, which means a persistent failure is more likely to be account-level, regional, or a permission problem than a transient blip. That makes step five — a specific, evidenced report — more often the productive one.
+Two practical changes. First, most 2026 products surface failures in more places — browser, desktop app, mobile app, API — and the error text differs in each, so "which surface" is now part of the record. Second, current frontier assistants are generally more reliable moment-to-moment than their predecessors, which means a persistent failure is more likely to be account-level, regional, or a permission problem than a transient blip. That makes step five — a specific, evidenced report — more often the productive one.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

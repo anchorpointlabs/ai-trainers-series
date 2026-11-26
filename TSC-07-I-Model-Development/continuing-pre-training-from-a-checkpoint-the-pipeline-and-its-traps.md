@@ -4,6 +4,8 @@ tsc: 7
 level: Intermediate
 code: A7
 title: Continuing pre-training from a checkpoint: the pipeline and its traps
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Continuing pre-training from a checkpoint: the pipeline and its traps
@@ -43,9 +45,11 @@ Continuing pre-training inherits everything: the architecture, the tokeniser, th
 
 ### What is current as of November 2026
 
-- **Mid-training is a named stage.** Recipes behind the GPT-6 generation, Claude 5.5 and Gemini 3.1 Pro / Gemini 4 Argon describe a middle stage that is neither pre-training nor fine-tuning, and in-house teams now copy the shape.
+- **Mid-training is a named stage.** Recipes behind current frontier models describe a middle stage that is neither pre-training nor fine-tuning, and in-house teams now copy the shape.
 - **Long-context extension happens here.** Extending context length is a continued pre-training job with its own curriculum, not a config flag.
 - **Sharded training is default tooling.** FSDP and ZeRO-class setups are ordinary, and safetensors formats have made checkpoint handling less fragile than it was.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

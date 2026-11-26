@@ -4,6 +4,8 @@ tsc: 5
 level: Intermediate
 code: A4
 title: "Mitigating bias in generated content: what evaluation catches and what it cannot"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Mitigating bias in generated content: what evaluation catches and what it cannot
@@ -55,6 +57,8 @@ The loop is short and should be habitual: **probe → find → intervene → re-
 ### What is current as of November 2026
 
 Two developments matter for practice. First, **guardrail disparity is now a recognised problem in its own right** — as deployments widened across dialects and languages in Southeast Asia, teams found that moderation and refusal behaviour varied substantially by how a person writes, which turned "test the guardrail against the base model" into standard practice. Second, **bias evidence has become a procurement question**: buyers increasingly ask for disaggregated results and a documented limitations section rather than a vendor assurance. The technical mitigation menu has not changed much; what changed is that unevidenced claims no longer survive the conversation.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

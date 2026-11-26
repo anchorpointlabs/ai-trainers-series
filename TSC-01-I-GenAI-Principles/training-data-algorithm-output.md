@@ -4,6 +4,8 @@ tsc: 1
 level: Intermediate
 code: K2
 title: "Training data, algorithm, output: the three that shape every answer"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Training data, algorithm, output: the three that shape every answer
@@ -52,6 +54,8 @@ A generative model is built in stages: pre-training on an enormous corpus, post-
 Three shifts. **Synthetic data** is now ordinary in post-training and increasingly used in pre-training, which raises a live question about training on model output and its long-term effect on quality — an open debate, not a settled finding, so quote no figure. **Preference optimisation has partly moved** from human raters to AI feedback and verifiable rewards on tasks with checkable answers, which makes reasoning modes stronger at maths and code than at your policy document.
 
 And **the visible pipeline changed shape**: reasoning models insert a deliberation stage between prompt and answer, search is attached by default in consumer products, and structured outputs let a schema enforce format. A learner who assumes one undifferentiated "AI brain" misreads all three.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

@@ -4,6 +4,8 @@ tsc: 4
 level: Advanced
 code: K3
 title: Deploying and fine-tuning AI models
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Deploying and fine-tuning AI models
@@ -48,10 +50,12 @@ The framework says "workflow", which understates it. In practice the loop does n
 
 ### What is current as of November 2026
 
-The model tier that makes this workflow matter — OpenAI's GPT-6 generation, Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and Gemini 4 Argon — all ship as dated snapshots behind floating aliases. Two practical shifts:
+Current frontier models all ship as dated snapshots behind floating aliases, and they are the tier that makes this workflow matter. Two practical shifts:
 
 - **Vendors retire snapshots on short notice, typically within a year.** A workflow with no pin and no fallback template is a scheduled outage waiting for a date.
 - **Fine-tuning and adapter hosting became a first-class product on vendor platforms.** You no longer need your own GPUs to run the fine-tune step, which removes the last excuse for skipping evaluation before deployment.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

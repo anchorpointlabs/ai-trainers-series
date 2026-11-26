@@ -4,6 +4,8 @@ tsc: 6
 level: Advanced
 code: A3
 title: "Building a guardrail that did not exist yet"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Building a guardrail that did not exist yet
@@ -62,6 +64,8 @@ The build order matters. Teams that start with the mechanism (usually a prompt i
 - **Classifier fine-tuning is cheap.** A few hundred labelled examples can produce a domain-specific detector, which is why "we cannot build that" is rarely true now.
 - **Gateways made policy-as-code practical.** Rules attached to a model endpoint, versioned with the deployment, are becoming the default place to enforce controls.
 - **Red-teaming is a service**, so the standard has risen: a guardrail is expected to survive an independent attempt, not just the team's own examples.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

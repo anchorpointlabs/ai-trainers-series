@@ -4,6 +4,8 @@ tsc: 7
 level: Intermediate
 code: A5
 title: Fine-tuning a pre-trained model without breaking what it knows
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Fine-tuning a pre-trained model without breaking what it knows
@@ -44,8 +46,10 @@ A fine-tune shifts the model's output distribution toward your examples. Do that
 ### What is current as of November 2026
 
 - **Adapters are the default.** QLoRA-class setups run on a single workstation GPU, and managing a library of adapters over one base model has become normal engineering.
-- **Managed fine-tuning is available from the major providers.** Building on the GPT-6 generation, Claude 5.5 or Gemini 3.1 Pro no longer requires hosting weights, which shifts the question from "can we" to "is our data good enough".
+- **Managed fine-tuning is available from the major providers.** Building on current frontier models no longer requires hosting weights, which shifts the question from "can we" to "is our data good enough".
 - **A preference step usually follows SFT.** The DPO family and verifiable-reward RL are the expected second stage when tone and refusal behaviour matter.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

@@ -4,6 +4,8 @@ tsc: 8
 level: Advanced
 code: K3
 title: Ethical challenges in governance and policy
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Ethical challenges in governance and policy
@@ -48,7 +50,9 @@ Three fault lines run through every cross-border governance discussion.
 
 ### What is current as of November 2026
 
-The EU AI Act's general-purpose model obligations now bite on providers whose systems are placed on the EU market, with systemic-risk thresholds triggering red-teaming and incident reporting — and enforcement attention shifting from paper compliance to incident handling. ASEAN's expanded guide on generative AI keeps the region's interoperability bet alive: voluntary national adoption, risk-tiered assessment, no shared court. Singapore's posture remains sectoral plus baseline, with the IMDA generative framework, AI Verify and Project Moonshot as the practical instruments, and PDPC advisory guidance giving the deployer responsibilities teeth. Meanwhile the systems being deployed — OpenAI's GPT-6 generation, Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and Gemini 4 Argon — are increasingly agentic, and no jurisdiction has settled rules for an agent that transacts.
+The EU AI Act's general-purpose model obligations now bite on providers whose systems are placed on the EU market, with systemic-risk thresholds triggering red-teaming and incident reporting — and enforcement attention shifting from paper compliance to incident handling. ASEAN's expanded guide on generative AI keeps the region's interoperability bet alive: voluntary national adoption, risk-tiered assessment, no shared court. Singapore's posture remains sectoral plus baseline, with the IMDA generative framework, AI Verify and Project Moonshot as the practical instruments, and PDPC advisory guidance giving the deployer responsibilities teeth. Meanwhile the systems being deployed are increasingly agentic, and no jurisdiction has settled rules for an agent that transacts.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

@@ -1,0 +1,13 @@
+vendor,product,model_or_version,status,key_facts,source_url,checked
+OpenAI,ChatGPT,GPT-6,current,"GPT-6 rolling out in ChatGPT with Intelligent UI; GPT-6 Sol for paid tiers, GPT-6 Luna for Free/Go",https://openai.com/index/gpt-6-for-everyone/,2026-11-27
+OpenAI,Codex,GPT-6,current,Cloud coding agent; GPT-6 Sol and Luna available in Codex,https://openai.com/codex/,2026-11-27
+OpenAI,GPT-6 Cyber,GPT-6 Cyber,current,Cyber-specialized GPT-6 Astra variant; restricted to Daybreak Red approved organisations,https://www.openai.com/index/introducing-gpt-6-cyber/,2026-11-27
+Anthropic,Claude,Claude 5.5,current,"Claude 5.5 family (Opus, Sonnet, Haiku); Opus 5.5 at $4/$20 per MTok, 1M context, 128K output",https://www.anthropic.com/claude-opus-5-5,2026-11-27
+Google,Gemini,Gemini 3.1 Pro / Gemini 4 Argon,current,"Gemini 3.1 Pro (Feb 2026, 1M context); Gemini 4 Argon (Oct 2026, $2/$10 per MTok introductory)",https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/,2026-11-27
+Google,NotebookLM,Gemini 3 series,current,Renamed Gemini Notebook July 2026; free plus Google AI Plus/Pro/Ultra tiers,https://notebooklm.google/plans,2026-11-27
+Microsoft,Copilot,GPT-5.6 / MAI Code 2,current,M365 Copilot on GPT-5.6 Sol/Terra/Luna; GitHub Copilot adds MAI Code 2,https://www.microsoft.com/en-us/copilot,2026-11-27
+Microsoft,Muse,WHAM-1.6B,current,"World and Human Action Model, published in Nature 2025, trained on Bleeding Edge; open weights",https://www.microsoft.com/en-us/research/blog/introducing-muse-our-first-generative-ai-model-designed-for-gameplay-ideation/,2026-11-27
+xAI,Grok,Grok 4.7,current,"Grok 4.7 (Sep 2026), 500k context, $2 input / $6 output per MTok",https://docs.x.ai/developers/models/grok-4.7,2026-11-27
+Meta,Meta AI,Muse Spark,current,"Free assistant powered by Muse Spark (Apr 2026), which replaced Llama",https://ai.meta.com/meta-ai/assistant/,2026-11-27
+DeepSeek,DeepSeek,DeepSeek-V4.1-Flash,current,"V4.1-Flash (deepseek-flash), 1M context; off-peak $0.15 input / $0.60 output per MTok",https://api-docs.deepseek.com/quick_start/pricing,2026-11-27
+Perplexity,Perplexity,Sonar,current,Agent API; perplexity/sonar $0.25 input / $2.50 output per MTok,https://docs.perplexity.ai/docs/agent-api/models,2026-11-27

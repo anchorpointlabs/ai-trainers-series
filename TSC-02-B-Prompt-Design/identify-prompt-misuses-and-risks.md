@@ -4,6 +4,8 @@ tsc: 2
 level: Basic
 code: A7
 title: Identify prompt misuses and risks
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Identify prompt misuses and risks
@@ -62,7 +64,9 @@ Beyond those two, five more misuses appear often enough to name in a Basic class
 
 ### What is current as of November 2026
 
-The failure has become quieter. The late-2026 frontier models — OpenAI's GPT-6 generation, Claude 5.5, Gemini 3.1 Pro and Gemini 4 Argon — fill a gap so smoothly that a vague prompt now produces something that reads finished. Two years ago the seams showed; now they do not. That makes the check more important, not less, and it makes the "vague instruction" misuse the one most likely to pass unnoticed in a workplace. The second 2026 development is tool access: a prompt misuse that once produced a wrong document can now produce a wrong action, which moves some of these risks into `TSC2-Basic-K4` territory.
+The failure has become quieter. Current frontier models fill a gap so smoothly that a vague prompt now produces something that reads finished. Two years ago the seams showed; now they do not. That makes the check more important, not less, and it makes the "vague instruction" misuse the one most likely to pass unnoticed in a workplace. The second 2026 development is tool access: a prompt misuse that once produced a wrong document can now produce a wrong action, which moves some of these risks into `TSC2-Basic-K4` territory.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

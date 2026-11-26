@@ -4,6 +4,8 @@ tsc: 4
 level: Advanced
 code: K2
 title: Architectures, training strategies, and optimisation
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Architectures, training strategies, and optimisation
@@ -46,11 +48,13 @@ The cost asymmetry is severe: pre-training is a data-centre-scale project measur
 
 ### What is current as of November 2026
 
-The 2026 frontier — OpenAI's GPT-6 generation, Anthropic's Claude 5.5 line, Google's Gemini 3.1 Pro and Gemini 4 Argon — is uniformly decoder-only and overwhelmingly mixture-of-experts at the top end. Three things have shifted for trainers:
+Current frontier models are uniformly decoder-only and overwhelmingly mixture-of-experts at the top end. Three things have shifted for trainers:
 
 - **Reasoning training became a product tier, not a research curiosity.** Vendors sell a "thinking" mode beside a fast mode of nominally the same model. Selection now includes choosing the mode.
 - **Open-weight fine-tuning became routine.** Adapter tuning on a mid-sized open model is a normal line item in a Singapore project budget, where five years ago it was a research project.
 - **Quantised deployment went mainstream.** Four-bit serving of a large open model is the default assumption rather than a compromise, and the loss is small enough that most evaluators cannot detect it on ordinary tasks.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

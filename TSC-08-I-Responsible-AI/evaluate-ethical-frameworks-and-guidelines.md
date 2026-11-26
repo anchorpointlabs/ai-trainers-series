@@ -4,6 +4,8 @@ tsc: 8
 level: Intermediate
 code: A7
 title: Evaluate ethical frameworks and guidelines
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Evaluate ethical frameworks and guidelines
@@ -52,9 +54,11 @@ The honest answer for most organisations is a combination: a voluntary framework
 
 ### What is current as of November 2026
 
-Three developments have changed how frameworks are evaluated in practice. ISO/IEC 42001 has become the reference point procurement teams compare against, because it can be certified by an independent auditor. The EU AI Act has made parts of the landscape binding for high-risk systems and for general-purpose models, with phased application, which means framework evaluation now includes a jurisdiction question even for Singapore firms selling into Europe. And agentic capability has outrun most guidance: the current generation — GPT-6 (Astra, Sol, Luna, 6.1 Sol, 6.1 Terra, Cyber), Claude 5.5, Gemini 3.1 Pro and Gemini 4 Argon — all support tool use, while most frameworks still describe a model that answers questions.
+Three developments have changed how frameworks are evaluated in practice. ISO/IEC 42001 has become the reference point procurement teams compare against, because it can be certified by an independent auditor. The EU AI Act has made parts of the landscape binding for high-risk systems and for general-purpose models, with phased application, which means framework evaluation now includes a jurisdiction question even for Singapore firms selling into Europe. And agentic capability has outrun most guidance: current frontier models all support tool use, while most frameworks still describe a model that answers questions.
 
 Singapore's own instruments remain the cheapest credible starting point: the IMDA frameworks are readable, sector-aligned, and paired with AI Verify and Project Moonshot tooling that turns their testing dimension into evidence.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

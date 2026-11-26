@@ -4,6 +4,8 @@ tsc: 7
 level: Intermediate
 code: K8
 title: Data handling for fine-tuning: selection, features and augmentation
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Data handling for fine-tuning: selection, features and augmentation
@@ -43,9 +45,11 @@ A fine-tune is a curriculum, and the model learns both what to say and how to sa
 
 ### What is current as of November 2026
 
-- **Data work is now the stated differentiator.** Labs and vendors talk about curation, filtering and instruction diversity rather than architecture, and the same shift is visible in in-house teams building on the GPT-6 generation, Claude 5.5 or Gemini 3.1 Pro.
+- **Data work is now the stated differentiator.** Labs and vendors talk about curation, filtering and instruction diversity rather than architecture, and the same shift is visible in in-house teams building on current frontier models.
 - **Synthetic augmentation is routine and audited.** Generating paraphrases and edge cases is standard, with a real-data holdout used to check the generator did not narrow the distribution.
 - **Provenance and licensing became procurement questions.** Buyers ask where fine-tuning data came from, whether consent covers it, and whether it can leave the country under PDPA obligations.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

@@ -4,6 +4,8 @@ tsc: 1
 level: Basic
 code: K1
 title: The purpose of generative AI: five things it is actually for
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # The purpose of generative AI: five things it is actually for
@@ -49,10 +51,12 @@ This bullet is the why; `TSC1-Basic-K03` is the what (the models); `TSC1-Basic-K
 
 ### What is current as of November 2026
 
-The five purposes have collapsed into one interface. A single chat surface now handles text, image, voice, file analysis and code, and the frontier models of late 2026 — OpenAI's GPT-6 generation (Astra, then Sol, Luna, 6.1 Sol, 6.1 Terra and the security-tuned Cyber), Anthropic's Claude 5.5 line, Google's Gemini 3.1 Pro and Gemini 4 Argon — are separated less by "can it" and more by reliability, price and context size. Two shifts matter for this bullet:
+The five purposes have collapsed into one interface. A single chat surface now handles text, image, voice, file analysis and code, and current frontier models are separated less by "can it" and more by reliability, price and context size. Two shifts matter for this bullet:
 
 - **Purpose 5 is now mainstream.** Agents that use tools and browsers moved from demo to product during 2025–26. The training implication: the question is no longer "what can it write" but "what may it do on my behalf".
 - **Purpose 3 has become the biggest workplace use.** In most Singapore offices the value is not creation from scratch; it is transformation and summarisation of documents that already exist. Trainers who demo only creative writing misrepresent where the hours are saved.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

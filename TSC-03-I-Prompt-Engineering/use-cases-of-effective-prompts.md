@@ -4,6 +4,8 @@ tsc: 3
 level: Intermediate
 code: K5
 title: Use cases of effective prompts
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Use cases of effective prompts
@@ -57,13 +59,15 @@ Ten shapes cover most office work. Teach the shape and the failure together; a s
 
 ### What is current as of November 2026
 
-Two use cases dominate measured workplace value: summarisation of documents that already exist, and structured extraction from them. That is where the hours were, and the GPT-6 generation, Claude 5.5, Gemini 3.1 Pro and Gemini 4 Argon have all been tuned toward it — long inputs, reliable schemas, citations.
+Two use cases dominate measured workplace value: summarisation of documents that already exist, and structured extraction from them. That is where the hours were, and current frontier models have all been tuned toward it — long inputs, reliable schemas, citations.
 
 Three shifts worth teaching:
 
 - **Extraction became an engineering task, not a prompting trick.** Native structured-output modes enforce a schema at generation time, which removes the old fight with Markdown fences. The remaining work is field design and the absent-value branch.
 - **The "act" use case arrived.** With tool access, the prompt can end in an action — file it, send it, update the record. That extends the catalogue beyond text and raises the question of what the model may do, not just say.
 - **Brainstorming got worse on reasoning models.** A deliberating model converges on the single best answer, which is excellent for analysis and poor for ideation. For divergence, use the fast chat tier and ask for volume explicitly.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

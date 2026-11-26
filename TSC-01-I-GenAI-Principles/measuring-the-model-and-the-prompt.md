@@ -4,6 +4,8 @@ tsc: 1
 level: Intermediate
 code: A4
 title: "Measuring the model and the prompt: what a change actually bought you"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Measuring the model and the prompt: what a change actually bought you
@@ -56,6 +58,8 @@ Then the discipline: vary the prompt only, hold model, temperature, context and 
 Structured outputs have made format compliance measurable and largely solved: a schema either validates or it does not, which removes a whole category of prompt iteration. Reasoning modes have added a cost dimension that did not exist before — effort settings change accuracy and token spend together, so evaluations now need a cost-per-accepted-output column.
 
 Judge models are embedded in vendor tooling and in internal pipelines, and the honest practice is to disclose which model judged which outputs. Public benchmarks have become less informative as models are trained against them, which strengthens the case for the small private set. None of this changes the method; it changes what you have to record.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

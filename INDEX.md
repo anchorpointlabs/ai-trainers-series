@@ -476,6 +476,7 @@ Product deep-dives, organised as `Tools/<Company>/<Tool>.md`. Fast-rotting: vers
 | K/A | Entry |
 |---|---|
 | living | [How ChatGPT got here: 2022 to 2026](concepts/living/how-chatgpt-got-here.md) |
+| living | [Living Register](concepts/living/register.csv) · [living archive](concepts/living/archive.md) |
 
 ## Concepts · event
 

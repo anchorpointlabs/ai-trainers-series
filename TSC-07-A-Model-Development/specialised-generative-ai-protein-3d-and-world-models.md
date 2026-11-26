@@ -4,6 +4,8 @@ tsc: 7
 level: Advanced
 code: K5
 title: Generative models beyond text: proteins, 3D scenes and world models
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Generative models beyond text: proteins, 3D scenes and world models
@@ -52,6 +54,8 @@ The third part is what separates a working application from a demo. Where the ve
 ### What is current as of November 2026
 
 Scientific design has become an industrial workflow rather than a demonstration: generative structure models feed automated assay pipelines in pharmaceutical and research settings, and materials discovery groups use them as candidate generators with simulation in the loop. On the 3D side, Gaussian-splat representations and diffusion-based asset generation have moved into production pipelines for games and heritage visualisation, usually with a human artist finishing the work. World models remain the most speculative of the three: impressive in short rollouts, still unreliable for long-horizon planning, which is exactly where robotics needs them.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

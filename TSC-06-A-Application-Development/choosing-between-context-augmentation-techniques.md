@@ -4,6 +4,8 @@ tsc: 6
 level: Advanced
 code: A4
 title: "Choosing between context augmentation techniques: the trade-off table"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Choosing between context augmentation techniques: the trade-off table
@@ -63,6 +65,8 @@ The Advanced skill is writing that as a decision memo a non-specialist can follo
 - **Agentic retrieval is chosen for multi-hop questions** and bounded with a step limit and a cost ceiling, because an unbounded loop is an unbounded bill.
 - **Graph retrieval is justified by question shape**, typically compliance, supplier and case-history work, not by ambition.
 - **Managed retrieval services hide the machinery**, which makes the trade-off conversation easier to have and easier to get wrong: the defaults are invisible.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

@@ -4,6 +4,8 @@ tsc: 9
 level: Intermediate
 code: A2
 title: Implement security measures against prompt hacks
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Implement security measures against prompt hacks
@@ -56,10 +58,12 @@ Notice what the enforcement point does not do: it does not ask the model whether
 
 ### What is current as of November 2026
 
-Instruction-hierarchy training has improved. The late-2026 frontier — OpenAI's GPT-6 generation (Astra, Sol, Luna, 6.1 Sol, 6.1 Terra and the security-tuned Cyber), Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and Gemini 4 Argon — is better than its predecessors at treating retrieved text as data, and modern agent frameworks ship permission scopes and approval hooks.
+Instruction-hierarchy training has improved. Current frontier models are better than their predecessors at treating retrieved text as data, and modern agent frameworks ship permission scopes and approval hooks.
 
 - **The attack has moved to documents.** With crude overrides less effective, the payload arrives inside an email, a ticket, a page or a PDF.
 - **Vendor guardrails raise the floor, not the ceiling.** They are another probabilistic layer; the deterministic layers are still yours to build.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

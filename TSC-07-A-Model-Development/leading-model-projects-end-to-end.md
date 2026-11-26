@@ -4,6 +4,8 @@ tsc: 7
 level: Advanced
 code: A2
 title: Leading a model project: the seven gates from idea to production
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Leading a model project: the seven gates from idea to production
@@ -55,7 +57,9 @@ Most failures are gate 3 or gate 5 being waved through, because both are boring 
 
 ### What is current as of November 2026
 
-Project economics have shifted toward smaller, cheaper, fine-tuned models with a strong evaluation harness, because the marginal gain from a frontier model on a narrow task is often small while the cost difference is large. The late-2026 frontier releases — the GPT-6 generation, Claude 5.5, Gemini 3.1 Pro and 4 Argon — are all positioned on reliability over long tasks, which raises stakeholder expectations: they assume agents can be trusted with multi-step work, and a project lead has to set the actual reliability bar with evidence. Expect more scrutiny of evaluation claims than of model choice.
+Project economics have shifted toward smaller, cheaper, fine-tuned models with a strong evaluation harness, because the marginal gain from a frontier model on a narrow task is often small while the cost difference is large. Current frontier releases are all positioned on reliability over long tasks, which raises stakeholder expectations: they assume agents can be trusted with multi-step work, and a project lead has to set the actual reliability bar with evidence. Expect more scrutiny of evaluation claims than of model choice.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

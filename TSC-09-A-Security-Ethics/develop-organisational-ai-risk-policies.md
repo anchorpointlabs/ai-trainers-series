@@ -4,6 +4,8 @@ tsc: 9
 level: Advanced
 code: A5
 title: Develop organisational AI risk policies
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Develop organisational AI risk policies
@@ -64,6 +66,8 @@ K5 sets the appetite the policy encodes; a policy with no appetite behind it is 
 - **Vendor clauses are the new due diligence.** Providers now change model versions on their own schedule, so notice periods, version pinning and no-training-on-your-data terms are policy requirements rather than legal niceties.
 - **Disclosure duties are explicit.** Policies increasingly require telling users when they are dealing with an AI and when content is synthetic.
 - **Sector regulators read your policy.** Where a supervisor or data-protection authority asks what the organisation's position was, the written policy and its approval records are the answer.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

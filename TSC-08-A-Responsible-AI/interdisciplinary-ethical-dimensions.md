@@ -4,6 +4,8 @@ tsc: 8
 level: Advanced
 code: K4
 title: Interdisciplinary ethical dimensions
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Interdisciplinary ethical dimensions
@@ -46,7 +48,9 @@ Holding four lenses means producing four readings and then naming the tension. S
 
 ### What is current as of November 2026
 
-Two lenses have moved fastest. The socio-political one now includes agentic systems that act without a human present, which changes who is accountable rather than merely who is watched. The environmental one has become a procurement question in Singapore specifically: data-centre efficiency standards and tropical cooling constraints make compute choices visible to facilities and finance, not just to engineers. Culturally, the practical instrument is the localised evaluation set — Singlish code-switching, Malay and Tamil coverage, local religious sensitivities — because generic benchmarks do not measure the failure that matters here. The models in play in late 2026 — OpenAI's GPT-6 generation, Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and Gemini 4 Argon — are more capable across languages than their predecessors, which raises the bar rather than removing the question.
+Two lenses have moved fastest. The socio-political one now includes agentic systems that act without a human present, which changes who is accountable rather than merely who is watched. The environmental one has become a procurement question in Singapore specifically: data-centre efficiency standards and tropical cooling constraints make compute choices visible to facilities and finance, not just to engineers. Culturally, the practical instrument is the localised evaluation set — Singlish code-switching, Malay and Tamil coverage, local religious sensitivities — because generic benchmarks do not measure the failure that matters here. Current frontier models are more capable across languages than their predecessors, which raises the bar rather than removing the question.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

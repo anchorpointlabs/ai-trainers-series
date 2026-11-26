@@ -4,6 +4,8 @@ tsc: 5
 level: Advanced
 code: K1
 title: "A/B tests and user studies: how to prove a generative model actually got better"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # A/B tests and user studies: how to prove a generative model actually got better
@@ -49,7 +51,9 @@ Generative systems break the textbook version in three places. The outcome is us
 
 ### What is current as of November 2026
 
-The pipeline is now two-stage: cheap model-based screening to find a plausible winner, then a human-anchored test to confirm it. Two consequences. The judge has become a design constraint — if it prefers long answers, the pre-screen selects for length and the live test "confirms" it. And the flagship models of late 2026 (OpenAI's GPT-6 line through 6.1 Sol and Terra, Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and 4 Argon) are close enough on ordinary tasks that differences now show up in tail behaviour: the hard 5%, agentic multi-step runs, long documents. Aggregate satisfaction has stopped discriminating; slice-level results have not.
+The pipeline is now two-stage: cheap model-based screening to find a plausible winner, then a human-anchored test to confirm it. Two consequences. The judge has become a design constraint — if it prefers long answers, the pre-screen selects for length and the live test "confirms" it. And current frontier models are close enough on ordinary tasks that differences now show up in tail behaviour: the hard 5%, agentic multi-step runs, long documents. Aggregate satisfaction has stopped discriminating; slice-level results have not.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

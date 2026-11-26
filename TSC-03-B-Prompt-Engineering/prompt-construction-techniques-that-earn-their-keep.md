@@ -4,6 +4,8 @@ tsc: 3
 level: Basic
 code: K3
 title: Prompt construction techniques, and when each one earns its keep
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Prompt construction techniques, and when each one earns its keep
@@ -58,6 +60,8 @@ This is the practitioner-level view of `TSC2-Basic-K5` (Prompt Design); see that
 Three shifts have changed the selection calculus. Reasoning-capable models now expose a thinking budget as a de facto parameter: more deliberation helps on multi-step tasks and adds latency with little gain on simple ones, so the old advice "always use the biggest setting" is wrong in both directions. Structured output modes let you enforce a schema instead of describing one, which has made format-by-example less necessary. And prompt caching has made a long block of reference material or examples cheaper to reuse, which changes the economics of few-shot without removing its maintenance cost.
 
 What has not changed: models still follow literal instructions more faithfully than rhetorical ones, which is why injecting rules beats assigning a persona on every current frontier family.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

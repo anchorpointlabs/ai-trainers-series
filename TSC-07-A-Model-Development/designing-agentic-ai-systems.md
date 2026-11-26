@@ -4,6 +4,8 @@ tsc: 7
 level: Advanced
 code: A5
 title: Designing agentic systems: loop, tools, memory and the leash
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Designing agentic systems: loop, tools, memory and the leash
@@ -53,7 +55,9 @@ Four elements, in the order that determines success:
 
 ### What is current as of November 2026
 
-Agents moved from demos to supervised production during 2025–26, and the design vocabulary hardened around tool protocols, sandboxed execution and approval gates. The late-2026 frontier models — the GPT-6 generation, Claude 5.5, Gemini 3.1 Pro and 4 Argon — are notably better at holding a long task plan, which raises the temptation to remove human checkpoints. Resist it: the model's reliability improved, and the consequence of a wrong irreversible action did not. Expect procurement to ask for the audit log before the capability demo.
+Agents moved from demos to supervised production during 2025–26, and the design vocabulary hardened around tool protocols, sandboxed execution and approval gates. Current frontier models are notably better at holding a long task plan, which raises the temptation to remove human checkpoints. Resist it: the model's reliability improved, and the consequence of a wrong irreversible action did not. Expect procurement to ask for the audit log before the capability demo.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

@@ -4,6 +4,8 @@ tsc: 6
 level: Basic
 code: K1
 title: "Context augmentation: giving the model the right page before it answers"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Context augmentation: giving the model the right page before it answers
@@ -51,9 +53,11 @@ This bullet is the concept; `TSC6-Basic-A2` is the build; `TSC6-Basic-K4` names 
 
 Context windows grew enormously and RAG did not die. Long context is expensive per request, slower, and models attend unevenly across very long inputs — the middle of a huge prompt gets weaker attention than the edges. Retrieval survives as a cost and attention technique, not just a knowledge technique.
 
-- **Retrieval became agentic.** The model issues several searches, reads results, searches again. The current flagships — the GPT-6 generation, Claude 5.5, Gemini 3.1 Pro and Gemini 4 Argon — do this natively when given a search tool.
+- **Retrieval became agentic.** The model issues several searches, reads results, searches again. Current frontier models do this natively when given a search tool.
 - **Hybrid search plus reranking is the default.** Keyword and vector search together, then a reranker. Pure vector search is now a beginner's choice.
 - **"Context engineering" became the term of art** — deciding what occupies the window. That is what this bullet is really about.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

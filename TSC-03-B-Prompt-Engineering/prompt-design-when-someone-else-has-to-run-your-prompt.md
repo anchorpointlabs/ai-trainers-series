@@ -4,6 +4,8 @@ tsc: 3
 level: Basic
 code: K1
 title: Prompt design when someone else has to run your prompt
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Prompt design when someone else has to run your prompt
@@ -56,6 +58,8 @@ This is the practitioner-level view of `TSC2-Basic-K7` (Prompt Design); see that
 The main shift is that prompts now have somewhere to live. The major assistants let you save standing instructions, keep a project's files attached, and share a setup with a team, so the artefact framing above is no longer a metaphor — there is a storage location, an owner and usually a version history. Two consequences: a prompt library is a document that needs a librarian, and a saved prompt containing real customer examples is a data store with the same obligations as any other.
 
 The second shift is that some of what prompts used to plead for is now enforced by the platform. Structured outputs, tool schemas and system-level instructions move format control out of prose and into configuration. That is good for reliability and dangerous for the learner who believes a well-worded sentence is a guarantee.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

@@ -4,6 +4,8 @@ tsc: 3
 level: Intermediate
 code: A5
 title: Match prompt techniques to foundation models
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Match prompt techniques to foundation models
@@ -48,11 +50,13 @@ The consequence is a discipline, not a preference: the portable part of a prompt
 
 ### What is current as of November 2026
 
-Convergence in capability, divergence in behaviour and price. The GPT-6 generation (Astra, Sol, Luna, 6.1 Sol, 6.1 Terra and the Cyber variant), Claude 5.5, Gemini 3.1 Pro and Gemini 4 Argon all follow schemas reliably and all offer reasoning tiers, which makes three practices standard:
+Convergence in capability, divergence in behaviour and price. Current frontier models all follow schemas reliably and all offer reasoning tiers, which makes three practices standard:
 
 - **Choose the tier before the technique.** Most "this prompt needs chain-of-thought" diagnoses are really "this task needs a reasoning tier" — and the reverse, where a reasoning tier is being spent on field extraction.
 - **Keep prompts thin across families.** The task, the facts, the schema and the failure line move well. Persona stacks, magic phrases and elaborate role-play do not, and current models largely ignore them.
 - **Test on your own twenty cases when a version changes.** Benchmarks will not tell you whether your invoice extraction still handles the stamp across the total.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

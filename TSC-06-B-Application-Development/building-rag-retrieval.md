@@ -4,6 +4,8 @@ tsc: 6
 level: Basic
 code: A2
 title: "Building retrieval: chunk, embed, retrieve, answer, and know which step failed"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Building retrieval: chunk, embed, retrieve, answer, and know which step failed
@@ -52,6 +54,8 @@ The vector database is the least interesting choice. Most of the failure learner
 - **Hybrid plus reranking is the default.** Keyword search catches identifiers — policy numbers, part codes, names — that vectors blur; vectors catch paraphrase that keywords miss. Using both is standard practice, not an optimisation.
 - **Agentic retrieval replaced the single query.** Assistants rewrite the question into several searches, read, and search again. Better quality, higher cost, and "how many searches did it run" is now a monitored number.
 - **Postgres won many small deployments.** Vectors next to relational data removed a whole service from the stack; for a team already running Postgres it is often the correct answer.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

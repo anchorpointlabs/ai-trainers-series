@@ -4,6 +4,8 @@ tsc: 7
 level: Intermediate
 code: A6
 title: Data transformation: shaping examples so the model learns the right thing
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Data transformation: shaping examples so the model learns the right thing
@@ -43,9 +45,11 @@ The single test for any transformation is train–inference parity: will the mod
 
 ### What is current as of November 2026
 
-- **Chat templates are per-model and still a common bug.** Building on the GPT-6 generation, Claude 5.5 or Gemini 3.1 Pro through managed fine-tuning hides some of this; open-weight tuning does not.
+- **Chat templates are per-model and still a common bug.** Building on current frontier models through managed fine-tuning hides some of this; open-weight tuning does not.
 - **Reasoning traces became a transformation target.** Training on a plan-then-answer structure is common, with the caveat that only verifiable traces should be trusted as targets.
 - **Structured output training matured.** Teaching a model to emit a schema is now routine, and it interacts with constrained decoding at inference.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

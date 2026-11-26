@@ -4,6 +4,8 @@ tsc: 8
 level: Advanced
 code: A9
 title: Create innovative ethical frameworks
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Create innovative ethical frameworks
@@ -56,7 +58,9 @@ A rule with all five is a framework. A rule with only the first two is a slogan 
 
 ### What is current as of November 2026
 
-The clearest gap is agency. Systems from OpenAI's GPT-6 generation, Anthropic's Claude 5.5 and Google's Gemini 3.1 Pro and 4 Argon now call tools, hold credentials and complete transactions, and the frameworks in force were written for systems that produced text a human would read. Emerging practice clusters around a few rules: explicit confirmation above a value threshold, a hard cap on spend per session, a step limit on autonomous loops, a full action log, and a human route to reverse any completed action. Content provenance is the second gap: signed manifests and statistical watermarks exist, but stripping metadata is trivial, so labelling rules need a detection story as well as a labelling duty. Both areas are being governed by vendor policy and procurement terms before any statute arrives.
+The clearest gap is agency. Current frontier systems now call tools, hold credentials and complete transactions, and the frameworks in force were written for systems that produced text a human would read. Emerging practice clusters around a few rules: explicit confirmation above a value threshold, a hard cap on spend per session, a step limit on autonomous loops, a full action log, and a human route to reverse any completed action. Content provenance is the second gap: signed manifests and statistical watermarks exist, but stripping metadata is trivial, so labelling rules need a detection story as well as a labelling duty. Both areas are being governed by vendor policy and procurement terms before any statute arrives.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

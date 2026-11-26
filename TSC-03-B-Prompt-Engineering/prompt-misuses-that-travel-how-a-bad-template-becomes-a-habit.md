@@ -4,6 +4,8 @@ tsc: 3
 level: Basic
 code: A8
 title: Prompt misuses that travel: how a bad template becomes a bad habit
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Prompt misuses that travel: how a bad template becomes a bad habit
@@ -70,6 +72,8 @@ This is the practitioner-level view of `TSC2-Basic-A7` (Prompt Design); see that
 The misuse profile has shifted in two directions. Downward: fluent fabrication is less common when a source is supplied and a fallback is specified, and current models follow explicit source restrictions far better than earlier ones. Upward: untrusted-content exposure. With assistants that read email, web pages, PDFs and shared drives, pasting or attaching content you did not write is now routine, and content that contains instructions aimed at the model is a normal attack surface rather than an exotic one. Every organisation in the current generation of deployments needs one sentence in its prompt standard about delimiting untrusted material.
 
 The third shift is quieter: because tools now remember context across a project, a misuse can persist longer than the conversation that created it. A bad instruction saved in a project is a standing misuse.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

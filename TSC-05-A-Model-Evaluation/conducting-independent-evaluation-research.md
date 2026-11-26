@@ -4,6 +4,8 @@ tsc: 5
 level: Advanced
 code: A4
 title: "Doing research that counts: from a hunch to a claim others can check"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Doing research that counts: from a hunch to a claim others can check
@@ -54,6 +56,8 @@ Four properties make a claim research-grade. **Specified**: population, task, ve
 ### What is current as of November 2026
 
 Independent evaluation research is more feasible than ever: API access to frontier models is cheap relative to a decade ago, open harnesses exist, and vendors publish rubrics and judge disclosures that give an outsider something to test. The countervailing pressure is contamination — once a finding is published it can enter a training set, so research increasingly publishes *procedures* and held-out sets rather than fixed items. The most-cited work of the period is less about a new metric than about showing an existing metric measured the wrong thing.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

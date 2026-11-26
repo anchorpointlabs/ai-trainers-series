@@ -4,6 +4,8 @@ tsc: 5
 level: Basic
 code: K2
 title: The four fundamental evaluation criteria: accuracy, diversity, coherence, novelty
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # The four fundamental evaluation criteria: accuracy, diversity, coherence, novelty
@@ -44,6 +46,8 @@ These four are the home base. `TSC5-Intermediate-K2` (BLEU, Inception Score, FID
 ### What is current as of November 2026
 
 Two shifts matter. First, **accuracy has become the dominant workplace criterion** — in most Singapore offices the model is doing summarisation, extraction and Q&A, where a fluent-but-wrong answer is the worst possible outcome, so accuracy (and its close cousin *faithfulness* to source) now dwarfs the others in practical importance. Second, **diversity is the criterion that over-alignment quietly kills** — the late-2026 generation of heavily safety- and preference-tuned models can fall into repetitive, samey outputs, which is exactly why the framework keeps it on the list even though most business users never think to measure it.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

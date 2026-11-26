@@ -4,6 +4,8 @@ tsc: 7
 level: Intermediate
 code: K3
 title: Multi-modal models: one shared space for text, image and sound
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Multi-modal models: one shared space for text, image and sound
@@ -43,9 +45,11 @@ An embedding turns a thing into a point in space, positioned so that similar thi
 
 ### What is current as of November 2026
 
-- **Multi-modality moved from bolt-on to native.** The GPT-6 generation, Claude 5.5 and Gemini 3.1 Pro / Gemini 4 Argon all accept images, documents and audio in the same interface, and early-fusion training has largely displaced the "attach a vision encoder afterwards" pattern for frontier models.
+- **Multi-modality moved from bolt-on to native.** Current frontier models all accept images, documents and audio in the same interface, and early-fusion training has largely displaced the "attach a vision encoder afterwards" pattern for frontier models.
 - **Dedicated embedding models became a product category.** It is now normal to buy text-and-image embeddings from one API rather than run two incompatible open models.
 - **Document understanding absorbed a lot of OCR work.** Pages are increasingly handled as images by a vision-language model rather than by a text-extraction pipeline, with the trade-off being cost per page and silent misreads.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

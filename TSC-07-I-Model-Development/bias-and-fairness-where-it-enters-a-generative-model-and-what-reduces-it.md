@@ -4,6 +4,8 @@ tsc: 7
 level: Intermediate
 code: K7
 title: Bias and fairness: where it enters a generative model and what reduces it
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Bias and fairness: where it enters a generative model and what reduces it
@@ -43,9 +45,11 @@ A model trained to maximise the likelihood of its corpus reproduces that corpus'
 
 ### What is current as of November 2026
 
-- **Providers publish bias evaluations in system cards.** The GPT-6 generation, Claude 5.5 and Gemini 3.1 Pro / Gemini 4 Argon ship with demographic-representation and stereotype evaluations, which gives buyers something to cite — and something to check rather than trust.
+- **Providers publish bias evaluations in system cards.** Current frontier models ship with demographic-representation and stereotype evaluations, which gives buyers something to cite — and something to check rather than trust.
 - **Image generation improved and did not solve it.** Prompt-to-portrait defaults are more balanced than two years ago, yet occupational and age defaults persist.
 - **Multilingual coverage widened while dialect coverage stayed thin.** Singlish, Malay and Tamil inputs still behave measurably differently from standard English, which matters more in Singapore deployments than headline benchmark parity.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

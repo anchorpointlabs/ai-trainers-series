@@ -4,6 +4,8 @@ tsc: 8
 level: Basic
 code: A4
 title: Design guidelines for ethical AI use
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Design guidelines for ethical AI use
@@ -52,9 +54,11 @@ The second design principle is that good guidelines *name the approved path*. "D
 
 ### What is current as of November 2026
 
-Two changes. First, the approved-tool clause has become the hard part: assistants built on OpenAI's GPT-6 generation, Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and Gemini 4 Argon are all competent, so organisations increasingly approve one vendor-standard tier and forbid consumer accounts, rather than banning AI. Guidelines that still say "do not use AI" are being ignored in practice and should be rewritten.
+Two changes. First, the approved-tool clause has become the hard part: assistants built on current frontier models are all competent, so organisations increasingly approve one vendor-standard tier and forbid consumer accounts, rather than banning AI. Guidelines that still say "do not use AI" are being ignored in practice and should be rewritten.
 
 Second, agentic features mean a guideline now has to address *actions*, not just text: which tools may send email, book, pay or modify records without confirmation. A one-page guideline that covers pasting but not tool use is already out of date.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

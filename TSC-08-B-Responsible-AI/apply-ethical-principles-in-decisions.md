@@ -4,6 +4,8 @@ tsc: 8
 level: Basic
 code: A1
 title: Apply ethical principles in decisions
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Apply ethical principles in decisions
@@ -54,9 +56,11 @@ The second thing this ability requires is knowing where the decision actually si
 
 ### What is current as of November 2026
 
-Two practical changes. First, the oversight conversation has matured from "is there a human?" to "can the human actually see enough?" Products built on OpenAI's GPT-6 generation, Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and Gemini 4 Argon now surface reasoning summaries and confidence signals in many interfaces, which gives a reviewer something to check — and creates a new trap, since a fluent rationale persuades even when it is wrong.
+Two practical changes. First, the oversight conversation has matured from "is there a human?" to "can the human actually see enough?" Products built on current frontier models now surface reasoning summaries and confidence signals in many interfaces, which gives a reviewer something to check — and creates a new trap, since a fluent rationale persuades even when it is wrong.
 
 Second, agentic delegation has made the accountability question urgent. An assistant that can send, book, pay or delete makes decisions continuously, so "who approved this action" must have an answer per action class, not per project. The EU AI Act's high-risk obligations and Singapore's sector rules (MAS for financial decisions, HSA for clinical ones) both push in the same direction: named human, logged override, appeal route.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

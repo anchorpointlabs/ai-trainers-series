@@ -4,6 +4,8 @@ tsc: 3
 level: Advanced
 code: K2
 title: Conditional prompts, context manipulation, refining
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Conditional prompts, context manipulation, refining
@@ -50,7 +52,9 @@ Bullet 1 (`TSC3-Advanced-K1`) says when this matters at all; this bullet is the 
 
 ### What is current as of November 2026
 
-Two shifts. First, **branching inside a single prompt works better than it did**: the late-2026 frontier models — OpenAI's GPT-6 generation, Anthropic's Claude 5.5 line, Google's Gemini 3.1 Pro and Gemini 4 Argon — hold multi-branch rules across long inputs far more reliably than 2023 models, so five-branch triage logic in one prompt is practical rather than a dare. Second, **context is now a cost and caching decision as much as an attention one**: providers cache identical prompt prefixes, so a stable block of rules at the top with the variable document near the bottom is both an attention choice and a discount. What has not changed: the middle of a long paste is where instructions go to be ignored, and a model that plans its own reasoning steps still needs a branch definition rather than a script.
+Two shifts. First, **branching inside a single prompt works better than it did**: current frontier models hold multi-branch rules across long inputs far more reliably than 2023 models, so five-branch triage logic in one prompt is practical rather than a dare. Second, **context is now a cost and caching decision as much as an attention one**: providers cache identical prompt prefixes, so a stable block of rules at the top with the variable document near the bottom is both an attention choice and a discount. What has not changed: the middle of a long paste is where instructions go to be ignored, and a model that plans its own reasoning steps still needs a branch definition rather than a script.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

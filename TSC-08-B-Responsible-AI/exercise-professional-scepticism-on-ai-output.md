@@ -4,6 +4,8 @@ tsc: 8
 level: Basic
 code: A6
 title: Exercise professional scepticism on AI output
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Exercise professional scepticism on AI output
@@ -56,9 +58,11 @@ The other half is proportion. Scepticism applied to everything is paralysis. The
 
 ### What is current as of November 2026
 
-Models have become better at citing and at saying "I'm not certain", which is genuinely useful and slightly dangerous: the citation format is now convincing enough that readers skip the click. Systems built on OpenAI's GPT-6 generation, Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and Gemini 4 Argon increasingly attach sources and reasoning summaries — treat those as *navigation aids*, not as verification. The source still has to be opened.
+Models have become better at citing and at saying "I'm not certain", which is genuinely useful and slightly dangerous: the citation format is now convincing enough that readers skip the click. Systems built on current frontier models increasingly attach sources and reasoning summaries — treat those as *navigation aids*, not as verification. The source still has to be opened.
 
 The other shift is agentic action. When an assistant drafts, the worst case is a wrong paragraph; when it acts, the worst case is a wrong transaction. Scepticism about output becomes scepticism about *actions*: require confirmation before anything irreversible, and read the plan before approving it.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

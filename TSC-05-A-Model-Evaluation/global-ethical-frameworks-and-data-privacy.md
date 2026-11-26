@@ -4,6 +4,8 @@ tsc: 5
 level: Advanced
 code: K5
 title: "The rulebook an evaluation must survive: ethical frameworks and data privacy"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # The rulebook an evaluation must survive: ethical frameworks and data privacy
@@ -48,6 +50,8 @@ The privacy questions that matter in practice are narrow and more useful than a 
 ### What is current as of November 2026
 
 Two shifts. Assurance has become a procurement requirement: buyers ask vendors for evaluation evidence, and a vendor that cannot produce its judge, rubric and slice table loses the deal — pushing frameworks out of the policy team and into the sales cycle. And the practical centre of gravity has moved from principles to **records**: model cards, evaluation reports, provenance logs, audit trails. The frameworks themselves have not changed much; the expectation that you can show your working has.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

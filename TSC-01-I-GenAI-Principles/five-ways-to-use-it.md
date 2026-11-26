@@ -4,6 +4,8 @@ tsc: 1
 level: Intermediate
 code: A2
 title: "Five ways to use it: summarise, infer, reason, transform, augment"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Five ways to use it: summarise, infer, reason, transform, augment
@@ -57,9 +59,11 @@ Order the families by distance and the bullet organises itself. A summariser tha
 
 ### What is current as of November 2026
 
-Summarisation has become a product rather than a prompt. NotebookLM answers only from uploaded sources, refuses when the answer is absent, and cites to the paragraph; long-context models — OpenAI's GPT-6 generation (Astra, Sol, Luna, 6.1 Sol, 6.1 Terra, Cyber), Anthropic's Claude 5.5 line, Google's Gemini 3.1 Pro and Gemini 4 Argon — hold whole document sets rather than retrieved snippets.
+Summarisation has become a product rather than a prompt. NotebookLM answers only from uploaded sources, refuses when the answer is absent, and cites to the paragraph; long-context models hold whole document sets rather than retrieved snippets.
 
-Reasoning is now a selectable mode on most of these, so that family has a visible cost: more deliberation, latency and tokens, and a working trace you can inspect. Transformation has moved into side-by-side editing surfaces, where a learner highlights one paragraph instead of regenerating a document. Augmentation in the retrieval sense is the default architecture for private material; the trade is chunk-level precision against full-document recall.
+Reasoning is now a selectable mode on most models, so that family has a visible cost: more deliberation, latency and tokens, and a working trace you can inspect. Transformation has moved into side-by-side editing surfaces, where a learner highlights one paragraph instead of regenerating a document. Augmentation in the retrieval sense is the default architecture for private material; the trade is chunk-level precision against full-document recall.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

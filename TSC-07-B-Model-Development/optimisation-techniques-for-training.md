@@ -4,6 +4,8 @@ tsc: 7
 level: Basic
 code: K7
 title: "Optimisation: the learning rate, the batch and the knobs that decide a run"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Optimisation: the learning rate, the batch and the knobs that decide a run
@@ -56,6 +58,8 @@ Two things make this harder than it sounds. First, the landscape is not a bowl �
 The defaults have hardened. For supervised fine-tuning of open-weight models, the standard recipe is AdamW, a small learning rate, a short warm-up, cosine decay, gradient clipping at 1.0, and bf16 mixed precision. Tooling — TRL, Axolotl, Unsloth — ships sensible defaults, which is a mixed blessing: learners get working runs without understanding them, then cannot diagnose the run that fails.
 
 Two genuine shifts. First, **bf16 has largely displaced fp16** on modern accelerators because it does not need loss scaling, removing a whole class of beginner bug. Second, **the interesting optimisation problem moved to post-training**: preference-based methods that align a model to human judgements have their own optimisation behaviour, and the frontier labs' advantage increasingly sits there rather than in the pre-training loop.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

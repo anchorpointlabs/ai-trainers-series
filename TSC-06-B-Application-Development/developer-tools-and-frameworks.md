@@ -4,6 +4,8 @@ tsc: 6
 level: Basic
 code: K4
 title: "The developer stack: which tool earns its place at each layer"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # The developer stack: which tool earns its place at each layer
@@ -48,6 +50,8 @@ Frameworks exist because thousands of teams solved the same five problems in the
 - **The agent SDK consolidated.** Orchestration thinned into a few agent-first libraries; the 2023-era "chain everything" style is now considered over-engineering.
 - **MCP became the connective tissue.** The Model Context Protocol — a standard way for a model to reach tools and data — is supported across the major assistants and IDEs, so a learner can attach a database without writing glue.
 - **The build environment became an agent.** Claude Code, Codex and Cursor-class tools now write, run and debug alongside the developer. Knowing the tools means less syntax recall and more specification and review.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

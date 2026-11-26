@@ -4,6 +4,8 @@ tsc: 8
 level: Intermediate
 code: A4
 title: Evaluate privacy vs performance trade-offs
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Evaluate privacy vs performance trade-offs
@@ -52,7 +54,9 @@ The professional output is a sentence with four parts: the measure, the measured
 
 Two product shifts have moved this trade. First, capable small models make local and on-device processing viable for a much wider set of tasks, which improves privacy and footprint simultaneously — a genuine both-sides win where it applies. Second, and in the other direction, agentic and retrieval systems log everything: prompts, retrieved chunks, tool calls and outputs. Teams that carefully anonymise their training data then keep a verbatim transcript of every customer conversation in an observability platform.
 
-The vendor side has also standardised. Enterprise agreements now commonly include zero-retention terms and regional processing commitments, and providers such as the GPT-6 generation (Astra, Sol, Luna, 6.1 Sol, 6.1 Terra, Cyber), Claude 5.5, Gemini 3.1 Pro and Gemini 4 Argon offer enterprise tiers with different data handling. The contract is now part of the technical control, which is a shift learners need to hear.
+The vendor side has also standardised. Enterprise agreements now commonly include zero-retention terms and regional processing commitments, and providers of the current frontier models offer enterprise tiers with different data handling. The contract is now part of the technical control, which is a shift learners need to hear.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

@@ -4,6 +4,8 @@ tsc: 4
 level: Intermediate
 code: A4
 title: Analyse output quality and coherence
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Analyse output quality and coherence
@@ -55,11 +57,13 @@ Four checks, ninety seconds, and the failure distribution in the room changes im
 
 ### What is current as of November 2026
 
-For the 2026 frontier — OpenAI's GPT-6 generation, Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and Gemini 4 Argon — three things changed the analysis:
+With current frontier models, three things changed the analysis:
 
 - **Grounding improved where retrieval is used.** Answers that cite a source are more often faithful to it, which shifts the review burden from "is this invented" to "did it cite the right passage".
 - **Reasoning modes reduced arithmetic and multi-step errors** while leaving tone and framing errors untouched. The failure profile moved rather than shrank.
 - **Verbosity stayed a defect.** Longer, better-formatted answers still read as more authoritative, and reviewers still over-reward structure. Style-controlled evaluation exists precisely because of this.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

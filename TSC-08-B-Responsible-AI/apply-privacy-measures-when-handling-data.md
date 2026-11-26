@@ -4,6 +4,8 @@ tsc: 8
 level: Basic
 code: A5
 title: Apply privacy measures when handling data
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Apply privacy measures when handling data
@@ -54,9 +56,11 @@ The generative AI twist is that a new exposure point appeared in the middle of t
 
 ### What is current as of November 2026
 
-Enterprise tiers of the major assistants — the organisational products around OpenAI's GPT-6 generation, Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and Gemini 4 Argon — now typically ship retention controls, admin audit logs and in-product PII detection, which moves several of these measures from "user discipline" to "configuration". Trainers should show the settings, not just describe them.
+Enterprise tiers of the major assistants — the organisational products around current frontier models — now typically ship retention controls, admin audit logs and in-product PII detection, which moves several of these measures from "user discipline" to "configuration". Trainers should show the settings, not just describe them.
 
 The other shift is enforcement posture: PDPC guidance on AI recommendation and decision systems expects documented data lineage and a lawful basis, so the practical artefact is a record of what was used, why, and what protections applied. Organisations that can produce that record fare very differently from those that cannot.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

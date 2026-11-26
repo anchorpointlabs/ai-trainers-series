@@ -4,6 +4,8 @@ tsc: 1
 level: Intermediate
 code: A1
 title: "From task to use case: applying the principles before you prompt"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # From task to use case: applying the principles before you prompt
@@ -55,7 +57,9 @@ Five moves turn a task into a use case:
 
 Two product shifts have made "locate the truth" much cheaper. Source-grounded tools — NotebookLM most strictly — answer only from the documents you supply, refuse when the answer is absent, and cite to the paragraph. Search-first answer engines attach a footnote to each claim. Neither proves the claim, but both turn "where did this come from" from an investigation into a click.
 
-The second shift is that a use case can now include an action. With tool access, the current frontier families — OpenAI's GPT-6 generation (Astra, Sol, Luna, 6.1 Sol, 6.1 Terra, Cyber), Anthropic's Claude 5.5 line, Google's Gemini 3.1 Pro and Gemini 4 Argon — complete sequences rather than return documents. The check moves from "read the output" to "approve the action", which is a governance decision. Structured outputs have meanwhile turned format compliance from a check into a constraint.
+The second shift is that a use case can now include an action. With tool access, the current frontier families complete sequences rather than return documents. The check moves from "read the output" to "approve the action", which is a governance decision. Structured outputs have meanwhile turned format compliance from a check into a constraint.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

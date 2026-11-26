@@ -4,6 +4,8 @@ tsc: 7
 level: Basic
 code: A2
 title: "Implementing a model from an existing architecture, without inventing anything"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Implementing a model from an existing architecture, without inventing anything
@@ -57,6 +59,8 @@ The four things that must agree:
 The hub has become the work surface. Hugging Face's `transformers`, `diffusers` and `timm` libraries now cover the overwhelming majority of published architectures, and loading a model is two lines with a documented config behind them. Two shifts matter for a Basic class: **safetensors has displaced pickle-based checkpoints** as the default weight format, largely for security reasons, and **architecture families are increasingly standardised across vendors**, so the same loading code works for a Llama-derived, Qwen-derived or Mistral-derived checkpoint.
 
 The honest consequence: writing an architecture from scratch is now a research skill, not a practitioner skill. Reading one, adapting its head, and loading it correctly is the practitioner skill this bullet tests.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

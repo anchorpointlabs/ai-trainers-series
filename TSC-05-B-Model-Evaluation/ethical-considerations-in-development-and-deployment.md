@@ -4,6 +4,8 @@ tsc: 5
 level: Basic
 code: K6
 title: Ethical considerations in AI development and deployment
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Ethical considerations in AI development and deployment
@@ -44,6 +46,8 @@ This is the seed of an entire TSC. `TSC8` (Responsible AI) is this bullet expand
 ### What is current as of November 2026
 
 Ethics has moved from a discussion topic to a compliance topic. Singapore's IMDA Model AI Governance Framework for Generative AI is the reference, and PDPA obligations (consent, purpose limitation, data protection) now directly constrain what an organisation may send to a model and how it may deploy the result. The frontier also sharpened one specific concern: **deepfakes and synthetic identity** — late-2026 generation models are good enough to fabricate convincing voice and image, which turns "is this AI-generated" from a curiosity into a fraud-prevention question. Evaluation of a model now routinely includes asking whether its outputs could be misused that way.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

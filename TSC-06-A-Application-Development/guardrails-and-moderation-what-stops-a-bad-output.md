@@ -4,6 +4,8 @@ tsc: 6
 level: Advanced
 code: K2
 title: "Guardrails and moderation: what actually stops a bad output"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Guardrails and moderation: what actually stops a bad output
@@ -54,6 +56,8 @@ A second idea matters as much: **layer, do not stack.** A keyword list, a classi
 - **Agents raised the stakes.** When output becomes action — sending, booking, paying — a guardrail that only reads text is insufficient; permission scoping and approval steps do more work than any filter.
 - **Testing toolkits matured.** Singapore's AI Verify ecosystem and similar open toolkits now provide process checks and test harnesses, which is useful for governance evidence but not a substitute for testing your own content.
 - **Moderation is priced and metered.** Most model providers expose moderation endpoints, so the question is now cost per thousand checks rather than availability.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

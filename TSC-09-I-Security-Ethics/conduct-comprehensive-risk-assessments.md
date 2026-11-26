@@ -4,6 +4,8 @@ tsc: 9
 level: Intermediate
 code: A4
 title: Conduct comprehensive risk assessments
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Conduct comprehensive risk assessments
@@ -62,10 +64,12 @@ Finally, ranking. Comprehensiveness is not a longer list; it is a list short eno
 
 ### What is current as of November 2026
 
-Assessments now have to cover action, not just speech. The late-2026 frontier — OpenAI's GPT-6 generation (Astra, Sol, Luna, 6.1 Sol, 6.1 Terra and the security-tuned Cyber), Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and Gemini 4 Argon — is commonly wired to tools, so the tool surface is where most of the register's top rows now sit. Procurement and regulators also expect the artefact: a register that can be shown, not a workshop that can be remembered.
+Assessments now have to cover action, not just speech. Current frontier models are commonly wired to tools, so the tool surface is where most of the register's top rows now sit. Procurement and regulators also expect the artefact: a register that can be shown, not a workshop that can be remembered.
 
 - **Tool surface first.** Enumerate tools and their reach before writing the first model-related risk.
 - **Third-party components are in scope.** Plugins and connectors inherit your trust and bring their own.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

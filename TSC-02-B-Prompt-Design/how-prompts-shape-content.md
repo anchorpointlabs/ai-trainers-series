@@ -4,6 +4,8 @@ tsc: 2
 level: Basic
 code: K2
 title: How prompts shape content
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # How prompts shape content
@@ -50,7 +52,9 @@ Three practical consequences follow, and every other principle in this bullet is
 
 ### What is current as of November 2026
 
-Two changes matter here. First, the strongest 2026 models — OpenAI's GPT-6 generation, Anthropic's Claude 5.5 line, Google's Gemini 3.1 Pro and Gemini 4 Argon — hold far more context than their predecessors, which makes the ordering effect more visible, not less: the longer the window, the more a mid-document instruction gets diluted. Second, the newest reasoning-tuned models often do substantial internal work before emitting anything, so prompts that once needed "explain your steps" now often produce tighter answers without it.
+Two changes matter here. First, the strongest current models hold far more context than their predecessors, which makes the ordering effect more visible, not less: the longer the window, the more a mid-document instruction gets diluted. Second, the newest reasoning-tuned models often do substantial internal work before emitting anything, so prompts that once needed "explain your steps" now often produce tighter answers without it.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

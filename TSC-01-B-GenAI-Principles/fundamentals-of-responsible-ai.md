@@ -4,6 +4,8 @@ tsc: 1
 level: Basic
 code: K7
 title: Fundamentals of responsible AI
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Fundamentals of responsible AI
@@ -60,6 +62,8 @@ This bullet supplies the principles that `TSC1-Basic-A05` operationalises as fiv
 - **AI Verify is the practical assurance route.** It gives an organisation something to point at when a client asks "how do you know?". It tests; it does not certify your judgement.
 - **Agentic deployments made oversight urgent rather than theoretical.** With read-only tools oversight is a reading task; with write tools it is an approval task, and approval fatigue is the new failure mode — a human who has approved fifty correct actions will approve the fifty-first unread.
 - **Disclosure expectations hardened in service and hiring.** The direction of travel is clear even where rules lag: tell people, and give them a route to a human.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

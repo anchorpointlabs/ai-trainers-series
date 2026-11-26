@@ -4,6 +4,8 @@ tsc: 9
 level: Basic
 code: K1
 title: Fundamentals of AI model security
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Fundamentals of AI model security
@@ -50,10 +52,12 @@ The framework's second half — monitoring and reporting — follows from this. 
 
 ### What is current as of November 2026
 
-The frontier models of late 2026 — OpenAI's GPT-6 generation (Astra, Sol, Luna, 6.1 Sol, 6.1 Terra and the security-tuned Cyber), Anthropic's Claude 5.5 line, Google's Gemini 3.1 Pro and Gemini 4 Argon — are harder to trick with a crude "ignore your instructions" than their predecessors, because vendors now train an instruction hierarchy: developer messages outrank user messages, and user messages outrank retrieved text. That is a real improvement and not a fix — and these are also the models being wired to tools and browsers, which raises the cost of a successful trick.
+Current frontier models are harder to trick with a crude "ignore your instructions" than their predecessors, because vendors now train an instruction hierarchy: developer messages outrank user messages, and user messages outrank retrieved text. That is a real improvement and not a fix — and these are also the models being wired to tools and browsers, which raises the cost of a successful trick.
 
 - **Hierarchy reduces frequency, not possibility.** A document can still be written to sound like the developer.
 - **Guardrails now ship as a platform feature.** Input and output classifiers are usually a switch. Switched on is not the same as working; it has to be tested.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

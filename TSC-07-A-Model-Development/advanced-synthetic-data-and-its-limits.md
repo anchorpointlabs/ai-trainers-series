@@ -4,6 +4,8 @@ tsc: 7
 level: Advanced
 code: K7
 title: Synthetic data: the substitute teacher with a blind spot
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Synthetic data: the substitute teacher with a blind spot
@@ -47,7 +49,9 @@ That distinction produces the useful rule: *synthetic data is a coverage tool, n
 
 ### What is current as of November 2026
 
-Synthetic data has become standard practice in post-training pipelines, particularly for instruction-following, tool use and code, where verification is cheap. The frontier labs' late-2026 releases — the GPT-6 generation, Claude 5.5, Gemini 3.1 Pro and 4 Argon — are widely understood to use substantial generated data alongside human data, with heavy filtering. The open question the field has not closed is long-horizon diversity: generated agent trajectories tend to repeat the same successful paths, which trains confident but narrow agents.
+Synthetic data has become standard practice in post-training pipelines, particularly for instruction-following, tool use and code, where verification is cheap. Current frontier models are widely understood to use substantial generated data alongside human data, with heavy filtering. The open question the field has not closed is long-horizon diversity: generated agent trajectories tend to repeat the same successful paths, which trains confident but narrow agents.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

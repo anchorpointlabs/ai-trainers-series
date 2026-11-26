@@ -4,6 +4,8 @@ tsc: 5
 level: Advanced
 code: A7
 title: "Advocacy that holds up: making responsible evaluation the default"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Advocacy that holds up: making responsible evaluation the default
@@ -54,6 +56,8 @@ Ethics is the reason *you* care. It is rarely the reason the room moves. That is
 ### What is current as of November 2026
 
 Procurement has become the most effective lever. Buyers now ask vendors for evaluation evidence — judge identity, rubric, disaggregated results — and a vendor that cannot produce them loses deals, which has done more for evaluation practice in two years than a decade of principles documents. Inside organisations the same shift is visible: evaluation is moving from research courtesy to release gate, and the advocates who succeed made that gate cheap to pass. The failure mode of the period is ethics theatre — a principles statement, a responsible-AI committee, and no change to any checklist.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

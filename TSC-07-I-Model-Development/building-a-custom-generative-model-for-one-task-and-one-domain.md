@@ -4,6 +4,8 @@ tsc: 7
 level: Intermediate
 code: A1
 title: Building a custom generative model for one task and one domain
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Building a custom generative model for one task and one domain
@@ -43,9 +45,11 @@ Twelve years ago "build a model" meant architecture design. Now the architecture
 
 ### What is current as of November 2026
 
-- **Custom work is post-training plus plumbing.** Most "custom models" built on the GPT-6 generation, Claude 5.5 or Gemini 3.1 Pro are an adapter, a schema, a retrieval index and a guardrail — not a new architecture.
+- **Custom work is post-training plus plumbing.** Most "custom models" built on current frontier models are an adapter, a schema, a retrieval index and a guardrail — not a new architecture.
 - **Small specialised models became viable again.** Distillation from a strong API model into a small open-weight model now produces domain assistants that run cheaply on-prem.
 - **Constrained decoding is standard.** Grammar-based output and function calling have made "the model returns exactly this shape" an engineering default rather than a research hope.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

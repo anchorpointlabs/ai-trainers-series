@@ -4,6 +4,8 @@ tsc: 3
 level: Basic
 code: K4
 title: One intent, four modes: what a prompt can and cannot steer
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # One intent, four modes: what a prompt can and cannot steer
@@ -55,9 +57,11 @@ This is the practitioner-level view of `TSC2-Basic-K3` (Prompt Design); see that
 
 ### What is current as of November 2026
 
-The modes have converged into single products and diverged in behaviour. One chat surface now handles text, image, voice and file analysis, but the prompt that works in each is still written differently, and the current frontier families — the GPT-6 line, Claude 5.5, Gemini 3.1 Pro and Gemini 4 Argon — differ more in their image and voice behaviour than in their text behaviour. Two practical shifts: image models now render legible text well enough that poster work has moved from "generate then rebuild in a design tool" to "generate and correct", and code models with repository context have made "specify the contract, then run the tests" the normal working method rather than an advanced one.
+The modes have converged into single products and diverged in behaviour. One chat surface now handles text, image, voice and file analysis, but the prompt that works in each is still written differently, and the current frontier families differ more in their image and voice behaviour than in their text behaviour. Two practical shifts: image models now render legible text well enough that poster work has moved from "generate then rebuild in a design tool" to "generate and correct", and code models with repository context have made "specify the contract, then run the tests" the normal working method rather than an advanced one.
 
 Voice has moved from turn-taking to real-time conversation, which makes pacing instructions matter more than pronunciation instructions — the model now decides when to stop talking.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

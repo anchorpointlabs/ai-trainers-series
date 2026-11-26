@@ -4,6 +4,8 @@ tsc: 6
 level: Advanced
 code: K5
 title: "Generative AI meets emerging technology: four integration patterns"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Generative AI meets emerging technology: four integration patterns
@@ -61,6 +63,8 @@ The Advanced judgement is refusing to force a use case into the wrong shape. A v
 - **On-device models ship in ordinary consumer devices** for summarisation, dictation and photo features, which quietly moved a large volume of inference off the server.
 - **Embodied pilots concentrate in logistics, inspection and facilities**, where the task is bounded and the safety case can be written.
 - **Provenance metadata is appearing in publishing and camera workflows**, unevenly, and regulators are watching rather than mandating.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

@@ -4,6 +4,8 @@ tsc: 3
 level: Basic
 code: A3
 title: Comparing prompt designs without fooling yourself
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Comparing prompt designs without fooling yourself
@@ -60,6 +62,8 @@ This is the practitioner-level view of `TSC2-Basic-A8` (Prompt Design); see that
 Comparison has become cheaper and more necessary. Structured outputs let you score format compliance mechanically instead of by eye; evaluation tooling has moved from research code into ordinary product features; and long context means a single test input can be a whole document, so a ten-input set is now realistic rather than laborious.
 
 The necessity comes from model churn. Behaviour shifts between versions behind stable product names, so a decision recorded last quarter is a hypothesis this quarter. Comparisons now carry a date and a model version, or they are folklore.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

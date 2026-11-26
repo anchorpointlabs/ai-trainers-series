@@ -4,6 +4,8 @@ tsc: 2
 level: Basic
 code: K5
 title: Prompt construction techniques and settings
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Prompt construction techniques and settings
@@ -52,7 +54,9 @@ None of this is a template to fill in mechanically. The four moves overlap, and 
 
 ### What is current as of November 2026
 
-Two shifts. First, the dials have largely disappeared from consumer chat interfaces: temperature and top-p now live mostly in APIs and developer consoles, so a Basic learner is usually adjusting *the prompt*, not the sampling. Teach settings as "a thing that exists and is not in your chat box", and demonstrate them only if your room is technical. Second, the frontier models of late 2026 — OpenAI's GPT-6 generation, Anthropic's Claude 5.5 line, Google's Gemini 3.1 Pro and Gemini 4 Argon — have become markedly better at zero-shot following of a precise instruction, which means one-shot examples are less often needed for format and more often used for house style that cannot be described in words.
+Two shifts. First, the dials have largely disappeared from consumer chat interfaces: temperature and top-p now live mostly in APIs and developer consoles, so a Basic learner is usually adjusting *the prompt*, not the sampling. Teach settings as "a thing that exists and is not in your chat box", and demonstrate them only if your room is technical. Second, current frontier models have become markedly better at zero-shot following of a precise instruction, which means one-shot examples are less often needed for format and more often used for house style that cannot be described in words.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

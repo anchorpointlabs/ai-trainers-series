@@ -4,6 +4,8 @@ tsc: 5
 level: Intermediate
 code: K2
 title: "BLEU, Inception Score and FID: what they measure and what they miss"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # BLEU, Inception Score and FID: what they measure and what they miss
@@ -48,6 +50,8 @@ The three named in the framework come from two different traditions and are ofte
 ### What is current as of November 2026
 
 BLEU survives in translation and summarisation reporting but is rarely quoted alone; learned metrics (COMET-style for translation, BERTScore for general text) and pairwise judge preferences have taken over text quality. FID and FVD remain the default for image and video generation papers and remain criticised for exactly the reasons above — practitioners now fix sample size and implementation and report FID alongside a human or model-based preference measure. The bigger shift is that **the headline metric for text is now a judge**, which moves the blind spot from "does not understand meaning" to "inherits the judge's biases". The metric did not get objective; the bias moved.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

@@ -4,6 +4,8 @@ tsc: 9
 level: Intermediate
 code: K3
 title: Risk assessment methodologies
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Risk assessment methodologies
@@ -50,10 +52,12 @@ Impact, by contrast, is usually easier and should be estimated in the organisati
 
 ### What is current as of November 2026
 
-Assessment practice has been reshaped by agency. The late-2026 frontier — OpenAI's GPT-6 generation (Astra, Sol, Luna, 6.1 Sol, 6.1 Terra and the security-tuned Cyber), Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and Gemini 4 Argon — is routinely deployed with tools, so assessments that stop at "the model's outputs" miss the part that matters.
+Assessment practice has been reshaped by agency. Current frontier models are routinely deployed with tools, so assessments that stop at "the model's outputs" miss the part that matters.
 
 - **Tool reach is now the dominant axis.** Two systems on the same model can differ by an order of magnitude in risk because one can send email and the other cannot.
 - **Regulators and buyers both want the register.** PDPA obligations and enterprise procurement now ask for evidence of assessment, which makes the artefact as important as the analysis.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

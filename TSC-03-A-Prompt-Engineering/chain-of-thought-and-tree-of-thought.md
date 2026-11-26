@@ -4,6 +4,8 @@ tsc: 3
 level: Advanced
 code: K4
 title: Chain-of-Thought and Tree of Thought
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Chain-of-Thought and Tree of Thought
@@ -50,11 +52,13 @@ Bullet 3 (`TSC3-Advanced-K3`) is where the reasoning field must sit inside a str
 
 ### What is current as of November 2026
 
-The late-2026 frontier models — OpenAI's GPT-6 generation (including the 6.1 Sol and 6.1 Terra variants), Anthropic's Claude 5.5 line, Google's Gemini 3.1 Pro and Gemini 4 Argon — increasingly plan before answering without being asked. Three practical consequences:
+Current frontier models increasingly plan before answering without being asked. Three practical consequences:
 
 - **Forcing verbose CoT on a model that already reasons can hurt.** It adds latency, inflates output length, and sometimes derails a plan the model had already formed. Ask for the answer plus a short justification, and ask for the full derivation only when you need to audit it.
 - **The skill moved from eliciting steps to specifying and checking them.** What is scarce now is not a prompt that says "think step by step" but one that names the steps the organisation requires and defines what makes the answer acceptable.
 - **ToT survives as multi-candidate generation.** Generating several options in parallel and selecting against explicit criteria is cheaper and more reliable than simulating branching inside one prompt — which is why it now looks less like a prompting trick and more like a pipeline.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

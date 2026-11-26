@@ -4,6 +4,8 @@ tsc: 8
 level: Intermediate
 code: K3
 title: Implications of biased algorithms and societal impact
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Implications of biased algorithms and societal impact
@@ -55,9 +57,11 @@ The framework calls this "potential societal impact", which is deliberately broa
 
 Generative models have widened the representational side of this bullet. Image and video models default to majority-culture depictions unless prompted otherwise; language models are fluent in standard English and noticeably weaker on Singlish, Bahasa Melayu and Tamil code-switching; and voice models degrade for elderly speakers and strong accents. The allocative side has moved too: agents now act on bias rather than merely describing it, so a skewed screening step no longer produces an unfair sentence — it produces an unfair rejection email.
 
-Provider-level bias evaluations exist for the current generation — GPT-6 (Astra, Sol, Luna, 6.1 Sol, 6.1 Terra, Cyber), Claude 5.5, Gemini 3.1 Pro and Gemini 4 Argon all ship evaluation summaries — but they are largely English-language, Western-context benchmarks. The harm your users experience is local, and it is measured by your own test set or not at all.
+Provider-level bias evaluations exist for the current generation, and current frontier models all ship evaluation summaries, but they are largely English-language, Western-context benchmarks. The harm your users experience is local, and it is measured by your own test set or not at all.
 
 On the regulatory side the trend is towards mandatory audit before use rather than disclosure after harm: annual independent bias audits for automated employment tools in some US jurisdictions, reasonable-care duties for high-risk systems in others, and sector rules in Singapore that make fair treatment an enforceable expectation rather than a slogan.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

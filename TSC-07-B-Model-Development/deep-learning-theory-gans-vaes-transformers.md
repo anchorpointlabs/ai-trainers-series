@@ -4,6 +4,8 @@ tsc: 7
 level: Basic
 code: K1
 title: "Deep learning theory: GANs, VAEs and transformers in plain terms"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Deep learning theory: GANs, VAEs and transformers in plain terms
@@ -51,9 +53,11 @@ A **transformer** reads a whole sequence at once through *attention*, weighing e
 
 ### What is current as of November 2026
 
-The transformer won. Every frontier system named in this library — the GPT-6 generation (Astra, Sol, Luna, 6.1 Sol, 6.1 Terra, Cyber), Claude 5.5, Gemini 3.1 Pro and Gemini 4 Argon — is transformer-family, and so are the open-weight models most teams fine-tune. GANs have retreated into components and niches: super-resolution, real-time avatars, some synthetic-data pipelines. VAEs survive mainly as the compressor inside latent diffusion models. Diffusion is the default for images and video, and increasingly for audio.
+The transformer won. Every frontier system in this library is transformer-family, and so are the open-weight models most teams fine-tune. GANs have retreated into components and niches: super-resolution, real-time avatars, some synthetic-data pipelines. VAEs survive mainly as the compressor inside latent diffusion models. Diffusion is the default for images and video, and increasingly for audio.
 
 The practical shift for a Basic class: you are far more likely to *adapt* a transformer than to train any of these from scratch. Learn the families as vocabulary and as diagnosis — "this output is blurry" points at a VAE-lineage component; "this output repeats itself" points at decoding and training data.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

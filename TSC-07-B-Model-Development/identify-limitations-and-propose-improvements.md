@@ -4,6 +4,8 @@ tsc: 7
 level: Basic
 code: A5
 title: "Naming a model's limits and proposing the first fix"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Naming a model's limits and proposing the first fix
@@ -61,6 +63,8 @@ The discipline is in step 6. Learners want to propose fine-tuning because it is 
 Two shifts make this skill more valuable, not less. First, **frontier models fail differently than they used to**: fewer outright grammatical collapses, more plausible-but-wrong specifics, more silent omission of a constraint in a long instruction. The taxonomy has moved from "broken output" to "confidently incomplete output". Second, **model-assisted review is cheap enough to be routine** — a strong model can tag a few hundred outputs against your rubric in minutes, which means the bottleneck is now writing the rubric and auditing the tags, not reading every output.
 
 The practical implication for a Basic class: error analysis is no longer the slow part of the work, so there is no excuse for skipping it before proposing a fix.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

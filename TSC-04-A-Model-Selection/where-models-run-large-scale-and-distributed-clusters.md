@@ -4,6 +4,8 @@ tsc: 4
 level: Advanced
 code: K1
 title: Where models run — large-scale and distributed clusters
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Where models run — large-scale and distributed clusters
@@ -50,10 +52,12 @@ A production cluster combines all three. The selection consequence is blunt: a m
 
 ### What is current as of November 2026
 
-The frontier models of late 2026 — OpenAI's GPT-6 generation, Anthropic's Claude 5.5 line, Google's Gemini 3.1 Pro and Gemini 4 Argon — are all served from vendor clusters that you rent by the token, and none of them is something a mid-sized Singapore firm would host itself. Two serving-side shifts matter for this bullet:
+Current frontier models are all served from vendor clusters that you rent by the token, and none of them is something a mid-sized Singapore firm would host itself. Two serving-side shifts matter for this bullet:
 
 - **Reasoning models changed the cost profile.** A model that emits thousands of hidden reasoning tokens before answering is decode-bound for far longer than a standard instruct model. Same question, same visible answer length, several times the GPU seconds. Latency budgets written for 2025 assumptions now fail.
 - **Batch and cached tiers became normal.** Asynchronous batch endpoints at roughly half price, and prompt caching that discounts repeated input, moved the economics of high-volume document work. Selection now includes "which tier" as well as "which model".
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

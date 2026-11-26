@@ -4,6 +4,8 @@ tsc: 6
 level: Basic
 code: A5
 title: "Configuration hygiene: the settings that quietly decide whether your app works"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Configuration hygiene: the settings that quietly decide whether your app works
@@ -54,6 +56,8 @@ The habit is to treat configuration as an artefact with an owner, a record and a
 - **Secret scanning is a gate, not a courtesy.** Hosting platforms block pushes containing recognised credentials, and providers auto-revoke keys that appear publicly. The safety net exists; relying on it is still a bad habit.
 - **Model snapshots retire on a published schedule.** Pinning a model is a configuration decision with a calendar attached: someone must own the deprecation notice and the migration.
 - **Admin consoles centralised settings** and added audit logs, making "who changed this" answerable for the first time.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

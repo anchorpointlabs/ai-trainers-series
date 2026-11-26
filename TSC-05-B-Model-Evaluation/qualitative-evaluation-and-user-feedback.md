@@ -4,6 +4,8 @@ tsc: 5
 level: Basic
 code: K3
 title: Qualitative evaluation and user feedback: judging what numbers can't
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Qualitative evaluation and user feedback: judging what numbers can't
@@ -44,6 +46,8 @@ This bullet is the human half of `TSC5-Basic-K2` (the four criteria) — the cri
 ### What is current as of November 2026
 
 The shift is that **implicit signals have become the cheap, dominant feedback channel.** Because most people use models through a chat surface that logs copy, edit and regenerate events, organisations now read behaviour directly instead of running surveys. The other shift is a caution: **LLM-as-a-judge has started replacing some expert review** — a strong model grades outputs at scale. At Basic level the teaching point is unchanged: a human still has to calibrate and spot-check the judge, because an automated judge inherits all the biases in `TSC5-Basic-K5`.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

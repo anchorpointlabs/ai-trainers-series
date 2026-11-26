@@ -4,6 +4,8 @@ tsc: 9
 level: Basic
 code: A1
 title: Identify basic security vulnerabilities
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Identify basic security vulnerabilities
@@ -57,10 +59,12 @@ Ask those four of any conversation and most vulnerabilities declare themselves. 
 
 ### What is current as of November 2026
 
-The pattern set is stable; the packaging changes monthly. Injection prompts circulate as shareable text within days of a launch, and the frontier models of late 2026 — OpenAI's GPT-6 generation (Astra, Sol, Luna, 6.1 Sol, 6.1 Terra and the security-tuned Cyber), Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and Gemini 4 Argon — are more resistant to the crude versions while remaining vulnerable to the ones that arrive as ordinary documents.
+The pattern set is stable; the packaging changes monthly. Injection prompts circulate as shareable text within days of a launch, and current frontier models are more resistant to the crude versions while remaining vulnerable to the ones that arrive as ordinary documents.
 
 - **Indirect injection is now the default risk.** Agents read email, tickets, pages and files; the attacker writes the file.
 - **The embarrassing cases are rarely exotic.** A polite sentence inside a PDF beats a clever obfuscated prompt almost every time.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

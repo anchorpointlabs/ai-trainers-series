@@ -4,6 +4,8 @@ tsc: 3
 level: Basic
 code: K6
 title: Data privacy rules for people who paste things into prompts
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Data privacy rules for people who paste things into prompts
@@ -59,6 +61,8 @@ This is the practitioner-level view of `TSC2-Basic-K6` (Prompt Design); see that
 The terms have become the battleground. Enterprise tiers of the major assistants now typically offer no-training commitments, configurable retention, regional processing and administrative controls, while consumer tiers continue to trade those away for free access. At the same time, saved prompts and project files have turned casual use into persistent storage — a shift that quietly moved many organisations from "we don't store customer data in AI tools" to "we store it in twelve people's accounts".
 
 Singapore's guidance has kept pace in shape rather than in detail: the expectation is a documented purpose, a lawful basis, transparency and accountability, with the organisation — not the model provider — answerable for the use.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

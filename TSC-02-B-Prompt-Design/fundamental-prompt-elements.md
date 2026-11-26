@@ -4,6 +4,8 @@ tsc: 2
 level: Basic
 code: A5
 title: Fundamental prompt elements
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Fundamental prompt elements
@@ -50,7 +52,9 @@ There is a deeper version of the same list that trainers should know even if the
 
 ### What is current as of November 2026
 
-Interfaces now supply some elements for you. Saved instructions and project memory act as standing context; structured-output settings act as enforced format; role settings act as system identity. That means fewer elements need to be typed, and more need to be *checked* — a learner who does not know what is in their saved instructions cannot tell whether the prompt or the standing brief produced a particular answer. The late-2026 frontier models — OpenAI's GPT-6 generation, Claude 5.5, Gemini 3.1 Pro and Gemini 4 Argon — are also more tolerant of an element being implied rather than stated, which is a gift to experienced writers and a trap for beginners who never learn to state it.
+Interfaces now supply some elements for you. Saved instructions and project memory act as standing context; structured-output settings act as enforced format; role settings act as system identity. That means fewer elements need to be typed, and more need to be *checked* — a learner who does not know what is in their saved instructions cannot tell whether the prompt or the standing brief produced a particular answer. Current frontier models are also more tolerant of an element being implied rather than stated, which is a gift to experienced writers and a trap for beginners who never learn to state it.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

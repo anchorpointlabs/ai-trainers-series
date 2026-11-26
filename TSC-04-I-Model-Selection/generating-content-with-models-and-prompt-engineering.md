@@ -4,6 +4,8 @@ tsc: 4
 level: Intermediate
 code: K2
 title: Generating content with models and prompt engineering
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Generating content with models and prompt engineering
@@ -55,11 +57,13 @@ Where prompting stops is worth stating precisely: it stops when you systematical
 
 ### What is current as of November 2026
 
-For the 2026 frontier — OpenAI's GPT-6 generation, Anthropic's Claude 5.5, Google's Gemini 3.1 Pro and Gemini 4 Argon — prompting has become less incantatory and more like specification:
+With current frontier models, prompting has become less incantatory and more like specification:
 
 - **Instruction-following improved enough that elaborate prompt tricks retired.** Persona priming, threats and "take a deep breath" rituals mostly stopped paying. Clear specification is now the differentiator.
 - **Long context made example-stuffing cheaper but not free.** Twenty examples fit; they still cost tokens and prefill time, and three usually suffice.
 - **Native structured output and tool calling moved a whole category of prompting into configuration.** JSON validity, function arguments and citation formats are enforced at the decoder, not coaxed in prose.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

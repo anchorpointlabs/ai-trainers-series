@@ -4,6 +4,8 @@ tsc: 3
 level: Basic
 code: K5
 title: Troubleshooting AI tools: separate the fault domains first
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Troubleshooting AI tools: separate the fault domains first
@@ -59,6 +61,8 @@ This is the practitioner-level view of `TSC2-Basic-K1` (Prompt Design); see that
 ### What is current as of November 2026
 
 Three things have moved. Reasoning-capable models now fail differently: a truncated or unhelpful answer is often a thinking-budget problem rather than a prompt problem, and the fix is a setting, not a rewrite. Long context windows have moved many failures from "it forgot" to "it attended to the wrong part", which makes bisection more useful than adding more material. And platform churn is now the dominant source of "it worked yesterday" — model versions are retired and rerouted behind stable product names, so the practitioner habit that matters most is recording which model version produced an acceptable result, not merely which product.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

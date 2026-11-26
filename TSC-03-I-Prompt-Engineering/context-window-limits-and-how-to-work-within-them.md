@@ -4,6 +4,8 @@ tsc: 3
 level: Intermediate
 code: K4
 title: Context window limits and how to work within them
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Context window limits and how to work within them
@@ -52,11 +54,13 @@ The mechanism is attention. Every token computes a weight against the tokens bef
 
 ### What is current as of November 2026
 
-Advertised windows are now very large: Gemini 3.1 Pro and Gemini 4 Argon, Claude 5.5 and the GPT-6 generation all accept inputs that would have been unthinkable three years ago, and all price long inputs differently from short ones. Three things have not changed:
+Advertised windows are now very large: current frontier models all accept inputs that would have been unthinkable three years ago, and all price long inputs differently from short ones. Three things have not changed:
 
 - **Effective is below advertised.** Every frontier model shows degraded recall in the middle of a very long input. A bigger window moves the cliff; it does not remove it.
 - **Caching changed the economics, not the attention.** Reusing a static prefix is much cheaper and faster, which makes "load the whole small corpus once" a sound pattern — and makes "paste a different 200 pages every turn" as wasteful as ever.
 - **Retrieval is still the answer for large corpora.** Company knowledge bases are measured in millions of documents; no window holds them, and no price list makes sending them per query sane.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

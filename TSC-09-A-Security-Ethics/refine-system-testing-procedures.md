@@ -4,6 +4,8 @@ tsc: 9
 level: Advanced
 code: A1
 title: Refine system testing procedures
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Refine system testing procedures
@@ -54,6 +56,8 @@ K1 defines the threat model and the acceptance bar this procedure implements. K4
 - **Builds change underneath you.** Foundation models are updated and retired by providers; without version pinning, last month's pass is not evidence about this month's system.
 - **Agents require multi-step cases.** A test that ends at the first reply cannot see a five-tool sequence that ends in an email, so the case format now needs to assert on the trajectory, not just the final text.
 - **Long context invites long-form attacks.** Narrative and many-shot jailbreaks need their own class, because they fail differently from a short override.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

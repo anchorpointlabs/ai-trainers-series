@@ -4,6 +4,8 @@ tsc: 6
 level: Advanced
 code: A2
 title: "Serving a model yourself: what TGI and vLLM actually buy you"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Serving a model yourself: what TGI and vLLM actually buy you
@@ -58,6 +60,8 @@ The Advanced judgement is deciding whether to self-host at all. Self-hosting is 
 - **Open-weight models are good enough for narrow production tasks**, which is what made self-hosting common outside research labs.
 - **GPU capacity is rented by the hour and priced by the generation**, so capacity planning is now a monthly financial exercise, not a one-off procurement.
 - **Fine-tuned weights force self-hosting or a managed fine-tune service**, and that is the most common reason teams end up operating a server.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

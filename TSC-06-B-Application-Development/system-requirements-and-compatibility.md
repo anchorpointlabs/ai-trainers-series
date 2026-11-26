@@ -4,6 +4,8 @@ tsc: 6
 level: Basic
 code: K6
 title: "System requirements: the unglamorous checklist that decides whether it runs"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # System requirements: the unglamorous checklist that decides whether it runs
@@ -52,6 +54,8 @@ The professional habit is to write the target environment down before writing co
 - **Local inference became ordinary.** Quantised open models now run acceptably on consumer laptops, so "we must call an API" is no longer true for every use case — especially where data cannot leave the building.
 - **Most teams still never run a model.** They call a hosted API, which moves the compatibility question from graphics memory to SDK version, region and quota. Teach both, and say which one your learners will meet.
 - **Containers became the default answer to "works on my machine".** Packaging the app with its runtime removes most of this bullet's pain and is now table stakes in any deployment conversation.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 

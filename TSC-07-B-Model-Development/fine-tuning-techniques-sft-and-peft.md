@@ -4,6 +4,8 @@ tsc: 7
 level: Basic
 code: K8
 title: "Fine-tuning: turning a general model into one that fits your job"
+as_at: 2026-11-26
+review_by: 2027-02-25
 ---
 
 # Fine-tuning: turning a general model into one that fits your job
@@ -56,6 +58,8 @@ A base model has learned the shape of language, not your procedures. Fine-tuning
 PEFT is now the default, not the budget option. Almost every serious open-weight adaptation — a Llama, Qwen, Mistral or SEA-LION variant tuned on domain data — is a LoRA adapter on a frozen base, because it is cheap, reversible and easy to serve several adapters from one loaded model. Hosted fine-tuning endpoints from the major providers have made the fully-managed version routine, and most now expose a supervised fine-tuning job with a JSONL upload and a trained model ID.
 
 The honest shift for a Basic class: **fine-tuning is no longer the hard part; dataset construction is.** Tooling has absorbed the engineering. What remains scarce is a few hundred genuinely well-written examples that consistently demonstrate the behaviour you want, with the failures documented.
+
+Current models, versions and prices live in the [Living Register](../concepts/living/register.csv), checked monthly. This section covers only what changed for this topic.
 
 ### Common misconceptions
 
