@@ -10,7 +10,7 @@ title: Data anonymisation and de-identification
 
 > **TSC #8 Responsible AI and Generative AI Practices · Basic · Knowledge K3**
 
-**Bullet (verbatim):** Data anonymisation and de-identification techniques.
+**IMDA requirement:** Data anonymisation and de-identification techniques.
 
 **What it means:** Anonymisation removes identifying details so a person cannot be traced: masking (hide part), perturbation (change values slightly), and pseudonymisation (replace names with codes). De-identification is the goal — the techniques are the way there.
 
@@ -19,11 +19,11 @@ title: Data anonymisation and de-identification
 - Name the three techniques.
 - Explain why 'removing the name' is not enough.
 
-**How to teach it in 20 minutes:**
-1. Teach the three techniques with a customer record. (6 min)
-2. Show why name-only removal fails (other fields still identify). (5 min)
-3. Learners anonymise a sample record. (6 min)
-4. Debrief. (3 min)
+**Lesson Plan Ideas:**
+1. Teach the three techniques with a customer record. 
+2. Show why name-only removal fails (other fields still identify). 
+3. Learners anonymise a sample record. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

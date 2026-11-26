@@ -10,7 +10,7 @@ title: Conduct comprehensive risk assessments
 
 > **TSC #9 Generative AI Models — Technical Aspects of Security and Ethics · Intermediate · Ability A4**
 
-**Bullet (verbatim):** Conduct comprehensive risk assessments.
+**IMDA requirement:** Conduct comprehensive risk assessments.
 
 **What it means:** A comprehensive assessment covers the whole system — the model, its data, its tools, its users — and produces a ranked risk register with owners. It is comprehensive because it leaves no surface unexamined.
 
@@ -19,11 +19,11 @@ title: Conduct comprehensive risk assessments
 - Produce a ranked risk register.
 - Assign an owner to each risk.
 
-**How to teach it in 20 minutes:**
-1. Map the surfaces of a sample AI system. (6 min)
-2. Teach the risk register format. (5 min)
-3. Learners produce a short register. (6 min)
-4. Debrief. (3 min)
+**Lesson Plan Ideas:**
+1. Map the surfaces of a sample AI system. 
+2. Teach the risk register format. 
+3. Learners produce a short register. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

@@ -10,7 +10,7 @@ title: Apply ethical principles in decisions
 
 > **TSC #8 Responsible AI and Generative AI Practices · Basic · Ability A1**
 
-**Bullet (verbatim):** Apply ethical principles in decision-making related to AI.
+**IMDA requirement:** Apply ethical principles in decision-making related to AI.
 
 **What it means:** Applying principles means, at the moment of a decision, asking the four questions — fair? transparent? accountable? safe? — and letting the answer change what you do. It is a habit, not a poster.
 
@@ -19,11 +19,11 @@ title: Apply ethical principles in decisions
 - Change a decision when a principle is violated.
 - State which principle a decision serves.
 
-**How to teach it in 20 minutes:**
-1. Walk the four questions on one decision together. (6 min)
-2. Contrast 'the AI said so' with a reasoned decision. (5 min)
-3. Learners run the four questions on their own decision. (6 min)
-4. Debrief. (3 min)
+**Lesson Plan Ideas:**
+1. Walk the four questions on one decision together. 
+2. Contrast 'the AI said so' with a reasoned decision. 
+3. Learners run the four questions on their own decision. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

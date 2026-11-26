@@ -10,7 +10,7 @@ title: Analyse the accuracy and relevance of outputs
 
 > **TSC #1 Generative AI Principles and Applications · Basic · Ability A2**
 
-**Bullet (verbatim):** Analyse the accuracy and relevance of generative AI outputs for specific tasks.
+**IMDA requirement:** Analyse the accuracy and relevance of generative AI outputs for specific tasks.
 
 **What it means:** Read the output like an editor, not a fan: is it **accurate** (facts match the source), is it **relevant** (answers the actual question), and is anything **invented**? The output is a draft until it has been checked against the supplied facts and the task.
 
@@ -19,11 +19,11 @@ title: Analyse the accuracy and relevance of outputs
 - Identify irrelevant or invented content.
 - State what to correct and re-run.
 
-**How to teach it in 20 minutes:**
-1. Show a generated notice with one wrong date and one invented detail. (4 min)
-2. Teach the three checks: accurate, relevant, not invented. (4 min)
-3. Learners check a generated reply against a short fact sheet. (7 min)
-4. Debrief what was missed. (5 min)
+**Lesson Plan Ideas:**
+1. Show a generated notice with one wrong date and one invented detail. 
+2. Teach the three checks: accurate, relevant, not invented. 
+3. Learners check a generated reply against a short fact sheet. 
+4. Debrief what was missed. 
 
 **Exercise (with the exact prompt):**
 ```text

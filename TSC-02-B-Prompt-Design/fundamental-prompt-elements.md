@@ -10,7 +10,7 @@ title: Fundamental prompt elements
 
 > **TSC #2 Prompt Design · Basic · Ability A5**
 
-**Bullet (verbatim):** Define the fundamental elements ofs a prompt.
+**IMDA requirement:** Define the fundamental elements ofs a prompt.
 
 **What it means:** A prompt is a request or instruction you give an AI tool. Its task says what to do, and its context supplies relevant background or facts. Its audience is who the response is for; constraints are limits, such as a word count, while format is the shape of the response, such as a list. These are useful elements to consider, not a compulsory formula; include those that help the task.
 
@@ -19,11 +19,11 @@ title: Fundamental prompt elements
 - Identify words in a prompt that show each of the five elements.
 - Check a response against the facts, limits and format in the prompt.
 
-**How to teach it in 20 minutes:**
-1. Ask: “If you asked someone to write a notice, what would they need to know?” Collect a few answers. (3 min)
-2. Explain the five elements using a notice: task is the action, such as writing a notice; context is the relevant background, such as a closure; audience is the intended reader; constraints are limits, such as length; and format is the form, such as a list. Explain that not every request needs every element. (7 min)
-3. In pairs, learners define the five elements, underline the words for each in the exercise prompt, then run it and check the response. Use the answer key below to review their labels and explain any differences. (8 min)
-4. Ask which element was hardest to identify and why. Discuss any missing fact or missed limit in the response and point to the relevant prompt wording. (2 min)
+**Lesson Plan Ideas:**
+1. Ask: “If you asked someone to write a notice, what would they need to know?” Collect a few answers. 
+2. Explain the five elements using a notice: task is the action, such as writing a notice; context is the relevant background, such as a closure; audience is the intended reader; constraints are limits, such as length; and format is the form, such as a list. Explain that not every request needs every element. 
+3. In pairs, learners define the five elements, underline the words for each in the exercise prompt, then run it and check the response. Use the answer key below to review their labels and explain any differences. 
+4. Ask which element was hardest to identify and why. Discuss any missing fact or missed limit in the response and point to the relevant prompt wording. 
 
 **Exercise (with the exact prompt):**
 Setup: Pairs need access to a chat AI; no files are needed, and all garden details below are invented.

@@ -10,7 +10,7 @@ title: Ethical risks of generative AI interaction
 
 > **TSC #8 Responsible AI and Generative AI Practices · Basic · Knowledge K4**
 
-**Bullet (verbatim):** Ethical considerations and potential risks of generative AI interaction.
+**IMDA requirement:** Ethical considerations and potential risks of generative AI interaction.
 
 **What it means:** Interacting with GenAI carries risks: over-trusting fluent-but-wrong output, disclosing sensitive data, and letting the model make decisions it should not. The skill is naming the risk before the interaction, not after the harm.
 
@@ -19,11 +19,11 @@ title: Ethical risks of generative AI interaction
 - Spot a risk in a planned use.
 - State a mitigation.
 
-**How to teach it in 20 minutes:**
-1. Show a fluent-but-wrong output and the over-trust it invited. (5 min)
-2. Teach the three risks. (5 min)
-3. Learners identify risks in three planned uses. (6 min)
-4. Debrief. (4 min)
+**Lesson Plan Ideas:**
+1. Show a fluent-but-wrong output and the over-trust it invited. 
+2. Teach the three risks. 
+3. Learners identify risks in three planned uses. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

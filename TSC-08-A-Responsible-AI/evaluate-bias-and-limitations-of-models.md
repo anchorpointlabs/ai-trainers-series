@@ -10,7 +10,7 @@ title: Evaluate bias and limitations of models
 
 > **TSC #8 Responsible AI and Generative AI Practices · Advanced · Ability A2**
 
-**Bullet (verbatim):** Evaluate biases, limitations and ethical implications of models, including using an evaluation dataset from various sources.
+**IMDA requirement:** Evaluate biases, limitations and ethical implications of models, including using an evaluation dataset from various sources.
 
 **What it means:** Evaluation for ethics means testing the model on data from many sources — not one convenient dataset — to expose bias and limitations. A model looks fine on one dataset and fails on another; the skill is testing across sources.
 
@@ -19,11 +19,11 @@ title: Evaluate bias and limitations of models
 - Expose a bias that one dataset hides.
 - Explain why source diversity matters.
 
-**How to teach it in 20 minutes:**
-1. Show a model that passes one dataset and fails another. (6 min)
-2. Teach 'one dataset is a flattering mirror'. (5 min)
-3. Learners design a multi-source test. (6 min)
-4. Debrief. (3 min)
+**Lesson Plan Ideas:**
+1. Show a model that passes one dataset and fails another. 
+2. Teach 'one dataset is a flattering mirror'. 
+3. Learners design a multi-source test. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

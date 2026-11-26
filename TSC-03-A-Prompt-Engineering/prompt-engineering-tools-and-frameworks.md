@@ -10,7 +10,7 @@ title: Prompt engineering tools and frameworks
 
 > **TSC #3 Prompt Engineering · Advanced · Knowledge K6**
 
-**Bullet (verbatim):** Use of prompt engineering tools and frameworks to streamline implementation of prompt engineering methods.
+**IMDA requirement:** Use of prompt engineering tools and frameworks to streamline implementation of prompt engineering methods.
 
 **What it means:** Tools and frameworks turn prompt techniques from ad-hoc typing into reusable, testable assets: versioning, templating, evaluation harnesses, and batch runs against a test set. The skill is not the tool; it is knowing that a prompt is a component to be managed like code, not a chat message to retype.
 
@@ -19,11 +19,11 @@ title: Prompt engineering tools and frameworks
 - Explain why you would template a prompt rather than retype it.
 - Choose a tool for a given team need.
 
-**How to teach it in 20 minutes:**
-1. Contrast 'prompt in a chat window' with 'prompt as a managed asset'. (4 min)
-2. Walk one templated prompt with placeholders. (5 min)
-3. Learners template a real prompt, replacing names/dates with placeholders. (7 min)
-4. Debrief what would break if the template changed. (4 min)
+**Lesson Plan Ideas:**
+1. Contrast 'prompt in a chat window' with 'prompt as a managed asset'. 
+2. Walk one templated prompt with placeholders. 
+3. Learners template a real prompt, replacing names/dates with placeholders. 
+4. Debrief what would break if the template changed. 
 
 **Exercise (with the exact prompt):**
 ```text

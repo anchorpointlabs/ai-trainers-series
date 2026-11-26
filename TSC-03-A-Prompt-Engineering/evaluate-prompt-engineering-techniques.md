@@ -10,7 +10,7 @@ title: Evaluate prompt engineering techniques
 
 > **TSC #3 Prompt Engineering · Advanced · Ability A3**
 
-**Bullet (verbatim):** Evaluate the performance and limitations of prompt engineering techniques.
+**IMDA requirement:** Evaluate the performance and limitations of prompt engineering techniques.
 
 **What it means:** Techniques must be evaluated against a fixed check, not a feeling. Set a success criterion (correct format, right answer, faithful to source), run the technique on a small test set, and score pass/fail. The point is to know *when a technique stops helping* — every technique has a ceiling.
 
@@ -19,11 +19,11 @@ title: Evaluate prompt engineering techniques
 - Run the same technique on several examples and score it.
 - State a technique's limitation from the results.
 
-**How to teach it in 20 minutes:**
-1. Introduce the 'rubric before results' rule (reuse the PSLE-marking analogy). (3 min)
-2. Score two prompt versions against one rubric together. (6 min)
-3. Learners score a third version on their own. (6 min)
-4. Debrief which technique won and where it broke. (5 min)
+**Lesson Plan Ideas:**
+1. Introduce the 'rubric before results' rule (reuse the PSLE-marking analogy). 
+2. Score two prompt versions against one rubric together. 
+3. Learners score a third version on their own. 
+4. Debrief which technique won and where it broke. 
 
 **Exercise (with the exact prompt):**
 ```text

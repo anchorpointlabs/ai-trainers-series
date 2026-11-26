@@ -10,7 +10,7 @@ title: Evaluate ethical frameworks and guidelines
 
 > **TSC #8 Responsible AI and Generative AI Practices · Intermediate · Ability A7**
 
-**Bullet (verbatim):** Evaluate ethical frameworks and guidelines in AI development.
+**IMDA requirement:** Evaluate ethical frameworks and guidelines in AI development.
 
 **What it means:** Not all frameworks are equal — some are checklists, some are genuinely actionable. Evaluating means asking whether a framework changes decisions in practice, and whether it covers the risks that matter for your context.
 
@@ -19,11 +19,11 @@ title: Evaluate ethical frameworks and guidelines
 - Check whether it covers key risks.
 - Recommend a framework for a context.
 
-**How to teach it in 20 minutes:**
-1. Compare a vague 'we value ethics' statement with an actionable framework. (5 min)
-2. Teach the evaluation questions. (5 min)
-3. Learners evaluate a framework against a scenario. (7 min)
-4. Debrief. (3 min)
+**Lesson Plan Ideas:**
+1. Compare a vague 'we value ethics' statement with an actionable framework. 
+2. Teach the evaluation questions. 
+3. Learners evaluate a framework against a scenario. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

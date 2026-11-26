@@ -10,7 +10,7 @@ title: Ethical challenges in governance and policy
 
 > **TSC #8 Responsible AI and Generative AI Practices · Advanced · Knowledge K3**
 
-**Bullet (verbatim):** Ethical challenges in AI governance, policy-making, and global implications.
+**IMDA requirement:** Ethical challenges in AI governance, policy-making, and global implications.
 
 **What it means:** Governing AI crosses borders: a model trained in one country deploys in another, and rules differ. The challenge is making policy that is coherent, enforceable, and fair across jurisdictions — and knowing where the gaps are.
 
@@ -19,11 +19,11 @@ title: Ethical challenges in governance and policy
 - Explain why enforcement is hard.
 - Spot a policy gap.
 
-**How to teach it in 20 minutes:**
-1. Show one model governed by three different regimes. (6 min)
-2. Teach 'the model is global; the rules are local'. (5 min)
-3. Learners identify a governance gap in a scenario. (6 min)
-4. Debrief. (3 min)
+**Lesson Plan Ideas:**
+1. Show one model governed by three different regimes. 
+2. Teach 'the model is global; the rules are local'. 
+3. Learners identify a governance gap in a scenario. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

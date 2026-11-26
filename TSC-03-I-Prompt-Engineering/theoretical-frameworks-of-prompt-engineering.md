@@ -10,7 +10,7 @@ title: Theoretical frameworks of prompt engineering
 
 > **TSC #3 Prompt Engineering · Intermediate · Knowledge K1**
 
-**Bullet (verbatim):** Theoretical frameworks of prompt engineering techniques.
+**IMDA requirement:** Theoretical frameworks of prompt engineering techniques.
 
 **What it means:** A "framework" here is a reusable structure for a good prompt — role-context-task-format, few-shot examples, chain-of-thought, system-vs-user messages. They are lenses for organising a brief, not fixed recipes, and the craft is choosing the right frame for the task.
 
@@ -19,11 +19,11 @@ title: Theoretical frameworks of prompt engineering
 - Explain that a framework is a reusable structure, not a magic formula.
 - Decompose a real prompt into its framework parts.
 
-**How to teach it in 20 minutes:**
-1. Show one strong prompt and label its parts (role, context, task, format). (5 min)
-2. Introduce two more frames (few-shot, chain-of-thought) with one line each. (5 min)
-3. Learners re-write a weak prompt using one framework. (6 min)
-4. Debrief which frame fitted which task. (4 min)
+**Lesson Plan Ideas:**
+1. Show one strong prompt and label its parts (role, context, task, format). 
+2. Introduce two more frames (few-shot, chain-of-thought) with one line each. 
+3. Learners re-write a weak prompt using one framework. 
+4. Debrief which frame fitted which task. 
 
 **Exercise (with the exact prompt):**
 ```text

@@ -10,7 +10,7 @@ title: Design and govern ethical AI systems
 
 > **TSC #9 Generative AI Models — Technical Aspects of Security and Ethics · Advanced · Ability A6**
 
-**Bullet (verbatim):** Implement strategies for designing and governing ethical AI systems (e.g., integrate risk management into AI strategy).
+**IMDA requirement:** Implement strategies for designing and governing ethical AI systems (e.g., integrate risk management into AI strategy).
 
 **What it means:** Governing ethical AI means building risk management *into* the AI strategy — every AI project carries a risk review, an owner, and an ethics check as part of its lifecycle, not bolted on at the end. Strategy and risk are one thing.
 
@@ -19,11 +19,11 @@ title: Design and govern ethical AI systems
 - Name where the ethics check sits in a lifecycle.
 - Describe a governance checkpoint.
 
-**How to teach it in 20 minutes:**
-1. Contrast 'bolted-on review at the end' with 'built-in checkpoints'. (4 min)
-2. Walk a lifecycle with checkpoints. (6 min)
-3. Learners place a checkpoint for a project. (7 min)
-4. Debrief. (3 min)
+**Lesson Plan Ideas:**
+1. Contrast 'bolted-on review at the end' with 'built-in checkpoints'. 
+2. Walk a lifecycle with checkpoints. 
+3. Learners place a checkpoint for a project. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

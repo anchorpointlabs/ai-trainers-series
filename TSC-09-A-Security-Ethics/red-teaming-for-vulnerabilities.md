@@ -10,7 +10,7 @@ title: Red teaming for vulnerabilities
 
 > **TSC #9 Generative AI Models — Technical Aspects of Security and Ethics · Advanced · Knowledge K4**
 
-**Bullet (verbatim):** Red teaming for discovering vulnerabilities in generative AI models.
+**IMDA requirement:** Red teaming for discovering vulnerabilities in generative AI models.
 
 **What it means:** Red teaming is attacking your own model on purpose — a team plays the adversary, trying jailbreaks, injections, and data extraction — to find weaknesses before real attackers do. It is the highest-value pre-launch activity.
 
@@ -19,11 +19,11 @@ title: Red teaming for vulnerabilities
 - Name the attack classes a red team tries.
 - Describe a red-team finding and its fix.
 
-**How to teach it in 20 minutes:**
-1. Contrast red teaming with ordinary testing (adversarial vs functional). (4 min)
-2. Walk one red-team exercise (extract the system prompt). (7 min)
-3. Learners write one red-team attack. (6 min)
-4. Debrief. (3 min)
+**Lesson Plan Ideas:**
+1. Contrast red teaming with ordinary testing (adversarial vs functional). 
+2. Walk one red-team exercise (extract the system prompt). 
+3. Learners write one red-team attack. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

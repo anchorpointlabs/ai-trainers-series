@@ -10,7 +10,7 @@ title: Responsible AI principles — IP, privacy, environment
 
 > **TSC #8 Responsible AI and Generative AI Practices · Basic · Knowledge K2**
 
-**Bullet (verbatim):** Responsible AI principles and best practices for development and deployment, including intellectual property, data privacy and environmental impact considerations.
+**IMDA requirement:** Responsible AI principles and best practices for development and deployment, including intellectual property, data privacy and environmental impact considerations.
 
 **What it means:** Responsible use means three practical checks: **intellectual property** (who owns the input and the output — do not feed in confidential material), **data privacy** (PDPA — no personal data without consent), and **environmental impact** (models cost energy; use the smallest one that works).
 
@@ -19,11 +19,11 @@ title: Responsible AI principles — IP, privacy, environment
 - Explain the IP risk of pasting a client's document into a tool.
 - Relate model size to energy use.
 
-**How to teach it in 20 minutes:**
-1. Walk one bad example: a staff member pastes a client contract into a public tool. (5 min)
-2. Teach the three checks. (6 min)
-3. Learners flag the risks in a scenario. (6 min)
-4. Debrief. (3 min)
+**Lesson Plan Ideas:**
+1. Walk one bad example: a staff member pastes a client contract into a public tool. 
+2. Teach the three checks. 
+3. Learners flag the risks in a scenario. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

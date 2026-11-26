@@ -10,7 +10,7 @@ title: Apply basic anonymisation techniques
 
 > **TSC #2 Prompt Design · Basic · Ability A3**
 
-**Bullet (verbatim):** Apply basic anonymisation techniques (e.g., data masking, perturbation, pseudonymisation).
+**IMDA requirement:** Apply basic anonymisation techniques (e.g., data masking, perturbation, pseudonymisation).
 
 **What it means:** Anonymisation means changing information about people so they cannot reasonably be identified. Data masking hides parts of a value; perturbation makes changes to values; pseudonymisation replaces identifying details with made-up labels. [2] These changes can keep useful context, but re-identification—working out who a record belongs to, including by combining it with other information—may still be possible. Pseudonymisation is not necessarily anonymisation, especially if a separate list links labels to people. [2] [3]
 
@@ -20,11 +20,11 @@ title: Apply basic anonymisation techniques
 - Check the changed records against the stated rules and identify what they can still be used for.
 - Explain how someone might re-identify a person and why pseudonymisation alone does not necessarily make data anonymous.
 
-**How to teach it in 20 minutes:**
-1. Ask: “If a list of support visits has no names, is it necessarily anonymous?” Invite a reason for each answer. (3 min)
-2. Use invented records to demonstrate each change: mask `ZX1234` as `ZX****`, perturb a wait of 12 minutes to 14, and replace a customer's name with a made-up label, using the same label for repeat visits. Explain that topics and approximate waits remain useful for discussing service waits, but the changed times are not exact. A separate name-to-label list or an unusual combination of details could link a record to a person. For real work, keep any name-to-label list separate and secure, assess identification risk in the intended sharing context, and do not put real personal data into a chatbot (a computer service that responds to typed messages). [2] [3] (7 min)
-3. In pairs, learners apply all three rules by hand to every fictional row in the exercise, before running the prompt. They then compare their own table with the AI answer and the check below. (8 min)
-4. Debrief one discrepancy and why it occurred. Explain that a named public post about an unusual topic and approximate wait might be matched to a row; a leaked name-to-label list could also reveal the person. The fixed adjustments here make marking easy but can be reversed if known; they do not guarantee privacy. [2] [3] (2 min)
+**Lesson Plan Ideas:**
+1. Ask: “If a list of support visits has no names, is it necessarily anonymous?” Invite a reason for each answer. 
+2. Use invented records to demonstrate each change: mask `ZX1234` as `ZX****`, perturb a wait of 12 minutes to 14, and replace a customer's name with a made-up label, using the same label for repeat visits. Explain that topics and approximate waits remain useful for discussing service waits, but the changed times are not exact. A separate name-to-label list or an unusual combination of details could link a record to a person. For real work, keep any name-to-label list separate and secure, assess identification risk in the intended sharing context, and do not put real personal data into a chatbot (a computer service that responds to typed messages). [2] [3] 
+3. In pairs, learners apply all three rules by hand to every fictional row in the exercise, before running the prompt. They then compare their own table with the AI answer and the check below. 
+4. Debrief one discrepancy and why it occurred. Explain that a named public post about an unusual topic and approximate wait might be matched to a row; a leaked name-to-label list could also reveal the person. The fixed adjustments here make marking easy but can be reversed if known; they do not guarantee privacy. [2] [3] 
 
 **Exercise (with the exact prompt):**
 *Setup: pairs need paper and access to a chat AI; first make all three changes by hand to the invented rows in the prompt, then paste it for a comparison.*

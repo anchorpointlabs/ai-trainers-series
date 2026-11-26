@@ -10,7 +10,7 @@ title: Fundamentals of responsible AI
 
 > **TSC #1 Generative AI Principles and Applications · Basic · Knowledge K7**
 
-**Bullet (verbatim):** Fundamentals of responsible AI.
+**IMDA requirement:** Fundamentals of responsible AI.
 
 **What it means:** Responsible AI means using AI in a way that is **fair, transparent, accountable and safe**. Models reflect the biases in their training data; users should disclose when AI is used; and a human always owns the outcome. It is not a developer concern — every user shares it.
 
@@ -19,11 +19,11 @@ title: Fundamentals of responsible AI
 - Spot a bias risk in a scenario.
 - State when and how to disclose AI use.
 
-**How to teach it in 20 minutes:**
-1. Show a biased output (a model assuming a nurse is 'she'). (4 min)
-2. Teach the four principles with one workplace example each. (6 min)
-3. Learners read a scenario (AI-written staff review) and list the fairness/transparency risks. (6 min)
-4. Debrief who is accountable for the final decision. (4 min)
+**Lesson Plan Ideas:**
+1. Show a biased output (a model assuming a nurse is 'she'). 
+2. Teach the four principles with one workplace example each. 
+3. Learners read a scenario (AI-written staff review) and list the fairness/transparency risks. 
+4. Debrief who is accountable for the final decision. 
 
 **Exercise (with the exact prompt):**
 ```text

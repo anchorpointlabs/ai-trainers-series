@@ -10,7 +10,7 @@ title: Implement models for specific domains or styles
 
 > **TSC #4 Generative AI Model Selection · Intermediate · Ability A2**
 
-**Bullet (verbatim):** Implement models to create content in specific domains or styles.
+**IMDA requirement:** Implement models to create content in specific domains or styles.
 
 **What it means:** A general model can be steered to a domain (medical, legal, marketing) or a style (formal, playful) through prompting and examples. 'Implementing' here means setting up the prompt + examples so the model produces that domain's content reliably.
 
@@ -19,11 +19,11 @@ title: Implement models for specific domains or styles
 - Use few-shot examples to fix a style.
 - Explain why examples anchor the style.
 
-**How to teach it in 20 minutes:**
-1. Show a generic output vs a domain-steered output. (5 min)
-2. Teach 'few-shot anchors the style'. (4 min)
-3. Learners steer a model to a style with two examples. (7 min)
-4. Debrief. (4 min)
+**Lesson Plan Ideas:**
+1. Show a generic output vs a domain-steered output. 
+2. Teach 'few-shot anchors the style'. 
+3. Learners steer a model to a style with two examples. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

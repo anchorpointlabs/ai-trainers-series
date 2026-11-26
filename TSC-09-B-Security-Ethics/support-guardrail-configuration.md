@@ -10,7 +10,7 @@ title: Support guardrail configuration
 
 > **TSC #9 Generative AI Models — Technical Aspects of Security and Ethics · Basic · Ability A4**
 
-**Bullet (verbatim):** Support configuration of AI guardrails.
+**IMDA requirement:** Support configuration of AI guardrails.
 
 **What it means:** Configuring a guardrail means setting the rules the AI must follow — what it may refuse, what it must block, when it escalates. Supporting means helping set those rules and testing that they actually hold.
 
@@ -19,11 +19,11 @@ title: Support guardrail configuration
 - Test that the rule holds.
 - Explain when escalation to a human is needed.
 
-**How to teach it in 20 minutes:**
-1. Walk setting a guardrail (e.g., 'never give medical advice'). (5 min)
-2. Test it together with a tricky prompt. (6 min)
-3. Learners set + test one rule. (6 min)
-4. Debrief. (3 min)
+**Lesson Plan Ideas:**
+1. Walk setting a guardrail (e.g., 'never give medical advice'). 
+2. Test it together with a tricky prompt. 
+3. Learners set + test one rule. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

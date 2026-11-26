@@ -10,7 +10,7 @@ title: Environmental impact of generative AI
 
 > **TSC #8 Responsible AI and Generative AI Practices · Intermediate · Knowledge K2**
 
-**Bullet (verbatim):** Environmental impact of generative AI use (e.g., energy consumption).
+**IMDA requirement:** Environmental impact of generative AI use (e.g., energy consumption).
 
 **What it means:** Training and running large models consume real energy and water. The practical consequence: size matters — use the smallest model that meets the bar, and do not run a frontier model for a task a small one handles.
 
@@ -19,11 +19,11 @@ title: Environmental impact of generative AI
 - Choose the smallest model that fits a task.
 - Name one way to reduce footprint.
 
-**How to teach it in 20 minutes:**
-1. Compare energy cost of a big vs small model for one task. (5 min)
-2. Teach 'size matters — right-size the model'. (5 min)
-3. Learners pick a model size for a task. (6 min)
-4. Debrief. (4 min)
+**Lesson Plan Ideas:**
+1. Compare energy cost of a big vs small model for one task. 
+2. Teach 'size matters — right-size the model'. 
+3. Learners pick a model size for a task. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

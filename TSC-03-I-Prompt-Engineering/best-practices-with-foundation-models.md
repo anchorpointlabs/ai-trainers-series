@@ -10,7 +10,7 @@ title: Best practices with Foundation Models
 
 > **TSC #3 Prompt Engineering · Intermediate · Ability A2**
 
-**Bullet (verbatim):** Apply general best practices when interacting with Foundation Models.
+**IMDA requirement:** Apply general best practices when interacting with Foundation Models.
 
 **What it means:** Five habits: be **specific** about the task, give **context**, name the **format**, set **constraints**, and **test** the result. These apply to every model and every task — they are the floor, not a technique.
 
@@ -19,11 +19,11 @@ title: Best practices with Foundation Models
 - Apply them to fix a vague prompt.
 - State which practice a given prompt violates.
 
-**How to teach it in 20 minutes:**
-1. Introduce the five as 'specific, context, format, constraints, test'. (4 min)
-2. Fix one vague prompt together. (5 min)
-3. Learners fix a weak prompt on their own. (7 min)
-4. Debrief which practice was most often missing. (4 min)
+**Lesson Plan Ideas:**
+1. Introduce the five as 'specific, context, format, constraints, test'. 
+2. Fix one vague prompt together. 
+3. Learners fix a weak prompt on their own. 
+4. Debrief which practice was most often missing. 
 
 **Exercise (with the exact prompt):**
 ```text

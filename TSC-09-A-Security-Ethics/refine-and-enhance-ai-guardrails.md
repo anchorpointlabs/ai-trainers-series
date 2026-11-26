@@ -10,7 +10,7 @@ title: Refine and enhance AI guardrails
 
 > **TSC #9 Generative AI Models — Technical Aspects of Security and Ethics · Advanced · Ability A2**
 
-**Bullet (verbatim):** Propose refinements and enhancements to AI guardrails.
+**IMDA requirement:** Propose refinements and enhancements to AI guardrails.
 
 **What it means:** Refining guardrails is improving them from measured failure — tightening where harm slips through, loosening where good use is blocked, and adding new rules for new attack patterns. It is continuous tuning, not a finished product.
 
@@ -19,11 +19,11 @@ title: Refine and enhance AI guardrails
 - Balance false positives against false negatives.
 - Add a rule for a new attack.
 
-**How to teach it in 20 minutes:**
-1. Show a guardrail's failure data and propose a tune. (6 min)
-2. Teach the safety-usefulness balance. (5 min)
-3. Learners propose a refinement. (6 min)
-4. Debrief. (3 min)
+**Lesson Plan Ideas:**
+1. Show a guardrail's failure data and propose a tune. 
+2. Teach the safety-usefulness balance. 
+3. Learners propose a refinement. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

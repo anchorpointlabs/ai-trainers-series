@@ -10,7 +10,7 @@ title: Write prompts for different output types
 
 > **TSC #1 Generative AI Principles and Applications · Basic · Ability A1**
 
-**Bullet (verbatim):** Write prompts to generate various types of generative AI outputs.
+**IMDA requirement:** Write prompts to generate various types of generative AI outputs.
 
 **What it means:** One tool produces many modes — text, image, video, code — and the prompt says which you want and in what form. The task and format matter more than the mode: a clear brief for a notice (text) and a clear description of a picture (image) use the same discipline.
 
@@ -19,11 +19,11 @@ title: Write prompts for different output types
 - Describe an image they want generated.
 - Name the format lever for each mode.
 
-**How to teach it in 20 minutes:**
-1. Show one task requested three ways: a paragraph, a table, a list. (4 min)
-2. Teach 'state the mode and the format'. (3 min)
-3. Learners write a prompt for a notice (text) and a description of a poster (image). (8 min)
-4. Share and compare formats. (5 min)
+**Lesson Plan Ideas:**
+1. Show one task requested three ways: a paragraph, a table, a list. 
+2. Teach 'state the mode and the format'. 
+3. Learners write a prompt for a notice (text) and a description of a poster (image). 
+4. Share and compare formats. 
 
 **Exercise (with the exact prompt):**
 ```text

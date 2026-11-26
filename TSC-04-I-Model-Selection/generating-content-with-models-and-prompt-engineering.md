@@ -10,7 +10,7 @@ title: Generating content with models and prompt engineering
 
 > **TSC #4 Generative AI Model Selection · Intermediate · Knowledge K2**
 
-**Bullet (verbatim):** Process of generating content using various AI models, including prompt engineering techniques.
+**IMDA requirement:** Process of generating content using various AI models, including prompt engineering techniques.
 
 **What it means:** Generating content is a pipeline: choose a model for the modality, prompt it (task + context + format), and refine. Prompt engineering is part of model selection in practice — a model's output quality depends on how it is prompted, so you evaluate model + prompt together.
 
@@ -19,11 +19,11 @@ title: Generating content with models and prompt engineering
 - Explain why prompt quality is part of evaluating a model.
 - Choose a model + prompt style for a task.
 
-**How to teach it in 20 minutes:**
-1. Show the same task run on a model with a weak vs strong prompt. (5 min)
-2. Teach 'you are evaluating model + prompt together'. (5 min)
-3. Learners pair a model to a task and write the prompt. (6 min)
-4. Debrief. (4 min)
+**Lesson Plan Ideas:**
+1. Show the same task run on a model with a weak vs strong prompt. 
+2. Teach 'you are evaluating model + prompt together'. 
+3. Learners pair a model to a task and write the prompt. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

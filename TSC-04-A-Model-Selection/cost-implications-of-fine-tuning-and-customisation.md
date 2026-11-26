@@ -10,7 +10,7 @@ title: Cost implications of fine-tuning and customisation
 
 > **TSC #4 Generative AI Model Selection · Advanced · Knowledge K4**
 
-**Bullet (verbatim):** Complexities of fine-tuning and customising AI models for specific tasks or outputs (including implications of models' size and features on the cost).
+**IMDA requirement:** Complexities of fine-tuning and customising AI models for specific tasks or outputs (including implications of models' size and features on the cost).
 
 **What it means:** Fine-tuning and customisation are not free: bigger models cost more to fine-tune and run, and customising introduces maintenance (the fine-tune goes stale as the domain changes). The skill is pricing the full lifecycle, not just the one-off run.
 
@@ -19,11 +19,11 @@ title: Cost implications of fine-tuning and customisation
 - Explain why a custom model needs maintenance.
 - Price a fine-tune over its lifetime.
 
-**How to teach it in 20 minutes:**
-1. Contrast 'one fine-tune run' vs 'a custom model you must maintain'. (5 min)
-2. Teach the cost drivers (size, data, retraining). (5 min)
-3. Learners estimate lifetime cost for a scenario. (7 min)
-4. Debrief. (3 min)
+**Lesson Plan Ideas:**
+1. Contrast 'one fine-tune run' vs 'a custom model you must maintain'. 
+2. Teach the cost drivers (size, data, retraining). 
+3. Learners estimate lifetime cost for a scenario. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

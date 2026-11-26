@@ -10,7 +10,7 @@ title: Deploy models for specialised tasks
 
 > **TSC #4 Generative AI Model Selection · Advanced · Ability A1**
 
-**Bullet (verbatim):** Deploy existing models for a variety of specialised tasks or creative applications (including using techniques such as pre-training or fine-tuning).
+**IMDA requirement:** Deploy existing models for a variety of specialised tasks or creative applications (including using techniques such as pre-training or fine-tuning).
 
 **What it means:** Deploying for a specialised task means taking an existing model and adapting it — via prompting, RAG, or fine-tuning — then putting it behind a stable, monitored endpoint. The skill is the whole path from 'generic model' to 'running in production'.
 
@@ -18,11 +18,11 @@ title: Deploy models for specialised tasks
 - Choose an adaptation route (prompt vs RAG vs fine-tune).
 - Describe a deployment with version pinning and monitoring.
 
-**How to teach it in 20 minutes:**
-1. Show one specialised task solved three ways (prompt, RAG, fine-tune). (6 min)
-2. Teach 'pick the lightest route that meets the bar'. (4 min)
-3. Learners choose a route for a task and justify it. (6 min)
-4. Debrief. (4 min)
+**Lesson Plan Ideas:**
+1. Show one specialised task solved three ways (prompt, RAG, fine-tune). 
+2. Teach 'pick the lightest route that meets the bar'. 
+3. Learners choose a route for a task and justify it. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

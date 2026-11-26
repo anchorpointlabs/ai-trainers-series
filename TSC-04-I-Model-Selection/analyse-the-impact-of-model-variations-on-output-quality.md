@@ -10,7 +10,7 @@ title: Analyse the impact of model variations on output quality
 
 > **TSC #4 Generative AI Model Selection · Intermediate · Ability A6**
 
-**Bullet (verbatim):** Analyse the impact of model variations on output quality for specific tasks.
+**IMDA requirement:** Analyse the impact of model variations on output quality for specific tasks.
 
 **What it means:** Model variations — different sizes, versions, or fine-tunes of the same family — shift output quality for a specific task. The skill is testing the variants on *your* task and measuring the difference, rather than trusting the marketing.
 
@@ -19,11 +19,11 @@ title: Analyse the impact of model variations on output quality
 - State which variant wins and why.
 - Explain why you test rather than assume.
 
-**How to teach it in 20 minutes:**
-1. Show two model versions giving visibly different results on one task. (5 min)
-2. Teach 'the variant matters, and only your task's test proves it'. (4 min)
-3. Learners design a mini-test for two variants. (7 min)
-4. Debrief. (4 min)
+**Lesson Plan Ideas:**
+1. Show two model versions giving visibly different results on one task. 
+2. Teach 'the variant matters, and only your task's test proves it'. 
+3. Learners design a mini-test for two variants. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

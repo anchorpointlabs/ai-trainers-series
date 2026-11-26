@@ -10,7 +10,7 @@ title: Assess AI ethics across disciplines
 
 > **TSC #8 Responsible AI and Generative AI Practices · Advanced · Ability A7**
 
-**Bullet (verbatim):** Assess the interplay of AI ethics with legal, cultural, socio-political and environmental aspects.
+**IMDA requirement:** Assess the interplay of AI ethics with legal, cultural, socio-political and environmental aspects.
 
 **What it means:** A single decision touches all four: the law, the culture, the power dynamics, and the environment. Assessing the interplay means holding all four at once and seeing where they conflict or reinforce.
 
@@ -19,11 +19,11 @@ title: Assess AI ethics across disciplines
 - Spot where two lenses conflict.
 - Explain a trade-off across lenses.
 
-**How to teach it in 20 minutes:**
-1. Run one decision through all four lenses and find the conflict. (8 min)
-2. Teach 'the lenses pull in different directions'. (4 min)
-3. Learners find a cross-lens conflict. (5 min)
-4. Debrief. (3 min)
+**Lesson Plan Ideas:**
+1. Run one decision through all four lenses and find the conflict. 
+2. Teach 'the lenses pull in different directions'. 
+3. Learners find a cross-lens conflict. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

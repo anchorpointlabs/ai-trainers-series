@@ -10,7 +10,7 @@ title: Analyse prompt nuances and model behaviour
 
 > **TSC #3 Prompt Engineering · Advanced · Ability A2**
 
-**Bullet (verbatim):** Analyse the nuances of prompts and their influence on AI model behaviour.
+**IMDA requirement:** Analyse the nuances of prompts and their influence on AI model behaviour.
 
 **What it means:** Small wording changes shift output more than people expect: 'summarise' vs 'critique', 'list' vs 'explain', the placement of a constraint. The skill is reading an output and tracing *which part of the prompt* produced it, so you can predict and correct behaviour instead of guessing.
 
@@ -19,11 +19,11 @@ title: Analyse prompt nuances and model behaviour
 - Change one word and predict the resulting shift.
 - Describe how role, tone, and format words steer behaviour.
 
-**How to teach it in 20 minutes:**
-1. Show two prompts differing by one word, with visibly different outputs. (4 min)
-2. Teach the trace: output feature → prompt cause. (5 min)
-3. Pairs get a prompt/output pair and highlight the causal wording. (7 min)
-4. Debrief the traces. (4 min)
+**Lesson Plan Ideas:**
+1. Show two prompts differing by one word, with visibly different outputs. 
+2. Teach the trace: output feature → prompt cause. 
+3. Pairs get a prompt/output pair and highlight the causal wording. 
+4. Debrief the traces. 
 
 **Exercise (with the exact prompt):**
 ```text

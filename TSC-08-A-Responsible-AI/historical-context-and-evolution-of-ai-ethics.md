@@ -10,7 +10,7 @@ title: Historical context and evolution of AI ethics
 
 > **TSC #8 Responsible AI and Generative AI Practices · Advanced · Knowledge K2**
 
-**Bullet (verbatim):** Historical context and evolution of AI ethics.
+**IMDA requirement:** Historical context and evolution of AI ethics.
 
 **What it means:** AI ethics did not start with ChatGPT — it grew from older debates about fairness, privacy, and automation. Knowing the history (from early algorithmic-bias studies to today's generative debates) keeps you from re-litigating settled questions.
 
@@ -19,11 +19,11 @@ title: Historical context and evolution of AI ethics
 - Explain how the debate has evolved.
 - Relate a current issue to an older one.
 
-**How to teach it in 20 minutes:**
-1. Sketch the arc: algorithmic bias → data privacy → generative AI. (7 min)
-2. Teach 'the questions are old; the tools are new'. (5 min)
-3. Learners connect a current issue to its older root. (5 min)
-4. Debrief. (3 min)
+**Lesson Plan Ideas:**
+1. Sketch the arc: algorithmic bias → data privacy → generative AI. 
+2. Teach 'the questions are old; the tools are new'. 
+3. Learners connect a current issue to its older root. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

@@ -10,7 +10,7 @@ title: AI guardrails and their purpose
 
 > **TSC #9 Generative AI Models — Technical Aspects of Security and Ethics · Basic · Knowledge K3**
 
-**Bullet (verbatim):** Introduction to AI guardrails and their purpose.
+**IMDA requirement:** Introduction to AI guardrails and their purpose.
 
 **What it means:** A guardrail is a control that keeps the AI inside safe behaviour — refusing harmful requests, blocking certain output, or escalating to a human. Its purpose is to bound the model's power so a mistake or an attack cannot cause damage.
 
@@ -19,11 +19,11 @@ title: AI guardrails and their purpose
 - Name two types (input filter, output filter, human gate).
 - Explain what a guardrail is protecting against.
 
-**How to teach it in 20 minutes:**
-1. Compare a model with no guardrails to one with them (same input). (5 min)
-2. Teach the three types (input, output, human gate). (5 min)
-3. Learners match a guardrail to a risk. (6 min)
-4. Debrief. (4 min)
+**Lesson Plan Ideas:**
+1. Compare a model with no guardrails to one with them (same input). 
+2. Teach the three types (input, output, human gate). 
+3. Learners match a guardrail to a risk. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

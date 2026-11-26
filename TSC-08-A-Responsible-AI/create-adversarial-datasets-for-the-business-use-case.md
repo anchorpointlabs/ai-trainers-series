@@ -10,7 +10,7 @@ title: Create adversarial datasets for the business use case
 
 > **TSC #8 Responsible AI and Generative AI Practices · Advanced · Ability A3**
 
-**Bullet (verbatim):** Create adversarial datasets for the business use case.
+**IMDA requirement:** Create adversarial datasets for the business use case.
 
 **What it means:** An adversarial dataset is built to break the model — inputs designed to trigger bias, failure, or unsafe output, specific to *your* use case. Building one means thinking like an attacker and like the worst-case user.
 
@@ -19,11 +19,11 @@ title: Create adversarial datasets for the business use case
 - Explain why adversarial testing beats ordinary testing.
 - Turn a failure into a new test case.
 
-**How to teach it in 20 minutes:**
-1. Contrast ordinary test data with adversarial data. (5 min)
-2. Build adversarial examples together for a use case. (7 min)
-3. Learners add an adversarial case. (5 min)
-4. Debrief. (3 min)
+**Lesson Plan Ideas:**
+1. Contrast ordinary test data with adversarial data. 
+2. Build adversarial examples together for a use case. 
+3. Learners add an adversarial case. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

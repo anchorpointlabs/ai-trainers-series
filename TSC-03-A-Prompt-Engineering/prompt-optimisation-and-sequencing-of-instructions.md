@@ -10,7 +10,7 @@ title: Prompt optimisation and sequencing of instructions
 
 > **TSC #3 Prompt Engineering · Advanced · Knowledge K3**
 
-**Bullet (verbatim):** Nuances of prompt optimisation and its role in generating tailored outputs (e.g., sequencing of instructions in prompts).
+**IMDA requirement:** Nuances of prompt optimisation and its role in generating tailored outputs (e.g., sequencing of instructions in prompts).
 
 **What it means:** The *order* of instructions changes the result, because the model reads the prompt like a brief and weights later text against what came before. Optimisation is the deliberate loop: try, score against a fixed check, change one thing, try again — never change everything at once.
 
@@ -19,11 +19,11 @@ title: Prompt optimisation and sequencing of instructions
 - Run a two-version comparison changing only the order of constraints.
 - Describe a one-variable-at-a-time optimisation loop.
 
-**How to teach it in 20 minutes:**
-1. Show the same three constraints in two orders producing different outputs. (5 min)
-2. Introduce 'change one thing at a time' as the optimisation rule. (3 min)
-3. Pairs take a weak prompt, change one variable, and log the difference. (8 min)
-4. Debrief which single change helped most. (4 min)
+**Lesson Plan Ideas:**
+1. Show the same three constraints in two orders producing different outputs. 
+2. Introduce 'change one thing at a time' as the optimisation rule. 
+3. Pairs take a weak prompt, change one variable, and log the difference. 
+4. Debrief which single change helped most. 
 
 **Exercise (with the exact prompt):**
 ```text

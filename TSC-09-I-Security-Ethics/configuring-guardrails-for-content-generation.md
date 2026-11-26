@@ -10,7 +10,7 @@ title: Configuring guardrails for content generation
 
 > **TSC #9 Generative AI Models — Technical Aspects of Security and Ethics · Intermediate · Knowledge K2**
 
-**Bullet (verbatim):** Configuration and implementation of AI guardrails for content generation.
+**IMDA requirement:** Configuration and implementation of AI guardrails for content generation.
 
 **What it means:** Content-generation guardrails bound what the model produces — blocking harmful, off-topic, or out-of-policy output. Configuring them means defining the policy, encoding it as rules, and testing against realistic and adversarial generation attempts.
 
@@ -19,11 +19,11 @@ title: Configuring guardrails for content generation
 - Encode it as guardrail rules.
 - Test the guardrail against attempts to slip through.
 
-**How to teach it in 20 minutes:**
-1. Write a content policy together (what the bot must never produce). (5 min)
-2. Encode it as rules. (5 min)
-3. Learners try to make the model violate the policy. (7 min)
-4. Debrief which attempts slipped through. (3 min)
+**Lesson Plan Ideas:**
+1. Write a content policy together (what the bot must never produce). 
+2. Encode it as rules. 
+3. Learners try to make the model violate the policy. 
+4. Debrief which attempts slipped through. 
 
 **Exercise (with the exact prompt):**
 ```text

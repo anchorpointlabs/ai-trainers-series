@@ -10,7 +10,7 @@ title: Define prompt engineering
 
 > **TSC #3 Prompt Engineering · Intermediate · Ability A1**
 
-**Bullet (verbatim):** Define prompt engineering.
+**IMDA requirement:** Define prompt engineering.
 
 **What it means:** Prompt engineering is the craft of designing, testing, and iterating on prompts to get a specific, reliable output. It is the practitioner level of prompting — prompt *design* writes a clear request; prompt *engineering* engineers the outcome.
 
@@ -19,11 +19,11 @@ title: Define prompt engineering
 - Distinguish it from prompt design.
 - Explain the 'test and iterate' part.
 
-**How to teach it in 20 minutes:**
-1. Contrast the two levels: 'write a clear request' vs 'design, test, iterate'. (5 min)
-2. Walk one prompt improved across three iterations. (6 min)
-3. Learners write their own one-line definition. (4 min)
-4. Share and sharpen. (5 min)
+**Lesson Plan Ideas:**
+1. Contrast the two levels: 'write a clear request' vs 'design, test, iterate'. 
+2. Walk one prompt improved across three iterations. 
+3. Learners write their own one-line definition. 
+4. Share and sharpen. 
 
 **Exercise (with the exact prompt):**
 ```text

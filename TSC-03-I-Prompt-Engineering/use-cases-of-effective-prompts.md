@@ -10,7 +10,7 @@ title: Use cases of effective prompts
 
 > **TSC #3 Prompt Engineering · Intermediate · Knowledge K5**
 
-**Bullet (verbatim):** Use cases of effective prompts.
+**IMDA requirement:** Use cases of effective prompts.
 
 **What it means:** Effective prompting shows up as real tasks: summarising, extracting fields, classifying, drafting, brainstorming, translating, reformatting. Each use case has a prompt shape that fits it — a summary wants a length and audience, an extraction wants a field list and format.
 
@@ -19,11 +19,11 @@ title: Use cases of effective prompts
 - Write an example prompt for a named use case.
 - Identify the shape a task needs.
 
-**How to teach it in 20 minutes:**
-1. List six common use cases with one example prompt each. (6 min)
-2. Teach 'name the use case, then pick the shape'. (3 min)
-3. Learners write a prompt for an assigned use case. (7 min)
-4. Swap and check against the shape. (4 min)
+**Lesson Plan Ideas:**
+1. List six common use cases with one example prompt each. 
+2. Teach 'name the use case, then pick the shape'. 
+3. Learners write a prompt for an assigned use case. 
+4. Swap and check against the shape. 
 
 **Exercise (with the exact prompt):**
 ```text

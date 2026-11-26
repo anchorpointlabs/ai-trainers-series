@@ -10,7 +10,7 @@ title: Prompt design, model behaviour, and output diversity
 
 > **TSC #3 Prompt Engineering · Intermediate · Knowledge K6**
 
-**Bullet (verbatim):** Relationship between prompt design, model behaviour, and output diversity.
+**IMDA requirement:** Relationship between prompt design, model behaviour, and output diversity.
 
 **What it means:** The prompt is a dial: tighten it (constraints, format) and the output gets precise; loosen it and it gets diverse. Model behaviour follows the prompt — a vague prompt produces vague behaviour. Diversity and precision trade off, and the prompt design decides where you sit on the dial.
 
@@ -19,11 +19,11 @@ title: Prompt design, model behaviour, and output diversity
 - Adjust a prompt to increase or decrease diversity.
 - Write a precise version and a diverse version of the same task.
 
-**How to teach it in 20 minutes:**
-1. Show the same task prompted tight (one exact answer) vs loose (ten varied answers). (5 min)
-2. Teach the dial metaphor. (3 min)
-3. Learners write both versions for one task. (7 min)
-4. Compare where the dial landed. (5 min)
+**Lesson Plan Ideas:**
+1. Show the same task prompted tight (one exact answer) vs loose (ten varied answers). 
+2. Teach the dial metaphor. 
+3. Learners write both versions for one task. 
+4. Compare where the dial landed. 
 
 **Exercise (with the exact prompt):**
 ```text

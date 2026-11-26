@@ -10,7 +10,7 @@ title: Strategic refinement of AI guardrails
 
 > **TSC #9 Generative AI Models — Technical Aspects of Security and Ethics · Advanced · Knowledge K3**
 
-**Bullet (verbatim):** Strategic development and refinement of AI guardrails.
+**IMDA requirement:** Strategic development and refinement of AI guardrails.
 
 **What it means:** Refining guardrails strategically means measuring where they fail (false positives vs false negatives), and tuning them toward the organisation's actual risk appetite — not just patching one case at a time. It is guardrail management as a discipline.
 
@@ -19,11 +19,11 @@ title: Strategic refinement of AI guardrails
 - Explain risk appetite.
 - Propose a refinement from failure data.
 
-**How to teach it in 20 minutes:**
-1. Teach false positive vs false negative with examples. (5 min)
-2. Explain tuning to risk appetite. (5 min)
-3. Learners propose a refinement from failure data. (7 min)
-4. Debrief. (3 min)
+**Lesson Plan Ideas:**
+1. Teach false positive vs false negative with examples. 
+2. Explain tuning to risk appetite. 
+3. Learners propose a refinement from failure data. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

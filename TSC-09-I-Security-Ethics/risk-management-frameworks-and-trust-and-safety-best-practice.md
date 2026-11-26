@@ -10,7 +10,7 @@ title: Risk management frameworks and trust-and-safety best practice
 
 > **TSC #9 Generative AI Models — Technical Aspects of Security and Ethics · Intermediate · Knowledge K4**
 
-**Bullet (verbatim):** Best practices for maintaining AI trust and safety, including risk management frameworks (e.g., risk assessment matrix, bowtie analysis, agile risk).
+**IMDA requirement:** Best practices for maintaining AI trust and safety, including risk management frameworks (e.g., risk assessment matrix, bowtie analysis, agile risk).
 
 **What it means:** Frameworks make trust-and-safety a process, not a scramble: a risk matrix ranks, a bowtie maps causes to consequences, and agile risk embeds the checks into ongoing work. The skill is picking and running a framework so nothing is left to memory.
 
@@ -19,11 +19,11 @@ title: Risk management frameworks and trust-and-safety best practice
 - Apply a bowtie to an AI failure.
 - Explain 'agile risk' in one line.
 
-**How to teach it in 20 minutes:**
-1. Contrast the three frameworks with one example each. (6 min)
-2. Walk a bowtie for a chatbot leak. (7 min)
-3. Learners map a second failure with a bowtie. (5 min)
-4. Debrief. (2 min)
+**Lesson Plan Ideas:**
+1. Contrast the three frameworks with one example each. 
+2. Walk a bowtie for a chatbot leak. 
+3. Learners map a second failure with a bowtie. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

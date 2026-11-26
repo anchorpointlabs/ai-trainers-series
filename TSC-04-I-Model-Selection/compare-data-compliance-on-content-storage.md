@@ -10,7 +10,7 @@ title: Compare data compliance on content storage
 
 > **TSC #4 Generative AI Model Selection · Intermediate · Ability A3**
 
-**Bullet (verbatim):** Compare data compliances on where the generated content is stored upon creation.
+**IMDA requirement:** Compare data compliances on where the generated content is stored upon creation.
 
 **What it means:** Different models and providers store data differently — some retain it, some offer zero-retention, some keep it on-prem. Compliance (PDPA, client contracts) dictates where data may live. The skill is reading a provider's data terms and comparing them before choosing.
 
@@ -19,11 +19,11 @@ title: Compare data compliance on content storage
 - Compare two providers on retention and residency.
 - Flag a compliance risk in a provider choice.
 
-**How to teach it in 20 minutes:**
-1. Explain why 'where does the data go?' is a selection question. (5 min)
-2. Walk a provider's data terms and point to the retention clause. (6 min)
-3. Learners compare two providers on a compliance scenario. (6 min)
-4. Debrief. (3 min)
+**Lesson Plan Ideas:**
+1. Explain why 'where does the data go?' is a selection question. 
+2. Walk a provider's data terms and point to the retention clause. 
+3. Learners compare two providers on a compliance scenario. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

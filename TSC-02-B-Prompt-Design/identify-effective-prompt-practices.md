@@ -10,7 +10,7 @@ title: Identify effective prompt practices
 
 > **TSC #2 Prompt Design · Basic · Ability A6**
 
-**Bullet (verbatim):** Identify best practices for designing effective prompts.
+**IMDA requirement:** Identify best practices for designing effective prompts.
 
 **What it means:** A prompt is the instruction you give an artificial intelligence (AI) tool, such as a chat tool that can produce text. Useful habits include stating the task and audience clearly, supplying the facts needed and specifying important limits on the answer, such as its length. Use plain language, check the answer against the requirements and revise the instruction if needed; there is no single fixed template for every task.
 
@@ -19,11 +19,11 @@ title: Identify effective prompt practices
 - Revise a prompt in plain language using the relevant supplied facts and the required answer length.
 - Check an answer against those facts and requirements, then suggest a prompt change if something is missing.
 
-**How to teach it in 20 minutes:**
-1. Ask: “If a colleague simply says ‘Write a notice’, what would you need to ask before writing it?” Collect a few suggestions. (3 min)
-2. Explain the central habit: give the details needed for the job. Using the notice task below, point out the audience, event facts and two-sentence limit; ask learners which details would also matter in a notice from their own workplace. Stress that clear words and relevant information matter more than a fixed formula. (7 min)
-3. In pairs, read the original prompt, invented facts and task requirements in the exercise. Identify two things missing from the original and write your own improved prompt before generating the AI example (3 min). Paste the exact block into a new chat, independently check its revised prompt and notice using the check below, and amend your own prompt if needed (3 min). Run your own revised prompt in another new chat and check the notice against the same facts and length (2 min). (8 min)
-4. Ask pairs which detail they added and why. If a notice missed a requirement, ask how they would make that requirement clearer in their prompt; if none did, ask what they would change if the date were missing. (2 min)
+**Lesson Plan Ideas:**
+1. Ask: “If a colleague simply says ‘Write a notice’, what would you need to ask before writing it?” Collect a few suggestions. 
+2. Explain the central habit: give the details needed for the job. Using the notice task below, point out the audience, event facts and two-sentence limit; ask learners which details would also matter in a notice from their own workplace. Stress that clear words and relevant information matter more than a fixed formula. 
+3. In pairs, read the original prompt, invented facts and task requirements in the exercise. Identify two things missing from the original and write your own improved prompt before generating the AI example . Paste the exact block into a new chat, independently check its revised prompt and notice using the check below, and amend your own prompt if needed . Run your own revised prompt in another new chat and check the notice against the same facts and length . 
+4. Ask pairs which detail they added and why. If a notice missed a requirement, ask how they would make that requirement clearer in their prompt; if none did, ask what they would change if the date were missing. 
 
 **Exercise (with the exact prompt):**
 *Setup: Work in pairs with a chat AI, using a new conversation for each run; no files are needed and all event details are invented.*
@@ -37,7 +37,7 @@ For this invented task, Pine Street Community Library is holding a book swap on 
 2. Following your revised prompt, write the notice. Label it "Notice".
 ```
 
-Expected result: A revised prompt for library visitors, followed by a two-sentence notice about the book swap.  
+Expected result: A revised prompt for library visitors, followed by a two-sentence notice about the book swap.
 Check: Both your revised prompt and the AI's should specify the library, book swap, 12 March 2027, 2 pm to 4 pm, library hall, one book per visitor, two sentences and no added event details; the notice should include the facts, contain exactly two sentences and add no unsupported event details.
 
 **Common mistakes:**

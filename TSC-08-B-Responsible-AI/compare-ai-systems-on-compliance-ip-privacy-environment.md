@@ -10,7 +10,7 @@ title: Compare AI systems on compliance, IP, privacy, environment
 
 > **TSC #8 Responsible AI and Generative AI Practices · Basic · Ability A3**
 
-**Bullet (verbatim):** Compare AI systems based on considerations such as compliance with intellectual property, data privacy and environmental impact.
+**IMDA requirement:** Compare AI systems based on considerations such as compliance with intellectual property, data privacy and environmental impact.
 
 **What it means:** Choosing between AI systems is also an ethics decision: which provider handles IP and data better, which is more transparent, which has the lighter footprint. Compliance is a comparison criterion, not a footnote.
 
@@ -19,11 +19,11 @@ title: Compare AI systems on compliance, IP, privacy, environment
 - Flag an IP or privacy red flag in a provider.
 - Weigh environmental impact in a choice.
 
-**How to teach it in 20 minutes:**
-1. Show two providers' data terms side by side. (6 min)
-2. Teach 'compliance is a selection criterion'. (5 min)
-3. Learners compare two systems on a scenario. (6 min)
-4. Debrief. (3 min)
+**Lesson Plan Ideas:**
+1. Show two providers' data terms side by side. 
+2. Teach 'compliance is a selection criterion'. 
+3. Learners compare two systems on a scenario. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

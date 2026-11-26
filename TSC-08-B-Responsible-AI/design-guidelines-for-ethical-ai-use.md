@@ -10,7 +10,7 @@ title: Design guidelines for ethical AI use
 
 > **TSC #8 Responsible AI and Generative AI Practices · Basic · Ability A4**
 
-**Bullet (verbatim):** Design guidelines or strategies for ethical AI use, including use of sensitive data in generative AI tools.
+**IMDA requirement:** Design guidelines or strategies for ethical AI use, including use of sensitive data in generative AI tools.
 
 **What it means:** A guideline states, in plain words, what is allowed and what is not — especially around sensitive data. Designing one means making the rule concrete enough that anyone can follow it, not a vague 'be careful'.
 
@@ -19,11 +19,11 @@ title: Design guidelines for ethical AI use
 - Make a rule concrete and checkable.
 - Cover sensitive data explicitly.
 
-**How to teach it in 20 minutes:**
-1. Contrast 'be careful with data' with a concrete guideline. (5 min)
-2. Teach the parts of a guideline. (5 min)
-3. Learners write a guideline for a team. (7 min)
-4. Debrief. (3 min)
+**Lesson Plan Ideas:**
+1. Contrast 'be careful with data' with a concrete guideline. 
+2. Teach the parts of a guideline. 
+3. Learners write a guideline for a team. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

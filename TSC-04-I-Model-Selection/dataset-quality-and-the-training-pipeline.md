@@ -10,7 +10,7 @@ title: Dataset quality and the training pipeline
 
 > **TSC #4 Generative AI Model Selection · Intermediate · Knowledge K5**
 
-**Bullet (verbatim):** Significance of dataset quality and model training, including data management (e.g., extract, transform and load process).
+**IMDA requirement:** Significance of dataset quality and model training, including data management (e.g., extract, transform and load process).
 
 **What it means:** A model is only as good as its data. The **ETL** pipeline (extract, transform, load) governs how raw data becomes training data, and bad data — duplicates, bias, mislabels — produces bad models. For selection, this matters because a model's published quality reflects its training data.
 
@@ -19,11 +19,11 @@ title: Dataset quality and the training pipeline
 - Name the ETL stages.
 - Spot a data-quality risk in a dataset description.
 
-**How to teach it in 20 minutes:**
-1. Use 'garbage in, garbage out' as the anchor. (3 min)
-2. Walk ETL with a simple example. (6 min)
-3. Learners list what could go wrong in a messy customer dataset. (7 min)
-4. Debrief. (4 min)
+**Lesson Plan Ideas:**
+1. Use 'garbage in, garbage out' as the anchor. 
+2. Walk ETL with a simple example. 
+3. Learners list what could go wrong in a messy customer dataset. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

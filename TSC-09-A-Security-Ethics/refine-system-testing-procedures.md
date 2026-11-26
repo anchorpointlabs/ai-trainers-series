@@ -10,7 +10,7 @@ title: Refine system testing procedures
 
 > **TSC #9 Generative AI Models — Technical Aspects of Security and Ethics · Advanced · Ability A1**
 
-**Bullet (verbatim):** Refine comprehensive system testing procedures.
+**IMDA requirement:** Refine comprehensive system testing procedures.
 
 **What it means:** Refining testing means improving the procedure itself — from the failures you find, you add new cases, close gaps, and raise the bar. A test procedure that never changes is a procedure that stops catching new attacks.
 
@@ -19,11 +19,11 @@ title: Refine system testing procedures
 - Explain why procedures must evolve.
 - Add a new test case class.
 
-**How to teach it in 20 minutes:**
-1. Show a procedure that missed an attack, and how to amend it. (5 min)
-2. Teach 'every missed attack becomes a new test case'. (5 min)
-3. Learners amend a procedure from a finding. (7 min)
-4. Debrief. (3 min)
+**Lesson Plan Ideas:**
+1. Show a procedure that missed an attack, and how to amend it. 
+2. Teach 'every missed attack becomes a new test case'. 
+3. Learners amend a procedure from a finding. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

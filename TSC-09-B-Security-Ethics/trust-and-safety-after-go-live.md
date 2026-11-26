@@ -10,7 +10,7 @@ title: Trust and safety after go-live
 
 > **TSC #9 Generative AI Models — Technical Aspects of Security and Ethics · Basic · Knowledge K4**
 
-**Bullet (verbatim):** General trust and safety practices post go-live.
+**IMDA requirement:** General trust and safety practices post go-live.
 
 **What it means:** Going live is not the end — you keep watching. Trust and safety after launch means monitoring for new abuse, patching gaps, and reviewing incidents. Security is a loop, not a one-time setup.
 
@@ -19,11 +19,11 @@ title: Trust and safety after go-live
 - Name what to watch for after launch.
 - Explain why security continues after go-live.
 
-**How to teach it in 20 minutes:**
-1. Teach 'launch is the start of monitoring, not the end of it'. (5 min)
-2. Walk one post-launch incident (a new jailbreak found after release). (6 min)
-3. Learners list what a team should review weekly. (5 min)
-4. Debrief. (4 min)
+**Lesson Plan Ideas:**
+1. Teach 'launch is the start of monitoring, not the end of it'. 
+2. Walk one post-launch incident (a new jailbreak found after release). 
+3. Learners list what a team should review weekly. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

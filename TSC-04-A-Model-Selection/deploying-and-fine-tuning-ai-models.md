@@ -10,7 +10,7 @@ title: Deploying and fine-tuning AI models
 
 > **TSC #4 Generative AI Model Selection · Advanced · Knowledge K3**
 
-**Bullet (verbatim):** Workflow of deploying and fine-tuning AI models.
+**IMDA requirement:** Workflow of deploying and fine-tuning AI models.
 
 **What it means:** Deployment and fine-tuning follow a workflow: prepare data, choose a base model, fine-tune, evaluate against a test set, then deploy behind a gateway with pinned versions and monitoring. It is an engineering lifecycle, not a one-off action.
 
@@ -19,11 +19,11 @@ title: Deploying and fine-tuning AI models
 - Explain version pinning and monitoring.
 - Name the evaluation step's role.
 
-**How to teach it in 20 minutes:**
-1. Walk the lifecycle end-to-end on the board. (7 min)
-2. Teach version pinning with a 'don't move the goalposts' example. (5 min)
-3. Learners order the workflow steps. (5 min)
-4. Debrief. (3 min)
+**Lesson Plan Ideas:**
+1. Walk the lifecycle end-to-end on the board. 
+2. Teach version pinning with a 'don't move the goalposts' example. 
+3. Learners order the workflow steps. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

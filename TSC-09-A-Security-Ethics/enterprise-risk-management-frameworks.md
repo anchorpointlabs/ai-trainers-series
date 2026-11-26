@@ -10,7 +10,7 @@ title: Enterprise risk management frameworks
 
 > **TSC #9 Generative AI Models — Technical Aspects of Security and Ethics · Advanced · Knowledge K5**
 
-**Bullet (verbatim):** Enterprise risk management frameworks.
+**IMDA requirement:** Enterprise risk management frameworks.
 
 **What it means:** Enterprise risk management (ERM) ties AI risk into the organisation's overall risk posture — the same board-level discipline used for finance and ops. It means AI risk gets owners, appetite, and reporting, not a siloed engineer.
 
@@ -19,11 +19,11 @@ title: Enterprise risk management frameworks
 - Name the ERM elements (owner, appetite, reporting).
 - Relate AI risk to board-level oversight.
 
-**How to teach it in 20 minutes:**
-1. Teach 'AI risk is organisational risk, not a tech silo'. (5 min)
-2. Map AI risk to the ERM elements. (6 min)
-3. Learners assign owners/appetite to a risk. (6 min)
-4. Debrief. (3 min)
+**Lesson Plan Ideas:**
+1. Teach 'AI risk is organisational risk, not a tech silo'. 
+2. Map AI risk to the ERM elements. 
+3. Learners assign owners/appetite to a risk. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

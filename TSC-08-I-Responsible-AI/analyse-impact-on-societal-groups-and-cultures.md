@@ -10,7 +10,7 @@ title: Analyse impact on societal groups and cultures
 
 > **TSC #8 Responsible AI and Generative AI Practices · Intermediate · Ability A6**
 
-**Bullet (verbatim):** Analyse the impact of AI on different societal groups and cultures (e.g., minority groups).
+**IMDA requirement:** Analyse the impact of AI on different societal groups and cultures (e.g., minority groups).
 
 **What it means:** AI that works for the majority can fail or harm minorities — dialect, culture, disability. Analysing impact means asking specifically how each group is affected, especially the ones least likely to be in the training data.
 
@@ -19,11 +19,11 @@ title: Analyse impact on societal groups and cultures
 - Explain why dialect or culture can break a model.
 - State a mitigation for that group.
 
-**How to teach it in 20 minutes:**
-1. Show a model failing on Singlish or a minority language. (6 min)
-2. Teach 'who is missing from the data gets the worst output'. (5 min)
-3. Learners identify an underserved group for a tool. (6 min)
-4. Debrief. (3 min)
+**Lesson Plan Ideas:**
+1. Show a model failing on Singlish or a minority language. 
+2. Teach 'who is missing from the data gets the worst output'. 
+3. Learners identify an underserved group for a tool. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

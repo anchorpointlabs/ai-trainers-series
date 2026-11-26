@@ -10,7 +10,7 @@ title: Configure AI guardrails effectively
 
 > **TSC #9 Generative AI Models — Technical Aspects of Security and Ethics · Intermediate · Ability A3**
 
-**Bullet (verbatim):** Configure AI guardrails effectively.
+**IMDA requirement:** Configure AI guardrails effectively.
 
 **What it means:** Configuring effectively means the guardrail actually changes behaviour — the model refuses the harmful ask, blocks the bad output, or escalates. It is tested, tuned, and re-tested, not just switched on.
 
@@ -19,11 +19,11 @@ title: Configure AI guardrails effectively
 - Tune a guardrail that is too strict or too loose.
 - Explain the trade-off between safety and usefulness.
 
-**How to teach it in 20 minutes:**
-1. Show a guardrail too loose (lets harm through) and too strict (refuses everything). (5 min)
-2. Teach the tuning loop. (5 min)
-3. Learners tune a guardrail on sample inputs. (6 min)
-4. Debrief. (4 min)
+**Lesson Plan Ideas:**
+1. Show a guardrail too loose (lets harm through) and too strict (refuses everything). 
+2. Teach the tuning loop. 
+3. Learners tune a guardrail on sample inputs. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

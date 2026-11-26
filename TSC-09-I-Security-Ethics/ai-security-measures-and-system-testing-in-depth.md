@@ -10,7 +10,7 @@ title: AI security measures and system testing in depth
 
 > **TSC #9 Generative AI Models — Technical Aspects of Security and Ethics · Intermediate · Knowledge K1**
 
-**Bullet (verbatim):** In-depth understanding of AI security measures and system testing.
+**IMDA requirement:** In-depth understanding of AI security measures and system testing.
 
 **What it means:** Security measures are the full set of controls — input/output filtering, least privilege, logging, rate limiting — and system testing verifies them systematically. Depth means knowing how each control fails and testing for exactly that failure.
 
@@ -19,11 +19,11 @@ title: AI security measures and system testing in depth
 - Explain how one control fails.
 - Design a test for a specific control.
 
-**How to teach it in 20 minutes:**
-1. Map the control set (filter, privilege, log, rate-limit). (6 min)
-2. Teach 'every control has a failure mode — test for it'. (5 min)
-3. Learners design a test for one control. (6 min)
-4. Debrief. (3 min)
+**Lesson Plan Ideas:**
+1. Map the control set (filter, privilege, log, rate-limit). 
+2. Teach 'every control has a failure mode — test for it'. 
+3. Learners design a test for one control. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

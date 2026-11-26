@@ -10,7 +10,7 @@ title: Limitations of AI models
 
 > **TSC #1 Generative AI Principles and Applications · Basic · Knowledge K6**
 
-**Bullet (verbatim):** Limitations of AI models in generating relevant outputs.
+**IMDA requirement:** Limitations of AI models in generating relevant outputs.
 
 **What it means:** The model can be **fluent and wrong**: it hallucinates (invents a plausible-sounding fact), its knowledge is stale (a training cutoff), it has no real understanding, and it is weak at fresh maths and exact facts. "Relevant" is the key word — the output reads well but may not answer the question or match the facts.
 
@@ -19,11 +19,11 @@ title: Limitations of AI models
 - Spot a hallucinated fact in a sample output.
 - Explain why checking against a source is non-negotiable.
 
-**How to teach it in 20 minutes:**
-1. Show a fluent but wrong output (a fake statistic or a hallucinated citation). (5 min)
-2. Teach 'fluent is not true' — the model is a confident guesser. (4 min)
-3. Learners read a generated paragraph and underline anything that must be verified. (7 min)
-4. Debrief what to check and where. (4 min)
+**Lesson Plan Ideas:**
+1. Show a fluent but wrong output (a fake statistic or a hallucinated citation). 
+2. Teach 'fluent is not true' — the model is a confident guesser. 
+3. Learners read a generated paragraph and underline anything that must be verified. 
+4. Debrief what to check and where. 
 
 **Exercise (with the exact prompt):**
 ```text

@@ -10,7 +10,7 @@ title: Refine outputs and extend capabilities
 
 > **TSC #3 Prompt Engineering · Advanced · Ability A5**
 
-**Bullet (verbatim):** Apply prompt engineering strategies to refine model outputs and extend capabilities of models.
+**IMDA requirement:** Apply prompt engineering strategies to refine model outputs and extend capabilities of models.
 
 **What it means:** Refining is a loop: generate, read against the goal, change one thing, regenerate. Extending is adding capability the base model lacks — retrieval, a tool call, a structured chain — through the prompt's orchestration rather than retraining. Both are iterative and testable.
 
@@ -19,11 +19,11 @@ title: Refine outputs and extend capabilities
 - Add a retrieval or tool step to a prompt to extend it.
 - Explain what each pass changed and why.
 
-**How to teach it in 20 minutes:**
-1. Show a first-draft output, then two refinements, and name what changed each time. (5 min)
-2. Demonstrate extending a prompt with a retrieval step. (5 min)
-3. Learners refine a weak prompt across three passes. (6 min)
-4. Share the before/after. (4 min)
+**Lesson Plan Ideas:**
+1. Show a first-draft output, then two refinements, and name what changed each time. 
+2. Demonstrate extending a prompt with a retrieval step. 
+3. Learners refine a weak prompt across three passes. 
+4. Share the before/after. 
 
 **Exercise (with the exact prompt):**
 ```text

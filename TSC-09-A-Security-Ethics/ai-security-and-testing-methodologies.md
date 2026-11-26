@@ -10,7 +10,7 @@ title: AI security and testing methodologies
 
 > **TSC #9 Generative AI Models — Technical Aspects of Security and Ethics · Advanced · Knowledge K1**
 
-**Bullet (verbatim):** Methodologies of AI model security and testing.
+**IMDA requirement:** Methodologies of AI model security and testing.
 
 **What it means:** A methodology is a repeatable, defensible way to secure and test models — not ad-hoc poking. It defines the threat model, the test catalogue, and the acceptance bar, so security is consistent across models and teams.
 
@@ -19,11 +19,11 @@ title: AI security and testing methodologies
 - Explain what a test catalogue is.
 - State an acceptance bar for a model.
 
-**How to teach it in 20 minutes:**
-1. Contrast ad-hoc poking with a methodology. (4 min)
-2. Walk a threat model for a sample system. (7 min)
-3. Learners sketch a threat model. (6 min)
-4. Debrief. (3 min)
+**Lesson Plan Ideas:**
+1. Contrast ad-hoc poking with a methodology. 
+2. Walk a threat model for a sample system. 
+3. Learners sketch a threat model. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

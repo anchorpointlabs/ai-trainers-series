@@ -10,7 +10,7 @@ title: Evaluate privacy vs performance trade-offs
 
 > **TSC #8 Responsible AI and Generative AI Practices · Intermediate · Ability A4**
 
-**Bullet (verbatim):** Evaluate the trade-offs between privacy and model performance.
+**IMDA requirement:** Evaluate the trade-offs between privacy and model performance.
 
 **What it means:** Privacy and performance often pull against each other: anonymising or federating data can cost accuracy. The skill is measuring both and making a deliberate choice, not defaulting to one side.
 
@@ -19,11 +19,11 @@ title: Evaluate privacy vs performance trade-offs
 - Weigh the two on a decision.
 - Justify a trade-off choice.
 
-**How to teach it in 20 minutes:**
-1. Show anonymisation slightly reducing accuracy. (5 min)
-2. Teach 'name the trade-off, then choose'. (5 min)
-3. Learners weigh a trade-off for a scenario. (7 min)
-4. Debrief. (3 min)
+**Lesson Plan Ideas:**
+1. Show anonymisation slightly reducing accuracy. 
+2. Teach 'name the trade-off, then choose'. 
+3. Learners weigh a trade-off for a scenario. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

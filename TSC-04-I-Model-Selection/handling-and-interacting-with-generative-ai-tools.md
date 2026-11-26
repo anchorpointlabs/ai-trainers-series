@@ -10,7 +10,7 @@ title: Handling and interacting with generative AI tools
 
 > **TSC #4 Generative AI Model Selection · Intermediate · Knowledge K4**
 
-**Bullet (verbatim):** Steps in handling and interacting with generative AI tools.
+**IMDA requirement:** Steps in handling and interacting with generative AI tools.
 
 **What it means:** Using a GenAI tool well is a repeatable sequence: state the task, supply context, set the format, run, check against the goal, and iterate. The 'handling' part is the discipline around the tool — versions, settings, and reading errors — not the tool's brand.
 
@@ -19,11 +19,11 @@ title: Handling and interacting with generative AI tools
 - Adjust a tool setting (temperature, length) for a task.
 - Read an error and state the likely cause.
 
-**How to teach it in 20 minutes:**
-1. Walk the loop on a live example. (5 min)
-2. Teach two settings (temperature, max length) and their effect. (5 min)
-3. Learners run a task and log their settings. (6 min)
-4. Debrief. (4 min)
+**Lesson Plan Ideas:**
+1. Walk the loop on a live example. 
+2. Teach two settings (temperature, max length) and their effect. 
+3. Learners run a task and log their settings. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

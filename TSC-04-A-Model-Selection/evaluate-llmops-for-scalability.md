@@ -10,7 +10,7 @@ title: Evaluate LLMOps for scalability
 
 > **TSC #4 Generative AI Model Selection · Advanced · Ability A4**
 
-**Bullet (verbatim):** Evaluate the use of LLMOps on the scalability of advanced generative models for real-world applications.
+**IMDA requirement:** Evaluate the use of LLMOps on the scalability of advanced generative models for real-world applications.
 
 **What it means:** LLMOps is the operations discipline for models — versioning, monitoring, evaluation harnesses, CI/CD for prompts and models. It is what makes a model *scalable*: many models, many updates, many users, without chaos. Evaluating it means asking whether the ops can keep up with scale.
 
@@ -19,11 +19,11 @@ title: Evaluate LLMOps for scalability
 - Name the pieces (versioning, monitoring, eval, CI/CD).
 - Assess whether an ops setup will scale.
 
-**How to teach it in 20 minutes:**
-1. Draw 'one model, one chat' vs 'many models, many users, many updates'. (5 min)
-2. Teach the LLMOps pieces with one line each. (6 min)
-3. Learners list what breaks when you scale with no ops. (6 min)
-4. Debrief. (3 min)
+**Lesson Plan Ideas:**
+1. Draw 'one model, one chat' vs 'many models, many users, many updates'. 
+2. Teach the LLMOps pieces with one line each. 
+3. Learners list what breaks when you scale with no ops. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

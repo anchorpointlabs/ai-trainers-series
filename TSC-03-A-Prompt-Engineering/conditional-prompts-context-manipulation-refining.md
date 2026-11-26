@@ -10,7 +10,7 @@ title: Conditional prompts, context manipulation, refining
 
 > **TSC #3 Prompt Engineering · Advanced · Knowledge K2**
 
-**Bullet (verbatim):** Concepts in prompt engineering (e.g., conditional prompts, context manipulation, refining for specific outputs).
+**IMDA requirement:** Concepts in prompt engineering (e.g., conditional prompts, context manipulation, refining for specific outputs).
 
 **What it means:** Three levers, one idea: you steer what the model attends to. **Conditional prompts** are 'if-then' instructions (if the input is X, do Y). **Context manipulation** is choosing *which* background to put in the window and in what order. **Refining** is iterating — take the first output, tighten the instruction, run again. Together they are how you convert a one-shot guess into a controlled result.
 
@@ -19,11 +19,11 @@ title: Conditional prompts, context manipulation, refining
 - Reorder the context in a prompt and describe how it changes the output.
 - Refine a prompt across three passes and say what each pass changed.
 
-**How to teach it in 20 minutes:**
-1. Define the three levers with one example each. (4 min)
-2. Show one prompt rewritten three ways (conditional, reordered context, refined). (5 min)
-3. Learners take a pasted email and write a conditional prompt to categorise it. (6 min)
-4. Share and compare outputs; note how reordering changed the answer. (5 min)
+**Lesson Plan Ideas:**
+1. Define the three levers with one example each. 
+2. Show one prompt rewritten three ways (conditional, reordered context, refined). 
+3. Learners take a pasted email and write a conditional prompt to categorise it. 
+4. Share and compare outputs; note how reordering changed the answer. 
 
 **Exercise (with the exact prompt):**
 ```text

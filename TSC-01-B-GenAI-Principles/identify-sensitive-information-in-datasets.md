@@ -10,7 +10,7 @@ title: Identify sensitive information in datasets
 
 > **TSC #1 Generative AI Principles and Applications · Basic · Ability A3**
 
-**Bullet (verbatim):** Identify sensitive information in datasets.
+**IMDA requirement:** Identify sensitive information in datasets.
 
 **What it means:** Sensitive data is **personal data** (names, NRIC, contact, health) plus **confidential data** (trade secrets, client lists). Before any dataset is used — for training, analysis, or pasting into a tool — scan it for these. The noticeboard test: if you would not pin it publicly, treat it as sensitive.
 
@@ -19,11 +19,11 @@ title: Identify sensitive information in datasets
 - Flag indirect identifiers (an email alone is personal data).
 - Decide whether a dataset can be used or must be cleaned.
 
-**How to teach it in 20 minutes:**
-1. Give the noticeboard test as the one-line rule. (3 min)
-2. Walk a sample row and circle the sensitive fields. (5 min)
-3. Learners scan a short customer list and flag every sensitive item. (7 min)
-4. Debrief the indirect identifiers they missed. (5 min)
+**Lesson Plan Ideas:**
+1. Give the noticeboard test as the one-line rule. 
+2. Walk a sample row and circle the sensitive fields. 
+3. Learners scan a short customer list and flag every sensitive item. 
+4. Debrief the indirect identifiers they missed. 
 
 **Exercise (with the exact prompt):**
 ```text

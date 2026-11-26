@@ -10,7 +10,7 @@ title: Fine-tuning on a RAG knowledge base
 
 > **TSC #3 Prompt Engineering · Advanced · Knowledge K7**
 
-**Bullet (verbatim):** Modification of model configurations to optimise output (e.g., use of fine tuning based on RAG knowledge base).
+**IMDA requirement:** Modification of model configurations to optimise output (e.g., use of fine tuning based on RAG knowledge base).
 
 **What it means:** RAG injects knowledge at *answer time*; fine-tuning bakes it into the *weights* during training. Fine-tuning on a RAG-derived dataset means using retrieved question-answer pairs as training examples so the model learns the domain's style. Fine-tuning changes *how* the model writes; RAG changes *what* it knows. They are complements, not rivals.
 
@@ -19,11 +19,11 @@ title: Fine-tuning on a RAG knowledge base
 - Explain when fine-tuning is worth the cost vs. plain RAG.
 - Describe what data you would need to fine-tune.
 
-**How to teach it in 20 minutes:**
-1. Use the 'bootcamp vs open-book manual' analogy (from TSC #4). (3 min)
-2. Contrast the two failure modes: stale weights vs. stale context. (5 min)
-3. Learners decide, for three scenarios, whether to fine-tune, use RAG, or both. (7 min)
-4. Debrief the cost/benefit. (5 min)
+**Lesson Plan Ideas:**
+1. Use the 'bootcamp vs open-book manual' analogy (from TSC #4). 
+2. Contrast the two failure modes: stale weights vs. stale context. 
+3. Learners decide, for three scenarios, whether to fine-tune, use RAG, or both. 
+4. Debrief the cost/benefit. 
 
 **Exercise (with the exact prompt):**
 ```text

@@ -10,7 +10,7 @@ title: Integrate ethics into development and evaluation
 
 > **TSC #8 Responsible AI and Generative AI Practices · Intermediate · Ability A8**
 
-**Bullet (verbatim):** Develop strategies to integrate ethics into AI development and evaluation of AI systems.
+**IMDA requirement:** Develop strategies to integrate ethics into AI development and evaluation of AI systems.
 
 **What it means:** Integration means ethics is a stage in the process — a risk review at design, a fairness check in evaluation, a sign-off at deployment — not a report written after launch. The strategy is the checkpoints.
 
@@ -19,11 +19,11 @@ title: Integrate ethics into development and evaluation
 - Name the check at each stage.
 - Explain why early beats late.
 
-**How to teach it in 20 minutes:**
-1. Contrast ethics-at-the-end with built-in checkpoints. (5 min)
-2. Map checkpoints onto a lifecycle. (7 min)
-3. Learners place a checkpoint for a project. (5 min)
-4. Debrief. (3 min)
+**Lesson Plan Ideas:**
+1. Contrast ethics-at-the-end with built-in checkpoints. 
+2. Map checkpoints onto a lifecycle. 
+3. Learners place a checkpoint for a project. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

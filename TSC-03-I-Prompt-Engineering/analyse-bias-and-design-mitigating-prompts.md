@@ -10,7 +10,7 @@ title: Analyse bias and design mitigating prompts
 
 > **TSC #3 Prompt Engineering · Intermediate · Ability A7**
 
-**Bullet (verbatim):** Analyse potential bias in foundation model responses and design prompts that mitigate the bias.
+**IMDA requirement:** Analyse potential bias in foundation model responses and design prompts that mitigate the bias.
 
 **What it means:** Models echo the bias in their training data — gender, race, language, profession. The skill is catching a biased output and re-prompting to mitigate it (e.g. 'use gender-neutral language', 'show a balanced set of examples').
 
@@ -19,11 +19,11 @@ title: Analyse bias and design mitigating prompts
 - Write a re-prompt that mitigates it.
 - Explain why the bias appears.
 
-**How to teach it in 20 minutes:**
-1. Show a biased output (a model assuming a nurse is 'she'). (4 min)
-2. Teach 'the model echoes its training data — check, then re-prompt'. (5 min)
-3. Learners re-prompt a biased output to fix it. (7 min)
-4. Debrief what the re-prompt changed. (4 min)
+**Lesson Plan Ideas:**
+1. Show a biased output (a model assuming a nurse is 'she'). 
+2. Teach 'the model echoes its training data — check, then re-prompt'. 
+3. Learners re-prompt a biased output to fix it. 
+4. Debrief what the re-prompt changed. 
 
 **Exercise (with the exact prompt):**
 ```text

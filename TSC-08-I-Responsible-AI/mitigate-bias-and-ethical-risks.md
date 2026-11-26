@@ -10,7 +10,7 @@ title: Mitigate bias and ethical risks
 
 > **TSC #8 Responsible AI and Generative AI Practices · Intermediate · Ability A3**
 
-**Bullet (verbatim):** Implement strategies to mitigate bias and ethical risks in AI systems.
+**IMDA requirement:** Implement strategies to mitigate bias and ethical risks in AI systems.
 
 **What it means:** Mitigation is concrete: fix the training data, add fairness checks, constrain the output, or add a human gate. The skill is picking the mitigation that actually addresses the risk, not a symbolic gesture.
 
@@ -19,11 +19,11 @@ title: Mitigate bias and ethical risks
 - Explain why the mitigation addresses the cause.
 - Add a fairness check to a pipeline.
 
-**How to teach it in 20 minutes:**
-1. Show a biased output and trace it to a cause, then fix it. (7 min)
-2. Teach the mitigation menu (data, checks, constraints, human gate). (5 min)
-3. Learners pick a mitigation for a risk. (5 min)
-4. Debrief. (3 min)
+**Lesson Plan Ideas:**
+1. Show a biased output and trace it to a cause, then fix it. 
+2. Teach the mitigation menu (data, checks, constraints, human gate). 
+3. Learners pick a mitigation for a risk. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

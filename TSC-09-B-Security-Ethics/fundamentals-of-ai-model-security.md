@@ -10,7 +10,7 @@ title: Fundamentals of AI model security
 
 > **TSC #9 Generative AI Models — Technical Aspects of Security and Ethics · Basic · Knowledge K1**
 
-**Bullet (verbatim):** Fundamental concepts of AI model security, including importance of monitoring and reporting risks.
+**IMDA requirement:** Fundamental concepts of AI model security, including importance of monitoring and reporting risks.
 
 **What it means:** AI models are attacked through their inputs, not just their code. A prompt is a new door into the system — the model reads text and may act on it. Security means treating the model as a gullible but powerful worker: monitor what it does, and report anything odd.
 
@@ -19,11 +19,11 @@ title: Fundamentals of AI model security
 - State why monitoring and reporting matter.
 - Name one sign that a model has been tricked.
 
-**How to teach it in 20 minutes:**
-1. Use the gullible-intern analogy as the frame. (5 min)
-2. Teach 'the prompt is a door, not just a question'. (5 min)
-3. Learners list what could go wrong if nobody monitors an AI that reads emails. (6 min)
-4. Debrief. (4 min)
+**Lesson Plan Ideas:**
+1. Use the gullible-intern analogy as the frame. 
+2. Teach 'the prompt is a door, not just a question'. 
+3. Learners list what could go wrong if nobody monitors an AI that reads emails. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

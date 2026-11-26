@@ -10,7 +10,7 @@ title: Apply privacy measures when handling data
 
 > **TSC #8 Responsible AI and Generative AI Practices · Basic · Ability A5**
 
-**Bullet (verbatim):** Apply privacy measures when handling data for AI applications (e.g., implement simple data anonymisation and de-identification techniques, secure data storage using basic encryption).
+**IMDA requirement:** Apply privacy measures when handling data for AI applications (e.g., implement simple data anonymisation and de-identification techniques, secure data storage using basic encryption).
 
 **What it means:** Privacy measures are concrete actions: anonymise before sharing, store data encrypted, and restrict access. The skill is doing these as a routine, not a special project.
 
@@ -19,11 +19,11 @@ title: Apply privacy measures when handling data
 - Explain why encryption protects stored data.
 - Restrict access to sensitive data.
 
-**How to teach it in 20 minutes:**
-1. Walk anonymise-then-use on a sample. (6 min)
-2. Teach encryption and access control in one line each. (5 min)
-3. Learners apply the measures to a dataset. (6 min)
-4. Debrief. (3 min)
+**Lesson Plan Ideas:**
+1. Walk anonymise-then-use on a sample. 
+2. Teach encryption and access control in one line each. 
+3. Learners apply the measures to a dataset. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

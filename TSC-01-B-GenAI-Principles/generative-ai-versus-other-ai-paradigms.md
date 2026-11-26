@@ -10,7 +10,7 @@ title: Generative AI versus other AI paradigms
 
 > **TSC #1 Generative AI Principles and Applications · Basic · Knowledge K5**
 
-**Bullet (verbatim):** Difference between generative AI and other AI paradigms.
+**IMDA requirement:** Difference between generative AI and other AI paradigms.
 
 **What it means:** "AI" is not one thing. **Discriminative AI** classifies or decides — is this email spam? will this customer churn? **Generative AI** creates — write the reply, draw the image, write the code. Traditional machine learning predicts a label or a number; GenAI generates new content. The one-line line: *decision vs creation*.
 
@@ -19,11 +19,11 @@ title: Generative AI versus other AI paradigms
 - Explain the difference in one sentence.
 - Give one example of each from their workplace.
 
-**How to teach it in 20 minutes:**
-1. Show two outputs: a spam filter's 'spam/not spam' vs a chatbot's drafted reply. (4 min)
-2. Draw the line: prediction of a label vs generation of content. (4 min)
-3. Learners sort ten systems (fraud detector, image generator, churn predictor, chatbot, autocorrect, translation). (7 min)
-4. Debrief the two hardest. (5 min)
+**Lesson Plan Ideas:**
+1. Show two outputs: a spam filter's 'spam/not spam' vs a chatbot's drafted reply. 
+2. Draw the line: prediction of a label vs generation of content. 
+3. Learners sort ten systems (fraud detector, image generator, churn predictor, chatbot, autocorrect, translation). 
+4. Debrief the two hardest. 
 
 **Exercise (with the exact prompt):**
 ```text

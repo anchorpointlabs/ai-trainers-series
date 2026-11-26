@@ -10,7 +10,7 @@ title: Where generative AI helps and where it does not
 
 > **TSC #1 Generative AI Principles and Applications · Basic · Knowledge K4**
 
-**Bullet (verbatim):** Transformative potential of generative AI in various industries, including domains where generative AI could be used, and where it may not work.
+**IMDA requirement:** Transformative potential of generative AI in various industries, including domains where generative AI could be used, and where it may not work.
 
 **What it means:** GenAI is a **multiplier for drafting, summarising, brainstorming, and routine writing** across every industry — healthcare, law, logistics, education. But it is a poor fit where facts must be **exact, private, or fresh**, where judgement and accountability are required, or where a wrong answer is costly. The skill is matching the task to the tool, not using it everywhere.
 
@@ -19,11 +19,11 @@ title: Where generative AI helps and where it does not
 - Name three tasks where it is the wrong tool.
 - Give a one-line rule for deciding.
 
-**How to teach it in 20 minutes:**
-1. Split the board into 'great fit' and 'bad fit'. Learners shout examples; you place them. (6 min)
-2. Give the rule: give it the boring 80%, keep the judgement 20%. (4 min)
-3. Learners classify ten tasks (draft a notice / diagnose a patient / sum the accounts / write a condolence email). (6 min)
-4. Debrief the two that split opinion. (4 min)
+**Lesson Plan Ideas:**
+1. Split the board into 'great fit' and 'bad fit'. Learners shout examples; you place them. 
+2. Give the rule: give it the boring 80%, keep the judgement 20%. 
+3. Learners classify ten tasks (draft a notice / diagnose a patient / sum the accounts / write a condolence email). 
+4. Debrief the two that split opinion. 
 
 **Exercise (with the exact prompt):**
 ```text

@@ -10,7 +10,7 @@ title: Pre-deployment system testing basics
 
 > **TSC #9 Generative AI Models — Technical Aspects of Security and Ethics · Basic · Knowledge K2**
 
-**Bullet (verbatim):** Basics of system testing pre-deployment (e.g., beta testing, systems integration, AI jailbreaks, model hallucinations).
+**IMDA requirement:** Basics of system testing pre-deployment (e.g., beta testing, systems integration, AI jailbreaks, model hallucinations).
 
 **What it means:** Before an AI goes live, you test it: try to make it misbehave (jailbreaks), check it does not hallucinate on real inputs, and confirm it integrates with the rest of the system. Testing is trying to break it on purpose, not just clicking around.
 
@@ -19,11 +19,11 @@ title: Pre-deployment system testing basics
 - Describe a jailbreak attempt.
 - Explain why you test before launch.
 
-**How to teach it in 20 minutes:**
-1. Show a jailbreak attempt (asking the model to ignore its rules). (5 min)
-2. Teach 'test by trying to break it'. (5 min)
-3. Learners write one test input that would stress a chatbot. (6 min)
-4. Debrief. (4 min)
+**Lesson Plan Ideas:**
+1. Show a jailbreak attempt (asking the model to ignore its rules). 
+2. Teach 'test by trying to break it'. 
+3. Learners write one test input that would stress a chatbot. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

@@ -10,7 +10,7 @@ title: Quantitative risk analysis
 
 > **TSC #9 Generative AI Models — Technical Aspects of Security and Ethics · Advanced · Knowledge K6**
 
-**Bullet (verbatim):** Quantitative risk analysis techniques (e.g., Monte Carlo simulation, decision tree analysis).
+**IMDA requirement:** Quantitative risk analysis techniques (e.g., Monte Carlo simulation, decision tree analysis).
 
 **What it means:** Quantitative analysis puts numbers on risk instead of 'low/medium/high'. A **Monte Carlo** simulation runs many scenarios to estimate a range of outcomes; a **decision tree** maps choices and their probabilities. Both make risk decisions defensible and comparable.
 
@@ -19,11 +19,11 @@ title: Quantitative risk analysis
 - Draw a simple decision tree.
 - Say when numbers beat a risk matrix.
 
-**How to teach it in 20 minutes:**
-1. Contrast 'low/medium/high' with a number and a range. (5 min)
-2. Walk a decision tree for 'launch with guardrails vs delay'. (7 min)
-3. Learners sketch a tree for a scenario. (5 min)
-4. Debrief. (3 min)
+**Lesson Plan Ideas:**
+1. Contrast 'low/medium/high' with a number and a range. 
+2. Walk a decision tree for 'launch with guardrails vs delay'. 
+3. Learners sketch a tree for a scenario. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

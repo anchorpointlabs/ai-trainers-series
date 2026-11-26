@@ -10,7 +10,7 @@ title: Champion responsible and ethical AI use
 
 > **TSC #8 Responsible AI and Generative AI Practices · Intermediate · Ability A9**
 
-**Bullet (verbatim):** Champion best practices for responsible and ethical use of generative AI, addressing concerns about transparency, bias, and societal impact.
+**IMDA requirement:** Champion best practices for responsible and ethical use of generative AI, addressing concerns about transparency, bias, and societal impact.
 
 **What it means:** Championing means being the person who raises the bias question, asks about transparency, and insists on the check — constructively, with a fix, not just a complaint. It is leadership, not policing.
 
@@ -19,11 +19,11 @@ title: Champion responsible and ethical AI use
 - Pair a concern with a fix.
 - Model the behaviour for a team.
 
-**How to teach it in 20 minutes:**
-1. Contrast a complaint ('this is wrong') with a champion's push ('here's the risk and a fix'). (5 min)
-2. Teach 'concern + fix = leadership'. (5 min)
-3. Learners script a constructive challenge. (7 min)
-4. Debrief. (3 min)
+**Lesson Plan Ideas:**
+1. Contrast a complaint ('this is wrong') with a champion's push ('here's the risk and a fix'). 
+2. Teach 'concern + fix = leadership'. 
+3. Learners script a constructive challenge. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

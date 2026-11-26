@@ -10,7 +10,7 @@ title: Apply models and assess cost
 
 > **TSC #4 Generative AI Model Selection · Intermediate · Ability A1**
 
-**Bullet (verbatim):** Apply different generative AI models for different use cases, and assess cost across different models available.
+**IMDA requirement:** Apply different generative AI models for different use cases, and assess cost across different models available.
 
 **What it means:** Apply the right model to the right task and price it: run the same task on two models, compare quality and per-call cost, and pick the one that meets the bar at the lowest price. Cost is not an afterthought — it is a selection criterion.
 
@@ -19,11 +19,11 @@ title: Apply models and assess cost
 - Compute rough per-task cost.
 - Choose the cheaper model that meets the bar.
 
-**How to teach it in 20 minutes:**
-1. Show a cost table (frontier vs small model) for one task. (5 min)
-2. Teach 'cost is a criterion, not a footnote'. (4 min)
-3. Learners compare two models' cost on a sample task. (7 min)
-4. Debrief. (4 min)
+**Lesson Plan Ideas:**
+1. Show a cost table (frontier vs small model) for one task. 
+2. Teach 'cost is a criterion, not a footnote'. 
+3. Learners compare two models' cost on a sample task. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

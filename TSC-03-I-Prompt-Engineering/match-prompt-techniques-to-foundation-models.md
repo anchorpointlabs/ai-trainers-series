@@ -10,7 +10,7 @@ title: Match prompt techniques to foundation models
 
 > **TSC #3 Prompt Engineering · Intermediate · Ability A5**
 
-**Bullet (verbatim):** Identify which prompt techniques are best-suited for specific foundation models.
+**IMDA requirement:** Identify which prompt techniques are best-suited for specific foundation models.
 
 **What it means:** Different models need different handling: some reason well without being asked, others need an explicit 'think step by step'; some follow format rules strictly, others drift. The skill is testing a technique against *your* model and adapting, not assuming one prompt works everywhere.
 
@@ -19,11 +19,11 @@ title: Match prompt techniques to foundation models
 - Adapt a prompt to a model's behaviour.
 - Explain why you test rather than assume.
 
-**How to teach it in 20 minutes:**
-1. Run one prompt on two models (if available) and show the difference. (6 min)
-2. Teach 'different models, different needs — test'. (3 min)
-3. Learners write one prompt with a note on how they would adapt it. (7 min)
-4. Debrief. (4 min)
+**Lesson Plan Ideas:**
+1. Run one prompt on two models (if available) and show the difference. 
+2. Teach 'different models, different needs — test'. 
+3. Learners write one prompt with a note on how they would adapt it. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

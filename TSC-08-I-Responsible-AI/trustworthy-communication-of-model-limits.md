@@ -10,7 +10,7 @@ title: Trustworthy communication of model limits
 
 > **TSC #8 Responsible AI and Generative AI Practices · Intermediate · Knowledge K4**
 
-**Bullet (verbatim):** Trustworthy and transparent communication of generative model capabilities and limitations.
+**IMDA requirement:** Trustworthy and transparent communication of generative model capabilities and limitations.
 
 **What it means:** Users trust AI more than it deserves unless you tell them otherwise. Trustworthy communication means stating plainly what the model can and cannot do, and where a human must step in — not overselling the demo.
 
@@ -19,11 +19,11 @@ title: Trustworthy communication of model limits
 - Write an honest capability note.
 - Explain why overselling erodes trust.
 
-**How to teach it in 20 minutes:**
-1. Contrast marketing copy with an honest capability note. (5 min)
-2. Teach 'say what it cannot do'. (5 min)
-3. Learners write an honest note for a tool. (6 min)
-4. Debrief. (4 min)
+**Lesson Plan Ideas:**
+1. Contrast marketing copy with an honest capability note. 
+2. Teach 'say what it cannot do'. 
+3. Learners write an honest note for a tool. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

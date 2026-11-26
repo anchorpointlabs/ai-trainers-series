@@ -10,7 +10,7 @@ title: Chain-of-Thought and Tree of Thought
 
 > **TSC #3 Prompt Engineering · Advanced · Knowledge K4**
 
-**Bullet (verbatim):** Advanced prompt techniques (e.g., Chain-of-Thought, Tree of Thought prompting).
+**IMDA requirement:** Advanced prompt techniques (e.g., Chain-of-Thought, Tree of Thought prompting).
 
 **What it means:** **Chain-of-Thought** makes the model show its reasoning step-by-step before the answer — this measurably improves arithmetic and multi-step logic, not because the model is 'thinking' but because each generated step becomes context for the next. **Tree of Thought** branches several candidate steps and compares them. Both are ways to give the model a working-out page, not a magic truth serum.
 
@@ -19,11 +19,11 @@ title: Chain-of-Thought and Tree of Thought
 - Identify the tasks where CoT is useless (lookups, simple facts).
 - Write a CoT prompt for a multi-step workplace calculation.
 
-**How to teach it in 20 minutes:**
-1. Give the classic failed example (model skips steps, gets the maths wrong), then the CoT fix. (5 min)
-2. Explain why it works (each step is context). (3 min)
-3. Learners write a CoT prompt for a rostering or budget task. (7 min)
-4. Test and debrief. (5 min)
+**Lesson Plan Ideas:**
+1. Give the classic failed example (model skips steps, gets the maths wrong), then the CoT fix. 
+2. Explain why it works (each step is context). 
+3. Learners write a CoT prompt for a rostering or budget task. 
+4. Test and debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

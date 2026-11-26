@@ -10,7 +10,7 @@ title: Interdisciplinary ethical dimensions
 
 > **TSC #8 Responsible AI and Generative AI Practices · Advanced · Knowledge K4**
 
-**Bullet (verbatim):** Ethical dimensions of AI through interdisciplinary perspectives (e.g. legal, cultural, socio-political, environmental aspects).
+**IMDA requirement:** Ethical dimensions of AI through interdisciplinary perspectives (e.g. legal, cultural, socio-political, environmental aspects).
 
 **What it means:** AI ethics is not one discipline — it is legal (what is lawful), cultural (what is acceptable), socio-political (who holds power), and environmental (what it costs the planet). The skill is seeing all four at once on a single decision.
 
@@ -19,11 +19,11 @@ title: Interdisciplinary ethical dimensions
 - Apply two lenses to one decision.
 - Explain why one lens alone is insufficient.
 
-**How to teach it in 20 minutes:**
-1. Take one decision and run it through all four lenses. (8 min)
-2. Teach 'ethics is four lenses, not one'. (4 min)
-3. Learners apply two lenses to a scenario. (5 min)
-4. Debrief. (3 min)
+**Lesson Plan Ideas:**
+1. Take one decision and run it through all four lenses. 
+2. Teach 'ethics is four lenses, not one'. 
+3. Learners apply two lenses to a scenario. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

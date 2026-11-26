@@ -10,7 +10,7 @@ title: Ethical principles in AI
 
 > **TSC #8 Responsible AI and Generative AI Practices · Basic · Knowledge K1**
 
-**Bullet (verbatim):** Ethical principles in AI.
+**IMDA requirement:** Ethical principles in AI.
 
 **What it means:** AI ethics is a short list of principles: fairness (no unjust bias), transparency (say when and how AI is used), accountability (a human owns the outcome), and safety (no harm). They are not abstract — each one maps to a concrete decision about how you use the tool.
 
@@ -19,11 +19,11 @@ title: Ethical principles in AI
 - Match a principle to a real decision.
 - Explain why accountability always lands on a human.
 
-**How to teach it in 20 minutes:**
-1. Ask: whose fault is it if the AI gives bad advice? Collect answers. (4 min)
-2. Teach the four principles with one workplace example each. (6 min)
-3. Learners match four scenarios to the principles. (6 min)
-4. Debrief. (4 min)
+**Lesson Plan Ideas:**
+1. Ask: whose fault is it if the AI gives bad advice? Collect answers. 
+2. Teach the four principles with one workplace example each. 
+3. Learners match four scenarios to the principles. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

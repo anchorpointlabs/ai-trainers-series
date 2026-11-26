@@ -10,7 +10,7 @@ title: Identify prompt misuses and risks
 
 > **TSC #2 Prompt Design · Basic · Ability A7**
 
-**Bullet (verbatim):** Identify common prompt misuses (e.g., lack of context, vague instructions) and risks.
+**IMDA requirement:** Identify common prompt misuses (e.g., lack of context, vague instructions) and risks.
 
 **What it means:** A prompt is what you ask an artificial intelligence (AI) tool to do. If you leave out the situation or relevant facts, the AI may guess and give an incorrect message; if your instructions are vague, it may leave out what readers need to know or do. A clearer prompt can reduce ambiguity, but the answer can still be wrong, so check it separately against a reliable source.
 
@@ -20,11 +20,11 @@ title: Identify prompt misuses and risks
 - Rewrite the prompt with the relevant facts and a specific task.
 - Check the resulting answer against the source facts, independently of the prompt revision.
 
-**How to teach it in 20 minutes:**
-1. Ask: “If I ask an AI, ‘Write something good about the library’, what might a parent expecting an important notice miss?” Invite a possible consequence, not a claim that every reply will be wrong. (3 min)
-2. Use the fictional library facts in the exercise. The weak request lacks context: it gives neither the closure facts nor the intended parents, so the AI might guess a wrong time and families could arrive during the closure. It is also vague: “something good” does not ask for a notice or specify what to include, so a generic piece of praise could omit the cancellation and families could make a wasted trip. Add the audience and facts to fix the missing context; specify the notice, required content and length to fix vagueness. Explain that changing the prompt is not the same as a person checking the reply against the facts. (7 min)
-3. In pairs, learners mark both misuses in the weak request, name a risk for each, and write their own complete replacement using the facts below. Check that their replacement names the parents, includes all the facts, asks for a two-sentence notice and forbids an invented new date or time. Then paste the exact prepared prompt below into a chat AI and independently check the reply against the facts and requirements; correct any mismatch before use. (8 min)
-4. Ask which misuse could cause each risk, what was added to the prompt, and whether a clear prompt removed the need for a separate check. (2 min)
+**Lesson Plan Ideas:**
+1. Ask: “If I ask an AI, ‘Write something good about the library’, what might a parent expecting an important notice miss?” Invite a possible consequence, not a claim that every reply will be wrong. 
+2. Use the fictional library facts in the exercise. The weak request lacks context: it gives neither the closure facts nor the intended parents, so the AI might guess a wrong time and families could arrive during the closure. It is also vague: “something good” does not ask for a notice or specify what to include, so a generic piece of praise could omit the cancellation and families could make a wasted trip. Add the audience and facts to fix the missing context; specify the notice, required content and length to fix vagueness. Explain that changing the prompt is not the same as a person checking the reply against the facts. 
+3. In pairs, learners mark both misuses in the weak request, name a risk for each, and write their own complete replacement using the facts below. Check that their replacement names the parents, includes all the facts, asks for a two-sentence notice and forbids an invented new date or time. Then paste the exact prepared prompt below into a chat AI and independently check the reply against the facts and requirements; correct any mismatch before use. 
+4. Ask which misuse could cause each risk, what was added to the prompt, and whether a clear prompt removed the need for a separate check. 
 
 **Exercise (with the exact prompt):**
 Setup: Learners need a chat AI. All library facts are fictional.
@@ -38,5 +38,5 @@ Facts:
 - Parents should check the library noticeboard on Wednesday for rescheduling information; no new session date or time has been set.
 ```
 
-Expected result: A two-sentence notice for the parents that includes all the supplied facts and no invented rescheduling date or time.  
+Expected result: A two-sentence notice for the parents that includes all the supplied facts and no invented rescheduling date or time.
 Check: Independently compare the notice with each fact: Tuesday closure 1–3 pm and water leak; Tuesday 1.30 pm session cancelled, not online; check noticeboard Wednesday and no new date or time set. Check there are two sentences and no invented facts; outputs can vary.

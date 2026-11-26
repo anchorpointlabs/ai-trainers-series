@@ -10,7 +10,7 @@ title: Develop privacy-preserving algorithms
 
 > **TSC #8 Responsible AI and Generative AI Practices · Advanced · Ability A4**
 
-**Bullet (verbatim):** Develop new privacy-preserving algorithms.
+**IMDA requirement:** Develop new privacy-preserving algorithms.
 
 **What it means:** Privacy-preserving techniques — differential privacy, federated learning, secure computation — let you use data without exposing individuals. Developing them is specialist work, but the skill includes knowing which technique fits which problem.
 
@@ -19,11 +19,11 @@ title: Develop privacy-preserving algorithms
 - Match a technique to a problem.
 - Explain what differential privacy does in one line.
 
-**How to teach it in 20 minutes:**
-1. Map the techniques to the problems they solve. (6 min)
-2. Teach differential privacy with the 'add a little noise' picture. (5 min)
-3. Learners match techniques to scenarios. (6 min)
-4. Debrief. (3 min)
+**Lesson Plan Ideas:**
+1. Map the techniques to the problems they solve. 
+2. Teach differential privacy with the 'add a little noise' picture. 
+3. Learners match techniques to scenarios. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

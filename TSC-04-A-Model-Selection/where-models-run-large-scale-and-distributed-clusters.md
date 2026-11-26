@@ -10,7 +10,7 @@ title: Where models run — large-scale and distributed clusters
 
 > **TSC #4 Generative AI Model Selection · Advanced · Knowledge K1**
 
-**Bullet (verbatim):** Applications and domains where generative AI models are used (e.g., large-scale and distributed computing clusters).
+**IMDA requirement:** Applications and domains where generative AI models are used (e.g., large-scale and distributed computing clusters).
 
 **What it means:** At production scale, models run on distributed clusters — many machines splitting the work. This matters for selection because scale changes the constraints: latency, throughput, and cost behave differently than on a single demo call.
 
@@ -19,11 +19,11 @@ title: Where models run — large-scale and distributed clusters
 - Name how scale changes model constraints.
 - Relate scale to a selection decision.
 
-**How to teach it in 20 minutes:**
-1. Draw 'one machine' vs 'many machines' and why scale matters. (6 min)
-2. Teach throughput vs latency at scale. (5 min)
-3. Learners name which model trait matters more at scale. (5 min)
-4. Debrief. (4 min)
+**Lesson Plan Ideas:**
+1. Draw 'one machine' vs 'many machines' and why scale matters. 
+2. Teach throughput vs latency at scale. 
+3. Learners name which model trait matters more at scale. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

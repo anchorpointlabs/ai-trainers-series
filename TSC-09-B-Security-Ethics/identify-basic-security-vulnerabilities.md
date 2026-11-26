@@ -10,7 +10,7 @@ title: Identify basic security vulnerabilities
 
 > **TSC #9 Generative AI Models — Technical Aspects of Security and Ethics · Basic · Ability A1**
 
-**Bullet (verbatim):** Identify basic security vulnerabilities in AI models.
+**IMDA requirement:** Identify basic security vulnerabilities in AI models.
 
 **What it means:** A basic vulnerability is a way the model can be misused: prompt injection, jailbreaks, leaking training data, or producing harmful content. The skill is spotting these in a demo or a test, before an attacker does.
 
@@ -19,11 +19,11 @@ title: Identify basic security vulnerabilities
 - Identify a jailbreak in a transcript.
 - Flag a data-leak risk.
 
-**How to teach it in 20 minutes:**
-1. Show three transcripts, two with attacks, one clean. (5 min)
-2. Teach the tell-tale signs (instructions hidden in input). (5 min)
-3. Learners mark which transcripts are attacks. (6 min)
-4. Debrief. (4 min)
+**Lesson Plan Ideas:**
+1. Show three transcripts, two with attacks, one clean. 
+2. Teach the tell-tale signs (instructions hidden in input). 
+3. Learners mark which transcripts are attacks. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

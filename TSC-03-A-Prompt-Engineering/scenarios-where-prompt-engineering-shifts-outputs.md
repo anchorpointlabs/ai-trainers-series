@@ -10,7 +10,7 @@ title: Scenarios where prompt engineering shifts outputs
 
 > **TSC #3 Prompt Engineering · Advanced · Knowledge K1**
 
-**Bullet (verbatim):** Scenarios where prompt engineering significantly influences outputs.
+**IMDA requirement:** Scenarios where prompt engineering significantly influences outputs.
 
 **What it means:** Prompt engineering matters most when the task is ambiguous, high-stakes, or needs a specific shape — not when the answer is a lookup. The payoff comes from *structure* (role, steps, format, constraints), not from finding a magic phrase. A model left unguided will answer the *average* question; a well-engineered prompt makes it answer *your* question.
 
@@ -18,11 +18,11 @@ title: Scenarios where prompt engineering shifts outputs
 - Name three scenarios where careful prompting changes the result vs. where it does not.
 - Explain why the same question, prompted differently, produces a different-shaped answer.
 
-**How to teach it in 20 minutes:**
-1. Ask: when would a vague one-line prompt be fine, and when would it fail? Collect two answers. (3 min)
-2. Show a weak prompt vs a structured prompt on the same task; point out the difference is structure, not vocabulary. (5 min)
-3. Pairs pick one workplace task and write both a weak and a structured version. (7 min)
-4. Debrief: which differences came from structure? (5 min)
+**Lesson Plan Ideas:**
+1. Ask: when would a vague one-line prompt be fine, and when would it fail? Collect two answers. 
+2. Show a weak prompt vs a structured prompt on the same task; point out the difference is structure, not vocabulary. 
+3. Pairs pick one workplace task and write both a weak and a structured version. 
+4. Debrief: which differences came from structure? 
 
 **Exercise (with the exact prompt):**
 ```text

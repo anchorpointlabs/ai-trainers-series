@@ -10,7 +10,7 @@ title: Develop organisational AI risk policies
 
 > **TSC #9 Generative AI Models — Technical Aspects of Security and Ethics · Advanced · Ability A5**
 
-**Bullet (verbatim):** Develop organisational AI risk management policies.
+**IMDA requirement:** Develop organisational AI risk management policies.
 
 **What it means:** A policy states the organisation's rules for AI risk — what is allowed, what requires approval, who is accountable — in writing. It turns individual judgement into an organisational standard everyone can follow and be audited against.
 
@@ -19,11 +19,11 @@ title: Develop organisational AI risk policies
 - Write a policy clause.
 - Explain why policies beat individual judgement.
 
-**How to teach it in 20 minutes:**
-1. Contrast 'everyone uses their judgement' with a written policy. (4 min)
-2. Walk the sections of a policy. (6 min)
-3. Learners write one clause for a scenario. (7 min)
-4. Debrief. (3 min)
+**Lesson Plan Ideas:**
+1. Contrast 'everyone uses their judgement' with a written policy. 
+2. Walk the sections of a policy. 
+3. Learners write one clause for a scenario. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

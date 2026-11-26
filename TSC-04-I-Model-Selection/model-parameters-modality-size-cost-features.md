@@ -10,7 +10,7 @@ title: Model parameters — modality, size, cost, features
 
 > **TSC #4 Generative AI Model Selection · Intermediate · Knowledge K3**
 
-**Bullet (verbatim):** Model parameters for different use cases (e.g., modality, size, cost, features).
+**IMDA requirement:** Model parameters for different use cases (e.g., modality, size, cost, features).
 
 **What it means:** Choosing a model means weighing four knobs: **modality** (text/image/video/audio), **size** (parameter count — bigger is smarter but costlier and slower), **cost** (per-token pricing), and **features** (context length, tool use, fine-tuning support). The use case decides the acceptable point on each knob.
 
@@ -19,11 +19,11 @@ title: Model parameters — modality, size, cost, features
 - Explain the size/cost/latency trade-off.
 - Pick a sensible model for a budgeted task.
 
-**How to teach it in 20 minutes:**
-1. Present the four knobs with one example each. (5 min)
-2. Teach the trade-off: bigger is smarter but costlier. (4 min)
-3. Learners choose a model for a task with a cost cap. (7 min)
-4. Debrief the choices. (4 min)
+**Lesson Plan Ideas:**
+1. Present the four knobs with one example each. 
+2. Teach the trade-off: bigger is smarter but costlier. 
+3. Learners choose a model for a task with a cost cap. 
+4. Debrief the choices. 
 
 **Exercise (with the exact prompt):**
 ```text

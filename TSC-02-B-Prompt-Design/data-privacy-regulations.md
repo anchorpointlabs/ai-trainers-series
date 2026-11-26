@@ -10,7 +10,7 @@ title: Data privacy regulations
 
 > **TSC #2 Prompt Design · Basic · Knowledge K6**
 
-**Bullet (verbatim):** Overview of data privacy regulations.
+**IMDA requirement:** Overview of data privacy regulations.
 
 **What it means:** Singapore’s Personal Data Protection Act (PDPA) is a baseline law for how organisations handle personal data: information about someone who can be identified from it, alone or with other information the organisation has or is likely to have. Organisations generally need to tell people why their data is collected, used or shared, obtain their consent (permission) unless an exception applies, and take reasonable steps to protect it. A prompt is an instruction to an AI tool; before using real personal data, check the intended use, the relevant permissions and your organisation’s rules, because removing names alone does not guarantee anonymity, meaning that a person cannot be identified from the data. This overview is general information, not a legal determination; for a real case, consult your organisation’s data protection officer, the person responsible for data protection, or a legal adviser.
 
@@ -20,11 +20,11 @@ title: Data privacy regulations
 - Distinguish a person’s consent or an applicable legal exception from an organisation’s own approval rules.
 - Identify why deleting names may not make a record anonymous and choose a next step before using real data in a prompt.
 
-**How to teach it in 20 minutes:**
-1. Ask: “If a customer record has no name, why might it still need care before you put it into a chat AI?” Collect suggestions without asking for real customer details. (3 min)
-2. Explain the PDPA baseline using an imagined appointment list: the intended use must be appropriate, people generally need to be told the purpose, consent may be needed, and personal data needs reasonable protection. Exceptions can apply. Explain that an organisation’s own rules and approval for an external (outside the organisation) chat AI are separate checks, and safeguards are ways of protecting data. (7 min)
-3. In pairs, learners run the exercise below. They compare the checklist with the stated checks, mark any missing point and explain one correction to each other. (8 min)
-4. Debrief: ask why B and C are paused, why an appointment-reminder agreement is not automatically permission for AI use, and why the fictional approval rule is not a universal PDPA requirement. (2 min)
+**Lesson Plan Ideas:**
+1. Ask: “If a customer record has no name, why might it still need care before you put it into a chat AI?” Collect suggestions without asking for real customer details. 
+2. Explain the PDPA baseline using an imagined appointment list: the intended use must be appropriate, people generally need to be told the purpose, consent may be needed, and personal data needs reasonable protection. Exceptions can apply. Explain that an organisation’s own rules and approval for an external (outside the organisation) chat AI are separate checks, and safeguards are ways of protecting data. 
+3. In pairs, learners run the exercise below. They compare the checklist with the stated checks, mark any missing point and explain one correction to each other. 
+4. Debrief: ask why B and C are paused, why an appointment-reminder agreement is not automatically permission for AI use, and why the fictional approval rule is not a universal PDPA requirement. 
 
 **Exercise (with the exact prompt):**
 *Setup: pairs need access to a chat AI; no files or real customer information are needed.*
@@ -47,7 +47,7 @@ C. Paste customer records without names, but with exact job titles and postal co
 Create a three-row checklist, one row per case, with a decision to proceed or pause, a short reason, and a next step. Distinguish consent or an applicable exception under the law from the fictional workplace approval. End with one sentence saying this is general information, not a legal determination. Do not invent or ask for any customer records.
 ```
 
-*Expected result: a three-row checklist with a decision, reason and next step for each case, followed by the general-information statement.*  
+*Expected result: a three-row checklist with a decision, reason and next step for each case, followed by the general-information statement.*
 *What to check: A proceeds with generic text; B and C pause. B’s reminder agreement does not by itself settle permission for AI use; C may still identify customers. The checklist separates the fictional approval rule from checks on notice, consent or an applicable exception, and safeguards.*
 
 **Common mistakes:**

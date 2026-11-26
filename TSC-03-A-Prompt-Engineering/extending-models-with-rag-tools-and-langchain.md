@@ -10,7 +10,7 @@ title: Extending models with RAG, tools, and LangChain
 
 > **TSC #3 Prompt Engineering · Advanced · Knowledge K5**
 
-**Bullet (verbatim):** Techniques that extend capabilities of generative AI models (e.g., Retrieval Augmented Generation (RAG), external tools and libraries such as Langchain).
+**IMDA requirement:** Techniques that extend capabilities of generative AI models (e.g., Retrieval Augmented Generation (RAG), external tools and libraries such as Langchain).
 
 **What it means:** A model only knows its training data. **RAG** fetches your own documents and feeds them in so the model answers from them (and cites them). **External tools** let it call APIs, search, or run code. **LangChain** is a library that wires these pieces together. All three share one idea: the model stays the language engine; you supply the knowledge and the hands.
 
@@ -19,11 +19,11 @@ title: Extending models with RAG, tools, and LangChain
 - Describe when to use RAG vs. a tool call.
 - Sketch the pipeline: query → retrieve → inject → generate.
 
-**How to teach it in 20 minutes:**
-1. Ask a question the model cannot answer (a private policy), show it guessing, then show the RAG answer. (5 min)
-2. Draw the RAG pipeline on the board. (4 min)
-3. Learners identify which of three tasks needs RAG, which needs a tool, which needs neither. (6 min)
-4. Debrief the choices. (5 min)
+**Lesson Plan Ideas:**
+1. Ask a question the model cannot answer (a private policy), show it guessing, then show the RAG answer. 
+2. Draw the RAG pipeline on the board. 
+3. Learners identify which of three tasks needs RAG, which needs a tool, which needs neither. 
+4. Debrief the choices. 
 
 **Exercise (with the exact prompt):**
 ```text

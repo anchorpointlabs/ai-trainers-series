@@ -33,6 +33,12 @@ thing, not just read the slide.
 - **Tool (living):** `Tools/<Company>/<Tool>.md` — e.g. `Tools/OpenAI/ChatGPT.md`, `Tools/Anthropic/Claude.md`.
 - **Entry ID (YAML + index):** `NN.MM.L.code` — e.g. `02.01.B.K7` = TSC 2, Basic, knowledge item K7. Cite it to flag stale content. Full rules in [`method/naming-convention.md`](method/naming-convention.md).
 
+## How to read an entry
+
+Every entry maps to one Knowledge/Ability item from the IMDA Skills Framework, quoted word-for-word — so the library stays mappable for WSQ/SSG accreditation and assessment.
+
+**Lesson Plan Ideas** follow Gagné's nine events of instruction: gain attention, state the objective, recall prior learning, present the content, guide, elicit performance, give feedback, and transfer. Timings are the trainer's call.
+
 ## The decay model
 
 Every entry declares how fast it rots, and the format changes with it:

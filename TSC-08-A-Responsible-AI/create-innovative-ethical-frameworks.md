@@ -10,7 +10,7 @@ title: Create innovative ethical frameworks
 
 > **TSC #8 Responsible AI and Generative AI Practices · Advanced · Ability A9**
 
-**Bullet (verbatim):** Create innovative ethical frameworks and guidelines for emerging AI domains.
+**IMDA requirement:** Create innovative ethical frameworks and guidelines for emerging AI domains.
 
 **What it means:** Emerging domains — agents, synthetic media, embodied AI — outrun existing frameworks. Creating a new one means extending the principles to the new context, with concrete rules, not a vague aspiration.
 
@@ -19,11 +19,11 @@ title: Create innovative ethical frameworks
 - Write a concrete rule for an emerging domain.
 - Explain what makes a framework actionable.
 
-**How to teach it in 20 minutes:**
-1. Take an emerging domain (AI agents that act on your behalf) and find the gap. (6 min)
-2. Teach 'extend the principles, make them concrete'. (5 min)
-3. Learners write one rule for the domain. (6 min)
-4. Debrief. (3 min)
+**Lesson Plan Ideas:**
+1. Take an emerging domain (AI agents that act on your behalf) and find the gap. 
+2. Teach 'extend the principles, make them concrete'. 
+3. Learners write one rule for the domain. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

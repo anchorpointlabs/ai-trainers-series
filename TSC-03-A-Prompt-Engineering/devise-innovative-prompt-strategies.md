@@ -10,7 +10,7 @@ title: Devise innovative prompt strategies
 
 > **TSC #3 Prompt Engineering · Advanced · Ability A6**
 
-**Bullet (verbatim):** Devise innovative prompt strategies that enhance generative AI capabilities.
+**IMDA requirement:** Devise innovative prompt strategies that enhance generative AI capabilities.
 
 **What it means:** Innovation here means *composing* known techniques into a new pipeline for a specific problem — not inventing new magic. Take a hard task, break it into stages, and assign the right technique to each stage (retrieve, then reason, then verify, then format). The creativity is in the decomposition and the verification step.
 
@@ -19,11 +19,11 @@ title: Devise innovative prompt strategies
 - Assign a technique to each stage.
 - Build in a verification step and explain why it matters.
 
-**How to teach it in 20 minutes:**
-1. Present a task that defeats a single prompt; show it solved as a staged pipeline. (6 min)
-2. Teach 'decompose, assign, verify'. (3 min)
-3. Groups design a staged prompt for a real task and pitch it. (8 min)
-4. Vote on the strongest design. (3 min)
+**Lesson Plan Ideas:**
+1. Present a task that defeats a single prompt; show it solved as a staged pipeline. 
+2. Teach 'decompose, assign, verify'. 
+3. Groups design a staged prompt for a real task and pitch it. 
+4. Vote on the strongest design. 
 
 **Exercise (with the exact prompt):**
 ```text

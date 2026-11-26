@@ -10,7 +10,7 @@ title: Lead content moderation and trust-and-safety
 
 > **TSC #9 Generative AI Models — Technical Aspects of Security and Ethics · Advanced · Ability A3**
 
-**Bullet (verbatim):** Lead operational content moderation and trust and safety initiatives.
+**IMDA requirement:** Lead operational content moderation and trust and safety initiatives.
 
 **What it means:** Leading means owning the programme: setting the policy, staffing and training moderators, measuring outcomes, and reporting upward. It is management of the trust-and-safety function, not doing every review yourself.
 
@@ -19,11 +19,11 @@ title: Lead content moderation and trust-and-safety
 - Define a moderation policy.
 - Set a metric for the programme.
 
-**How to teach it in 20 minutes:**
-1. Contrast 'doing reviews' with 'running the programme'. (4 min)
-2. Walk the programme elements (policy, people, metrics, reporting). (7 min)
-3. Learners draft a policy + one metric. (6 min)
-4. Debrief. (3 min)
+**Lesson Plan Ideas:**
+1. Contrast 'doing reviews' with 'running the programme'. 
+2. Walk the programme elements (policy, people, metrics, reporting). 
+3. Learners draft a policy + one metric. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

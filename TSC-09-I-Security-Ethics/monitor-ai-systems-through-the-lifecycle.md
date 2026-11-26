@@ -10,7 +10,7 @@ title: Monitor AI systems through the lifecycle
 
 > **TSC #9 Generative AI Models — Technical Aspects of Security and Ethics · Intermediate · Ability A6**
 
-**Bullet (verbatim):** Monitor AI systems for trust and safety throughout project life cycle.
+**IMDA requirement:** Monitor AI systems for trust and safety throughout project life cycle.
 
 **What it means:** Monitoring is continuous: watch outputs for drift and abuse, watch logs for attacks, and act on what you see. It runs from launch to retirement, not just the first week.
 
@@ -19,11 +19,11 @@ title: Monitor AI systems through the lifecycle
 - Spot a drift or abuse signal in a log.
 - Describe the monitor-and-act loop.
 
-**How to teach it in 20 minutes:**
-1. Teach 'monitoring is continuous, not a launch task'. (4 min)
-2. Show a log with a drift signal and an attack signal. (6 min)
-3. Learners mark what they would act on. (6 min)
-4. Debrief. (4 min)
+**Lesson Plan Ideas:**
+1. Teach 'monitoring is continuous, not a launch task'. 
+2. Show a log with a drift signal and an attack signal. 
+3. Learners mark what they would act on. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

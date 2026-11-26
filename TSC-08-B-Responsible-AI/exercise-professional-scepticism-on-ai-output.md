@@ -10,7 +10,7 @@ title: Exercise professional scepticism on AI output
 
 > **TSC #8 Responsible AI and Generative AI Practices · Basic · Ability A6**
 
-**Bullet (verbatim):** Exercise professional scepticism to exercise sound judgement on generative AI output.
+**IMDA requirement:** Exercise professional scepticism to exercise sound judgement on generative AI output.
 
 **What it means:** Professional scepticism is the trained habit of not taking output at face value — questioning it, checking it, and treating it as a draft until verified. It is the single most important personal skill for AI users.
 
@@ -19,11 +19,11 @@ title: Exercise professional scepticism on AI output
 - Check a claim before acting on it.
 - State why scepticism is professional, not negative.
 
-**How to teach it in 20 minutes:**
-1. Show a confidently wrong output and model the check. (5 min)
-2. Teach 'scepticism is diligence, not distrust'. (4 min)
-3. Learners check a generated claim against a source. (7 min)
-4. Debrief. (4 min)
+**Lesson Plan Ideas:**
+1. Show a confidently wrong output and model the check. 
+2. Teach 'scepticism is diligence, not distrust'. 
+3. Learners check a generated claim against a source. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

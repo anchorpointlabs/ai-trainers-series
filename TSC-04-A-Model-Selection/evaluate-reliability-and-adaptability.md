@@ -10,7 +10,7 @@ title: Evaluate reliability and adaptability
 
 > **TSC #4 Generative AI Model Selection · Advanced · Ability A3**
 
-**Bullet (verbatim):** Evaluate the reliability and adaptability of advanced generative models for real-world applications.
+**IMDA requirement:** Evaluate the reliability and adaptability of advanced generative models for real-world applications.
 
 **What it means:** Reliability = consistent, correct behaviour over time; adaptability = the model handles new inputs and domains without breaking. Both are evaluated by stressing the model over a sustained period and varied inputs, not by a single impressive demo.
 
@@ -19,11 +19,11 @@ title: Evaluate reliability and adaptability
 - Design a stress test for a model.
 - State what 'consistent over time' means.
 
-**How to teach it in 20 minutes:**
-1. Contrast a flashy demo with steady, boring reliability. (4 min)
-2. Teach the two axes (reliability, adaptability). (5 min)
-3. Learners design a week-long stress test. (7 min)
-4. Debrief. (4 min)
+**Lesson Plan Ideas:**
+1. Contrast a flashy demo with steady, boring reliability. 
+2. Teach the two axes (reliability, adaptability). 
+3. Learners design a week-long stress test. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

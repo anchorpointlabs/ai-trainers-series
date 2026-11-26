@@ -10,7 +10,7 @@ title: How prompts shape content
 
 > **TSC #2 Prompt Design · Basic · Knowledge K2**
 
-**Bullet (verbatim):** Principles of how prompts shape AI-generated content.
+**IMDA requirement:** Principles of how prompts shape AI-generated content.
 
 **What it means:** A prompt is what you ask an AI to do; its instructions can guide the form and content of a reply. Context is the relevant information you give the AI, such as notes to use in the reply; it can help the reply fit the task. Neither instructions nor context guarantees a correct reply or the exact form requested, so check the reply against the request and the notes. Replies can vary, even when the request is the same.
 
@@ -19,11 +19,11 @@ title: How prompts shape content
 - Compare two replies and identify the one-word change between their prompts.
 - Check each reply against the requested sentence count and supplied facts, and explain why a match is not guaranteed.
 
-**How to teach it in 20 minutes:**
-1. Ask: “If you need a notice about a room opening, what details would the writer need?” Take two suggestions and ask how an instruction about length might change the notice. (3 min)
-2. Explain that the instruction tells the AI what form to aim for, while the notes supply facts for the notice. Point to “one-sentence” and the invented notes in prompt A below. A clear request can guide the reply, but it does not ensure the AI will follow it or use the facts correctly. Show how to count sentences and compare facts with the notes. (7 min)
-3. In pairs, learners run prompts A and B below in separate new chats with the same AI. They place the replies side by side, identify the single word changed, count sentences and check the facts. Record any mismatch rather than assuming the request was followed. (8 min)
-4. Debrief: what changed in the request and what happened in the replies? Discuss any wrong or added details and any unexpected sentence counts. One pair of replies can suggest an effect but cannot establish that it will happen every time; replies can vary, so repeat the comparison for more evidence. (2 min)
+**Lesson Plan Ideas:**
+1. Ask: “If you need a notice about a room opening, what details would the writer need?” Take two suggestions and ask how an instruction about length might change the notice. 
+2. Explain that the instruction tells the AI what form to aim for, while the notes supply facts for the notice. Point to “one-sentence” and the invented notes in prompt A below. A clear request can guide the reply, but it does not ensure the AI will follow it or use the facts correctly. Show how to count sentences and compare facts with the notes. 
+3. In pairs, learners run prompts A and B below in separate new chats with the same AI. They place the replies side by side, identify the single word changed, count sentences and check the facts. Record any mismatch rather than assuming the request was followed. 
+4. Debrief: what changed in the request and what happened in the replies? Discuss any wrong or added details and any unexpected sentence counts. One pair of replies can suggest an effect but cannot establish that it will happen every time; replies can vary, so repeat the comparison for more evidence. 
 
 **Exercise (with the exact prompt):**
 Setup: No files are needed; use a chat AI, paste A and B into separate new chats with the same AI, and keep both replies.
@@ -42,7 +42,7 @@ Write a two-sentence update for visitors using only these invented notes. Mentio
 Notes: The Oak Room opens on Tuesday at 10:00. Entry is free.
 ```
 
-Expected result: A should be one sentence and B two; both should say the Oak Room opens on Tuesday at 10:00 and entry is free. Actual replies can vary.  
+Expected result: A should be one sentence and B two; both should say the Oak Room opens on Tuesday at 10:00 and entry is free. Actual replies can vary.
 Check: Count sentences, check the room, day, time and entry price against the notes, flag unsupported details, and identify “one” to “two” as the prompt change.
 
 **Common mistakes:**

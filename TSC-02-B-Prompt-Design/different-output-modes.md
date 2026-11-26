@@ -10,7 +10,7 @@ title: Different output modes
 
 > **TSC #2 Prompt Design · Basic · Knowledge K3**
 
-**Bullet (verbatim):** Impact of prompts on different modes of AI output.
+**IMDA requirement:** Impact of prompts on different modes of AI output.
 
 **What it means:** A prompt is the instruction you give an AI; it can ask for different forms of result. For an update to a colleague, specify the reader, length and facts; for code, specify the programming language, data and what the program should do. Code is text containing instructions for a computer, so check it by running it as well as reading it. A prompt does not guarantee a correct result, and actual replies can vary.
 
@@ -20,11 +20,11 @@ title: Different output modes
 - Run the generated code against the expected result and check what happens when one value changes.
 - Explain why an apparently correct written reply does not show that a program will work.
 
-**How to teach it in 20 minutes:**
-1. Ask: “If I need a room update for a colleague and a program to calculate the same figures, should I ask for exactly the same thing?” Collect two ideas. (3 min)
-2. Using the invented room figures below, contrast a text prompt's reader and two-sentence limit with a code prompt's language, data, calculation and exact printed lines. Python 3 is a programming language; variables are named places to store values, and external libraries are extra packages of pre-written code. Both replies arrive as text in the chat, but the second is intended to be run. (7 min)
-3. In pairs, run the two prompts in separate new chats. Check the update, inspect the code for unwanted operations, and run the code in the Python 3 runner. Change the booked value as directed below and run it again. (8 min)
-4. Debrief: Which prompt details shaped each form? What went wrong, or might go wrong, if a readable answer is treated as a working program? Compare the checks used for each. (2 min)
+**Lesson Plan Ideas:**
+1. Ask: “If I need a room update for a colleague and a program to calculate the same figures, should I ask for exactly the same thing?” Collect two ideas. 
+2. Using the invented room figures below, contrast a text prompt's reader and two-sentence limit with a code prompt's language, data, calculation and exact printed lines. Python 3 is a programming language; variables are named places to store values, and external libraries are extra packages of pre-written code. Both replies arrive as text in the chat, but the second is intended to be run. 
+3. In pairs, run the two prompts in separate new chats. Check the update, inspect the code for unwanted operations, and run the code in the Python 3 runner. Change the booked value as directed below and run it again. 
+4. Debrief: Which prompt details shaped each form? What went wrong, or might go wrong, if a readable answer is treated as a working program? Compare the checks used for each. 
 
 **Exercise (with the exact prompt):**
 *Setup: a chat AI and a Python 3 runner (a tool for running Python programs); use a separate new chat for each prompt and only the invented data provided.*

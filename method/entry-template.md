@@ -25,7 +25,7 @@ title: Concept of prompt design
 
 > **TSC #<n> <Topic> · <Level> · <Knowledge|Ability> <code>**
 
-**Bullet (verbatim):** <the IMDA bullet, word for word>
+**IMDA requirement:** <the framework item, quoted word-for-word>
 
 **What it means:** <plain language — explain it to a colleague, no jargon. 2-4 sentences.>
 
@@ -33,9 +33,15 @@ title: Concept of prompt design
 - <observable ability>
 - <observable ability>
 
-**How to teach it in 20 minutes:**
-1. <step with minutes> (x min)
-2. ...
+**Lesson Plan Ideas:**
+1. <gain attention — open with a hook>
+2. <state the objective>
+3. <recall prior learning>
+4. <present the content>
+5. <guide — work one example together>
+6. <practise — learners do it>
+7. <feedback — debrief>
+8. <transfer — apply to their own work>
 
 **Exercise (with the exact prompt):**
 ```text
@@ -53,10 +59,11 @@ Expected: <what a correct run looks like>
 
 ## Writing rules
 
-1. **Verbatim bullet** — quote IMDA exactly; never paraphrase the anchor.
-2. **One analogy per entry** — concrete, Singapore footing (hawker, PSLE, CPF, HDB, polyclinic). It must survive a sceptic.
-3. **The exercise uses a real prompt** the learner types and a stated expected result.
-4. **Common mistakes are stated the way a learner says them**, then corrected.
-5. **No invented statistics, studies or dates.** If a number is not certain, describe the direction.
-6. **Link the core-knowledge source** — `[file](../core-knowledge/file.md) (section n)`.
-7. **~450-600 words.** One page, teachable in a class.
+1. **IMDA requirement is quoted word-for-word** — never paraphrase the anchor (WSQ/SSG accreditation depends on exact wording).
+2. **Lesson Plan Ideas follow Gagné's nine events of instruction** — gain attention, state the objective, recall prior learning, present, guide, elicit performance, give feedback, transfer. No fixed timings; the trainer decides.
+3. **One analogy per entry** — concrete, Singapore footing (hawker, PSLE, CPF, HDB, polyclinic). It must survive a sceptic.
+4. **The exercise uses a real prompt** the learner types and a stated expected result.
+5. **Common mistakes are stated the way a learner says them**, then corrected.
+6. **No invented statistics, studies or dates.**
+7. **Link the core-knowledge source** — `[file](../core-knowledge/file.md) (section n)`.
+8. **~450-600 words.** One page, teachable in a class.

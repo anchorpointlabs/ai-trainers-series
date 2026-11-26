@@ -10,7 +10,7 @@ title: Assess environmental impact
 
 > **TSC #8 Responsible AI and Generative AI Practices · Intermediate · Ability A2**
 
-**Bullet (verbatim):** Assess environmental impact (e.g., estimate energy footprint).
+**IMDA requirement:** Assess environmental impact (e.g., estimate energy footprint).
 
 **What it means:** Assessing impact means estimating the energy cost of a model choice — roughly, bigger model = more compute = more energy — and factoring it into the decision alongside cost and quality.
 
@@ -19,11 +19,11 @@ title: Assess environmental impact
 - Factor footprint into a model choice.
 - Name a lower-footprint alternative.
 
-**How to teach it in 20 minutes:**
-1. Show a rough energy comparison of model sizes. (5 min)
-2. Teach 'estimate, then right-size'. (5 min)
-3. Learners compare two options on footprint. (6 min)
-4. Debrief. (4 min)
+**Lesson Plan Ideas:**
+1. Show a rough energy comparison of model sizes. 
+2. Teach 'estimate, then right-size'. 
+3. Learners compare two options on footprint. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

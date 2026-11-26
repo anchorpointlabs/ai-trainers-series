@@ -10,7 +10,7 @@ title: Assist in pre-deployment testing
 
 > **TSC #9 Generative AI Models — Technical Aspects of Security and Ethics · Basic · Ability A3**
 
-**Bullet (verbatim):** Assist in pre-deployment system testing.
+**IMDA requirement:** Assist in pre-deployment system testing.
 
 **What it means:** Pre-deployment testing is a team effort, and assisting means contributing test cases — adversarial inputs, edge cases, and realistic data — and recording results. It is not passive watching.
 
@@ -19,11 +19,11 @@ title: Assist in pre-deployment testing
 - Record a test result.
 - Explain what an adversarial input is.
 
-**How to teach it in 20 minutes:**
-1. Define adversarial input (an input designed to break it). (4 min)
-2. Show a test log and its fields. (5 min)
-3. Learners write three test cases for a booking bot. (7 min)
-4. Debrief. (4 min)
+**Lesson Plan Ideas:**
+1. Define adversarial input (an input designed to break it). 
+2. Show a test log and its fields. 
+3. Learners write three test cases for a booking bot. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

@@ -10,7 +10,7 @@ title: Assess model performance under different settings
 
 > **TSC #4 Generative AI Model Selection · Intermediate · Ability A5**
 
-**Bullet (verbatim):** Assess model performance under different settings.
+**IMDA requirement:** Assess model performance under different settings.
 
 **What it means:** The same model behaves differently as settings change — temperature, max length, and the prompt itself. Assessing performance means running the same task across settings and comparing, not judging from one run.
 
@@ -19,11 +19,11 @@ title: Assess model performance under different settings
 - Describe what temperature changes.
 - Run a fair comparison across settings.
 
-**How to teach it in 20 minutes:**
-1. Show temperature 0.2 vs 1.0 on one task. (5 min)
-2. Teach 'one run is not a result — vary and compare'. (4 min)
-3. Learners run a task at two settings and log the difference. (7 min)
-4. Debrief. (4 min)
+**Lesson Plan Ideas:**
+1. Show temperature 0.2 vs 1.0 on one task. 
+2. Teach 'one run is not a result — vary and compare'. 
+3. Learners run a task at two settings and log the difference. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

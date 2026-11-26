@@ -10,7 +10,7 @@ title: Evaluate effectiveness across scenarios
 
 > **TSC #3 Prompt Engineering · Advanced · Ability A4**
 
-**Bullet (verbatim):** Evaluate the effectiveness and adaptability of prompt engineering methods across diverse scenarios.
+**IMDA requirement:** Evaluate the effectiveness and adaptability of prompt engineering methods across diverse scenarios.
 
 **What it means:** A technique that works for one task may fail on another domain, language, or format. Adaptability is tested by deliberately varying the scenario — switch the audience, switch to Singlish, switch the output format — and watching where the method holds and where it cracks.
 
@@ -19,11 +19,11 @@ title: Evaluate effectiveness across scenarios
 - Identify the variable that broke the method.
 - Adjust the method to the new scenario and retest.
 
-**How to teach it in 20 minutes:**
-1. Take a method that works in English and run it in Singlish or a different format; show the crack. (5 min)
-2. Teach 'vary one variable to test adaptability'. (3 min)
-3. Learners stress-test a prompt across two scenarios. (7 min)
-4. Debrief what they had to change. (5 min)
+**Lesson Plan Ideas:**
+1. Take a method that works in English and run it in Singlish or a different format; show the crack. 
+2. Teach 'vary one variable to test adaptability'. 
+3. Learners stress-test a prompt across two scenarios. 
+4. Debrief what they had to change. 
 
 **Exercise (with the exact prompt):**
 ```text

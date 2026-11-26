@@ -10,7 +10,7 @@ title: Compare ethical issues in AI applications
 
 > **TSC #8 Responsible AI and Generative AI Practices · Basic · Ability A2**
 
-**Bullet (verbatim):** Compare ethical issues in AI applications.
+**IMDA requirement:** Compare ethical issues in AI applications.
 
 **What it means:** Not all AI uses carry the same ethical weight. Comparing them means asking how much harm, how reversible, and who is affected — so you spend your scrutiny where it matters.
 
@@ -19,11 +19,11 @@ title: Compare ethical issues in AI applications
 - Name the three comparison questions (harm, reversibility, who).
 - Justify why one use needs more scrutiny.
 
-**How to teach it in 20 minutes:**
-1. Rank a list of AI uses from benign to high-stakes. (6 min)
-2. Teach the three questions. (5 min)
-3. Learners compare two uses and justify. (6 min)
-4. Debrief. (3 min)
+**Lesson Plan Ideas:**
+1. Rank a list of AI uses from benign to high-stakes. 
+2. Teach the three questions. 
+3. Learners compare two uses and justify. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

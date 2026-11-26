@@ -10,7 +10,7 @@ title: Apply ethical guidelines to development and use
 
 > **TSC #8 Responsible AI and Generative AI Practices · Intermediate · Ability A1**
 
-**Bullet (verbatim):** Apply ethical guidelines to AI development and use, considering fairness, accountability, transparency and sustainability etc.
+**IMDA requirement:** Apply ethical guidelines to AI development and use, considering fairness, accountability, transparency and sustainability etc.
 
 **What it means:** Applying guidelines means, at each stage — build, test, deploy — running the fairness/accountability/transparency/sustainability checks and acting on what they flag. It is a recurring checkpoint, not a one-time review.
 
@@ -19,11 +19,11 @@ title: Apply ethical guidelines to development and use
 - Act on a flagged issue.
 - Name which check a stage most needs.
 
-**How to teach it in 20 minutes:**
-1. Walk the checks on a build-then-deploy example. (6 min)
-2. Teach 'checkpoints, not a final review'. (5 min)
-3. Learners run the checks on a stage. (6 min)
-4. Debrief. (3 min)
+**Lesson Plan Ideas:**
+1. Walk the checks on a build-then-deploy example. 
+2. Teach 'checkpoints, not a final review'. 
+3. Learners run the checks on a stage. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

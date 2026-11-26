@@ -10,7 +10,7 @@ title: Assess models against diverse datasets and scenarios
 
 > **TSC #4 Generative AI Model Selection · Advanced · Ability A2**
 
-**Bullet (verbatim):** Assess the effectiveness of models against diverse datasets and scenarios.
+**IMDA requirement:** Assess the effectiveness of models against diverse datasets and scenarios.
 
 **What it means:** A model that scores well on one dataset may fail on a different distribution — other languages, domains, or edge cases. Effectiveness is assessed by testing across *diverse* scenarios and watching where it breaks, not by a single benchmark.
 
@@ -19,11 +19,11 @@ title: Assess models against diverse datasets and scenarios
 - Spot where the model's strength is dataset-specific.
 - State why diverse testing matters.
 
-**How to teach it in 20 minutes:**
-1. Show a model that aces English and stumbles on Singlish. (5 min)
-2. Teach 'a benchmark is one dataset, not the truth'. (4 min)
-3. Learners list diverse scenarios to test a model for Singapore use. (7 min)
-4. Debrief. (4 min)
+**Lesson Plan Ideas:**
+1. Show a model that aces English and stumbles on Singlish. 
+2. Teach 'a benchmark is one dataset, not the truth'. 
+3. Learners list diverse scenarios to test a model for Singapore use. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text

@@ -10,7 +10,7 @@ title: Compare designs and outputs
 
 > **TSC #2 Prompt Design · Basic · Ability A8**
 
-**Bullet (verbatim):** Compare prompt designs and corresponding AI outputs, including their suitability for different use cases in different domains.
+**IMDA requirement:** Compare prompt designs and corresponding AI outputs, including their suitability for different use cases in different domains.
 
 **What it means:** A prompt is an instruction given to an AI, and an output is its reply. Compare both the instructions and the replies to see which fits the job and its readers. A reply that looks suitable is not necessarily true: check its facts separately.
 
@@ -20,11 +20,11 @@ title: Compare designs and outputs
 - Choose an output for a staff log and one for a public notice, giving a reason for each choice.
 - Check the facts against the supplied information separately from judging suitability.
 
-**How to teach it in 20 minutes:**
-1. Ask: “Would the same closure message be equally useful in a staff log and on a public notice?” Invite one reason. (3 min)
-2. Explain the two designs below: A asks for a compressed staff log; B asks for a full-sentence public notice. Both use the same fictional facts. For this exercise, the staff log must have two short fragments separated by a semicolon, while the public notice must be one full sentence. Apply the same three checks to each reply in both domains: factual agreement, completeness and fit to the intended format. Fact agreement is not the same as suitability. (7 min)
-3. In pairs, run A and B in separate fresh chats. Put A and B and their matching outputs side by side for retail, then for education. For each output, check the three criteria below; choose a design for each use and give a reason linked to the actual text. (8 min)
-4. Debrief: compare choices and any omissions or invented details. Ask whether a well-formatted notice with the wrong reopening time would be suitable to use; it would first need correcting. (2 min)
+**Lesson Plan Ideas:**
+1. Ask: “Would the same closure message be equally useful in a staff log and on a public notice?” Invite one reason. 
+2. Explain the two designs below: A asks for a compressed staff log; B asks for a full-sentence public notice. Both use the same fictional facts. For this exercise, the staff log must have two short fragments separated by a semicolon, while the public notice must be one full sentence. Apply the same three checks to each reply in both domains: factual agreement, completeness and fit to the intended format. Fact agreement is not the same as suitability. 
+3. In pairs, run A and B in separate fresh chats. Put A and B and their matching outputs side by side for retail, then for education. For each output, check the three criteria below; choose a design for each use and give a reason linked to the actual text. 
+4. Debrief: compare choices and any omissions or invented details. Ask whether a well-formatted notice with the wrong reopening time would be suitable to use; it would first need correcting. 
 
 **Exercise (with the exact prompt):**
 *Setup: pairs need a chat AI and a fresh chat per prompt.*

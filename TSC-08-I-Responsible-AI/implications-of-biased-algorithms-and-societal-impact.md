@@ -10,7 +10,7 @@ title: Implications of biased algorithms and societal impact
 
 > **TSC #8 Responsible AI and Generative AI Practices · Intermediate · Knowledge K3**
 
-**Bullet (verbatim):** Implications of biased AI algorithms and potential societal impact.
+**IMDA requirement:** Implications of biased AI algorithms and potential societal impact.
 
 **What it means:** A biased algorithm, deployed at scale, does not just make one bad decision — it reproduces and amplifies unfairness across a society (who gets a loan, a job, a sentence). The implication is that bias is a societal issue, not a cosmetic bug.
 
@@ -19,11 +19,11 @@ title: Implications of biased algorithms and societal impact
 - Name a societal consequence.
 - State why fixing bias is a duty, not an option.
 
-**How to teach it in 20 minutes:**
-1. Show one biased decision repeated across a million people. (6 min)
-2. Teach 'scale turns a bug into an injustice'. (5 min)
-3. Learners trace a biased model's downstream effect. (6 min)
-4. Debrief. (3 min)
+**Lesson Plan Ideas:**
+1. Show one biased decision repeated across a million people. 
+2. Teach 'scale turns a bug into an injustice'. 
+3. Learners trace a biased model's downstream effect. 
+4. Debrief. 
 
 **Exercise (with the exact prompt):**
 ```text
