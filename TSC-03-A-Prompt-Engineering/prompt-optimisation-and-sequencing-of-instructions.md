@@ -41,4 +41,4 @@ Expected: the two outputs differ in emphasis, showing order matters.
 
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
-- core-knowledge/prompting.md (sections 5, 9)
+- [prompting.md](../core-knowledge/prompting.md) (sections 5, 9)

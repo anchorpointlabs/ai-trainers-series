@@ -37,4 +37,4 @@ Expected: a staged pipeline with an explicit verification step.
 
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
-- core-knowledge/prompting.md (section 3)
+- [prompting.md](../core-knowledge/prompting.md) (section 3)

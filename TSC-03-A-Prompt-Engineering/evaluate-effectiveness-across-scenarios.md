@@ -39,4 +39,4 @@ Expected: the formal version fails for WhatsApp; learners adjust register and le
 
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
-- core-knowledge/prompting.md (section 5)
+- [prompting.md](../core-knowledge/prompting.md) (section 5)

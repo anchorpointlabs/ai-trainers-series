@@ -38,4 +38,4 @@ Expected: the model shows minutes-per-day, minutes-per-nurse, then the division,
 
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
-- core-knowledge/prompting.md (section 3)
+- [prompting.md](../core-knowledge/prompting.md) (section 3)

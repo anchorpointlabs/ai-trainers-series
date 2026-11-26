@@ -40,4 +40,4 @@ Expected: learners identify that 'explain' triggered length and 'summarise' + '2
 
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
-- core-knowledge/prompting.md (sections 4, 5)
+- [prompting.md](../core-knowledge/prompting.md) (sections 4, 5)

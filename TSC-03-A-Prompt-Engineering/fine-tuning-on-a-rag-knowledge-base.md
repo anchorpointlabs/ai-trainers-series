@@ -38,4 +38,4 @@ Expected: RAG for fresh policy, fine-tuning alone fails (policy changes), both f
 
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
-- core-knowledge/model-selection-and-evaluation.md
+- [model-selection-and-evaluation.md](../core-knowledge/model-selection-and-evaluation.md)

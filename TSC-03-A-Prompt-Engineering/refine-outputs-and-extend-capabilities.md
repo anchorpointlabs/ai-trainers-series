@@ -40,4 +40,4 @@ Expected: each pass narrows the output toward the goal.
 
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
-- core-knowledge/prompting.md (section 9)
+- [prompting.md](../core-knowledge/prompting.md) (section 9)

@@ -40,4 +40,4 @@ Expected: the reply follows the matching branch only.
 
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
-- core-knowledge/prompting.md (section 4)
+- [prompting.md](../core-knowledge/prompting.md) (section 4)

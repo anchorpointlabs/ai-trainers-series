@@ -38,4 +38,4 @@ Expected: learners produce a numeric score and can name which criterion failed.
 
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
-- core-knowledge/model-selection-and-evaluation.md (evaluation harness)
+- [model-selection-and-evaluation.md](../core-knowledge/model-selection-and-evaluation.md) (evaluation harness)

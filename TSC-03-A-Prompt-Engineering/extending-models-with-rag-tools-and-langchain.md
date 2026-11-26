@@ -42,4 +42,4 @@ Expected: the model answers from the document and says 'not in the document' whe
 
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
-- core-knowledge/rag-and-retrieval.md
+- [rag-and-retrieval.md](../core-knowledge/rag-and-retrieval.md)

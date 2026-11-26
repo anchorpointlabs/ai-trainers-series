@@ -38,4 +38,4 @@ Expected: the weak prompt returns generic advice; the strong one returns a usabl
 
 **Sources:**
 - https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/tesa/sfw-for-ict/sfw-for-ict-skills-in-genai.pdf
-- core-knowledge/prompting.md (sections 1, 5)
+- [prompting.md](../core-knowledge/prompting.md) (sections 1, 5)
