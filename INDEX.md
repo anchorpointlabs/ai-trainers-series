@@ -49,7 +49,29 @@ Each entry carries a stable ID (`NN.MM.L.code`) in its YAML frontmatter and here
 
 ## TSC #5 Generative AI Model Evaluation (B · I · A)
 
-*Planned.* `TSC-05-B-Model-Evaluation/` · `TSC-05-I-Model-Evaluation/` · `TSC-05-A-Model-Evaluation/`
+### Basic
+
+| K/A | ID | Entry |
+|---|---|---|
+| K1 | `05.01.B.K1` | [Machine learning libraries: the toolbox evaluation runs on](TSC-05-B-Model-Evaluation/machine-learning-libraries.md) |
+| K2 | `05.01.B.K2` | [The four fundamental evaluation criteria: accuracy, diversity, coherence, novelty](TSC-05-B-Model-Evaluation/fundamental-evaluation-criteria.md) |
+| K3 | `05.01.B.K3` | [Qualitative evaluation and user feedback: judging what numbers can't](TSC-05-B-Model-Evaluation/qualitative-evaluation-and-user-feedback.md) |
+| K4 | `05.01.B.K4` | [Limitations of AI models in generating relevant outputs](TSC-05-B-Model-Evaluation/limitations-of-ai-models.md) |
+| K5 | `05.01.B.K5` | [Human perception and judgment: the evaluator is the weakest instrument](TSC-05-B-Model-Evaluation/human-perception-and-judgment.md) |
+| K6 | `05.01.B.K6` | [Ethical considerations in AI development and deployment](TSC-05-B-Model-Evaluation/ethical-considerations-in-development-and-deployment.md) |
+| A1 | `05.01.B.A1` | [Collect user feedback on generated content](TSC-05-B-Model-Evaluation/collect-user-feedback.md) |
+| A2 | `05.01.B.A2` | [Interpret evaluation metrics for generative tasks](TSC-05-B-Model-Evaluation/interpret-evaluation-metrics.md) |
+| A3 | `05.01.B.A3` | [Propose improvements from evaluation findings](TSC-05-B-Model-Evaluation/propose-improvements-from-evaluation-findings.md) |
+| A4 | `05.01.B.A4` | [Identify limitations and potential biases in generative models](TSC-05-B-Model-Evaluation/identify-limitations-and-biases.md) |
+| A5 | `05.01.B.A5` | [Identify ethical concerns in generated outputs](TSC-05-B-Model-Evaluation/identify-ethical-concerns-in-outputs.md) |
+
+### Intermediate
+
+*Planned.* `TSC-05-I-Model-Evaluation/`
+
+### Advanced
+
+*Planned.* `TSC-05-A-Model-Evaluation/`
 
 ## TSC #6 Generative AI Application Development and Deployment (B · I · A)
 
