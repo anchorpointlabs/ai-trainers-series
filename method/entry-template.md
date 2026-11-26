@@ -1,16 +1,16 @@
 # Library Entry Template
 
-Every TSC entry is one file, one knowledge/ability item. Filename is a descriptive kebab-case slug of the title (e.g. `conditional-prompts-context-manipulation-refining.md`), never a code like `k2.md`.
+Every TSC entry is one file, one knowledge/ability item. Filename is a descriptive kebab-case slug of the title. This is the **rich format** — model it on `TSC-01-B-GenAI-Principles/purpose-of-generative-ai.md`, the reference entry.
 
 ## YAML frontmatter (required)
 
 ```yaml
 ---
-id: 02.01.B.K7
-tsc: 2
+id: 01.01.B.K1
+tsc: 1
 level: Basic
-code: K7
-title: Concept of prompt design
+code: K1
+title: The purpose of generative AI: five things it is actually for
 ---
 ```
 
@@ -25,45 +25,73 @@ title: Concept of prompt design
 
 > **TSC #<n> <Topic> · <Level> · <Knowledge|Ability> <code>**
 
-**IMDA requirement:** <the framework item, quoted word-for-word>
+> **IMDA requirement:** "<the framework item, quoted word-for-word>"
+> **TSC #<n>** <Topic> · <Level> · <Knowledge|Ability> · Bullet <X> of <Y>
 
-**What it means:** <plain language — explain it to a colleague, no jargon. 2-4 sentences.>
+**One-line version:** <one memorable line that captures the idea>
 
-**The learner must be able to:**
-- <observable ability>
-- <observable ability>
+## What it is
+<2–3 sentences — the plain definition.>
 
-**Lesson Plan Ideas:**
-1. <gain attention — open with a hook>
-2. <state the objective>
-3. <recall prior learning>
-4. <present the content>
-5. <guide — work one example together>
-6. <practise — learners do it>
-7. <feedback — debrief>
-8. <transfer — apply to their own work>
+## Deep expansion
 
-**Exercise (with the exact prompt):**
-```text
-<exact prompt the learner types>
-```
-Expected: <what a correct run looks like>
+### The concept
+<the key idea, why it matters, what changes for the learner.>
 
-**Common mistakes:**
-- <mistake as a learner would state it, then the correction>
+### The sub-concepts
+<each with a **bold lead**, e.g. **Mode.**, **Generation versus retrieval.**>
 
-**Sources:**
-- <IMDA framework PDF URL>
-- [<file>](../core-knowledge/<file>.md) (section <n>)
+### How it connects to the rest of the framework
+<name the related bullets by code, e.g. "TSC1-Basic-K03 is the what…".>
+
+### What is current as of <month year>
+<what changed recently — models, prices, product shifts. Dated, so it can be refreshed.>
+
+### Common misconceptions
+<stated the way learners say them, each with the correction.>
+
+## How a student should understand it
+
+**Mental model:** <one image or sentence — a fast junior colleague, a magic wok, a goldfish with a PhD.>
+
+**Things they can do after this bullet:**
+1. <observable outcome>
+2. <observable outcome>
+
+**Misconceptions to kill:** <the 2–3 to target first.>
+
+## How a trainer explains it
+
+### Analogies that work in a Singapore classroom
+<one or two concrete analogies — hawker, PSLE, CPF, HDB, polyclinic. State where each breaks.>
+
+### Worked example with a real tool
+<the exact prompt to type, and what to point at afterwards.>
+
+### Lesson plan (Gagné's nine events)
+1. **Gain attention** — <hook>
+2. **State the objective** — <what they will be able to do>
+3. **Recall prior learning** — <connect to what they know>
+4. **Present the content** — <teach it>
+5. **Guide** — <work one example together>
+6. **Elicit performance** — <learners do it>
+7. **Give feedback** — <debrief / correct>
+8. **Transfer** — <apply to their own work>
+
+## What the framework doesn't mention but trainers need to know
+<extra insights the framework misses but the classroom needs.>
+
+## Watch out
+<pitfalls for the trainer — what not to demo, what not to overclaim, the stale claim to retire.>
 ```
 
 ## Writing rules
 
 1. **IMDA requirement is quoted word-for-word** — never paraphrase the anchor (WSQ/SSG accreditation depends on exact wording).
-2. **Lesson Plan Ideas follow Gagné's nine events of instruction** — gain attention, state the objective, recall prior learning, present, guide, elicit performance, give feedback, transfer. No fixed timings; the trainer decides.
-3. **One analogy per entry** — concrete, Singapore footing (hawker, PSLE, CPF, HDB, polyclinic). It must survive a sceptic.
-4. **The exercise uses a real prompt** the learner types and a stated expected result.
-5. **Common mistakes are stated the way a learner says them**, then corrected.
+2. **Lesson plan follows Gagné's nine events** — no fixed timings; the trainer decides.
+3. **One or two strong analogies, Singapore footing** — they must survive a sceptic.
+4. **The worked example uses a real prompt** the learner types, with what to point at afterwards.
+5. **Common misconceptions stated the way learners say them**, then corrected.
 6. **No invented statistics, studies or dates.**
-7. **Link the core-knowledge source** — `[file](../core-knowledge/file.md) (section n)`.
-8. **~450-600 words.** One page, teachable in a class.
+7. **"What is current as of…" is dated** — it is the living part, refreshed per quarter.
+8. **~800–1,200 words.** One page in the browser, teachable in a class.
