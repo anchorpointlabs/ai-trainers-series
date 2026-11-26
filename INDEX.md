@@ -4,7 +4,9 @@ Every entry in the library, grouped by its place in the framework. Entries link 
 
 Each entry carries a stable ID (`NN.MM.L.code`) in its YAML frontmatter and here — cite it when you flag something stale, e.g. "`02.01.B.K7` looks stale".
 
-## TSC #1 Generative AI Principles and Applications (Basic)
+## TSC #1 Generative AI Principles and Applications (B · I)
+
+### Basic
 
 | K/A | ID | Entry |
 |---|---|---|
@@ -13,7 +15,11 @@ Each entry carries a stable ID (`NN.MM.L.code`) in its YAML frontmatter and here
 | A4 | `01.01.B.A4` | [Masking, perturbation, pseudonymisation: three tools, three limits](TSC-01-B-GenAI-Principles/masking-perturbation-pseudonymisation.md) |
 | A5 | `01.01.B.A5` | [The five questions to ask before you deploy anything](TSC-01-B-GenAI-Principles/five-questions-before-deploying-ai.md) |
 
-## TSC #2 Prompt Design (Basic)
+### Intermediate (practitioner extension)
+
+*Planned.* `TSC-01-I-GenAI-Principles/`
+
+## TSC #2 Prompt Design (B)
 
 | K/A | ID | Entry |
 |---|---|---|
@@ -33,33 +39,33 @@ Each entry carries a stable ID (`NN.MM.L.code`) in its YAML frontmatter and here
 | A7 | `02.01.B.A7` | [Identify prompt misuses and risks](TSC-02-B-Prompt-Design/identify-prompt-misuses-and-risks.md) |
 | A8 | `02.01.B.A8` | [Compare designs and outputs](TSC-02-B-Prompt-Design/compare-designs-and-outputs.md) |
 
-## TSC #3 Prompt Engineering (Basic · Intermediate · Advanced)
+## TSC #3 Prompt Engineering (B · I · A)
 
 *Planned.* `TSC-03-B-Prompt-Engineering/` · `TSC-03-I-Prompt-Engineering/` · `TSC-03-A-Prompt-Engineering/`
 
-## TSC #4 Generative AI Model Selection (Intermediate)
+## TSC #4 Generative AI Model Selection (I · A)
 
-*Planned.* `TSC-04-I-Model-Selection/`
+*Planned.* `TSC-04-I-Model-Selection/` · `TSC-04-A-Model-Selection/`
 
-## TSC #5 Generative AI Model Evaluation (Intermediate)
+## TSC #5 Generative AI Model Evaluation (B · I · A)
 
-*Planned.* `TSC-05-I-Model-Evaluation/`
+*Planned.* `TSC-05-B-Model-Evaluation/` · `TSC-05-I-Model-Evaluation/` · `TSC-05-A-Model-Evaluation/`
 
-## TSC #6 Generative AI Application Development and Deployment (Intermediate)
+## TSC #6 Generative AI Application Development and Deployment (B · I · A)
 
-*Planned.* `TSC-06-I-Application-Development/`
+*Planned.* `TSC-06-B-Application-Development/` · `TSC-06-I-Application-Development/` · `TSC-06-A-Application-Development/`
 
-## TSC #7 Generative AI Model Development and Fine Tuning (Advanced)
+## TSC #7 Generative AI Model Development and Fine Tuning (B · I · A)
 
-*Planned.* `TSC-07-A-Model-Development/`
+*Planned.* `TSC-07-B-Model-Development/` · `TSC-07-I-Model-Development/` · `TSC-07-A-Model-Development/`
 
-## TSC #8 Responsible AI and Generative AI Practices (Basic)
+## TSC #8 Responsible AI and Generative AI Practices (B · I · A)
 
-*Planned.* `TSC-08-B-Responsible-AI/`
+*Planned.* `TSC-08-B-Responsible-AI/` · `TSC-08-I-Responsible-AI/` · `TSC-08-A-Responsible-AI/`
 
-## TSC #9 Generative AI Models — Technical Aspects of Security and Ethics (Advanced)
+## TSC #9 Generative AI Models — Technical Aspects of Security and Ethics (B · I · A)
 
-*Planned.* `TSC-09-A-Security-Ethics/`
+*Planned.* `TSC-09-B-Security-Ethics/` · `TSC-09-I-Security-Ethics/` · `TSC-09-A-Security-Ethics/`
 
 ## Tools · living
 

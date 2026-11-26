@@ -1,7 +1,5 @@
 # APL: AI Trainer's Series
 
-**[Browse the full index →](INDEX.md)**
-
 A reference library for AI trainers — one entry per skill from the IMDA / SkillsFuture
 *Skills Framework for ICT: Skills in Generative AI* (the nine GenAI TSCs), plus living
 product deep-dives.
@@ -15,12 +13,18 @@ thing, not just read the slide.
 
 | Folder | What it holds |
 |---|---|
-| `TSC-01-B-GenAI-Principles/` | Generative AI Principles and Applications (Basic) — partial |
-| `TSC-02-B-Prompt-Design/` | Prompt Design (Basic) — the complete K1–K7 / A1–A8 set |
-| `TSC-03-*` … `TSC-09-*` | The remaining seven TSCs — scaffolded, content planned |
-| `Tools/` | Product deep-dives (**living**) — `Tools/<Company>/<Tool>.md` |
-| `concepts/` | Cross-cutting mechanisms, organised by **decay tier** |
-| `method/` | The methodology: the decay model, the entry template, the naming convention |
+| [TSC #1 · GenAI Principles](TSC-01-B-GenAI-Principles/) | B (4 entries) · I (planned) |
+| [TSC #2 · Prompt Design](TSC-02-B-Prompt-Design/) | B — complete (15 entries) |
+| [TSC #3 · Prompt Engineering](TSC-03-B-Prompt-Engineering/README.md) | B · I · A — planned |
+| [TSC #4 · Model Selection](TSC-04-I-Model-Selection/README.md) | I · A — planned |
+| [TSC #5 · Model Evaluation](TSC-05-B-Model-Evaluation/README.md) | B · I · A — planned |
+| [TSC #6 · Application Development](TSC-06-B-Application-Development/README.md) | B · I · A — planned |
+| [TSC #7 · Model Development](TSC-07-B-Model-Development/README.md) | B · I · A — planned |
+| [TSC #8 · Responsible AI](TSC-08-B-Responsible-AI/README.md) | B · I · A — planned |
+| [TSC #9 · Security & Ethics](TSC-09-B-Security-Ethics/README.md) | B · I · A — planned |
+| [Tools](Tools/) | [ChatGPT](Tools/OpenAI/ChatGPT.md) · [Claude](Tools/Anthropic/Claude.md) · [Gemini](Tools/Google/Gemini.md) · [Copilot](Tools/Microsoft/Copilot.md) · [more…](Tools/) |
+| [concepts](concepts/) | Cross-cutting mechanisms, by decay tier |
+| [method](method/) | Decay model · entry template · naming convention |
 
 ## Naming convention
 
@@ -62,8 +66,8 @@ use. The full bullet list is not reproduced here — link to the source document
 ## Status
 
 - **TSC #2 Prompt Design (Basic)** — complete: 15 entries (K1–K7, A1–A8).
-- **TSC #1 Generative AI Principles and Applications (Basic)** — 4 entries so far.
-- **TSC #3–#9** — scaffolded, content planned.
+- **TSC #1 Generative AI Principles (Basic)** — 4 entries so far.
+- **TSC #1 (I) and #3–#9** — scaffolded at their correct proficiency levels, content planned.
 - **Tools (living)** — 8 companies scaffolded under `Tools/`.
 - **Concepts** — 13 cross-cutting mechanisms (10 durable, 1 technique, 1 living, 1 event).
 

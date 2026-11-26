@@ -19,23 +19,32 @@ Examples:
 
 - `TSC-01-B-GenAI-Principles/`
 - `TSC-02-B-Prompt-Design/`
-- `TSC-03-B-Prompt-Engineering/` (Basic)
-- `TSC-03-I-Prompt-Engineering/` (Intermediate)
-- `TSC-03-A-Prompt-Engineering/` (Advanced)
+- `TSC-03-I-Prompt-Engineering/`
 
-## Multi-level TSCs
+## The nine TSCs and their levels (authoritative)
 
-One folder per proficiency level. A TSC that spans Basic/Intermediate/Advanced gets three
-folders, all sharing the same topic slug:
+Source: *Skills Framework for ICT — Skills in Generative AI* (IMDA, March 2025).
+
+| TSC | Topic | Levels |
+|---|---|---|
+| #1 | Generative AI Principles and Applications | B · I |
+| #2 | Prompt Design | B |
+| #3 | Prompt Engineering | B · I · A |
+| #4 | Generative AI Model Selection | I · A |
+| #5 | Generative AI Model Evaluation | B · I · A |
+| #6 | Generative AI Application Development and Deployment | B · I · A |
+| #7 | Generative AI Model Development and Fine Tuning | B · I · A |
+| #8 | Responsible AI and Generative AI Practices | B · I · A |
+| #9 | Generative AI Models — Technical Aspects of Security and Ethics | B · I · A |
+
+One folder per level. A TSC that spans all three gets three folders, all sharing the same
+topic slug:
 
 ```
 TSC-03-B-Prompt-Engineering/
 TSC-03-I-Prompt-Engineering/
 TSC-03-A-Prompt-Engineering/
 ```
-
-The `[NN.MM]` ordinal (e.g. `[03.02]` = Intermediate) is an index/YAML display only — never
-a folder-name prefix.
 
 ## Tools (living)
 
